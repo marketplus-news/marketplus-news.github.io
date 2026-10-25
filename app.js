@@ -44,7 +44,7 @@
       "terms.s8h": "8. Changes",
       "terms.s8p": "We may update these terms from time to time. The current version is always on this page with its last-updated date.",
       lang: "Language",
-      "nav.news": "News", "nav.products": "Products", "nav.about": "About",
+      "nav.news": "News", "nav.products": "Products", "nav.about": "About", "nav.guides": "Guides",
       "hero.badge": "● Market Plus · live news from X",
       "hero.lead": "Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.",
       "hero.cta": "Follow on X", "hero.cta2": "Latest news", "hero.cta3": "Products",
@@ -131,7 +131,7 @@
       "terms.s8h": "8. Изменения",
       "terms.s8p": "Мы можем время от времени обновлять эти условия. Актуальная версия всегда находится на этой странице с датой последнего обновления.",
       lang: "Язык",
-      "nav.news": "Новости", "nav.products": "Продукты", "nav.about": "О проекте",
+      "nav.news": "Новости", "nav.products": "Продукты", "nav.about": "О проекте", "nav.guides": "Гайды",
       "hero.badge": "● Market Plus · живая лента из X",
       "hero.lead": "Market Plus — о событиях, которые действительно двигают рынок, коротко и по делу: что произошло и как это может повлиять на золото, доллар, нефть и рисковые активы.",
       "hero.cta": "Читать в X", "hero.cta2": "Последние новости", "hero.cta3": "Продукты",
@@ -218,7 +218,7 @@
       "terms.s8h": "8. Зміни",
       "terms.s8p": "Ми можемо час від часу оновлювати ці умови. Актуальна версія завжди на цій сторінці з датою останнього оновлення.",
       lang: "Мова",
-      "nav.news": "Новини", "nav.products": "Продукти", "nav.about": "Про проєкт",
+      "nav.news": "Новини", "nav.products": "Продукти", "nav.about": "Про проєкт", "nav.guides": "Гайди",
       "hero.badge": "● Market Plus · жива стрічка з X",
       "hero.lead": "Market Plus — про події, які справді рухають ринок, коротко й по суті: що сталося і як це може вплинути на золото, долар, нафту та ризикові активи.",
       "hero.cta": "Читати в X", "hero.cta2": "Останні новини", "hero.cta3": "Продукти",
@@ -305,7 +305,7 @@
       "terms.s8h": "8. Modifications",
       "terms.s8p": "Ces conditions peuvent être mises à jour. La version en vigueur se trouve toujours sur cette page, avec sa date de mise à jour.",
       lang: "Langue",
-      "nav.news": "Actus", "nav.products": "Produits", "nav.about": "À propos",
+      "nav.news": "Actus", "nav.products": "Produits", "nav.about": "À propos", "nav.guides": "Guides",
       "hero.badge": "● Market Plus · l'actu en direct depuis X",
       "hero.lead": "Market Plus suit les événements qui font vraiment bouger les marchés, en bref et sans détour : ce qui s'est passé et l'impact possible sur l'or, le dollar, le pétrole et les actifs risqués.",
       "hero.cta": "Suivre sur X", "hero.cta2": "Dernières actus", "hero.cta3": "Produits",
@@ -392,7 +392,7 @@
       "terms.s8h": "8. Änderungen",
       "terms.s8p": "Wir können diese Bedingungen gelegentlich aktualisieren. Die aktuelle Fassung steht immer mit Datum auf dieser Seite.",
       lang: "Sprache",
-      "nav.news": "News", "nav.products": "Produkte", "nav.about": "Über uns",
+      "nav.news": "News", "nav.products": "Produkte", "nav.about": "Über uns", "nav.guides": "Ratgeber",
       "hero.badge": "● Market Plus · Live-News von X",
       "hero.lead": "Market Plus berichtet über die Ereignisse, die die Märkte wirklich bewegen — kurz und auf den Punkt: was passiert ist und wie es sich auf Gold, Dollar, Öl und Risikoanlagen auswirken kann.",
       "hero.cta": "Auf X folgen", "hero.cta2": "Aktuelle News", "hero.cta3": "Produkte",
@@ -479,7 +479,7 @@
       "terms.s8h": "8. 条款变更",
       "terms.s8p": "我们可能会不时更新本条款。最新版本及其更新日期始终显示在本页面。",
       lang: "语言",
-      "nav.news": "资讯", "nav.products": "产品", "nav.about": "关于",
+      "nav.news": "资讯", "nav.products": "产品", "nav.about": "关于", "nav.guides": "指南",
       "hero.badge": "● Market Plus · 来自 X 的实时资讯",
       "hero.lead": "Market Plus 聚焦真正推动市场的事件，简明扼要：发生了什么，以及它可能如何影响黄金、美元、原油和风险资产。",
       "hero.cta": "在 X 上关注", "hero.cta2": "最新资讯", "hero.cta3": "产品",
@@ -659,15 +659,18 @@
     cur = code;
     var L = LANGS.filter(function (l) { return l.code === code; })[0];
     document.documentElement.lang = L.html;
-    setMeta('meta[property="og:locale"]', L.og);
+    if (!(document.body && document.body.hasAttribute("data-static-meta"))) setMeta('meta[property="og:locale"]', L.og);
     try { // keep ?lang= in the address so reload / shared links / read-aloud start in this language
       var u = new URL(location.href);
       if (u.searchParams.get("lang") !== code) { u.searchParams.set("lang", code); history.replaceState(null, "", u.pathname + u.search + u.hash); }
     } catch (e) {}
-    document.title = tr((document.body && document.body.getAttribute("data-title")) || "title");
-    setMeta('meta[name="description"]', tr("desc"));
-    setMeta('meta[property="og:title"]', document.title);
-    setMeta('meta[property="og:description"]', tr("desc"));
+    // pages with their own static SEO title/description (guides) keep them
+    if (!(document.body && document.body.hasAttribute("data-static-meta"))) {
+      document.title = tr((document.body && document.body.getAttribute("data-title")) || "title");
+      setMeta('meta[name="description"]', tr("desc"));
+      setMeta('meta[property="og:title"]', document.title);
+      setMeta('meta[property="og:description"]', tr("desc"));
+    }
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n]"), function (n) {
       setText(n, tr(n.getAttribute("data-i18n")), L.html);
     });
