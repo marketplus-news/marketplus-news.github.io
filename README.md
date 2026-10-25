@@ -1,14 +1,16 @@
 # Market Plus
 
-Static landing page for **Market Plus** — markets, gold, forex & macro news without the fluff.
+Static site for **Market Plus** — market and world news.
 Plain HTML/CSS/vanilla JS, no build step, no trackers, no forms.
 
 ## Files
-- `index.html` — page + all CSS
-- `app.js` — translations (UK, EN, FR, DE, 中文, RU), one-click language switcher, product cards, news feed renderer
+- `index.html` — main page
+- `terms.html` — Terms of Use (6 languages via `app.js`)
+- `style.css` — all CSS (shared by both pages)
+- `app.js` — translations (UK, EN, FR, DE, 中文, RU), language dropdown, product cards, news feed renderer
 - `data/news.json` — the feed shown on the page (RSS headlines by section + @MarketPulseGold posts)
 - `data/posts.json` — last good copy of @MarketPulseGold posts
-- `tools/build_news.py` — fetches open RSS feeds (+ X posts if a keyless public source works) and writes `data/news.json`
+- `tools/build_news.py` — fetches open RSS feeds (+ X posts if a keyless public source works), machine-translates new headlines/posts into UK/EN/FR/DE/ZH/RU (free keyless endpoints, cached per url/post id, capped per run, falls back to the original) and writes `data/news.json`
 - `tools/update_posts.py` — refresh X posts from a JSON list (`id,text,created_at`), commit + push only if changed
 - `.github/workflows/update-news.yml` — runs `build_news.py` every 30 min and commits only when the data changed
 - `favicon.svg` — gold "M+" icon

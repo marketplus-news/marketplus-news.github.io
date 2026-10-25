@@ -6,6 +6,13 @@ source when one works), assigns sections, dedups and writes data/news.json.
 X posts are also kept in data/posts.json (last good copy is reused when every
 keyless X source fails, and tools/update_posts.py can refresh it manually).
 If a feed fails, its items from the previous news.json are kept.
+
+Headlines (and X posts) are machine-translated into the site languages at build
+time with free, keyless public endpoints (Google "dict-chrome-ex"/"gtx" web
+clients, MyMemory as last resort). Translations are stored per item as
+item["t"] = {"uk": ..., "ru": ...} and cached by url / post id, so each run only
+translates new headlines. Failures never break the build: the frontend simply
+shows the original title.
 """
 import email.utils, html, json, os, re, sys, time, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
@@ -232,6 +239,171 @@ def update_x(log):
             log.append({"source": "x:" + name, "ok": False, "error": str(e)[:120]})
     return posts_doc.get("posts", []), posts_doc.get("source", "cache")
 
+# ---------- Translation (free, keyless, cached) ----------
+TR_LANGS = {"uk": "uk", "en": "en", "fr": "fr", "de": "de", "zh": "zh-CN", "ru": "ru"}
+TR_BATCH = 20            # texts per request
+TR_MAX_REQUESTS = 80     # hard cap per run (keeps volume small)
+TR_DELAY = 0.6           # seconds between requests
+TR_MAX_CHARS = 4500      # per batch request
+
+class _Budget:
+    def __init__(self, n):
+        self.left = n
+    def take(self):
+        if self.left <= 0:
+            return False
+        self.left -= 1
+        time.sleep(TR_DELAY)
+        return True
+
+def _http_json(url, data=None, timeout=20):
+    req = urllib.request.Request(url, data=data, headers={
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
+        "Content-Type": "application/x-www-form-urlencoded;charset=utf-8"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+def tr_batch_dict(texts, tl):
+    """Many texts in one request -> [(translation, src_lang)]."""
+    url = "https://clients5.google.com/translate_a/t?" + urllib.parse.urlencode(
+        {"client": "dict-chrome-ex", "sl": "auto", "tl": tl})
+    data = urllib.parse.urlencode([("q", t) for t in texts]).encode()
+    r = _http_json(url, data)
+    if len(texts) == 1 and r and isinstance(r[0], str):
+        r = [r]
+    if not isinstance(r, list) or len(r) != len(texts):
+        raise ValueError("batch size mismatch")
+    out = []
+    for x in r:
+        if isinstance(x, list):
+            out.append((str(x[0]), str(x[1]) if len(x) > 1 else None))
+        else:
+            out.append((str(x), None))
+    return out
+
+def tr_one_gtx(text, tl):
+    url = "https://translate.googleapis.com/translate_a/single?" + urllib.parse.urlencode(
+        {"client": "gtx", "sl": "auto", "tl": tl, "dt": "t"})
+    r = _http_json(url, urllib.parse.urlencode({"q": text}).encode())
+    return "".join(seg[0] for seg in r[0] if seg and seg[0]), r[2] if len(r) > 2 else None
+
+def tr_one_mymemory(text, tl, sl):
+    if len(text) > 480:
+        raise ValueError("too long for MyMemory")
+    url = "https://api.mymemory.translated.net/get?" + urllib.parse.urlencode(
+        {"q": text, "langpair": "%s|%s" % (sl, tl)})
+    r = _http_json(url)
+    if r.get("responseStatus") != 200 or r.get("quotaFinished"):
+        raise ValueError("mymemory: %s" % r.get("responseDetails"))
+    return html.unescape(r["responseData"]["translatedText"]), sl
+
+def _guess_src(text):
+    return "ru" if re.search(r"[а-яё]", text, re.I) and not re.search(r"[іїєґ]", text, re.I) else (
+        "uk" if re.search(r"[іїєґ]", text, re.I) else "en")
+
+def _good(orig, tr):
+    if not tr or not tr.strip():
+        return False
+    if len(tr) > 4 * len(orig) + 40:
+        return False
+    return True
+
+def translate_entries(entries, log):
+    """entries: list of dicts with "text" and "t" (dict, filled in place) and "src" (detected).
+    Translates only missing languages; respects TR_MAX_REQUESTS."""
+    budget = _Budget(TR_MAX_REQUESTS)
+    stats = {"requests": 0, "translated": 0, "failed": 0, "method": {}}
+    for code, tl in TR_LANGS.items():
+        todo = [e for e in entries if code not in e["t"] and e.get("src") != code]
+        i = 0
+        while i < len(todo):
+            # build a batch within size limits
+            batch, chars = [], 0
+            while i < len(todo) and len(batch) < TR_BATCH and (not batch or chars + len(todo[i]["text"]) <= TR_MAX_CHARS):
+                batch.append(todo[i]); chars += len(todo[i]["text"]); i += 1
+            res = None
+            if budget.take():
+                stats["requests"] += 1
+                try:
+                    res = tr_batch_dict([e["text"] for e in batch], tl)
+                    stats["method"]["dict"] = stats["method"].get("dict", 0) + 1
+                except Exception as ex:
+                    log_err = str(ex)[:80]
+                    stats.setdefault("errors", []).append("dict/%s: %s" % (code, log_err))
+            if res is None:
+                # per-item fallbacks (gtx, then MyMemory), still within the budget
+                res = []
+                for e in batch:
+                    got = None
+                    for name, fn in (("gtx", lambda e=e: tr_one_gtx(e["text"], tl)),
+                                     ("mymemory", lambda e=e: tr_one_mymemory(e["text"], tl if code != "zh" else "zh-CN", e.get("src") or _guess_src(e["text"])))):
+                        if not budget.take():
+                            break
+                        stats["requests"] += 1
+                        try:
+                            got = fn()
+                            stats["method"][name] = stats["method"].get(name, 0) + 1
+                            break
+                        except Exception:
+                            continue
+                    res.append(got or (None, None))
+            for e, (txt, src) in zip(batch, res):
+                if src and not e.get("src"):
+                    e["src"] = src.split("-")[0].lower()
+                if e.get("src") == code:
+                    continue  # original already in this language
+                if txt and _good(e["text"], txt):
+                    if txt.strip() != e["text"].strip():
+                        e["t"][code] = txt.strip()
+                    else:
+                        e["t"][code] = None  # same as original: mark done
+                    stats["translated"] += 1
+                else:
+                    stats["failed"] += 1
+    if budget.left <= 0:
+        stats["capped"] = True
+    log.append({"source": "translate", "ok": stats["failed"] == 0 and not stats.get("errors"), **{k: v for k, v in stats.items() if v}})
+    return stats
+
+def _clean_t(t):
+    return {k: v for k, v in (t or {}).items() if v and k in TR_LANGS}
+
+def attach_translations(items, xposts, prev, log):
+    """Fill item["t"] / post["t"], reusing cached translations from the previous news.json."""
+    cache = {}
+    for it in prev.get("items", []):
+        if it.get("t") is not None:
+            cache[("u", it.get("url"), it.get("title"))] = (it.get("t"), it.get("lang"))
+    for p in prev.get("x", []):
+        if p.get("t") is not None:
+            cache[("x", p.get("id"), p.get("text"))] = (p.get("t"), p.get("lang"))
+    entries = []
+    for kind, key, txtkey, obj in [("u", i["url"], "title", i) for i in items] + [("x", p["id"], "text", p) for p in xposts]:
+        hit = cache.get((kind, key, obj[txtkey]))
+        t, src = (dict(hit[0]), hit[1]) if hit else ({}, None)
+        # cached entries: languages stored as missing were "same as original"/done
+        done = dict(t)
+        if hit:
+            for c in TR_LANGS:
+                done.setdefault(c, None)
+            # retry languages that previously failed (recorded in "_miss")
+            for c in (hit[0].get("_miss") or []):
+                done.pop(c, None)
+            done.pop("_miss", None)
+        entries.append({"obj": obj, "text": obj[txtkey], "t": done, "src": src})
+    try:
+        translate_entries(entries, log)
+    except Exception as ex:  # never break the build
+        log.append({"source": "translate", "ok": False, "error": str(ex)[:120]})
+    for e in entries:
+        t = _clean_t(e["t"])
+        miss = [c for c in TR_LANGS if c not in e["t"] and c != e.get("src")]
+        if miss:
+            t["_miss"] = miss
+        e["obj"]["t"] = t
+        if e.get("src"):
+            e["obj"]["lang"] = e["src"]
+
 def main():
     now = int(time.time())
     prev = load(NEWS, {})
@@ -290,8 +462,9 @@ def main():
     for it in final:
         it["sec"] = [s for s in it["sec"] if s in ("market", "world", "politics", "ukraine")]
     xposts, xsrc = update_x(log)
-    doc = {"updated": now, "x_handle": X_HANDLE, "x_source": xsrc,
-           "x": [{"id": p["id"], "text": p["text"], "ts": p["ts"], "url": p["url"]} for p in xposts],
+    xout = [{"id": p["id"], "text": p["text"], "ts": p["ts"], "url": p["url"]} for p in xposts]
+    attach_translations(final, xout, prev, log)
+    doc = {"updated": now, "x_handle": X_HANDLE, "x_source": xsrc, "x": xout,
            "items": final, "status": log}
     changed = write_if_changed(NEWS, doc, ignore=("updated", "status"))
     ok = sum(1 for l in log if l["ok"])

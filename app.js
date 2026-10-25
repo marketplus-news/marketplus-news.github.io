@@ -16,13 +16,36 @@
 
   var T = {
     en: {
-      title: "Market Plus — markets, gold, forex & macro news without the fluff",
-      desc: "Market Plus: concise news on markets, gold, forex, oil and macroeconomics. Live feed from X, trading and finance tools.",
+      "title": "Market Plus — market and world news",
+      "desc": "Market Plus — market and world news: markets, gold, forex, oil, macro, politics and Ukraine. Headlines from open sources in 6 languages, plus trading and finance tools.",
+      "hero.h1": "market and world news",
+      "news.hint": "Tap a headline to open the original in a new tab. Headlines are machine-translated into the site language; the source is in the original language.",
+      "news.orig": "Original",
+      "foot.rights": "All rights reserved.",
+      "foot.terms": "Terms of Use",
+      "terms.title": "Terms of Use — Market Plus",
+      "terms.h": "Terms of Use",
+      "terms.upd": "Last updated: October 25, 2026",
+      "terms.back": "← Back to Market Plus",
+      "terms.s1h": "1. About this site",
+      "terms.s1p": "Market Plus (marketplus-news.github.io) is a free informational website with market and world news headlines and links to digital products. By using the site you agree to these terms.",
+      "terms.s2h": "2. News headlines and sources",
+      "terms.s2p": "News headlines are collected automatically from publicly available RSS feeds of news publishers. Headlines and articles belong to their original publishers and authors. Every headline links to its original source; we do not republish full articles. Headlines are machine-translated automatically and translations may contain errors — the original publication always prevails.",
+      "terms.s3h": "3. Not financial advice",
+      "terms.s3p": "All information on the site is provided for informational purposes only and is not financial, investment, legal or tax advice, nor an offer or recommendation to buy or sell any asset. Trading in financial markets involves a risk of loss. Make your own decisions and, if needed, consult a licensed professional.",
+      "terms.s4h": "4. Products",
+      "terms.s4p": "Paid and free products are sold and delivered via Patreon (some free materials are on GitHub). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.",
+      "terms.s5h": "5. Privacy",
+      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, X, Patreon, GitHub) are governed by those sites’ own policies.",
+      "terms.s6h": "6. No warranty",
+      "terms.s6p": "The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.",
+      "terms.s7h": "7. Contact",
+      "terms.s7p": "Questions and requests (including from publishers who want a source removed): X @MarketPulseGold.",
+      "terms.s8h": "8. Changes",
+      "terms.s8p": "We may update these terms from time to time. The current version is always on this page with its last-updated date.",
       lang: "Language",
       "nav.news": "News", "nav.products": "Products", "nav.about": "About",
       "hero.badge": "● Market Plus · live news from X",
-      "hero.h1a": "Markets, gold, forex & macro news",
-      "hero.h1b": "without the fluff",
       "hero.lead": "Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.",
       "hero.cta": "Follow on X", "hero.cta2": "Latest news", "hero.cta3": "Products",
       "stat.1": "gold & currencies", "stat.2b": "Macro", "stat.2": "Fed, inflation, oil", "stat.3b": "Live", "stat.3": "news feed from X",
@@ -34,7 +57,6 @@
       "news.h": "Latest news",
       "news.sub": "Headlines on markets, world, politics and Ukraine from open news sources, plus our posts on X. Updated automatically every 30 minutes.",
       "news.live": "Live", "news.loading": "Loading news…",
-      "news.hint": "Tap a headline to open the original in a new tab. Headlines appear in their original language.",
       "news.empty": "No news in this section yet — check back soon.",
       "news.error": "Couldn't load the news feed. Please refresh the page.",
       "news.updated": "Updated",
@@ -62,13 +84,36 @@
       "foot.priv": "No trackers, no forms, no data collection."
     },
     ru: {
-      title: "Market Plus — рынки, золото, форекс и макро без воды",
-      desc: "Market Plus: короткие новости о рынках, золоте, форексе, нефти и макроэкономике. Живая лента из X, инструменты для трейдинга и финансов.",
+      "title": "Market Plus — новости рынка и мира",
+      "desc": "Market Plus — новости рынка и мира: рынки, золото, форекс, нефть, макроэкономика, политика и Украина. Заголовки из открытых источников на 6 языках и инструменты для трейдинга и финансов.",
+      "hero.h1": "новости рынка и мира",
+      "news.hint": "Нажмите на заголовок, чтобы открыть оригинал в новой вкладке. Заголовки автоматически переведены на язык сайта, источник — на языке оригинала.",
+      "news.orig": "Оригинал",
+      "foot.rights": "Все права защищены.",
+      "foot.terms": "Условия использования",
+      "terms.title": "Условия использования — Market Plus",
+      "terms.h": "Условия использования",
+      "terms.upd": "Последнее обновление: 25 октября 2026 г.",
+      "terms.back": "← На главную Market Plus",
+      "terms.s1h": "1. О сайте",
+      "terms.s1p": "Market Plus (marketplus-news.github.io) — бесплатный информационный сайт с заголовками новостей рынка и мира и ссылками на цифровые продукты. Пользуясь сайтом, вы соглашаетесь с этими условиями.",
+      "terms.s2h": "2. Заголовки новостей и источники",
+      "terms.s2p": "Заголовки новостей собираются автоматически из общедоступных RSS-лент новостных изданий. Заголовки и статьи принадлежат их издателям и авторам. Каждый заголовок ведёт на первоисточник; полные тексты статей мы не публикуем. Заголовки переводятся автоматически (машинный перевод) и могут содержать неточности — приоритет всегда у оригинальной публикации.",
+      "terms.s3h": "3. Не финансовая рекомендация",
+      "terms.s3p": "Вся информация на сайте носит исключительно ознакомительный характер и не является финансовой, инвестиционной, юридической или налоговой рекомендацией, а также предложением купить или продать какой-либо актив. Торговля на финансовых рынках связана с риском потерь. Принимайте решения самостоятельно и при необходимости консультируйтесь с лицензированным специалистом.",
+      "terms.s4h": "4. Продукты",
+      "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Patreon (часть бесплатных материалов — на GitHub). Оплата, доступ, получение и возвраты обрабатываются Patreon и регулируются его условиями. Сам сайт платежи не обрабатывает.",
+      "terms.s5h": "5. Конфиденциальность",
+      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, X, Patreon, GitHub) распространяются их собственные правила.",
+      "terms.s6h": "6. Отказ от гарантий",
+      "terms.s6p": "Сайт предоставляется «как есть». Мы стараемся поддерживать точность и доступность, но не гарантируем полноту, точность и актуальность информации и не несём ответственности за убытки, возникшие в результате её использования.",
+      "terms.s7h": "7. Контакты",
+      "terms.s7p": "Вопросы и запросы (в том числе от издателей, желающих убрать свой источник): X @MarketPulseGold.",
+      "terms.s8h": "8. Изменения",
+      "terms.s8p": "Мы можем время от времени обновлять эти условия. Актуальная версия всегда находится на этой странице с датой последнего обновления.",
       lang: "Язык",
       "nav.news": "Новости", "nav.products": "Продукты", "nav.about": "О проекте",
       "hero.badge": "● Market Plus · живая лента из X",
-      "hero.h1a": "Рынки, золото, форекс и макро",
-      "hero.h1b": "без воды",
       "hero.lead": "Market Plus — о событиях, которые действительно двигают рынок, коротко и по делу: что произошло и как это может повлиять на золото, доллар, нефть и рисковые активы.",
       "hero.cta": "Читать в X", "hero.cta2": "Последние новости", "hero.cta3": "Продукты",
       "stat.1": "золото и валюты", "stat.2b": "Макро", "stat.2": "ФРС, инфляция, нефть", "stat.3b": "Онлайн", "stat.3": "лента новостей из X",
@@ -80,7 +125,6 @@
       "news.h": "Последние новости",
       "news.sub": "Заголовки о рынках, мире, политике и Украине из открытых новостных источников и наши посты в X. Обновляется автоматически каждые 30 минут.",
       "news.live": "Онлайн", "news.loading": "Загружаем новости…",
-      "news.hint": "Нажмите на заголовок, чтобы открыть оригинал в новой вкладке. Заголовки — на языке источника.",
       "news.empty": "В этом разделе пока нет новостей — загляните позже.",
       "news.error": "Не удалось загрузить ленту. Обновите страницу.",
       "news.updated": "Обновлено",
@@ -108,13 +152,36 @@
       "foot.priv": "Без трекеров, без форм, без сбора данных."
     },
     uk: {
-      title: "Market Plus — ринки, золото, форекс і макро без води",
-      desc: "Market Plus: стислі новини про ринки, золото, форекс, нафту та макроекономіку. Жива стрічка з X, інструменти для трейдингу й фінансів.",
+      "title": "Market Plus — новини ринку та світу",
+      "desc": "Market Plus — новини ринку та світу: ринки, золото, форекс, нафта, макроекономіка, політика й Україна. Заголовки з відкритих джерел 6 мовами та інструменти для трейдингу й фінансів.",
+      "hero.h1": "новини ринку та світу",
+      "news.hint": "Натисніть на заголовок, щоб відкрити оригінал у новій вкладці. Заголовки автоматично перекладені мовою сайту, джерело — мовою оригіналу.",
+      "news.orig": "Оригінал",
+      "foot.rights": "Усі права захищені.",
+      "foot.terms": "Умови використання",
+      "terms.title": "Умови використання — Market Plus",
+      "terms.h": "Умови використання",
+      "terms.upd": "Останнє оновлення: 25 жовтня 2026 р.",
+      "terms.back": "← На головну Market Plus",
+      "terms.s1h": "1. Про сайт",
+      "terms.s1p": "Market Plus (marketplus-news.github.io) — безкоштовний інформаційний сайт із заголовками новин ринку та світу й посиланнями на цифрові продукти. Користуючись сайтом, ви погоджуєтеся з цими умовами.",
+      "terms.s2h": "2. Заголовки новин і джерела",
+      "terms.s2p": "Заголовки новин збираються автоматично із загальнодоступних RSS-стрічок новинних видань. Заголовки й статті належать їхнім видавцям і авторам. Кожен заголовок веде на першоджерело; повних текстів статей ми не публікуємо. Заголовки перекладаються автоматично (машинний переклад) і можуть містити неточності — пріоритет завжди за оригінальною публікацією.",
+      "terms.s3h": "3. Не фінансова порада",
+      "terms.s3p": "Уся інформація на сайті має виключно ознайомчий характер і не є фінансовою, інвестиційною, юридичною чи податковою порадою, а також пропозицією купити або продати будь-який актив. Торгівля на фінансових ринках пов’язана з ризиком втрат. Ухвалюйте рішення самостійно й за потреби консультуйтеся з ліцензованим фахівцем.",
+      "terms.s4h": "4. Продукти",
+      "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Patreon (частина безкоштовних матеріалів — на GitHub). Оплата, доступ, отримання й повернення обробляються Patreon і регулюються його умовами. Сам сайт платежів не обробляє.",
+      "terms.s5h": "5. Конфіденційність",
+      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, X, Patreon, GitHub) поширюються їхні власні правила.",
+      "terms.s6h": "6. Відмова від гарантій",
+      "terms.s6p": "Сайт надається «як є». Ми намагаємося підтримувати точність і доступність, але не гарантуємо повноту, точність і актуальність інформації та не несемо відповідальності за збитки, що виникли внаслідок її використання.",
+      "terms.s7h": "7. Контакти",
+      "terms.s7p": "Питання й запити (зокрема від видавців, які бажають прибрати своє джерело): X @MarketPulseGold.",
+      "terms.s8h": "8. Зміни",
+      "terms.s8p": "Ми можемо час від часу оновлювати ці умови. Актуальна версія завжди на цій сторінці з датою останнього оновлення.",
       lang: "Мова",
       "nav.news": "Новини", "nav.products": "Продукти", "nav.about": "Про проєкт",
       "hero.badge": "● Market Plus · жива стрічка з X",
-      "hero.h1a": "Ринки, золото, форекс і макро",
-      "hero.h1b": "без води",
       "hero.lead": "Market Plus — про події, які справді рухають ринок, коротко й по суті: що сталося і як це може вплинути на золото, долар, нафту та ризикові активи.",
       "hero.cta": "Читати в X", "hero.cta2": "Останні новини", "hero.cta3": "Продукти",
       "stat.1": "золото й валюти", "stat.2b": "Макро", "stat.2": "ФРС, інфляція, нафта", "stat.3b": "Онлайн", "stat.3": "стрічка новин з X",
@@ -126,7 +193,6 @@
       "news.h": "Останні новини",
       "news.sub": "Заголовки про ринки, світ, політику та Україну з відкритих новинних джерел і наші пости в X. Оновлюється автоматично кожні 30 хвилин.",
       "news.live": "Онлайн", "news.loading": "Завантажуємо новини…",
-      "news.hint": "Натисніть на заголовок, щоб відкрити оригінал у новій вкладці. Заголовки — мовою джерела.",
       "news.empty": "У цьому розділі поки немає новин — зазирніть пізніше.",
       "news.error": "Не вдалося завантажити стрічку. Оновіть сторінку.",
       "news.updated": "Оновлено",
@@ -154,13 +220,36 @@
       "foot.priv": "Без трекерів, без форм, без збору даних."
     },
     fr: {
-      title: "Market Plus — marchés, or, forex et macro, sans blabla",
-      desc: "Market Plus : l'essentiel de l'actualité des marchés, de l'or, du forex, du pétrole et de la macroéconomie. Fil en direct depuis X, outils de trading et de finances.",
+      "title": "Market Plus — actualités des marchés et du monde",
+      "desc": "Market Plus — actualités des marchés et du monde : marchés, or, forex, pétrole, macro, politique et Ukraine. Titres de sources ouvertes en 6 langues, plus des outils de trading et de finances.",
+      "hero.h1": "actualités des marchés et du monde",
+      "news.hint": "Touchez un titre pour ouvrir l'original dans un nouvel onglet. Les titres sont traduits automatiquement dans la langue du site ; la source reste dans sa langue d'origine.",
+      "news.orig": "Original",
+      "foot.rights": "Tous droits réservés.",
+      "foot.terms": "Conditions d'utilisation",
+      "terms.title": "Conditions d'utilisation — Market Plus",
+      "terms.h": "Conditions d'utilisation",
+      "terms.upd": "Dernière mise à jour : 25 octobre 2026",
+      "terms.back": "← Retour à Market Plus",
+      "terms.s1h": "1. À propos du site",
+      "terms.s1p": "Market Plus (marketplus-news.github.io) est un site d'information gratuit proposant des titres d'actualité des marchés et du monde ainsi que des liens vers des produits numériques. En utilisant le site, vous acceptez ces conditions.",
+      "terms.s2h": "2. Titres et sources",
+      "terms.s2p": "Les titres sont collectés automatiquement à partir des flux RSS publics des éditeurs de presse. Les titres et articles appartiennent à leurs éditeurs et auteurs d'origine. Chaque titre renvoie à sa source originale ; nous ne republions pas les articles complets. Les titres sont traduits automatiquement et peuvent contenir des erreurs — la publication originale fait toujours foi.",
+      "terms.s3h": "3. Pas un conseil financier",
+      "terms.s3p": "Toutes les informations du site sont fournies à titre informatif uniquement et ne constituent pas un conseil financier, d'investissement, juridique ou fiscal, ni une offre ou recommandation d'acheter ou de vendre un actif. Le trading sur les marchés financiers comporte un risque de perte.",
+      "terms.s4h": "4. Produits",
+      "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Patreon (certains contenus gratuits sont sur GitHub). Paiements, accès, livraison et remboursements sont gérés par Patreon selon ses propres conditions. Le site ne traite aucun paiement.",
+      "terms.s5h": "5. Confidentialité",
+      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, X, Patreon, GitHub) ont leurs propres règles.",
+      "terms.s6h": "6. Absence de garantie",
+      "terms.s6p": "Le site est fourni « tel quel ». Nous faisons de notre mieux, mais ne garantissons pas l'exhaustivité, l'exactitude ou l'actualité des informations et déclinons toute responsabilité pour les pertes liées à leur utilisation.",
+      "terms.s7h": "7. Contact",
+      "terms.s7p": "Questions et demandes (y compris des éditeurs souhaitant retirer une source) : X @MarketPulseGold.",
+      "terms.s8h": "8. Modifications",
+      "terms.s8p": "Ces conditions peuvent être mises à jour. La version en vigueur se trouve toujours sur cette page, avec sa date de mise à jour.",
       lang: "Langue",
       "nav.news": "Actus", "nav.products": "Produits", "nav.about": "À propos",
       "hero.badge": "● Market Plus · l'actu en direct depuis X",
-      "hero.h1a": "Marchés, or, forex et macro",
-      "hero.h1b": "sans blabla",
       "hero.lead": "Market Plus suit les événements qui font vraiment bouger les marchés, en bref et sans détour : ce qui s'est passé et l'impact possible sur l'or, le dollar, le pétrole et les actifs risqués.",
       "hero.cta": "Suivre sur X", "hero.cta2": "Dernières actus", "hero.cta3": "Produits",
       "stat.1": "or et devises", "stat.2b": "Macro", "stat.2": "Fed, inflation, pétrole", "stat.3b": "Direct", "stat.3": "fil d'actu depuis X",
@@ -172,7 +261,6 @@
       "news.h": "Dernières actus",
       "news.sub": "Les titres marchés, monde, politique et Ukraine issus de sources d'information ouvertes, plus nos posts sur X. Mise à jour automatique toutes les 30 minutes.",
       "news.live": "Direct", "news.loading": "Chargement des actus…",
-      "news.hint": "Touchez un titre pour ouvrir l'original dans un nouvel onglet. Les titres restent dans leur langue d'origine.",
       "news.empty": "Pas encore d'actus dans cette rubrique — revenez bientôt.",
       "news.error": "Impossible de charger le fil. Actualisez la page.",
       "news.updated": "Mis à jour",
@@ -200,13 +288,36 @@
       "foot.priv": "Aucun traceur, aucun formulaire, aucune collecte de données."
     },
     de: {
-      title: "Market Plus — Märkte, Gold, Forex & Makro ohne Schnickschnack",
-      desc: "Market Plus: kompakte News zu Märkten, Gold, Forex, Öl und Makroökonomie. Live-Feed von X, Tools für Trading und Finanzen.",
+      "title": "Market Plus — Markt- und Weltnachrichten",
+      "desc": "Market Plus — Markt- und Weltnachrichten: Märkte, Gold, Forex, Öl, Makro, Politik und Ukraine. Schlagzeilen aus offenen Quellen in 6 Sprachen sowie Tools für Trading und Finanzen.",
+      "hero.h1": "Markt- und Weltnachrichten",
+      "news.hint": "Tippe auf eine Schlagzeile, um das Original in einem neuen Tab zu öffnen. Schlagzeilen werden automatisch in die Sprache der Website übersetzt; die Quelle ist in der Originalsprache.",
+      "news.orig": "Original",
+      "foot.rights": "Alle Rechte vorbehalten.",
+      "foot.terms": "Nutzungsbedingungen",
+      "terms.title": "Nutzungsbedingungen — Market Plus",
+      "terms.h": "Nutzungsbedingungen",
+      "terms.upd": "Zuletzt aktualisiert: 25. Oktober 2026",
+      "terms.back": "← Zurück zu Market Plus",
+      "terms.s1h": "1. Über diese Website",
+      "terms.s1p": "Market Plus (marketplus-news.github.io) ist eine kostenlose Informationswebsite mit Schlagzeilen zu Markt- und Weltnachrichten sowie Links zu digitalen Produkten. Mit der Nutzung der Website stimmst du diesen Bedingungen zu.",
+      "terms.s2h": "2. Schlagzeilen und Quellen",
+      "terms.s2p": "Schlagzeilen werden automatisch aus öffentlich zugänglichen RSS-Feeds von Nachrichtenverlagen gesammelt. Schlagzeilen und Artikel gehören ihren ursprünglichen Verlagen und Autoren. Jede Schlagzeile verlinkt auf die Originalquelle; vollständige Artikel veröffentlichen wir nicht. Schlagzeilen werden maschinell übersetzt und können Fehler enthalten — maßgeblich ist stets die Originalveröffentlichung.",
+      "terms.s3h": "3. Keine Finanzberatung",
+      "terms.s3p": "Alle Informationen dienen ausschließlich Informationszwecken und stellen keine Finanz-, Anlage-, Rechts- oder Steuerberatung und kein Angebot oder keine Empfehlung zum Kauf oder Verkauf von Vermögenswerten dar. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
+      "terms.s4h": "4. Produkte",
+      "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Patreon verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub). Zahlung, Zugang, Lieferung und Erstattungen wickelt Patreon gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
+      "terms.s5h": "5. Datenschutz",
+      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, X, Patreon, GitHub) gelten deren eigene Richtlinien.",
+      "terms.s6h": "6. Keine Gewähr",
+      "terms.s6p": "Die Website wird „wie besehen“ bereitgestellt. Wir geben unser Bestes, übernehmen aber keine Gewähr für Vollständigkeit, Richtigkeit oder Aktualität und haften nicht für Verluste aus der Nutzung der Informationen.",
+      "terms.s7h": "7. Kontakt",
+      "terms.s7p": "Fragen und Anliegen (auch von Verlagen, die eine Quelle entfernen lassen möchten): X @MarketPulseGold.",
+      "terms.s8h": "8. Änderungen",
+      "terms.s8p": "Wir können diese Bedingungen gelegentlich aktualisieren. Die aktuelle Fassung steht immer mit Datum auf dieser Seite.",
       lang: "Sprache",
       "nav.news": "News", "nav.products": "Produkte", "nav.about": "Über uns",
       "hero.badge": "● Market Plus · Live-News von X",
-      "hero.h1a": "Märkte, Gold, Forex & Makro",
-      "hero.h1b": "ohne Schnickschnack",
       "hero.lead": "Market Plus berichtet über die Ereignisse, die die Märkte wirklich bewegen — kurz und auf den Punkt: was passiert ist und wie es sich auf Gold, Dollar, Öl und Risikoanlagen auswirken kann.",
       "hero.cta": "Auf X folgen", "hero.cta2": "Aktuelle News", "hero.cta3": "Produkte",
       "stat.1": "Gold & Währungen", "stat.2b": "Makro", "stat.2": "Fed, Inflation, Öl", "stat.3b": "Live", "stat.3": "News-Feed von X",
@@ -218,7 +329,6 @@
       "news.h": "Aktuelle News",
       "news.sub": "Schlagzeilen zu Märkten, Welt, Politik und Ukraine aus offenen Nachrichtenquellen sowie unsere Posts auf X. Automatische Aktualisierung alle 30 Minuten.",
       "news.live": "Live", "news.loading": "News werden geladen…",
-      "news.hint": "Tippe auf eine Schlagzeile, um das Original in einem neuen Tab zu öffnen. Schlagzeilen erscheinen in der Originalsprache.",
       "news.empty": "In dieser Rubrik gibt es noch keine News — schau bald wieder vorbei.",
       "news.error": "Der News-Feed konnte nicht geladen werden. Bitte lade die Seite neu.",
       "news.updated": "Aktualisiert",
@@ -246,13 +356,36 @@
       "foot.priv": "Keine Tracker, keine Formulare, keine Datenerhebung."
     },
     zh: {
-      title: "Market Plus — 市场、黄金、外汇与宏观资讯，只讲干货",
-      desc: "Market Plus：简明的市场、黄金、外汇、原油与宏观经济资讯。来自 X 的实时动态，以及交易和理财工具。",
+      "title": "Market Plus — 市场与全球资讯",
+      "desc": "Market Plus — 市场与全球资讯：市场、黄金、外汇、原油、宏观、政治与乌克兰。来自公开新闻源的标题，支持 6 种语言，并提供交易和理财工具。",
+      "hero.h1": "市场与全球资讯",
+      "news.hint": "点击标题即可在新标签页中打开原文。标题已自动机器翻译为网站语言，原文保持原始语言。",
+      "news.orig": "原文",
+      "foot.rights": "保留所有权利。",
+      "foot.terms": "使用条款",
+      "terms.title": "使用条款 — Market Plus",
+      "terms.h": "使用条款",
+      "terms.upd": "最后更新：2026 年 10 月 25 日",
+      "terms.back": "← 返回 Market Plus",
+      "terms.s1h": "1. 关于本网站",
+      "terms.s1p": "Market Plus（marketplus-news.github.io）是一个免费的资讯网站，提供市场与全球新闻标题以及数字产品链接。使用本网站即表示您同意本条款。",
+      "terms.s2h": "2. 新闻标题与来源",
+      "terms.s2p": "新闻标题自动收集自新闻出版机构公开的 RSS 源。标题和文章归其原出版方和作者所有。每条标题均链接至原始来源；我们不转载文章全文。标题为自动机器翻译，可能存在错误——一切以原始报道为准。",
+      "terms.s3h": "3. 不构成投资建议",
+      "terms.s3p": "本网站所有信息仅供参考，不构成任何财务、投资、法律或税务建议，也不构成买卖任何资产的要约或推荐。金融市场交易存在亏损风险。",
+      "terms.s4h": "4. 产品",
+      "terms.s4p": "付费和免费产品均通过 Patreon 销售和交付（部分免费资料位于 GitHub）。付款、访问、交付和退款由 Patreon 按其条款处理。本网站不处理任何付款。",
+      "terms.s5h": "5. 隐私",
+      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、X、Patreon、GitHub）适用其各自的政策。",
+      "terms.s6h": "6. 免责声明",
+      "terms.s6p": "本网站按“现状”提供。我们尽力保证信息准确和网站可用，但不保证信息的完整性、准确性或及时性，对因使用这些信息造成的任何损失不承担责任。",
+      "terms.s7h": "7. 联系方式",
+      "terms.s7p": "问题和请求（包括希望移除其来源的出版方）：X @MarketPulseGold。",
+      "terms.s8h": "8. 条款变更",
+      "terms.s8p": "我们可能会不时更新本条款。最新版本及其更新日期始终显示在本页面。",
       lang: "语言",
       "nav.news": "资讯", "nav.products": "产品", "nav.about": "关于",
       "hero.badge": "● Market Plus · 来自 X 的实时资讯",
-      "hero.h1a": "市场、黄金、外汇与宏观资讯",
-      "hero.h1b": "只讲干货",
       "hero.lead": "Market Plus 聚焦真正推动市场的事件，简明扼要：发生了什么，以及它可能如何影响黄金、美元、原油和风险资产。",
       "hero.cta": "在 X 上关注", "hero.cta2": "最新资讯", "hero.cta3": "产品",
       "stat.1": "黄金与外汇", "stat.2b": "宏观", "stat.2": "美联储、通胀、原油", "stat.3b": "实时", "stat.3": "来自 X 的资讯流",
@@ -264,7 +397,6 @@
       "news.h": "最新资讯",
       "news.sub": "来自公开新闻源的市场、国际、政治和乌克兰新闻标题，以及我们在 X 上的帖子。每 30 分钟自动更新。",
       "news.live": "实时", "news.loading": "正在加载新闻…",
-      "news.hint": "点击标题即可在新标签页中打开原文。标题保持原文语言。",
       "news.empty": "该栏目暂无新闻，请稍后再来。",
       "news.error": "无法加载新闻，请刷新页面。",
       "news.updated": "更新于",
@@ -322,7 +454,7 @@
 
   // ---------- Products render (whole card links to Patreon / GitHub) ----------
   var pl = $("productList");
-  PRODUCTS.forEach(function (p) {
+  if (pl) PRODUCTS.forEach(function (p) {
     var card = el("article", "prod");
     var imgBox = el("a", "img");
     imgBox.href = p.url; imgBox.target = "_blank"; imgBox.rel = "noopener noreferrer"; imgBox.tabIndex = -1;
@@ -359,9 +491,9 @@
     cur = code;
     var L = LANGS.filter(function (l) { return l.code === code; })[0];
     document.documentElement.lang = L.html;
-    document.title = tr("title");
+    document.title = tr((document.body && document.body.getAttribute("data-title")) || "title");
     setMeta('meta[name="description"]', tr("desc"));
-    setMeta('meta[property="og:title"]', tr("title"));
+    setMeta('meta[property="og:title"]', document.title);
     setMeta('meta[property="og:description"]', tr("desc"));
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n]"), function (n) {
       n.textContent = tr(n.getAttribute("data-i18n"));
@@ -369,11 +501,15 @@
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n-alt]"), function (n) {
       n.alt = tr(n.getAttribute("data-i18n-alt"));
     });
-    var bar = $("langBar");
-    bar.setAttribute("aria-label", tr("lang"));
-    Array.prototype.forEach.call(bar.querySelectorAll("button"), function (b) {
-      b.setAttribute("aria-pressed", b.getAttribute("data-lang") === code ? "true" : "false");
-    });
+    var lc = $("langCur"); if (lc) lc.textContent = L.short;
+    var lbtn = $("langBtn"); if (lbtn) lbtn.setAttribute("aria-label", tr("lang") + ": " + L.name);
+    var menu = $("langMenu");
+    if (menu) {
+      menu.setAttribute("aria-label", tr("lang"));
+      Array.prototype.forEach.call(menu.querySelectorAll(".lang-opt"), function (b) {
+        b.setAttribute("aria-checked", b.getAttribute("data-lang") === code ? "true" : "false");
+      });
+    }
     try { localStorage.setItem("mp_lang", code); } catch (e) {}
     onLang.forEach(function (f) { f(); });
   }
@@ -388,21 +524,49 @@
     return "en";
   }
 
-  // ---------- Language switcher: one-click buttons in the header (order = LANGS) ----------
-  var langBar = $("langBar");
-  LANGS.forEach(function (l) {
-    var b = el("button", "lb", l.short); b.type = "button";
-    b.setAttribute("data-lang", l.code); b.setAttribute("lang", l.html); b.title = l.name;
-    b.setAttribute("aria-label", l.name);
-    b.addEventListener("click", function () { apply(l.code); });
-    langBar.appendChild(b);
-  });
+  // ---------- Language switcher: dropdown in the header (order = LANGS: UK, EN, FR, DE, 中文, RU) ----------
+  var langBtn = $("langBtn"), langMenu = $("langMenu"), langDD = $("langDD");
+  function opts() { return Array.prototype.slice.call(langMenu.querySelectorAll(".lang-opt")); }
+  function openMenu(focusCur) {
+    langMenu.hidden = false; langBtn.setAttribute("aria-expanded", "true");
+    if (focusCur) { var o = opts(), c = langMenu.querySelector('[aria-checked="true"]') || o[0]; c.focus(); }
+  }
+  function closeMenu(refocus) {
+    if (langMenu.hidden) return;
+    langMenu.hidden = true; langBtn.setAttribute("aria-expanded", "false");
+    if (refocus) langBtn.focus();
+  }
+  if (langBtn && langMenu) {
+    LANGS.forEach(function (l) {
+      var li = el("li"); li.setAttribute("role", "none");
+      var b = el("button", "lang-opt"); b.type = "button";
+      b.setAttribute("role", "menuitemradio"); b.setAttribute("data-lang", l.code); b.setAttribute("lang", l.html);
+      b.appendChild(el("b", null, l.short)); b.appendChild(el("span", null, l.name));
+      b.addEventListener("click", function () { apply(l.code); closeMenu(true); });
+      li.appendChild(b); langMenu.appendChild(li);
+    });
+    langBtn.addEventListener("click", function () { if (langMenu.hidden) openMenu(false); else closeMenu(false); });
+    langBtn.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") { e.preventDefault(); openMenu(true); }
+    });
+    langMenu.addEventListener("keydown", function (e) {
+      var o = opts(), i = o.indexOf(document.activeElement);
+      if (e.key === "ArrowDown") { e.preventDefault(); o[(i + 1) % o.length].focus(); }
+      else if (e.key === "ArrowUp") { e.preventDefault(); o[(i - 1 + o.length) % o.length].focus(); }
+      else if (e.key === "Home") { e.preventDefault(); o[0].focus(); }
+      else if (e.key === "End") { e.preventDefault(); o[o.length - 1].focus(); }
+      else if (e.key === "Tab") { closeMenu(false); }
+    });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !langMenu.hidden) closeMenu(true); });
+    document.addEventListener("click", function (e) { if (!langDD.contains(e.target)) closeMenu(false); });
+  }
 
   // ---------- News feed (same-origin data/news.json, no third-party scripts) ----------
   var SECS = ["all", "market", "world", "politics", "ukraine", "x"];
   var MAX_PER_TAB = 30;
   var newsData = null, curTab = "all", loadState = "loading";
   var listEl = $("newsList"), tabsEl = $("newsTabs"), updEl = $("newsUpdated");
+  if (!listEl || !tabsEl) { apply(detect()); return; } // pages without the feed (terms.html)
   try { var st = sessionStorage.getItem("mp_tab"); if (st && SECS.indexOf(st) >= 0) curTab = st; } catch (e) {}
 
   function safeUrl(u) { return (typeof u === "string" && /^https?:\/\//i.test(u)) ? u : null; }
@@ -422,8 +586,8 @@
 
   function itemsFor(tab) {
     if (!newsData) return [];
-    var x = (newsData.x || []).map(function (p) { return { kind: "x", title: p.text, url: p.url, ts: p.ts, source: "@" + (newsData.x_handle || "MarketPulseGold") }; });
-    var rss = (newsData.items || []).map(function (i) { return { kind: "rss", title: i.title, url: i.url, ts: i.ts, source: i.source, sec: i.sec || [] }; });
+    var x = (newsData.x || []).map(function (p) { return { kind: "x", title: p.text, t: p.t, lang: p.lang, url: p.url, ts: p.ts, source: "@" + (newsData.x_handle || "MarketPulseGold") }; });
+    var rss = (newsData.items || []).map(function (i) { return { kind: "rss", title: i.title, t: i.t, lang: i.lang, url: i.url, ts: i.ts, source: i.source, sec: i.sec || [] }; });
     var out;
     if (tab === "x") out = x;
     else if (tab === "all") out = x.concat(rss);
@@ -444,7 +608,12 @@
       meta.appendChild(t);
     }
     a.appendChild(meta);
-    a.appendChild(el("span", "ni-t", it.title));
+    // headline in the current site language (machine translation built into news.json), else the original
+    var tt = it.t && typeof it.t[cur] === "string" && it.t[cur] ? it.t[cur] : null;
+    var span = el("span", "ni-t", tt || it.title);
+    if (tt) { span.lang = locale(); a.title = tr("news.orig") + ": " + it.title; }
+    else if (it.lang) span.lang = it.lang;
+    a.appendChild(span);
     if (it.kind === "x") a.appendChild(el("span", "ni-link", shortUrl(it.url)));
     return a;
   }

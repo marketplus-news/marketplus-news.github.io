@@ -31,7 +31,11 @@ def main():
     ch1 = B.write_if_changed(B.POSTS, {"handle": B.X_HANDLE, "source": "manual",
                                        "updated": int(time.time()), "posts": posts}, ignore=("updated", "source"))
     news = B.load(B.NEWS, {"items": [], "status": []})
+    prev_news = json.loads(json.dumps(news))
     news["x"] = [{"id": p["id"], "text": p["text"], "ts": p["ts"], "url": p["url"]} for p in posts]
+    tlog = []
+    B.attach_translations(news.get("items", []), news["x"], prev_news, tlog)  # cached; only new posts hit the network
+    print("translate:", json.dumps(tlog, ensure_ascii=False))
     news["x_source"] = "manual"
     news["updated"] = int(time.time())
     ch2 = B.write_if_changed(B.NEWS, news, ignore=("updated", "status", "x_source"))
