@@ -10,18 +10,37 @@
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="uk_UA">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="de_DE">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:locale:alternate" content="ru_RU">
 <meta property="og:title" content="Market Plus — market and world news">
 <meta property="og:description" content="Market and world news: markets, gold, forex, macro, politics and Ukraine. Trading and finance tools.">
 <meta property="og:image" content="assets/ai-skills.webp">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Market Plus">
 <meta name="twitter:site" content="@MarketPulseGold">
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="alternate" hreflang="uk" href="https://marketplus-news.github.io/?lang=uk">
+<link rel="alternate" hreflang="en" href="https://marketplus-news.github.io/?lang=en">
+<link rel="alternate" hreflang="fr" href="https://marketplus-news.github.io/?lang=fr">
+<link rel="alternate" hreflang="de" href="https://marketplus-news.github.io/?lang=de">
+<link rel="alternate" hreflang="zh-Hans" href="https://marketplus-news.github.io/?lang=zh">
+<link rel="alternate" hreflang="ru" href="https://marketplus-news.github.io/?lang=ru">
+<link rel="alternate" hreflang="x-default" href="https://marketplus-news.github.io/">
+<link rel="stylesheet" href="style.css?v=3">
+<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
+(function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
+if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
+document.documentElement.lang=L[c]||"en";})();</script>
 </head>
 <body>
 <header class="top"><div class="wrap">
   <div class="brand">
-    <a class="logo" href="./#top" aria-label="Market Plus"><img src="favicon.svg" alt="" width="30" height="30"><span>Market <b>Plus</b></span></a>
+    <a class="logo" href="./#top"><img src="favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
     <div class="lang-dd" id="langDD">
       <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
       <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
@@ -38,7 +57,7 @@
 <main id="top">
 <section class="hero"><div class="wrap">
   <div class="badge" data-i18n="hero.badge">● Market Plus · live news from X</div>
-  <h1><span class="g">Market Plus</span> — <span data-i18n="hero.h1">market and world news</span></h1>
+  <h1><span class="g" lang="en" translate="no">Market Plus</span> — <span data-i18n="hero.h1">market and world news</span></h1>
   <p class="lead" data-i18n="hero.lead">Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.</p>
   <div class="cta">
     <a class="btn btn-gold" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg><span data-i18n="hero.cta">Follow on X</span></a>
@@ -46,7 +65,7 @@
     <a class="btn btn-ghost" href="#products" data-i18n="hero.cta3">Products</a>
   </div>
   <div class="stats">
-    <div class="stat"><b>XAU · FX</b><span data-i18n="stat.1">gold &amp; currencies</span></div>
+    <div class="stat"><b lang="en" translate="no">XAU · FX</b><span data-i18n="stat.1">gold &amp; currencies</span></div>
     <div class="stat"><b data-i18n="stat.2b">Macro</b><span data-i18n="stat.2">Fed, inflation, oil</span></div>
     <div class="stat"><b data-i18n="stat.3b">Live</b><span data-i18n="stat.3">news feed from X</span></div>
   </div>
@@ -85,10 +104,10 @@
 
 <footer><div class="wrap">
   <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p>
-  <div class="flinks"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
-  <div class="fcopy">© <span id="yr">2026</span> Market Plus. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="flinks" lang="en" translate="no"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="terms.html" data-i18n="foot.terms">Terms of Use</a></div>
   <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
 </div></footer>
-<script src="app.js?v=2" defer></script>
+<script src="app.js?v=3" defer></script>
 </body>
 </html>

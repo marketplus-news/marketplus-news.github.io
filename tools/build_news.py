@@ -365,6 +365,78 @@ def translate_entries(entries, log):
     log.append({"source": "translate", "ok": stats["failed"] == 0 and not stats.get("errors"), **{k: v for k, v in stats.items() if v}})
     return stats
 
+# ---------- Name / place glossary (post-translation normalization) ----------
+# Machine translation sometimes mixes Ukrainian and Russian spellings or renders a
+# name differently from item to item. Each language gets its own standard spelling:
+# RU text -> Russian forms (Зеленский, Сырский, Ермак, Киев, Харьков),
+# UK text -> Ukrainian forms (Зеленський, Сирський, Єрмак, Київ, Харків).
+# Stems are replaced so case endings are kept. Applied on every build (idempotent,
+# no network), so cached translations are fixed too.
+GLOSSARY = {
+    "ru": [
+        # people
+        (r"Зеленськ", "Зеленск"), (r"Сирськ|Сирск", "Сырск"), (r"Єрмак", "Ермак"),
+        (r"Сибіг", "Сибиг"), (r"Шмигал", "Шмыгал"), (r"Умєров", "Умеров"),
+        (r"Свириденк", "Свириденк"), (r"Пауелл", "Пауэлл"), (r"\bЕрдоган", "Эрдоган"),
+        (r"Сі Цзіньпін", "Си Цзиньпин"), (r"\bВенс\b", "Вэнс"), (r"Віткофф|Виткофф", "Уиткофф"),
+        (r"Бёрнэм|Бернем|Бёрнхэм|Бернхэм", "Бёрнем"), (r"Рубіо", "Рубио"),
+        (r"Кім Чен Ин", "Ким Чен Ын"), (r"Дмитро Жук", "Дмитрий Жук"), (r"Ердоган", "Эрдоган"),
+        # places (specific case forms first, then stems)
+        (r"Києві", "Киеве"), (r"Київськ", "Киевск"), (r"Київ\b", "Киев"), (r"Києв", "Киев"),
+        (r"Харкові", "Харькове"), (r"Харківськ", "Харьковск"), (r"Харків\b", "Харьков"), (r"Харков(?!ь)", "Харьков"),
+        (r"Одес(?!с)", "Одесс"), (r"Дніпрі", "Днепре"), (r"Дніпр", "Днепр"),
+        (r"Запоріжж[яі]", "Запорожье"), (r"Запорізьк", "Запорожск"),
+        (r"Львові", "Львове"), (r"Львів\b", "Львов"),
+        (r"Миколаївщин", "Николаевщин"), (r"Миколаївськ", "Николаевск"), (r"Миколаєві", "Николаеве"),
+        (r"Миколаїв\b", "Николаев"), (r"Миколаєв", "Николаев"),
+        (r"Донецьк", "Донецк"), (r"Луганськ", "Луганск"), (r"Чернігові", "Чернигове"), (r"Чернігів\b", "Чернигов"), (r"Чернігов", "Чернигов"),
+        (r"Вінниц", "Винниц"), (r"Кривий Ріг", "Кривой Рог"), (r"Покровськ", "Покровск"), (r"Костянтинівк", "Константиновк"),
+        (r"Куп[ʼ'’]янськ", "Купянск"),
+    ],
+    "uk": [
+        (r"Зеленск", "Зеленськ"), (r"Сырск", "Сирськ"), (r"\bЕрмак", "Єрмак"), (r"Сибиг", "Сибіг"),
+        (r"Шмыгал", "Шмигал"), (r"Умеров", "Умєров"), (r"Пауэлл", "Пауелл"), (r"Эрдоган", "Ердоган"),
+        (r"Си Цзиньпин", "Сі Цзіньпін"), (r"Вэнс", "Венс"), (r"Уиткофф|Виткофф", "Віткофф"),
+        (r"Бернхем|Бернгем|Бёрнем|Бьорнем", "Бернем"), (r"Рубио", "Рубіо"), (r"Ким Чен Ын", "Кім Чен Ин"),
+        (r"Дмитрий Жук", "Дмитро Жук"),
+        (r"Киеве", "Києві"), (r"Киевск", "Київськ"), (r"Киев\b", "Київ"), (r"Киев(?=[а-я])", "Києв"),
+        (r"Харькове", "Харкові"), (r"Харьковск", "Харківськ"), (r"Харьков\b", "Харків"), (r"Харьков(?=[а-я])", "Харков"),
+        (r"Одесс", "Одес"), (r"Днепре", "Дніпрі"), (r"Днепр", "Дніпр"),
+        (r"Львове", "Львові"), (r"Львов\b", "Львів"),
+        (r"Николаеве", "Миколаєві"), (r"Николаевщин", "Миколаївщин"), (r"Николаев\b", "Миколаїв"), (r"Николаев(?=[а-я])", "Миколаєв"),
+        (r"Донецк(?!ь)", "Донецьк"), (r"Луганск(?!ь)", "Луганськ"),
+    ],
+}
+GLOSSARY_C = {k: [(re.compile(a), b) for a, b in v] for k, v in GLOSSARY.items()}
+UK_ONLY = re.compile(r"[ІіЇїЄєҐґ]")
+RU_ONLY = re.compile(r"[ЫыЭэЁёЪъ]")
+
+def normalize_names(text, lang):
+    for rx, rep in GLOSSARY_C.get(lang, []):
+        text = rx.sub(rep, text)
+    return text
+
+def normalize_entry_t(obj, log_stats):
+    """Apply the glossary to obj["t"]; drop translations that are in the wrong
+    language (Ukrainian letters in RU text or Russian letters in UK text) so they
+    get re-translated."""
+    t = obj.get("t") or {}
+    for lang in ("ru", "uk"):
+        v = t.get(lang)
+        if not v:
+            continue
+        nv = normalize_names(v, lang)
+        if nv != v:
+            log_stats["normalized"] = log_stats.get("normalized", 0) + 1
+            t[lang] = nv
+        if (lang == "ru" and UK_ONLY.search(nv)) or (lang == "uk" and RU_ONLY.search(nv)):
+            log_stats["wrong_script"] = log_stats.get("wrong_script", 0) + 1
+            t.pop(lang, None)
+            miss = t.setdefault("_miss", [])
+            if lang not in miss:
+                miss.append(lang)
+    obj["t"] = t
+
 def _clean_t(t):
     return {k: v for k, v in (t or {}).items() if v and k in TR_LANGS}
 
@@ -395,6 +467,7 @@ def attach_translations(items, xposts, prev, log):
         translate_entries(entries, log)
     except Exception as ex:  # never break the build
         log.append({"source": "translate", "ok": False, "error": str(ex)[:120]})
+    gstats = {}
     for e in entries:
         t = _clean_t(e["t"])
         miss = [c for c in TR_LANGS if c not in e["t"] and c != e.get("src")]
@@ -403,6 +476,8 @@ def attach_translations(items, xposts, prev, log):
         e["obj"]["t"] = t
         if e.get("src"):
             e["obj"]["lang"] = e["src"]
+        normalize_entry_t(e["obj"], gstats)
+    log.append({"source": "glossary", "ok": not gstats.get("wrong_script"), **gstats})
 
 def main():
     now = int(time.time())

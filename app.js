@@ -6,12 +6,12 @@
 
   // ---------- Translations ----------
   var LANGS = [
-    { code: "uk", short: "UK", name: "Українська", html: "uk", x: "uk" },
-    { code: "en", short: "EN", name: "English", html: "en", x: "en" },
-    { code: "fr", short: "FR", name: "Français", html: "fr", x: "fr" },
-    { code: "de", short: "DE", name: "Deutsch", html: "de", x: "de" },
-    { code: "zh", short: "中文", name: "中文（简体）", html: "zh-CN", x: "zh-cn" },
-    { code: "ru", short: "RU", name: "Русский", html: "ru", x: "ru" }
+    { code: "uk", short: "UK", name: "Українська", html: "uk", og: "uk_UA" },
+    { code: "en", short: "EN", name: "English", html: "en", og: "en_US" },
+    { code: "fr", short: "FR", name: "Français", html: "fr", og: "fr_FR" },
+    { code: "de", short: "DE", name: "Deutsch", html: "de", og: "de_DE" },
+    { code: "zh", short: "中文", name: "中文（简体）", html: "zh-CN", og: "zh_CN" },
+    { code: "ru", short: "RU", name: "Русский", html: "ru", og: "ru_RU" }
   ];
 
   var T = {
@@ -450,6 +450,38 @@
     if (text != null) e.textContent = text;
     return e;
   }
+  // ---------- Language tagging for correct reading (screen readers / read-aloud / TTS) ----------
+  // Text is always tagged with the language it is actually written in:
+  //  * <html lang> = current UI language;
+  //  * in Cyrillic/Chinese UIs, Latin-script runs (brands, names, tickers: Market Plus, Patreon,
+  //    Starlink, AJB, @MarketPulseGold) get <span lang="en" translate="no">, otherwise a
+  //    Russian/Ukrainian voice spells them by Cyrillic rules;
+  //  * headlines carry the lang of the text actually shown (translation or original).
+  var LATIN_RUN = /[A-Za-z][A-Za-z0-9&@'’.+\-]*(?:[ \u00a0]+(?:[A-Za-z0-9][A-Za-z0-9&@'’.+\-]*))*/g;
+  function scriptLang(text, hint) {
+    if (/[ІіЇїЄєҐґ]/.test(text)) return "uk";
+    if (/[ЫыЭэЁёЪъ]/.test(text)) return "ru";
+    if (/[А-Яа-я]/.test(text)) return (hint === "uk" || hint === "ru") ? hint : "ru";
+    if (/[\u4e00-\u9fff]/.test(text)) return "zh-CN";
+    return hint && !/^(uk|ru|zh)/.test(hint) ? hint : "en";
+  }
+  function setText(node, text, textLang) {
+    // textLang: BCP47 of `text`; wraps Latin runs as lang="en" when text is Cyrillic/Chinese
+    node.textContent = "";
+    text = text == null ? "" : String(text);
+    if (!/^(uk|ru|zh)/.test(textLang || "") || !/[A-Za-z]/.test(text)) { node.textContent = text; return; }
+    var last = 0, m; LATIN_RUN.lastIndex = 0;
+    while ((m = LATIN_RUN.exec(text))) {
+      var w = m[0].replace(/[\-.'’]+$/, "");
+      if (!w) continue;
+      if (m.index > last) node.appendChild(document.createTextNode(text.slice(last, m.index)));
+      var sp = document.createElement("span"); sp.lang = "en"; sp.setAttribute("translate", "no"); sp.textContent = w;
+      node.appendChild(sp);
+      last = m.index + w.length; LATIN_RUN.lastIndex = last;
+    }
+    if (last < text.length) node.appendChild(document.createTextNode(text.slice(last)));
+  }
+
   var yr = $("yr"); if (yr) yr.textContent = new Date().getFullYear();
 
   // ---------- Products render (whole card links to Patreon / GitHub) ----------
@@ -465,7 +497,7 @@
     if (p.free) { var tag = el("span", "tag"); tag.setAttribute("data-i18n", "prod.free"); imgBox.appendChild(tag); }
     var body = el("div", "body");
     var h = el("h3");
-    var ha = el("a", "plink", p.title || ""); if (p.t) ha.setAttribute("data-i18n", p.t);
+    var ha = el("a", "plink", p.title || ""); if (p.t) ha.setAttribute("data-i18n", p.t); else { ha.lang = "en"; ha.setAttribute("translate", "no"); }
     ha.href = p.url; ha.target = "_blank"; ha.rel = "noopener noreferrer";
     h.appendChild(ha);
     var d = el("p"); d.setAttribute("data-i18n", p.d);
@@ -491,17 +523,22 @@
     cur = code;
     var L = LANGS.filter(function (l) { return l.code === code; })[0];
     document.documentElement.lang = L.html;
+    setMeta('meta[property="og:locale"]', L.og);
+    try { // keep ?lang= in the address so reload / shared links / read-aloud start in this language
+      var u = new URL(location.href);
+      if (u.searchParams.get("lang") !== code) { u.searchParams.set("lang", code); history.replaceState(null, "", u.pathname + u.search + u.hash); }
+    } catch (e) {}
     document.title = tr((document.body && document.body.getAttribute("data-title")) || "title");
     setMeta('meta[name="description"]', tr("desc"));
     setMeta('meta[property="og:title"]', document.title);
     setMeta('meta[property="og:description"]', tr("desc"));
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n]"), function (n) {
-      n.textContent = tr(n.getAttribute("data-i18n"));
+      setText(n, tr(n.getAttribute("data-i18n")), L.html);
     });
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n-alt]"), function (n) {
       n.alt = tr(n.getAttribute("data-i18n-alt"));
     });
-    var lc = $("langCur"); if (lc) lc.textContent = L.short;
+    var lc = $("langCur"); if (lc) { lc.textContent = L.short; lc.lang = /[A-Za-z]/.test(L.short) ? "en" : L.html; lc.setAttribute("translate", "no"); }
     var lbtn = $("langBtn"); if (lbtn) lbtn.setAttribute("aria-label", tr("lang") + ": " + L.name);
     var menu = $("langMenu");
     if (menu) {
@@ -514,6 +551,7 @@
     onLang.forEach(function (f) { f(); });
   }
   function detect() {
+    try { var q = new URLSearchParams(location.search).get("lang"); if (q && T[q]) return q; } catch (e) {}
     try { var s = localStorage.getItem("mp_lang"); if (s && T[s]) return s; } catch (e) {}
     var list = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || "en"];
     for (var i = 0; i < list.length; i++) {
@@ -601,7 +639,9 @@
     var a = el("a", "ni" + (it.kind === "x" ? " ni-x" : ""));
     a.href = safeUrl(it.url); a.target = "_blank"; a.rel = "noopener noreferrer";
     var meta = el("span", "ni-meta");
-    meta.appendChild(el("b", "ni-src", it.kind === "x" ? it.source + " · X" : it.source));
+    var src = el("b", "ni-src", it.kind === "x" ? it.source + " · X" : it.source);
+    src.lang = "en"; src.setAttribute("translate", "no"); // publisher names: BBC, Reuters, The Guardian…
+    meta.appendChild(src);
     if (it.ts) {
       meta.appendChild(document.createTextNode(" · "));
       var t = el("time", null, rel(it.ts)); t.dateTime = new Date(it.ts * 1000).toISOString(); t.title = absDate(it.ts);
@@ -610,11 +650,12 @@
     a.appendChild(meta);
     // headline in the current site language (machine translation built into news.json), else the original
     var tt = it.t && typeof it.t[cur] === "string" && it.t[cur] ? it.t[cur] : null;
-    var span = el("span", "ni-t", tt || it.title);
-    if (tt) { span.lang = locale(); a.title = tr("news.orig") + ": " + it.title; }
-    else if (it.lang) span.lang = it.lang;
+    // lang = language of the text actually shown (never inherit the UI language blindly)
+    var shownLang = tt ? scriptLang(tt, locale()) : scriptLang(it.title, it.lang || "en");
+    var span = el("span", "ni-t"); span.lang = shownLang;
+    setText(span, tt || it.title, shownLang);
     a.appendChild(span);
-    if (it.kind === "x") a.appendChild(el("span", "ni-link", shortUrl(it.url)));
+    if (it.kind === "x") { var lk = el("span", "ni-link", shortUrl(it.url)); lk.lang = "en"; lk.setAttribute("translate", "no"); a.appendChild(lk); }
     return a;
   }
 
@@ -641,7 +682,7 @@
   SECS.forEach(function (s) {
     var b = el("button", "tab"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("data-tab", s);
     b.setAttribute("aria-controls", "newsList");
-    if (s === "x") b.textContent = "X @MarketPulseGold"; else b.setAttribute("data-i18n", "tab." + s);
+    if (s === "x") { b.textContent = "X @MarketPulseGold"; b.lang = "en"; b.setAttribute("translate", "no"); } else b.setAttribute("data-i18n", "tab." + s);
     b.addEventListener("click", function () {
       curTab = s; try { sessionStorage.setItem("mp_tab", s); } catch (e) {}
       render(); listEl.scrollTop = 0;
