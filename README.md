@@ -43,6 +43,6 @@ Not investment advice.
 - If the file is missing the strip hides itself; on a failed refresh the last values stay.
 
 ## Guides (EN + RU)
-- `tools/guides_src/build.py` builds `guides/*.html` (English) and `guides/ru/*.html` (Russian) from the article bodies in `tools/guides_src/` and `tools/guides_src/ru/`, plus `sitemap.xml` with hreflang alternates. Run `python3 tools/guides_src/build.py` after editing.
-- EN and RU pages link to each other with `hreflang` (x-default = English). A visitor whose language is RU (`?lang=ru`, saved choice or browser) opening an English guide is sent to the Russian one; picking a language in the header on a guide page opens the matching version. The "Guides" links point to `/guides/ru/` when the site language is RU, otherwise to `/guides/`.
+- `tools/guides_src/build.py` builds `guides/*.html` (English) and `guides/<lang>/*.html` for ru, uk, fr, de and zh from the article bodies in `tools/guides_src/` and `tools/guides_src/<lang>/` (each with a `meta.json` holding titles, descriptions, header/footer and product-box texts), plus `sitemap.xml` with hreflang alternates. Run `python3 tools/guides_src/build.py` after editing.
+- All six versions link to each other with `hreflang` (x-default = English). A visitor whose language is not English (`?lang=`, saved choice or browser) opening an English guide is sent to the matching translated guide; picking a language in the header on a guide page opens the same guide in that language. The "Guides" links point to `/guides/<lang>/` for the current site language, or `/guides/` for English.
 - `404.html` is translated via `app.js` (`nf.*` keys).

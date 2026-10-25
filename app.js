@@ -96,6 +96,14 @@
       "p10.d": "Notion planner where goals update their progress from quarterly OKRs, projects and money goals. Monthly habit stats plus weekly, monthly and year-end reviews.",
       "p11.t": "2027 Goal & Life Planner Lite for Notion",
       "p11.d": "Free Notion planner: year vision, goals with progress bars and a days-left countdown, a weekly habit tracker and a monthly review.",
+      "p12.t": "Debt Snowball & Avalanche Payoff Tracker (Excel + Google Sheets)",
+      "p12.d": "Up to 15 debts, Snowball or Avalanche: a month-by-month payoff plan, your debt-free date and interest saved, plus a printable debt-free thermometer. No macros.",
+      "p13.t": "FREE Debt Snowball List (Lite)",
+      "p13.d": "Free debt list for up to 10 debts: totals, snowball order and which debt to pay first and how much. Excel and Google Sheets.",
+      "p14.t": "Dividend & Investment Portfolio Tracker (Excel + Google Sheets)",
+      "p14.d": "Log buys, sells and dividends: average cost, gain/loss, yield on cost, a dividend calendar and a dashboard. A personal record-keeping tool, no investment advice.",
+      "p15.t": "FREE Habit Tracker 2027 for Notion",
+      "p15.d": "Free Notion habit tracker: six daily habits with one tick each, a daily score and progress bar, week and month views, plus a monthly review page.",
       "pall.t": "All products on Patreon",
       "pall.d": "See all paid and free templates in one place on the Patreon page.",
       "prod.all": "Open Patreon",
@@ -184,6 +192,14 @@
       "p10.d": "Планировщик в Notion, где цели обновляют свой прогресс на основе квартальных OKR, проектов и финансовых целей. Ежемесячная статистика привычек, а также еженедельные, ежемесячные и годовые обзоры.",
       "p11.t": "Планировщик целей и жизни 2027 Lite для Notion",
       "p11.d": "Бесплатный планировщик в Notion: видение года, цели с индикаторами прогресса и обратным отсчётом дней, недельный трекер привычек и ежемесячный обзор.",
+      "p12.t": "Трекер погашения долгов: снежный ком и лавина (Excel + Google Sheets)",
+      "p12.d": "До 15 долгов, метод снежного кома или лавины: помесячный план погашения, дата освобождения от долгов и сэкономленные проценты, а также термометр для печати. Без макросов.",
+      "p13.t": "Бесплатный список долгов «Снежный ком» (Lite)",
+      "p13.d": "Бесплатный список до 10 долгов: итоги, порядок снежного кома и какой долг гасить первым и на какую сумму. Excel и Google Sheets.",
+      "p14.t": "Трекер дивидендов и инвестиционного портфеля (Excel + Google Sheets)",
+      "p14.d": "Учёт покупок, продаж и дивидендов: средняя цена, прибыль/убыток, доходность на вложенное, календарь дивидендов и панель. Инструмент для личного учёта, не инвестиционная рекомендация.",
+      "p15.t": "БЕСПЛАТНЫЙ трекер привычек 2027 для Notion",
+      "p15.d": "Бесплатный трекер привычек в Notion: шесть ежедневных привычек с одной галочкой, дневной балл и индикатор прогресса, виды по неделям и месяцам и страница ежемесячного обзора.",
       "pall.t": "Все продукты на Patreon",
       "pall.d": "Смотрите все платные и бесплатные шаблоны в одном месте на странице Patreon.",
       "prod.all": "Открыть Patreon",
@@ -272,6 +288,14 @@
       "p10.d": "Планувальник у Notion, де цілі оновлюють свій прогрес на основі квартальних OKR, проєктів і фінансових цілей. Щомісячна статистика звичок, а також щотижневі, щомісячні та річні огляди.",
       "p11.t": "Планувальник цілей і життя 2027 Lite для Notion",
       "p11.d": "Безкоштовний планувальник у Notion: річне бачення, цілі з індикаторами прогресу та зворотним відліком днів, щотижневий трекер звичок і щомісячний огляд.",
+      "p12.t": "Трекер погашення боргів: сніжна куля і лавина (Excel + Google Sheets)",
+      "p12.d": "До 15 боргів, метод сніжної кулі або лавини: помісячний план погашення, дата звільнення від боргів і заощаджені відсотки, а також термометр для друку. Без макросів.",
+      "p13.t": "Безкоштовний список боргів «Сніжна куля» (Lite)",
+      "p13.d": "Безкоштовний список до 10 боргів: підсумки, порядок сніжної кулі та який борг гасити першим і на яку суму. Excel і Google Sheets.",
+      "p14.t": "Трекер дивідендів та інвестиційного портфеля (Excel + Google Sheets)",
+      "p14.d": "Облік купівель, продажів і дивідендів: середня ціна, прибуток/збиток, дохідність на вкладене, календар дивідендів і панель. Інструмент для особистого обліку, не інвестиційна порада.",
+      "p15.t": "БЕЗКОШТОВНИЙ трекер звичок 2027 для Notion",
+      "p15.d": "Безкоштовний трекер звичок у Notion: шість щоденних звичок з однією позначкою, денний бал та індикатор прогресу, подання за тижнями й місяцями та сторінка щомісячного огляду.",
       "pall.t": "Усі продукти на Patreon",
       "pall.d": "Перегляньте всі платні та безкоштовні шаблони в одному місці на сторінці Patreon.",
       "prod.all": "Відкрити Patreon",
@@ -360,6 +384,14 @@
       "p10.d": "Planificateur Notion où les objectifs mettent à jour leur progression à partir des OKR trimestriels, des projets et des objectifs financiers. Statistiques mensuelles d'habitudes plus revues hebdomadaires, mensuelles et de fin d'année.",
       "p11.t": "Planificateur Objectifs & Vie 2027 Lite pour Notion",
       "p11.d": "Planificateur Notion gratuit : vision annuelle, objectifs avec barres de progression et compte à rebours des jours restants, suivi hebdomadaire des habitudes et revue mensuelle.",
+      "p12.t": "Suivi de remboursement des dettes : boule de neige et avalanche (Excel + Google Sheets)",
+      "p12.d": "Jusqu'à 15 dettes, méthode boule de neige ou avalanche : plan de remboursement mois par mois, date de fin des dettes et intérêts économisés, plus un thermomètre à imprimer. Sans macros.",
+      "p13.t": "Liste de dettes boule de neige GRATUITE (Lite)",
+      "p13.d": "Liste gratuite pour 10 dettes maximum : totaux, ordre boule de neige, et quelle dette rembourser en premier et de combien. Excel et Google Sheets.",
+      "p14.t": "Suivi des dividendes et du portefeuille d'investissement (Excel + Google Sheets)",
+      "p14.d": "Notez achats, ventes et dividendes : prix de revient moyen, plus/moins-values, rendement sur coût, calendrier des dividendes et tableau de bord. Outil de suivi personnel, sans conseil en investissement.",
+      "p15.t": "Suivi d'habitudes 2027 GRATUIT pour Notion",
+      "p15.d": "Suivi d'habitudes Notion gratuit : six habitudes quotidiennes à cocher, un score du jour et une barre de progression, des vues par semaine et par mois, et une page de bilan mensuel.",
       "pall.t": "Tous les produits sur Patreon",
       "pall.d": "Voir tous les modèles payants et gratuits en un seul endroit sur la page Patreon.",
       "prod.all": "Ouvrir Patreon",
@@ -448,6 +480,14 @@
       "p10.d": "Notion-Planer, in dem Ziele ihren Fortschritt aus Quartals-OKRs, Projekten und Geldzielen berechnen. Monatliche Gewohnheitsstatistiken plus Wochen-, Monats- und Jahresrückblicke.",
       "p11.t": "Ziel- & Lebensplaner 2027 Lite für Notion",
       "p11.d": "Kostenloser Notion-Planer: Jahresvision, Ziele mit Fortschrittsbalken und Countdown der verbleibenden Tage, wöchentlicher Gewohnheitstracker und Monatsrückblick.",
+      "p12.t": "Schulden-Tilgungstracker: Schneeball & Lawine (Excel + Google Sheets)",
+      "p12.d": "Bis zu 15 Schulden, Schneeball- oder Lawinenmethode: monatlicher Tilgungsplan, Datum der Schuldenfreiheit und gesparte Zinsen, dazu ein Schuldenthermometer zum Ausdrucken. Ohne Makros.",
+      "p13.t": "KOSTENLOSE Schneeball-Schuldenliste (Lite)",
+      "p13.d": "Kostenlose Liste für bis zu 10 Schulden: Summen, Schneeball-Reihenfolge und welche Schuld du zuerst mit wie viel tilgst. Excel und Google Sheets.",
+      "p14.t": "Dividenden- & Depot-Tracker (Excel + Google Sheets)",
+      "p14.d": "Käufe, Verkäufe und Dividenden erfassen: Durchschnittskurs, Gewinn/Verlust, Yield on Cost, Dividendenkalender und Dashboard. Ein Werkzeug zur persönlichen Dokumentation, keine Anlageberatung.",
+      "p15.t": "KOSTENLOSER Gewohnheitstracker 2027 für Notion",
+      "p15.d": "Kostenloser Notion-Gewohnheitstracker: sechs tägliche Gewohnheiten zum Abhaken, Tagesscore und Fortschrittsbalken, Wochen- und Monatsansichten sowie eine Seite für den Monatsrückblick.",
       "pall.t": "Alle Produkte auf Patreon",
       "pall.d": "Sieh alle kostenpflichtigen und kostenlosen Vorlagen an einem Ort auf der Patreon-Seite.",
       "prod.all": "Patreon öffnen",
@@ -536,6 +576,14 @@
       "p10.d": "Notion 规划器：目标进度根据季度 OKR、项目和储蓄目标自动更新。提供月度习惯统计，以及每周、每月和年终回顾。",
       "p11.t": "2027 目标与生活规划器 Lite（Notion）",
       "p11.d": "免费 Notion 规划器：年度愿景、带进度条的目标和剩余天数倒计时、每周习惯追踪器以及月度回顾。",
+      "p12.t": "债务雪球法与雪崩法还款追踪表（Excel + Google Sheets）",
+      "p12.d": "最多 15 笔债务，可选雪球法或雪崩法：逐月还款计划、无债日期和节省的利息，另附可打印的无债温度计。无宏。",
+      "p13.t": "免费债务雪球清单（Lite）",
+      "p13.d": "免费清单，最多 10 笔债务：汇总、雪球顺序，以及先还哪笔、还多少。适用于 Excel 和 Google Sheets。",
+      "p14.t": "股息与投资组合追踪表（Excel + Google Sheets）",
+      "p14.d": "记录买入、卖出和股息：平均成本、盈亏、成本收益率、股息日历和仪表盘。个人记账工具，不提供投资建议。",
+      "p15.t": "免费 2027 习惯追踪器（Notion）",
+      "p15.d": "免费 Notion 习惯追踪器：六个每日习惯一键打勾，每日得分和进度条，按周和按月视图，另附月度复盘页面。",
       "pall.t": "Patreon 上的所有产品",
       "pall.d": "在 Patreon 页面一次性查看所有付费和免费模板。",
       "prod.all": "打开 Patreon",
@@ -558,6 +606,15 @@
       url: "https://www.patreon.com/DmitryZhuk/posts/2027-goal-life-173353268" },
     { t: "p11.t", free: true, img: "assets/goal-planner-2027-lite.webp", d: "p11.d", cta: "prod.get",
       url: "https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6" },
+    // debt payoff and investing
+    { t: "p12.t", price: "$4", img: "assets/debt-snowball-tracker.webp", d: "p12.d",
+      url: "https://www.patreon.com/DmitryZhuk/posts/debt-snowball-173357853" },
+    { t: "p13.t", free: true, img: "assets/debt-snowball-tracker.webp", d: "p13.d", cta: "prod.get",
+      url: "https://www.patreon.com/DmitryZhuk/posts/free-debt-list-173358321" },
+    { t: "p14.t", price: "$9", img: "assets/dividend-portfolio-tracker.webp", d: "p14.d",
+      url: "https://www.patreon.com/DmitryZhuk/posts/dividend-tracker-173358402" },
+    { t: "p15.t", free: true, img: "assets/habit-tracker-2027-lite.webp", d: "p15.d", cta: "prod.get",
+      url: "https://www.patreon.com/DmitryZhuk/posts/free-habit-2027-173360383" },
     { title: "AI Skills Pack for Business", price: "$13", img: "assets/ai-skills.webp", d: "p1.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/ai-skills-pack-173304384" },
     { title: "Trading Journal Pro (Google Sheets & Excel)", price: "$14", img: "assets/trading-journal.webp", d: "p2.d",
@@ -570,7 +627,7 @@
       url: "https://www.patreon.com/DmitryZhuk/posts/free-budget-lite-173292612" },
     { t: "p6.t", free: true, img: "assets/ai-skills.webp", d: "p6.d", cta: "prod.github",
       url: "https://github.com/aiskillsdrop/ai-skills-for-business" },
-    // closing tile: fills the last grid slot (12 cards = full rows at 1/2/3 columns)
+    // closing tile: last grid slot
     { t: "pall.t", more: true, d: "pall.d", cta: "prod.all",
       url: "https://www.patreon.com/DmitryZhuk" }
   ];
@@ -660,7 +717,7 @@
   // ---------- i18n ----------
   var onLang = [];
   function setMeta(sel, val) { var m = document.querySelector(sel); if (m) m.setAttribute("content", val); }
-  var PAGE_LANG = document.body ? document.body.getAttribute("data-page-lang") : null; // guides: "en" | "ru" content
+  var PAGE_LANG = document.body ? document.body.getAttribute("data-page-lang") : null; // guides: language of the page content
   function apply(code, noSave) {
     if (!T[code]) code = "en";
     cur = code;
@@ -698,14 +755,14 @@
     }
     // Guides links follow the language: Russian guides for RU, English guides otherwise
     Array.prototype.forEach.call(document.querySelectorAll('a[data-i18n="nav.guides"], a[data-guides-link]'), function (a) {
-      a.setAttribute("href", code === "ru" ? "/guides/ru/" : "/guides/");
+      a.setAttribute("href", code === "en" ? "/guides/" : "/guides/" + code + "/");
     });
     if (!noSave) { try { localStorage.setItem("mp_lang", code); } catch (e) {} }
     onLang.forEach(function (f) { f(); });
   }
   function detect() {
     try { var q = new URLSearchParams(location.search).get("lang"); if (q && T[q]) return q; } catch (e) {}
-    if (PAGE_LANG === "ru") return "ru"; // Russian guide page: Russian UI (not saved as a preference)
+    if (PAGE_LANG && PAGE_LANG !== "en" && T[PAGE_LANG]) return PAGE_LANG; // translated guide page: its language (not saved as a preference)
     try { var s = localStorage.getItem("mp_lang"); if (s && T[s]) return s; } catch (e) {}
     var list = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || "en"];
     for (var i = 0; i < list.length; i++) {
@@ -719,7 +776,7 @@
   function startLang() {
     var c = detect(), q = null;
     try { q = new URLSearchParams(location.search).get("lang"); } catch (e) {}
-    apply(c, PAGE_LANG === "ru" && !(q && T[q])); // landing on a Russian guide doesn't overwrite the saved choice
+    apply(c, !!PAGE_LANG && PAGE_LANG !== "en" && !(q && T[q])); // landing on a translated guide doesn't overwrite the saved choice
   }
 
   // ---------- Language switcher: dropdown in the header (order = LANGS: UK, EN, FR, DE, 中文, RU) ----------
@@ -742,8 +799,8 @@
       b.appendChild(el("b", null, l.short)); b.appendChild(el("span", null, l.name));
       b.addEventListener("click", function () {
         apply(l.code); closeMenu(true);
-        // guides exist in EN and RU: switching language opens the matching version of the same page
-        var want = l.code === "ru" ? "ru" : "en";
+        // guides exist in every site language: switching language opens the matching version of the same page
+        var want = document.body.getAttribute("data-alt-" + l.code) ? l.code : "en";
         if (PAGE_LANG && PAGE_LANG !== want) {
           var to = document.body.getAttribute("data-alt-" + want);
           if (to) location.href = to + "?lang=" + l.code + location.hash;

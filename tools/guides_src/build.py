@@ -55,83 +55,61 @@ G=[
        [("Budget &amp; Expense Tracker",P("budget-expense-173290094"),1),("Free Budget Lite",P("free-budget-lite-173292612"),0)])),
 ]
 
-# Russian versions: same slugs, same numbers, same product links (pages in guides/ru/)
-RU={
- "how-to-plan-christmas-budget-2026": dict(
-  title="Как спланировать бюджет на Рождество 2026: пошагово",
-  h1="Как спланировать рождественский бюджет на 2026 год (пошагово)",
-  desc="Рождественский бюджет на 2026 год шаг за шагом: общая сумма по средствам, лимиты на подарки, скрытые расходы, пример таблицы и советы по учёту трат.",
-  card="Общая сумма, лимит на подарок каждому, скрытые расходы и учёт трат — с примером бюджета на $800.",
-  cta=("Ведите рождественский бюджет в готовой таблице",
-       "Таблица «Бюджет и список подарков на Рождество 2026» для Excel и Google Sheets включает список подарков с планом и фактом, праздничные траты по категориям и панель с диаграммами. Нужен только список подарков? Бесплатная версия отслеживает бюджет, фактическую цену и статус «куплен / упакован» для каждого подарка.",
-       ["Бюджет и список подарков на Рождество 2026 ($4)","Бесплатный список подарков на Рождество"])),
- "savings-challenges-2027": dict(
-  title="16 челленджей накоплений на 2027 год (с реальными итогами)",
-  h1="16 челленджей накоплений на 2027 год: как работает каждый и реальные итоги",
-  desc="16 челленджей накоплений на 2027 год: 52 недели ($1 378), 100 конвертов ($5 050), 26 недель, челлендж по центу и другие — с точными годовыми итогами.",
-  card="52 недели, 100 конвертов, 26 недель, по центу и ещё 12 челленджей — с точными итогами и сводной таблицей.",
-  cta=("Распечатайте свой челлендж и закрашивайте клеточки",
-       "«Набор челленджей накоплений 2027» — это 16 челленджей для печати (52 недели, 100 конвертов, $10 000 и другие) в форматах A6, A4 и US Letter, а также трекер Excel с автоматическими итогами.",
-       ["Набор челленджей накоплений 2027 ($4)"])),
- "how-to-set-goals-2027": dict(
-  title="Как ставить цели на 2027 год и не бросать их",
-  h1="Как ставить цели на 2027 год, которых вы действительно будете придерживаться",
-  desc="Простая система целей на 2027 год: видение года по сферам жизни, 3–5 целей, квартальные OKR, еженедельные действия и чек-лист ежемесячного обзора.",
-  card="Видение года, 3–5 целей, квартальные OKR с разобранным примером, еженедельные действия и ежемесячный обзор.",
-  cta=("Ведите эту систему в Notion",
-       "«Планировщик целей и жизни 2027 Pro» для Notion связывает цели с квартальными OKR, проектами и финансовыми целями, так что прогресс обновляется автоматически; в нём есть статистика привычек и еженедельные, ежемесячные и годовые обзоры. Хотите начать бесплатно? В версии Lite есть видение года, цели с индикаторами прогресса, недельный трекер привычек и ежемесячный обзор.",
-       ["Планировщик целей и жизни 2027 Pro ($9)","Бесплатная версия Lite для Notion"])),
- "how-to-keep-a-trading-journal": dict(
-  title="Как вести журнал трейдера: что записывать и зачем",
-  h1="Как вести журнал трейдера: что записывать и зачем",
-  desc="Что записывать в журнал трейдера и зачем: поля сделки, R-мультипликатор, доля прибыльных сделок, матожидание и просадка — простыми словами. Только для обучения.",
-  card="Какие поля записывать по каждой сделке, как считать R и какие метрики важны при разборе. Только для обучения.",
-  cta=("Возьмите готовый шаблон журнала",
-       "Trading Journal Pro для Google Sheets и Excel автоматически считает долю прибыльных сделок, R-мультипликатор и P&amp;L, а также включает дашборд и разбор ошибок. Бесплатная версия Lite — простой способ начать вести записи уже сегодня. Шаблоны — это инструменты учёта, а не торговые рекомендации.",
-       ["Trading Journal Pro","Бесплатный Trading Journal Lite"])),
- "simple-monthly-budget-for-beginners": dict(
-  title="Простой месячный бюджет для начинающих: 50/30/20 и нулевой баланс",
-  h1="Простой месячный бюджет для начинающих: правило 50/30/20 и бюджет с нулевым балансом",
-  desc="Составьте простой месячный бюджет: посчитайте чистый доход, попробуйте правило 50/30/20 или бюджет с нулевым балансом на примерах с $3 000 и спланируйте целевые фонды.",
-  card="Чистый доход, обязательные платежи, правило 50/30/20 и бюджет с нулевым балансом на разобранных примерах с $3 000.",
-  cta=("Начните с шаблона бюджета",
-       "Budget &amp; Expense Tracker охватывает доходы, расходы по категориям, цели накоплений и наглядные графики по месяцам. Если хотите начать с простого, Budget Lite бесплатен: доходы, расходы и остаток в одной таблице.",
-       ["Budget &amp; Expense Tracker","Бесплатный Budget Lite"])),
-}
-NB=lambda s: re.sub(r'(\$\d{1,3}) (\d{3})', '\\1\u00a0\\2', s)  # "$1 378" -> non-breaking thousands space
-L10N={
- "en": dict(dir="", up="../", og="en_US", guides="Guides", more="More guides", upd="Updated {d} · {m} min read",
-            date=DATE_H, nav=("News","Products","Guides"),
-            foot=("Not investment advice.","All content is for informational purposes only. Trading in financial markets involves risk of loss.","All rights reserved.","Terms of Use","No trackers, no forms, no data collection."),
-            crumbs="Breadcrumb", cta_label="Template"),
- "ru": dict(dir="ru/", up="../../", og="ru_RU", guides="Гайды", more="Другие гайды", upd="Обновлено {d} · {m} мин чтения",
-            date="25 октября 2026 г.", nav=("Новости","Продукты","Гайды"),
-            foot=("Не является инвестиционной рекомендацией.","Все материалы носят исключительно ознакомительный характер. Торговля на финансовых рынках связана с риском потери средств.","Все права защищены.","Условия использования","Без трекеров, без форм, без сбора данных."),
-            crumbs="Навигация", cta_label="Шаблон"),
-}
-# <html lang> before first paint. EN guide pages: if the visitor's language (?lang= > saved choice > browser) is RU,
-# go to the Russian version of the same page. RU guide pages: an explicit ?lang= other than ru goes to the English page.
+
+# Other languages: same slugs, same numbers, same product links. Texts live in <lang>/meta.json, bodies in <lang>/*.html
+LANGS=["en","ru","uk","fr","de","zh"]
+INFO={ # html lang, hreflang, og:locale, langCur label, reading speed (words/min; zh: chars/min)
+ "en":("en","en","en_US","EN",220), "ru":("ru","ru","ru_RU","RU",180), "uk":("uk","uk","uk_UA","UK",180),
+ "fr":("fr","fr","fr_FR","FR",200), "de":("de","de","de_DE","DE",180), "zh":("zh-CN","zh-Hans","zh_CN","中文",400)}
+def FMT(lang, s):
+    """native number typography: non-breaking thousands/currency/percent spaces"""
+    if lang in ("ru","uk"):
+        return re.sub(r'(\$\d{1,3}) (\d{3})', '\\1\u00a0\\2', s)
+    if lang=="fr":
+        s=re.sub(r'(?<![\d,.])(\d{1,3})[ \u00a0\u202f](\d{3})(?=(?:,\d+)?[ \u00a0]?(?:\$|%|€))', '\\1\u202f\\2', s)
+    if lang in ("fr","de"):
+        s=re.sub(r'(\d) (\$|%)', '\\1\u00a0\\2', s)
+    return s
+EN_META=dict(glabel="Guides", more="More guides", upd="Updated {d} · {m} min read", date=DATE_H, nav=["News","Products","Guides"],
+  foot=["Not investment advice.","All content is for informational purposes only. Trading in financial markets involves risk of loss.","All rights reserved.","Terms of Use","No trackers, no forms, no data collection."],
+  crumbs="Breadcrumb", cta_label="Template",
+  index=dict(title="Guides: Budgeting, Saving & Goal Planning | Market Plus",
+    desc="Free step-by-step guides: Christmas budget 2026, 16 savings challenges for 2027, goal setting with OKRs, a beginner budget and trading journals.",
+    h1="Guides: budgeting, saving, goals and trading journals", upd=f"Practical, plain-English guides. Updated {DATE_H}.",
+    intro="Step-by-step guides to planning your money and your year: a Christmas budget, savings challenges with real totals, a goal system for 2027, a beginner's monthly budget and how to keep a trading journal. Everything here is general education, not financial advice.",
+    outro='Looking for ready-made templates? See all <a href="../#products">products</a> or visit <a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a>.'))
+def fmt_all(lang, o):
+    if isinstance(o,str): return FMT(lang,o)
+    if isinstance(o,list): return [fmt_all(lang,x) for x in o]
+    if isinstance(o,dict): return {k:fmt_all(lang,v) for k,v in o.items()}
+    return o
+L10N={"en":dict(EN_META, dir="", up="../")}
+for lang in LANGS[1:]:
+    m=fmt_all(lang, json.load(open(os.path.join(SRC,lang,"meta.json"))))
+    L10N[lang]=dict(m, dir=lang+"/", up="../../")
+# <html lang> before first paint. EN guide pages: the visitor's language (?lang= > saved choice > browser) other than EN
+# goes to the same guide in that language. Other guide pages keep their language unless ?lang= asks for another one.
 def head_script(lang, alt):
+    A=json.dumps(alt, separators=(",",":"))
     if lang=="en":
-        go=f'if(c==="ru"){{try{{location.replace("{alt}"+location.hash)}}catch(e){{}}}}'
-        return f'''<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language; RU visitors get the Russian guide */
-(function(){{var L={{uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"}},c=null;
+        return f'''<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language; non-English visitors get the guide in their language */
+(function(){{var L={{uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"}},A={A},c=null;
 try{{c=new URLSearchParams(location.search).get("lang")}}catch(e){{}}
 if(!L[c]){{try{{c=localStorage.getItem("mp_lang")}}catch(e){{}}}}
 if(!L[c]){{var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){{var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){{c=x;break}}}}}}
-{go}
+if(c&&A[c]){{try{{location.replace(A[c]+location.search+location.hash)}}catch(e){{}}}}
 document.documentElement.lang=L[c]||"en";}})();</script>'''
-    return f'''<script>/* Russian guide page: Russian UI unless ?lang= asks for another language (then the English page) */
-(function(){{var L={{uk:1,en:1,fr:1,de:1,zh:1}},c=null;
+    return f'''<script>/* {lang} guide page: this language unless ?lang= asks for another one (then that language's page) */
+(function(){{var A={A},c=null;
 try{{c=new URLSearchParams(location.search).get("lang")}}catch(e){{}}
-if(L[c]){{try{{location.replace("{alt}?lang="+c+location.hash)}}catch(e){{}}}}
-document.documentElement.lang="ru";}})();</script>'''
+if(c&&A[c]){{try{{location.replace(A[c]+"?lang="+c+location.hash)}}catch(e){{}}}}
+document.documentElement.lang="{INFO[lang][0]}";}})();</script>'''
 idx=open(os.path.join(ROOT,"index.html")).read()
 GLOBE=re.search(r'<button type="button" class="lang-btn".*?</button>', idx, re.S).group(0)
 XSVG=re.search(r'(<a class="xbtn".*?</a>)', idx, re.S).group(1)
 def header(lang):
-    l=L10N[lang]; up=l["up"]; n=l["nav"]
-    g=GLOBE if lang=="en" else GLOBE.replace('<span id="langCur">EN</span>','<span id="langCur" lang="en" translate="no">RU</span>')
+    l=L10N[lang]; up=l["up"]; n=l["nav"]; s=INFO[lang][3]
+    g=GLOBE if lang=="en" else GLOBE.replace('<span id="langCur">EN</span>',f'<span id="langCur" lang="{"en" if re.search("[A-Za-z]",s) else INFO[lang][0]}" translate="no">{s}</span>')
     return f'''<header class="top"><div class="wrap">
   <div class="brand">
     <a class="logo" href="{up}"><img src="{up}favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
@@ -155,31 +133,32 @@ def foot(lang):
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">{f[2]}</span> · <a href="./" data-i18n="nav.guides">{l["nav"][2]}</a> · <a href="{up}terms.html" data-i18n="foot.terms">{f[3]}</a></div>
   <div class="fpriv" data-i18n="foot.priv">{f[4]}</div>
 </div></footer>
-<script src="{up}app.js?v=1792933333" defer></script>'''
-def page(lang, title, desc, url, alt, img, body, jsonld, ogtype="article"):
-    l=L10N[lang]; up=l["up"]
+<script src="{up}app.js?v=1792944444" defer></script>'''
+def page(lang, title, desc, urls, img, body, jsonld, ogtype="article"):
+    """urls: {lang: absolute URL} of this page in every language"""
+    l=L10N[lang]; up=l["up"]; url=urls[lang]
     t=html.escape(title, quote=True); d=html.escape(desc, quote=True)
-    en_url, ru_url = (url, alt) if lang=="en" else (alt, url)
-    alt_rel = os.path.relpath(urlpath(alt), os.path.dirname(urlpath(url)) if not url.endswith("/") else urlpath(url))
+    hl="\n".join(f'<link rel="alternate" hreflang="{INFO[x][1]}" href="{urls[x]}">' for x in LANGS)+f'\n<link rel="alternate" hreflang="x-default" href="{urls["en"]}">'
+    ogalt="\n".join(f'<meta property="og:locale:alternate" content="{INFO[x][2]}">' for x in LANGS if x!=lang)
+    alt={x:urlpath(urls[x]) for x in LANGS if x!=lang}
+    dalt=" ".join(f'data-alt-{x}="{urlpath(urls[x])}"' for x in LANGS)
     return f'''<!doctype html>
-<html lang="{lang}">
+<html lang="{INFO[lang][0]}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{t}</title>
 <meta name="description" content="{d}">
 <link rel="canonical" href="{url}">
-<link rel="alternate" hreflang="en" href="{en_url}">
-<link rel="alternate" hreflang="ru" href="{ru_url}">
-<link rel="alternate" hreflang="x-default" href="{en_url}">
+{hl}
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="#0b0b0d">
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="{up}favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="{ogtype}">
 <meta property="og:site_name" content="Market Plus">
-<meta property="og:locale" content="{l["og"]}">
-<meta property="og:locale:alternate" content="{L10N["ru" if lang=="en" else "en"]["og"]}">
+<meta property="og:locale" content="{INFO[lang][2]}">
+{ogalt}
 <meta property="og:title" content="{t}">
 <meta property="og:description" content="{d}">
 <meta property="og:url" content="{url}">
@@ -193,13 +172,13 @@ def page(lang, title, desc, url, alt, img, body, jsonld, ogtype="article"):
 <meta name="twitter:image" content="{img}">
 <meta name="twitter:site" content="@MarketPulseGold">
 <link rel="stylesheet" href="{up}style.css?v=8">
-{head_script(lang, alt_rel if alt_rel.endswith(".html") else alt_rel.rstrip("/")+"/")}
+{head_script(lang, alt)}
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
 </head>
-<body data-static-meta data-page-lang="{lang}" data-alt-en="{urlpath(en_url)}" data-alt-ru="{urlpath(ru_url)}">
+<body data-static-meta data-page-lang="{lang}" {dalt}>
 {header(lang)}
 
-<main id="top" lang="{lang}">
+<main id="top" lang="{INFO[lang][0]}">
 {body}
 </main>
 
@@ -218,81 +197,66 @@ def ctabox(c, lang):
 def wrap_tables(b):
     b=re.sub(r'<div class="tbl">\s*(<table>.*?</table>)\s*</div>', r'\1', b, flags=re.S)
     return re.sub(r'(<table>.*?</table>)', r'<div class="tbl">\1</div>', b, flags=re.S)
-def words(s): return len(re.sub(r'<[^>]+>',' ',s).split())
+def words(s, lang):
+    t=re.sub(r'<[^>]+>',' ',s)
+    if lang=="zh": return len(re.findall(r'[\u4e00-\u9fff]', t))+len(re.findall(r'[A-Za-z0-9]+', t))
+    return len(t.split())
 def loc(g, lang):
-    """guide fields in a language; RU reuses the EN product URLs and button styles"""
+    """guide fields in a language; translations reuse the EN product URLs and button styles"""
     if lang=="en": return g
-    r=RU[g["slug"]]; h,p,names=r["cta"]
-    assert len(names)==len(g["cta"][2])
-    return dict(g, title=NB(r["title"]), h1=NB(r["h1"]), desc=NB(r["desc"]), card=NB(r["card"]), src="ru/"+g["src"],
-                cta=(NB(h), NB(p), [(NB(nm),u,gold) for nm,(_,u,gold) in zip(names, g["cta"][2])]))
+    r=L10N[lang]["guides"][g["slug"]]; names=r["buttons"]
+    assert len(names)==len(g["cta"][2]), (lang, g["slug"])
+    return dict(g, title=r["title"], h1=r["h1"], desc=r["desc"], card=r["card"], src=lang+"/"+g["src"],
+                cta=(r["cta_h"], r["cta_p"], [(nm,u,gold) for nm,(_,u,gold) in zip(names, g["cta"][2])]))
 def gurl(lang, slug=None): return f"{SITE}/guides/{L10N[lang]['dir']}" + (f"{slug}.html" if slug else "")
-smap=[]
-for lang in ("en","ru"):
+smap=[]; idxmap=[]
+for lang in LANGS:
     l=L10N[lang]; os.makedirs(os.path.join(OUT, l["dir"]), exist_ok=True)
     GL=[loc(g,lang) for g in G]
     for g in GL:
-        other="ru" if lang=="en" else "en"
-        url=gurl(lang,g['slug']); alt=gurl(other,g['slug']); img=f"{SITE}/assets/{g['img']}"
-        body=open(os.path.join(SRC,g['src'])).read()
-        if lang=="ru": body=NB(body)
-        body=re.sub(r'<div class="cta-box" data-cta="\d"></div>', ctabox(g['cta'],lang), body)
+        urls={x:gurl(x,g['slug']) for x in LANGS}; url=urls[lang]; img=f"{SITE}/assets/{g['img']}"
+        body=FMT(lang, open(os.path.join(SRC,g['src'])).read())
+        body=re.sub(r'<div class="cta-box" data-cta="\d"></div>', lambda m: ctabox(g['cta'],lang), body)
         body=wrap_tables(body)
-        wc=words(body); mins=max(1,round(wc/(220 if lang=="en" else 180)))
+        wc=words(body, lang); mins=max(1,round(wc/INFO[lang][4]))
         rel=[o for o in GL if o["slug"]!=g["slug"]]
         related=f'<section class="related"><h2>{l["more"]}</h2><ul class="glist">'+"".join(f'<li><a class="gcard" href="{o["slug"]}.html"><b>{html.escape(o["h1"])}</b><span>{html.escape(o["card"])}</span></a></li>' for o in rel)+'</ul></section>'
         art=f'''<article class="wrap guide">
-  <nav class="crumbs" aria-label="{l["crumbs"]}"><a href="{l["up"]}" lang="en" translate="no">Market Plus</a> › <a href="./">{l["guides"]}</a></nav>
+  <nav class="crumbs" aria-label="{l["crumbs"]}"><a href="{l["up"]}" lang="en" translate="no">Market Plus</a> › <a href="./">{l["glabel"]}</a></nav>
   <h1>{html.escape(g['h1'])}</h1>
   <p class="upd">{l["upd"].format(d=l["date"], m=mins)}</p>
 {body}
 {related}
 </article>'''
         ld={"@context":"https://schema.org","@graph":[{"@type":"Article","headline":g['title'],"description":g['desc'],"image":[img],
-            "datePublished":DATE,"dateModified":DATE,"inLanguage":lang,"wordCount":wc,"mainEntityOfPage":{"@type":"WebPage","@id":url},
+            "datePublished":DATE,"dateModified":DATE,"inLanguage":INFO[lang][0],"wordCount":wc,"mainEntityOfPage":{"@type":"WebPage","@id":url},
             "author":{"@type":"Organization","name":"Market Plus","url":SITE+"/"},"publisher":PUB},
-            crumbs([("Market Plus",SITE+"/"),(l["guides"],gurl(lang)),(g['h1'],url)])]}
-        open(os.path.join(OUT, l["dir"], g['slug']+".html"),"w").write(page(lang,g['title'],g['desc'],url,alt,img,art,ld))
-        smap.append((url,"monthly","0.7",alt))
-        print(lang, g['slug'], wc, len(g['title']), len(g['desc']))
+            crumbs([("Market Plus",SITE+"/"),(l["glabel"],gurl(lang)),(g['h1'],url)])]}
+        open(os.path.join(OUT, l["dir"], g['slug']+".html"),"w").write(page(lang,g['title'],g['desc'],urls,img,art,ld))
+        smap.append((url,"monthly","0.7",urls))
+        print(lang, g['slug'], wc, mins, len(g['title']), len(g['desc']))
     # index
-    url=gurl(lang); alt=gurl("ru" if lang=="en" else "en")
+    urls={x:gurl(x) for x in LANGS}; url=urls[lang]; ix=l["index"]
     cards="".join(f'<li><a class="gcard" href="{g["slug"]}.html"><b>{html.escape(g["h1"])}</b><span>{html.escape(g["card"])}</span></a></li>' for g in GL)
-    if lang=="en":
-        H1="Guides: budgeting, saving, goals and trading journals"
-        UPD=f"Practical, plain-English guides. Updated {DATE_H}."
-        INTRO="Step-by-step guides to planning your money and your year: a Christmas budget, savings challenges with real totals, a goal system for 2027, a beginner's monthly budget and how to keep a trading journal. Everything here is general education, not financial advice."
-        OUTRO='Looking for ready-made templates? See all <a href="../#products">products</a> or visit <a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a>.'
-        T="Guides: Budgeting, Saving & Goal Planning | Market Plus"
-        D="Free step-by-step guides: Christmas budget 2026, 16 savings challenges for 2027, goal setting with OKRs, a beginner budget and trading journals."
-    else:
-        H1="Гайды: бюджет, накопления, цели и журнал трейдера"
-        UPD="Практичные руководства простым языком. Обновлено 25 октября 2026 г."
-        INTRO="Пошаговые руководства по планированию денег и года: рождественский бюджет, челленджи накоплений с реальными итогами, система целей на 2027 год, месячный бюджет для начинающих и ведение журнала трейдера. Всё здесь — общая образовательная информация, а не финансовая рекомендация."
-        OUTRO='Ищете готовые шаблоны? Смотрите все <a href="../../#products">продукты</a> или загляните на <a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener" lang="en" translate="no">Patreon</a>.'
-        T="Гайды: бюджет, накопления и планирование целей | Market Plus"
-        D="Бесплатные пошаговые гайды: рождественский бюджет 2026, 16 челленджей накоплений на 2027 год, постановка целей с OKR, бюджет для начинающих и журнал трейдера."
     body=f'''<article class="wrap guide">
-  <nav class="crumbs" aria-label="{l["crumbs"]}"><a href="{l["up"]}" lang="en" translate="no">Market Plus</a> › {l["guides"]}</nav>
-  <h1>{H1}</h1>
-  <p class="upd">{UPD}</p>
-  <p>{INTRO}</p>
+  <nav class="crumbs" aria-label="{l["crumbs"]}"><a href="{l["up"]}" lang="en" translate="no">Market Plus</a> › {l["glabel"]}</nav>
+  <h1>{ix["h1"]}</h1>
+  <p class="upd">{ix["upd"]}</p>
+  <p>{ix["intro"]}</p>
   <ul class="glist">{cards}</ul>
-  <p style="margin-top:28px">{OUTRO}</p>
+  <p style="margin-top:28px">{ix["outro"]}</p>
 </article>'''
-    ld={"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":l["guides"]+" — Market Plus","url":url,"description":D,"inLanguage":lang,"publisher":PUB,
+    ld={"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":l["glabel"]+" — Market Plus","url":url,"description":ix["desc"],"inLanguage":INFO[lang][0],"publisher":PUB,
         "mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":i+1,"url":gurl(lang,g['slug']),"name":g['h1']} for i,g in enumerate(GL)]}},
-        crumbs([("Market Plus",SITE+"/"),(l["guides"],url)])]}
-    open(os.path.join(OUT, l["dir"], "index.html"),"w").write(page(lang,T,D,url,alt,SITE+"/assets/budget-tracker.webp",body,ld,ogtype="website"))
-    smap.insert(0 if lang=="en" else 1,(url,"weekly","0.8",alt))
-    print(lang,"index",len(T),len(D))
-# sitemap with hreflang alternates for the EN/RU guide pairs
-def alts(u,a):
+        crumbs([("Market Plus",SITE+"/"),(l["glabel"],url)])]}
+    open(os.path.join(OUT, l["dir"], "index.html"),"w").write(page(lang,ix["title"],ix["desc"],urls,SITE+"/assets/budget-tracker.webp",body,ld,ogtype="website"))
+    idxmap.append((url,"weekly","0.8",urls))
+    print(lang,"index",len(ix["title"]),len(ix["desc"]))
+# sitemap with hreflang alternates for every language version
+def alts(a):
     if not a: return ""
-    en,ru=(u,a) if "/guides/ru/" not in u else (a,u)
-    return (f'\n    <xhtml:link rel="alternate" hreflang="en" href="{en}"/>\n    <xhtml:link rel="alternate" hreflang="ru" href="{ru}"/>'
-            f'\n    <xhtml:link rel="alternate" hreflang="x-default" href="{en}"/>\n  ')
-urls=[(SITE+"/","daily","1.0",None)]+smap+[(SITE+"/terms.html","yearly","0.2",None)]
+    return "".join(f'\n    <xhtml:link rel="alternate" hreflang="{INFO[x][1]}" href="{a[x]}"/>' for x in LANGS)+f'\n    <xhtml:link rel="alternate" hreflang="x-default" href="{a["en"]}"/>\n  '
+urls=[(SITE+"/","daily","1.0",None)]+idxmap+smap+[(SITE+"/terms.html","yearly","0.2",None)]
 sm=('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
-    +"".join(f"  <url><loc>{u}</loc><lastmod>{DATE}</lastmod><changefreq>{c}</changefreq><priority>{p}</priority>{alts(u,a)}</url>\n" for u,c,p,a in urls)+"</urlset>\n")
+    +"".join(f"  <url><loc>{u}</loc><lastmod>{DATE}</lastmod><changefreq>{c}</changefreq><priority>{p}</priority>{alts(a)}</url>\n" for u,c,p,a in urls)+"</urlset>\n")
 open(os.path.join(ROOT,"sitemap.xml"),"w").write(sm)

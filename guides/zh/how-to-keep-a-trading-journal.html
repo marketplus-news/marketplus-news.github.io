@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>如何记交易日志：记录什么、为什么记录</title>
+<meta name="description" content="交易日志该记录什么、为什么：每笔交易的字段、R 倍数、胜率、期望值和回撤，通俗讲解。仅供学习。">
+<link rel="canonical" href="https://marketplus-news.github.io/guides/zh/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="en" href="https://marketplus-news.github.io/guides/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="ru" href="https://marketplus-news.github.io/guides/ru/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="uk" href="https://marketplus-news.github.io/guides/uk/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="fr" href="https://marketplus-news.github.io/guides/fr/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="de" href="https://marketplus-news.github.io/guides/de/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://marketplus-news.github.io/guides/zh/how-to-keep-a-trading-journal.html">
+<link rel="alternate" hreflang="x-default" href="https://marketplus-news.github.io/guides/how-to-keep-a-trading-journal.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:locale:alternate" content="uk_UA">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="de_DE">
+<meta property="og:title" content="如何记交易日志：记录什么、为什么记录">
+<meta property="og:description" content="交易日志该记录什么、为什么：每笔交易的字段、R 倍数、胜率、期望值和回撤，通俗讲解。仅供学习。">
+<meta property="og:url" content="https://marketplus-news.github.io/guides/zh/how-to-keep-a-trading-journal.html">
+<meta property="og:image" content="https://marketplus-news.github.io/assets/trading-journal.webp">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="450">
+<meta property="article:published_time" content="2026-10-25">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="如何记交易日志：记录什么、为什么记录">
+<meta name="twitter:description" content="交易日志该记录什么、为什么：每笔交易的字段、R 倍数、胜率、期望值和回撤，通俗讲解。仅供学习。">
+<meta name="twitter:image" content="https://marketplus-news.github.io/assets/trading-journal.webp">
+<meta name="twitter:site" content="@MarketPulseGold">
+<link rel="stylesheet" href="../../style.css?v=8">
+<script>/* zh guide page: this language unless ?lang= asks for another one (then that language's page) */
+(function(){var A={"en":"/guides/how-to-keep-a-trading-journal.html","ru":"/guides/ru/how-to-keep-a-trading-journal.html","uk":"/guides/uk/how-to-keep-a-trading-journal.html","fr":"/guides/fr/how-to-keep-a-trading-journal.html","de":"/guides/de/how-to-keep-a-trading-journal.html"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(c&&A[c]){try{location.replace(A[c]+"?lang="+c+location.hash)}catch(e){}}
+document.documentElement.lang="zh-CN";})();</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "如何记交易日志：记录什么、为什么记录", "description": "交易日志该记录什么、为什么：每笔交易的字段、R 倍数、胜率、期望值和回撤，通俗讲解。仅供学习。", "image": ["https://marketplus-news.github.io/assets/trading-journal.webp"], "datePublished": "2026-10-25", "dateModified": "2026-10-25", "inLanguage": "zh-CN", "wordCount": 1895, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://marketplus-news.github.io/guides/zh/how-to-keep-a-trading-journal.html"}, "author": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/", "logo": {"@type": "ImageObject", "url": "https://marketplus-news.github.io/favicon.svg"}}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "指南", "item": "https://marketplus-news.github.io/guides/zh/"}, {"@type": "ListItem", "position": 3, "name": "如何记交易日志：记录什么、为什么记录", "item": "https://marketplus-news.github.io/guides/zh/how-to-keep-a-trading-journal.html"}]}]}</script>
+</head>
+<body data-static-meta data-page-lang="zh" data-alt-en="/guides/how-to-keep-a-trading-journal.html" data-alt-ru="/guides/ru/how-to-keep-a-trading-journal.html" data-alt-uk="/guides/uk/how-to-keep-a-trading-journal.html" data-alt-fr="/guides/fr/how-to-keep-a-trading-journal.html" data-alt-de="/guides/de/how-to-keep-a-trading-journal.html" data-alt-zh="/guides/zh/how-to-keep-a-trading-journal.html">
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="../../"><img src="../../favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <div class="lang-dd" id="langDD">
+      <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur" lang="zh-CN" translate="no">中文</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
+      <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
+    </div>
+  </div>
+  <nav class="main" aria-label="Main" data-i18n-aria="nav.aria">
+    <a class="hide-xs" href="../../#news" data-i18n="nav.news">资讯</a>
+    <a class="hide-sm" href="../../#products" data-i18n="nav.products">产品</a>
+    <a href="./" data-i18n="nav.guides">指南</a>
+    <a class="xbtn" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg></a>
+  </nav>
+</div></header>
+
+<main id="top" lang="zh-CN">
+<article class="wrap guide">
+  <nav class="crumbs" aria-label="面包屑导航"><a href="../../" lang="en" translate="no">Market Plus</a> › <a href="./">指南</a></nav>
+  <h1>如何记交易日志：记录什么、为什么记录</h1>
+  <p class="upd">更新于 2026 年 10 月 25 日 · 阅读约 5 分钟</p>
+<p class="note-box"><strong>仅供教育参考。</strong> 本指南介绍如何记录并复盘你的个人交易。其中不包含任何交易信号或策略建议，也不构成财务建议。交易涉及重大亏损风险。</p>
+<p>记忆力是记录交易的糟糕工具。盈利交易让你觉得自己身怀绝技，亏损交易让你觉得只是运气不佳，几周后往往很难说清到底发生了什么。交易日志能通过统一的事实标准记录每一笔交易，让你得以用真实数据而非主观印象来复盘自己的交易过程。日志无法让策略盈利或消除风险，但能让你看清自己是否遵守了既定规则，错误在哪里反复出现，以及实际承担的风险有多大。</p>
+
+<h2>为什么要写交易日志？</h2>
+<ul>
+<li><strong>检查纪律性。</strong> 你执行的是既定计划，还是临时起意做出来的交易？</li>
+<li><strong>客观衡量风险。</strong> 以金额和账户占比的形式展示单笔交易的风险，能让仓位过大的问题一目了然。</li>
+<li><strong>发现重复性错误</strong>，例如移动止损、追单入场或因无聊而交易。</li>
+<li><strong>区分过程与结果。</strong> 一笔交易可能完全遵循规则却亏损，也可能违反规则却盈利。长期来看，日志会显示哪些习惯有益，哪些有害。</li>
+</ul>
+
+<h2>每笔交易应记录的内容</h2>
+<p>每次使用相同的字段，并在进场前填写计划，此时你的推理尚未受到交易结果的影响。</p>
+<h3>交易前</h3>
+<ul>
+<li><strong>日期和时间</strong>（注明时区）以及<strong>交易标的</strong>，例如股票、货币对或指数。</li>
+<li><strong>方向</strong>：做多或做空。</li>
+<li><strong>交易形态（setup）及理由</strong>：用一两句话说明该交易为何符合你书面计划中的要求。</li>
+<li><strong>计划的入场价、止损位和目标位</strong>。</li>
+<li><strong>仓位大小</strong>：股数、合约数或手数。</li>
+<li><strong>风险金额</strong>：若触发止损将损失多少（止损距离 × 仓位大小），以及<strong>风险占账户的百分比</strong>。</li>
+</ul>
+<h3>交易后</h3>
+<ul>
+<li><strong>实际入场价和出场价</strong>，以及出场原因（止损、止盈或手动平仓）。</li>
+<li><strong>盈亏金额</strong>，分别记录扣除手续费、佣金及其他成本前后的数值。</li>
+<li><strong>R倍数</strong>（解释见下文）。</li>
+<li><strong>图表截图</strong>：入场时及出场时的图表状态。</li>
+<li><strong>情绪状态</strong>：平静、仓促、恐惧、过度自信、无聊。用一个词概括即可。</li>
+<li><strong>是否遵守规则？</strong> 简单的“是”或“否”。</li>
+<li><strong>错误与教训</strong>：如果有，你会做哪些不同的操作。</li>
+</ul>
+
+<h2>如何计算 R倍数</h2>
+<p>R倍数是用你计划承担的风险单位来衡量交易结果。“1R”指的是如果触发止损你将损失的金额。</p>
+<p><strong>R倍数 = 交易结果 ÷ 计划风险</strong></p>
+<p>示例：你以 $50 的价格买入 100 股，止损位设在 $48。你的计划风险是 100 × ($50 − $48) = <strong>$200</strong>，因此 1R = $200。对于一个 $10,000 的账户，这相当于账户资金的 2%。</p>
+<ul>
+<li>如果你在 $53 出场，结果是 100 × $3 = $300，即 <strong>+1.5R</strong>。</li>
+<li>如果止损位 $48 被触发，结果是 −$200，即 <strong>−1R</strong>。</li>
+<li>如果你在 $49 出场，结果是 −$100，即 <strong>−0.5R</strong>。</li>
+</ul>
+<p>使用 R倍数可以让不同规模的交易具有可比性，并立即暴露出许多日志所揭示的问题：亏损大于 −1R，这通常意味着止损被移动或被忽略。记得包含费用；在此例中，$2 的佣金会将 $300 的利润降至 $298。</p>
+
+<h2>日志示例行</h2>
+<div class="tbl"><table>
+<thead><tr><th>日期</th><th>品种</th><th>方向</th><th>入场</th><th>止损</th><th>仓位</th><th>风险</th><th>出场</th><th>净结果</th><th>R</th><th>守规则？</th></tr></thead>
+<tbody><tr><td>2026-11-02</td><td>XYZ 股票</td><td>做多</td><td>$50.00</td><td>$48.00</td><td>100</td><td>$200 (2%)</td><td>$53.00</td><td>+$298</td><td>+1.5</td><td>是</td></tr></tbody>
+</table></div>
+<p>其中的股票代码仅为占位符；此行仅展示各字段如何组合在一起。</p>
+
+<h2>每周与每月的指标复盘</h2>
+<p>记录只完成了一半工作。另一半工作是定期复盘。每周通读一次你的交易记录与笔记；每月计算几项关键数据。由于小样本具有噪声性，请将这些数据视为对过去的描述，而非对未来的预测。</p>
+<ul>
+<li><strong>交易次数</strong>，以及其中有多少笔遵守了规则。</li>
+<li><strong>胜率</strong> = 盈利交易数 ÷ 总交易数。</li>
+<li><strong>平均盈利与平均亏损</strong>，分别以金额和 R值为单位。</li>
+<li><strong>期望值</strong> = (胜率 × 平均盈利) − (亏损率 × 平均亏损)。它显示了该期间内每笔交易的平均结果。</li>
+<li><strong>最大回撤</strong>：账户余额从高点跌至随后低点的最大幅度。</li>
+<li><strong>总费用与成本。</strong></li>
+</ul>
+<p>通过这些数字的联动来说明它们为何重要：假设 20 笔交易的胜率为 40%，平均盈利为 +1.5R，平均亏损为 −1R。期望值 = 0.4 × 1.5 − 0.6 × 1 = <strong>0R</strong>。在扣除费用前，该期间盈亏平衡；扣除费用后即产生亏损，尽管其中某些单笔看似盈利颇丰。关于回撤：如果账户从 $10,500 涨至高点后跌至 $9,800，随后才创新高，那么最大回撤为 $700，约占峰值的 6.7%。</p>
+<p>还可以按交易形态、标的、星期几以及“是否遵守规则”列对交易进行排序。对比遵循计划与未遵循计划的交易，通常是复盘中最有价值的部分。</p>
+<aside class="cta-box" aria-label="模板"><p class="cta-h">使用现成的日志模板</p><p>Trading Journal Pro 适用于 Google Sheets 和 Excel，可自动计算胜率、R 倍数和盈亏（P&amp;L），并提供仪表盘和错误分析。免费的 Lite 版让你今天就能轻松开始记录。模板只是记录工具，不构成交易建议。</p><div class="cta"><a class="btn btn-gold" href="https://www.patreon.com/DmitryZhuk/posts/trading-journal-173290193" target="_blank" rel="noopener">Trading Journal Pro</a><a class="btn btn-ghost" href="https://www.patreon.com/DmitryZhuk/posts/free-trading-173292664" target="_blank" rel="noopener">免费 Trading Journal Lite</a></div></aside>
+
+<h2>常见的日志记录错误</h2>
+<ol>
+<li><strong>只记录部分交易。</strong> 跳过那些令人尴尬的交易会使所有统计数据失真。</li>
+<li><strong>在结果出来后补写原因。</strong> 应在入场前记录计划，以免事后诸葛亮改写事实。</li>
+<li><strong>忽略成本。</strong> 手续费、点差和佣金都应计入最终结果。</li>
+<li><strong>只收集数据从不复盘。</strong> 应提前安排在日程中的每周和每月复盘时间。</li>
+<li><strong>仅凭少量交易得出宏大结论。</strong> 少数几笔结果可能纯属偶然。</li>
+</ol>
+
+<h2>常见问题</h2>
+<h3>我应该记录模拟或纸面交易吗？</h3>
+<p>应该。记录模拟交易有助于在投入真实资金之前，养成习惯并建立规则检查流程。</p>
+<h3>是用电子表格还是笔记本？</h3>
+<p>两者皆可。电子表格可以为你自动计算 R值、胜率和期望值，使月度复盘更高效；如果你能坚持复盘，笔记本也完全够用。</p>
+<h3>交易日志能让我盈利吗？</h3>
+<p>没有任何工具能保证盈利。日志是一份帮助你理解自身决策与风险管理的记录。结果取决于多种因素，亏损始终存在可能性。</p>
+
+<h2>风险免责声明</h2>
+<p>本文仅供教育目的，不构成财务、投资或交易建议，也不得被视为购买或出售任何标的的推荐。交易股票、货币、期货、加密资产及衍生品涉及重大亏损风险，并不适合所有人。使用某些杠杆产品时，亏损可能超过初始保证金。过往业绩（包括你自己日志中的记录）不能保证未来结果。请仅使用你可承受损失的资金进行交易，并考虑咨询持牌专业人士。</p>
+
+<section class="related"><h2>更多指南</h2><ul class="glist"><li><a class="gcard" href="how-to-plan-christmas-budget-2026.html"><b>如何规划 2026 年圣诞预算（分步指南）</b><span>总额、每人礼物上限、隐性开销和支出记录，附 $800 预算示例。</span></a></li><li><a class="gcard" href="savings-challenges-2027.html"><b>2027 年 16 种储蓄挑战：玩法与真实总额</b><span>52 周、100 个信封、26 周、一分钱挑战等 16 种挑战，附精确总额和汇总表。</span></a></li><li><a class="gcard" href="how-to-set-goals-2027.html"><b>如何设定 2027 年真正能坚持的目标</b><span>年度愿景、3–5 个目标、季度 OKR 完整示例、每周行动和月度复盘。</span></a></li><li><a class="gcard" href="simple-monthly-budget-for-beginners.html"><b>新手简单月度预算：50/30/20 法则与零基预算</b><span>到手收入、固定账单、50/30/20 法则和零基预算，附 $3,000 完整示例。</span></a></li></ul></section>
+</article>
+</main>
+
+<footer><div class="wrap">
+  <p class="disc"><b data-i18n="foot.na">不构成投资建议。</b> <span data-i18n="foot.disc">所有内容仅供参考。金融市场交易存在亏损风险。</span></p>
+  <div class="flinks" lang="en" translate="no"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">保留所有权利。</span> · <a href="./" data-i18n="nav.guides">指南</a> · <a href="../../terms.html" data-i18n="foot.terms">使用条款</a></div>
+  <div class="fpriv" data-i18n="foot.priv">无追踪器、无表单、不收集数据。</div>
+</div></footer>
+<script src="../../app.js?v=1792944444" defer></script>
+</body>
+</html>
