@@ -16,7 +16,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Market Plus">
 <meta name="twitter:site" content="@MarketPulseGold">
-<link rel="preconnect" href="https://platform.twitter.com">
 <style>
 :root{--bg:#0b0b0d;--bg2:#121216;--card:#16161b;--line:#26262e;--text:#e9e7e1;--muted:#9a978f;--gold:#d4af37;--gold2:#f2d77a;--radius:14px;
 --font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif}
@@ -34,25 +33,18 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 .logo{display:flex;align-items:center;gap:9px;color:var(--text);text-decoration:none;font-weight:800;letter-spacing:.2px;white-space:nowrap;font-size:18px}
 .logo img{width:30px;height:30px}
 .logo b{color:var(--gold)}
-.lang-btn{display:inline-flex;align-items:center;gap:5px;height:32px;padding:0 10px;border-radius:999px;border:1px solid rgba(212,175,55,.55);background:rgba(212,175,55,.1);color:var(--gold2);font:700 13px/1 var(--font);cursor:pointer;letter-spacing:.3px;white-space:nowrap}
-.lang-btn:hover,.lang-btn[aria-expanded=true]{background:rgba(212,175,55,.22)}
-.lang-btn svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2}
-.lang-btn .car{width:10px;height:10px;transition:transform .15s}
-.lang-btn[aria-expanded=true] .car{transform:rotate(180deg)}
-.lang-menu{position:absolute;top:calc(100% + 8px);left:0;margin:0;padding:6px;list-style:none;background:#17171c;border:1px solid rgba(212,175,55,.4);border-radius:12px;box-shadow:0 14px 40px rgba(0,0,0,.6);min-width:170px;z-index:30}
-.lang-menu[hidden]{display:none}
-.lang-menu button{display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px;padding:9px 10px;border:0;border-radius:8px;background:transparent;color:var(--text);font:500 15px/1.2 var(--font);cursor:pointer;text-align:left}
-.lang-menu button span{color:var(--muted);font-size:12px;font-weight:700}
-.lang-menu button:hover,.lang-menu button:focus-visible{background:rgba(212,175,55,.14);outline:none}
-.lang-menu button[aria-selected=true]{color:var(--gold2)}
-.lang-menu button[aria-selected=true] span{color:var(--gold)}
+.langs{display:flex;align-items:center;gap:3px;padding:3px;border-radius:999px;border:1px solid rgba(212,175,55,.45);background:rgba(212,175,55,.06)}
+.langs .lb{min-width:30px;height:28px;padding:0 8px;border:0;border-radius:999px;background:transparent;color:var(--muted);font:700 12.5px/1 var(--font);letter-spacing:.3px;cursor:pointer;white-space:nowrap;transition:background .15s,color .15s}
+.langs .lb:hover{color:var(--gold2);background:rgba(212,175,55,.14)}
+.langs .lb[aria-pressed=true]{background:linear-gradient(180deg,#e6c55a,var(--gold));color:#141008}
 nav.main{display:flex;align-items:center;gap:18px}
 nav.main a{color:var(--muted);text-decoration:none;font-size:15px;white-space:nowrap}
 nav.main a:hover{color:var(--gold2)}
 nav.main a.xbtn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid var(--line);border-radius:10px;color:var(--text)}
 nav.main a.xbtn svg{width:15px;height:15px;fill:currentColor}
 @media (max-width:640px){nav.main a.hide-sm{display:none}nav.main{gap:10px}}
-@media (max-width:380px){.logo{font-size:16px;gap:7px}.logo img{width:26px;height:26px}.brand{gap:7px}.lang-btn{padding:0 8px}}
+@media (max-width:760px){header.top .wrap{flex-wrap:wrap;row-gap:0;padding-bottom:8px}header.top .brand{display:contents}.logo{order:1}nav.main{order:2;margin-left:auto}.langs{order:3;width:100%;justify-content:space-between}.langs .lb{flex:1 1 0;height:32px;font-size:13px}}
+@media (max-width:380px){.logo{font-size:16px;gap:7px}.logo img{width:26px;height:26px}}
 /* hero */
 .hero{padding:52px 0 40px;background:radial-gradient(700px 320px at 85% -10%,rgba(212,175,55,.18),transparent 70%),radial-gradient(500px 260px at -10% 110%,rgba(212,175,55,.08),transparent 70%)}
 .badge{display:inline-block;font-size:13px;color:var(--gold2);border:1px solid rgba(212,175,55,.35);border-radius:999px;padding:4px 12px;margin-bottom:16px}
@@ -88,24 +80,28 @@ h2{font-size:clamp(24px,4.5vw,34px);margin:0 0 6px;letter-spacing:-.3px}
 .live{display:inline-flex;align-items:center;gap:6px;color:#7fd39b;font-weight:700;font-size:12px;letter-spacing:.5px;text-transform:uppercase}
 .live:before{content:"";width:8px;height:8px;border-radius:50%;background:#3ecf6e;box-shadow:0 0 0 0 rgba(62,207,110,.6);animation:pl 1.8s infinite}
 @keyframes pl{70%{box-shadow:0 0 0 8px rgba(62,207,110,0)}100%{box-shadow:0 0 0 0 rgba(62,207,110,0)}}
-.xbox{height:620px;max-height:75vh;overflow-y:auto;-webkit-overflow-scrolling:touch;position:relative}
-.xbox iframe{width:100%!important;min-width:0!important;max-width:100%!important;border-radius:0!important}
-.xbox .twitter-timeline{display:none}
-.skeleton{padding:16px;display:grid;gap:12px}
-.skeleton i{display:block;height:90px;border-radius:12px;background:linear-gradient(90deg,#1a1a20,#23232a,#1a1a20);background-size:200% 100%;animation:sh 1.4s infinite}
-.skeleton p{margin:0;text-align:center;color:var(--muted);font-size:14px}
-@keyframes sh{to{background-position:-200% 0}}
-.fallback{padding:34px 22px;text-align:center}
-.fallback[hidden]{display:none}
-.fallback .xi{width:54px;height:54px;margin:0 auto 14px;border-radius:14px;display:flex;align-items:center;justify-content:center;background:rgba(212,175,55,.12);border:1px solid rgba(212,175,55,.4)}
-.fallback .xi svg{width:24px;height:24px;fill:var(--gold2)}
-.fallback h3{margin:0 0 8px;font-size:20px}
-.fallback p{margin:0 auto 18px;color:#c9c6be;max-width:440px;font-size:15px}
-.feed.failed .xbox{height:auto}
-.xfail .feed-actions .btn{display:none}
-.feed-actions{max-width:640px;margin:14px auto 0;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
-.feed-actions small{color:var(--muted);font-size:13px;flex:1 1 220px}
-@media (max-width:420px){.feed-actions .btn{flex:1 1 100%}}
+.tabs{display:flex;gap:6px;padding:10px 12px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;height:34px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:var(--bg2);color:var(--muted);font:600 14px/1 var(--font);cursor:pointer;white-space:nowrap}
+.tab:hover{color:var(--gold2);border-color:rgba(212,175,55,.5)}
+.tab[aria-selected=true]{background:rgba(212,175,55,.16);border-color:var(--gold);color:var(--gold2)}
+.nlist{height:640px;max-height:75vh;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+.ni{display:block;position:relative;padding:14px 16px;min-height:56px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;cursor:pointer;transition:background .15s;-webkit-tap-highlight-color:rgba(212,175,55,.2)}
+.ni:last-child{border-bottom:0}
+.ni-meta{display:block;font-size:12.5px;color:var(--muted);margin-bottom:4px}
+.ni-src{color:var(--gold);font-weight:700}
+.ni-t{display:block;font-size:16px;line-height:1.45;font-weight:600;overflow-wrap:anywhere}
+.ni-x .ni-t{font-weight:400;font-size:15px;white-space:pre-line}
+.ni-link{display:block;margin-top:6px;font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
+.ni:hover,.ni:focus-visible{background:rgba(212,175,55,.07)}
+.ni:hover .ni-t,.ni:focus-visible .ni-t{color:var(--gold2);text-decoration:underline;text-decoration-color:rgba(212,175,55,.5);text-underline-offset:3px}
+.ni:hover .ni-link{color:var(--gold2)}
+.ni:active{background:rgba(212,175,55,.14)}
+.ni-state{margin:0;padding:40px 18px;text-align:center;color:var(--muted)}
+.feed-bar small{color:var(--muted);font-size:12.5px}
+.feed-actions{max-width:640px;margin:14px auto 0}
+.feed-actions small{color:var(--muted);font-size:13px}
+@media (max-width:640px){.nlist{height:70vh}.ni{padding:14px}}
 /* products */
 .products{display:grid;gap:16px;grid-template-columns:1fr}
 @media (min-width:640px){.products{grid-template-columns:repeat(2,1fr)}}
@@ -116,7 +112,14 @@ h2{font-size:clamp(24px,4.5vw,34px);margin:0 0 6px;letter-spacing:-.3px}
 .prod .img img{width:100%;height:100%;object-fit:cover}
 .prod .tag{position:absolute;top:10px;left:10px;font-size:12px;font-weight:800;letter-spacing:.4px;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:#0f2a19;color:#7fd39b;border:1px solid rgba(127,211,155,.5)}
 .prod .body{padding:16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.prod{position:relative}
 .prod h3{margin:0;font-size:18px;line-height:1.3}
+.prod .plink{color:var(--text);text-decoration:none}
+.prod .plink:after{content:"";position:absolute;inset:0;z-index:1}
+.prod:hover .plink{color:var(--gold2)}
+.prod .img{display:block}
+.prod .btn{position:relative;z-index:2}
+.prod{cursor:pointer}
 .prod p{margin:0;color:#c9c6be;font-size:14.5px}
 .prod .row{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;padding-top:10px;flex-wrap:wrap}
 .price{font-size:22px;font-weight:800;color:var(--gold2)}
@@ -138,12 +141,7 @@ footer .wrap{display:grid;gap:14px}
 <header class="top"><div class="wrap">
   <div class="brand">
     <a class="logo" href="#top" aria-label="Market Plus"><img src="favicon.svg" alt="" width="30" height="30"><span>Market <b>Plus</b></span></a>
-    <button class="lang-btn" id="langBtn" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="langMenu" aria-label="Language">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>
-      <span id="langCur">EN</span>
-      <svg class="car" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
-    </button>
-    <ul class="lang-menu" id="langMenu" role="listbox" aria-label="Language" hidden></ul>
+    <div class="langs" id="langBar" role="group" aria-label="Language"></div>
   </div>
   <nav class="main">
     <a href="#news" data-i18n="nav.news">News</a>
@@ -182,23 +180,14 @@ footer .wrap{display:grid;gap:14px}
 
 <section id="news"><div class="wrap">
   <h2 data-i18n="news.h">Latest news</h2>
-  <p class="sub" data-i18n="news.sub">Live feed from our X account — new posts appear here automatically.</p>
+  <p class="sub" data-i18n="news.sub">Headlines on markets, world, politics and Ukraine from open news sources, plus our posts on X. Updated automatically every 30 minutes.</p>
   <div class="feed" id="feed">
-    <div class="feed-bar"><b>@MarketPulseGold</b><span class="live" data-i18n="news.live">Live</span></div>
-    <div class="xbox" id="xbox">
-      <a class="twitter-timeline" id="xtl" data-theme="dark" data-dnt="true" data-chrome="noheader transparent" href="https://twitter.com/MarketPulseGold">Posts by @MarketPulseGold</a>
-      <div class="skeleton" id="xskel"><i></i><i></i><i></i><p data-i18n="news.loading">Loading posts from X…</p></div>
-      <div class="fallback" id="xfallback" hidden>
-        <div class="xi"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg></div>
-        <h3 data-i18n="fb.h">Latest posts on X</h3>
-        <p data-i18n="fb.p">The live feed couldn't load in your browser — X sometimes limits embeds for visitors who aren't signed in, or a privacy blocker is on. All posts are available on X.</p>
-        <a class="btn btn-gold" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" data-i18n="fb.btn">Open @MarketPulseGold on X</a>
-      </div>
-    </div>
+    <div class="feed-bar"><small id="newsUpdated" aria-live="polite"></small><span class="live" data-i18n="news.live">Live</span></div>
+    <div class="tabs" id="newsTabs" role="tablist" aria-label="News sections"></div>
+    <div class="nlist" id="newsList" role="tabpanel"><p class="ni-state" data-i18n="news.loading">Loading news…</p></div>
   </div>
   <div class="feed-actions">
-    <small data-i18n="news.hint">Feed empty? Some browsers and extensions block X embeds.</small>
-    <a class="btn btn-ghost" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" data-i18n="fb.btn">Open @MarketPulseGold on X</a>
+    <small data-i18n="news.hint">Tap a headline to open the original in a new tab. Headlines appear in their original language.</small>
   </div>
 </div></section>
 

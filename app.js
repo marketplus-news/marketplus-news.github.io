@@ -6,12 +6,12 @@
 
   // ---------- Translations ----------
   var LANGS = [
-    { code: "en", short: "EN", name: "English", html: "en", x: "en" },
-    { code: "ru", short: "RU", name: "Русский", html: "ru", x: "ru" },
     { code: "uk", short: "UK", name: "Українська", html: "uk", x: "uk" },
+    { code: "en", short: "EN", name: "English", html: "en", x: "en" },
     { code: "fr", short: "FR", name: "Français", html: "fr", x: "fr" },
     { code: "de", short: "DE", name: "Deutsch", html: "de", x: "de" },
-    { code: "zh", short: "中文", name: "中文（简体）", html: "zh-CN", x: "zh-cn" }
+    { code: "zh", short: "中文", name: "中文（简体）", html: "zh-CN", x: "zh-cn" },
+    { code: "ru", short: "RU", name: "Русский", html: "ru", x: "ru" }
   ];
 
   var T = {
@@ -32,12 +32,20 @@
       "about.t2h": "With context", "about.t2p": "Every headline comes with a short takeaway: how the event may affect the market and why.",
       "about.t3h": "Source included", "about.t3p": "Reuters, Bloomberg, official statements — the original is always one tap away.",
       "news.h": "Latest news",
-      "news.sub": "Live feed from our X account — new posts appear here automatically.",
-      "news.live": "Live", "news.loading": "Loading posts from X…",
-      "fb.h": "Latest posts on X",
-      "fb.p": "The live feed couldn't load in your browser — X sometimes limits embeds for visitors who aren't signed in, or a privacy blocker is on. All posts are available on X.",
-      "fb.btn": "Open @MarketPulseGold on X",
-      "news.hint": "Feed empty? Some browsers and extensions block X embeds.",
+      "news.sub": "Headlines on markets, world, politics and Ukraine from open news sources, plus our posts on X. Updated automatically every 30 minutes.",
+      "news.live": "Live", "news.loading": "Loading news…",
+      "news.hint": "Tap a headline to open the original in a new tab. Headlines appear in their original language.",
+      "news.empty": "No news in this section yet — check back soon.",
+      "news.error": "Couldn't load the news feed. Please refresh the page.",
+      "news.updated": "Updated",
+      "news.xsrc": "Post on X",
+      "news.posts": "Latest posts",
+      "news.tabs": "News sections",
+      "tab.all": "All",
+      "tab.market": "Markets",
+      "tab.world": "World",
+      "tab.politics": "Politics",
+      "tab.ukraine": "Ukraine",
       "prod.h": "Products",
       "prod.sub": "Tools for trading, personal finance and business. Payment and download on Patreon.",
       "prod.note": "Buttons open Patreon or GitHub pages. This site does not collect or store any data.",
@@ -70,12 +78,20 @@
       "about.t2h": "С контекстом", "about.t2p": "К каждой новости — короткий вывод: как событие может отразиться на рынке и почему.",
       "about.t3h": "Со ссылкой на источник", "about.t3p": "Reuters, Bloomberg, официальные заявления — оригинал всегда в одно касание.",
       "news.h": "Последние новости",
-      "news.sub": "Живая лента нашего аккаунта в X — новые посты появляются здесь автоматически.",
-      "news.live": "Онлайн", "news.loading": "Загружаем посты из X…",
-      "fb.h": "Свежие посты в X",
-      "fb.p": "Лента не загрузилась в вашем браузере — X иногда ограничивает встраивание для гостей без входа в аккаунт, либо включён блокировщик. Все посты доступны в X.",
-      "fb.btn": "Открыть @MarketPulseGold в X",
-      "news.hint": "Лента пустая? Некоторые браузеры и расширения блокируют виджеты X.",
+      "news.sub": "Заголовки о рынках, мире, политике и Украине из открытых новостных источников и наши посты в X. Обновляется автоматически каждые 30 минут.",
+      "news.live": "Онлайн", "news.loading": "Загружаем новости…",
+      "news.hint": "Нажмите на заголовок, чтобы открыть оригинал в новой вкладке. Заголовки — на языке источника.",
+      "news.empty": "В этом разделе пока нет новостей — загляните позже.",
+      "news.error": "Не удалось загрузить ленту. Обновите страницу.",
+      "news.updated": "Обновлено",
+      "news.xsrc": "Пост в X",
+      "news.posts": "Свежие посты",
+      "news.tabs": "Разделы новостей",
+      "tab.all": "Все",
+      "tab.market": "Рынки",
+      "tab.world": "Мир",
+      "tab.politics": "Политика",
+      "tab.ukraine": "Украина",
       "prod.h": "Продукты",
       "prod.sub": "Инструменты для трейдинга, личных финансов и бизнеса. Оплата и скачивание — на Patreon.",
       "prod.note": "Кнопки ведут на страницы Patreon или GitHub. Сайт не собирает и не хранит никаких данных.",
@@ -108,12 +124,20 @@
       "about.t2h": "З контекстом", "about.t2p": "До кожної новини — короткий висновок: як подія може позначитися на ринку і чому.",
       "about.t3h": "З посиланням на джерело", "about.t3p": "Reuters, Bloomberg, офіційні заяви — оригінал завжди в один дотик.",
       "news.h": "Останні новини",
-      "news.sub": "Жива стрічка нашого акаунта в X — нові пости з'являються тут автоматично.",
-      "news.live": "Онлайн", "news.loading": "Завантажуємо пости з X…",
-      "fb.h": "Свіжі пости в X",
-      "fb.p": "Стрічка не завантажилася у вашому браузері — X іноді обмежує вбудовування для гостей без входу в акаунт, або ввімкнено блокувальник. Усі пости доступні в X.",
-      "fb.btn": "Відкрити @MarketPulseGold в X",
-      "news.hint": "Стрічка порожня? Деякі браузери та розширення блокують віджети X.",
+      "news.sub": "Заголовки про ринки, світ, політику та Україну з відкритих новинних джерел і наші пости в X. Оновлюється автоматично кожні 30 хвилин.",
+      "news.live": "Онлайн", "news.loading": "Завантажуємо новини…",
+      "news.hint": "Натисніть на заголовок, щоб відкрити оригінал у новій вкладці. Заголовки — мовою джерела.",
+      "news.empty": "У цьому розділі поки немає новин — зазирніть пізніше.",
+      "news.error": "Не вдалося завантажити стрічку. Оновіть сторінку.",
+      "news.updated": "Оновлено",
+      "news.xsrc": "Пост в X",
+      "news.posts": "Свіжі пости",
+      "news.tabs": "Розділи новин",
+      "tab.all": "Усі",
+      "tab.market": "Ринки",
+      "tab.world": "Світ",
+      "tab.politics": "Політика",
+      "tab.ukraine": "Україна",
       "prod.h": "Продукти",
       "prod.sub": "Інструменти для трейдингу, особистих фінансів і бізнесу. Оплата та завантаження — на Patreon.",
       "prod.note": "Кнопки ведуть на сторінки Patreon або GitHub. Сайт не збирає й не зберігає жодних даних.",
@@ -146,12 +170,20 @@
       "about.t2h": "Avec du contexte", "about.t2p": "Chaque info s'accompagne d'une courte analyse : l'impact possible sur le marché, et pourquoi.",
       "about.t3h": "Source à l'appui", "about.t3p": "Reuters, Bloomberg, communiqués officiels — l'original est toujours à portée de clic.",
       "news.h": "Dernières actus",
-      "news.sub": "Fil en direct de notre compte X — les nouveaux posts s'affichent ici automatiquement.",
-      "news.live": "Direct", "news.loading": "Chargement des posts depuis X…",
-      "fb.h": "Derniers posts sur X",
-      "fb.p": "Le fil n'a pas pu se charger dans votre navigateur — X limite parfois les intégrations pour les visiteurs non connectés, ou un bloqueur est actif. Tous les posts sont disponibles sur X.",
-      "fb.btn": "Ouvrir @MarketPulseGold sur X",
-      "news.hint": "Fil vide ? Certains navigateurs et extensions bloquent les intégrations X.",
+      "news.sub": "Les titres marchés, monde, politique et Ukraine issus de sources d'information ouvertes, plus nos posts sur X. Mise à jour automatique toutes les 30 minutes.",
+      "news.live": "Direct", "news.loading": "Chargement des actus…",
+      "news.hint": "Touchez un titre pour ouvrir l'original dans un nouvel onglet. Les titres restent dans leur langue d'origine.",
+      "news.empty": "Pas encore d'actus dans cette rubrique — revenez bientôt.",
+      "news.error": "Impossible de charger le fil. Actualisez la page.",
+      "news.updated": "Mis à jour",
+      "news.xsrc": "Post sur X",
+      "news.posts": "Derniers posts",
+      "news.tabs": "Rubriques",
+      "tab.all": "Tout",
+      "tab.market": "Marchés",
+      "tab.world": "Monde",
+      "tab.politics": "Politique",
+      "tab.ukraine": "Ukraine",
       "prod.h": "Produits",
       "prod.sub": "Des outils pour le trading, les finances personnelles et l'entreprise. Paiement et téléchargement sur Patreon.",
       "prod.note": "Les boutons ouvrent des pages Patreon ou GitHub. Ce site ne collecte ni ne stocke aucune donnée.",
@@ -184,12 +216,20 @@
       "about.t2h": "Mit Kontext", "about.t2p": "Zu jeder Meldung ein kurzes Fazit: wie das Ereignis den Markt beeinflussen kann und warum.",
       "about.t3h": "Mit Quelle", "about.t3p": "Reuters, Bloomberg, offizielle Mitteilungen — das Original ist immer nur einen Klick entfernt.",
       "news.h": "Aktuelle News",
-      "news.sub": "Live-Feed unseres X-Accounts — neue Posts erscheinen hier automatisch.",
-      "news.live": "Live", "news.loading": "Posts von X werden geladen…",
-      "fb.h": "Neueste Posts auf X",
-      "fb.p": "Der Live-Feed konnte in deinem Browser nicht geladen werden — X schränkt Einbettungen für nicht angemeldete Besucher manchmal ein, oder ein Tracking-Blocker ist aktiv. Alle Posts findest du auf X.",
-      "fb.btn": "@MarketPulseGold auf X öffnen",
-      "news.hint": "Feed leer? Manche Browser und Erweiterungen blockieren X-Einbettungen.",
+      "news.sub": "Schlagzeilen zu Märkten, Welt, Politik und Ukraine aus offenen Nachrichtenquellen sowie unsere Posts auf X. Automatische Aktualisierung alle 30 Minuten.",
+      "news.live": "Live", "news.loading": "News werden geladen…",
+      "news.hint": "Tippe auf eine Schlagzeile, um das Original in einem neuen Tab zu öffnen. Schlagzeilen erscheinen in der Originalsprache.",
+      "news.empty": "In dieser Rubrik gibt es noch keine News — schau bald wieder vorbei.",
+      "news.error": "Der News-Feed konnte nicht geladen werden. Bitte lade die Seite neu.",
+      "news.updated": "Aktualisiert",
+      "news.xsrc": "Post auf X",
+      "news.posts": "Neueste Posts",
+      "news.tabs": "Rubriken",
+      "tab.all": "Alle",
+      "tab.market": "Märkte",
+      "tab.world": "Welt",
+      "tab.politics": "Politik",
+      "tab.ukraine": "Ukraine",
       "prod.h": "Produkte",
       "prod.sub": "Tools für Trading, private Finanzen und Business. Bezahlung und Download über Patreon.",
       "prod.note": "Die Buttons öffnen Seiten auf Patreon oder GitHub. Diese Website erhebt und speichert keinerlei Daten.",
@@ -222,12 +262,20 @@
       "about.t2h": "附带背景", "about.t2p": "每条资讯都配有简短解读：事件可能如何影响市场，以及原因。",
       "about.t3h": "注明来源", "about.t3p": "路透社、彭博社、官方声明——原文随时一键可查。",
       "news.h": "最新资讯",
-      "news.sub": "我们 X 账号的实时动态——新帖子会自动显示在这里。",
-      "news.live": "实时", "news.loading": "正在从 X 加载帖子…",
-      "fb.h": "X 上的最新帖子",
-      "fb.p": "实时动态未能在您的浏览器中加载——X 有时会限制未登录访客查看嵌入内容，或者您开启了隐私拦截插件。所有帖子均可在 X 上查看。",
-      "fb.btn": "在 X 上打开 @MarketPulseGold",
-      "news.hint": "动态为空？部分浏览器和扩展会拦截 X 的嵌入内容。",
+      "news.sub": "来自公开新闻源的市场、国际、政治和乌克兰新闻标题，以及我们在 X 上的帖子。每 30 分钟自动更新。",
+      "news.live": "实时", "news.loading": "正在加载新闻…",
+      "news.hint": "点击标题即可在新标签页中打开原文。标题保持原文语言。",
+      "news.empty": "该栏目暂无新闻，请稍后再来。",
+      "news.error": "无法加载新闻，请刷新页面。",
+      "news.updated": "更新于",
+      "news.xsrc": "X 上的帖子",
+      "news.posts": "最新帖子",
+      "news.tabs": "新闻栏目",
+      "tab.all": "全部",
+      "tab.market": "市场",
+      "tab.world": "国际",
+      "tab.politics": "政治",
+      "tab.ukraine": "乌克兰",
       "prod.h": "产品",
       "prod.sub": "面向交易、个人理财和企业的实用工具。在 Patreon 上付款和下载。",
       "prod.note": "按钮将打开 Patreon 或 GitHub 页面。本网站不收集、不存储任何数据。",
@@ -272,17 +320,22 @@
   }
   var yr = $("yr"); if (yr) yr.textContent = new Date().getFullYear();
 
-  // ---------- Products render ----------
+  // ---------- Products render (whole card links to Patreon / GitHub) ----------
   var pl = $("productList");
   PRODUCTS.forEach(function (p) {
     var card = el("article", "prod");
-    var imgBox = el("div", "img");
+    var imgBox = el("a", "img");
+    imgBox.href = p.url; imgBox.target = "_blank"; imgBox.rel = "noopener noreferrer"; imgBox.tabIndex = -1;
+    imgBox.setAttribute("aria-hidden", "true");
     var im = new Image(); im.src = p.img; im.loading = "lazy"; im.decoding = "async"; im.width = 960; im.height = 540;
     im.alt = p.title || ""; if (p.t) im.setAttribute("data-i18n-alt", p.t);
     imgBox.appendChild(im);
     if (p.free) { var tag = el("span", "tag"); tag.setAttribute("data-i18n", "prod.free"); imgBox.appendChild(tag); }
     var body = el("div", "body");
-    var h = el("h3", null, p.title || ""); if (p.t) h.setAttribute("data-i18n", p.t);
+    var h = el("h3");
+    var ha = el("a", "plink", p.title || ""); if (p.t) ha.setAttribute("data-i18n", p.t);
+    ha.href = p.url; ha.target = "_blank"; ha.rel = "noopener noreferrer";
+    h.appendChild(ha);
     var d = el("p"); d.setAttribute("data-i18n", p.d);
     body.appendChild(h); body.appendChild(d);
     var row = el("div", "row");
@@ -291,7 +344,7 @@
     row.appendChild(pr);
     var a = el("a", "btn " + (p.free ? "btn-ghost" : "btn-gold"));
     a.setAttribute("data-i18n", p.cta || "prod.buy");
-    a.href = p.url; a.target = "_blank"; a.rel = "noopener";
+    a.href = p.url; a.target = "_blank"; a.rel = "noopener noreferrer";
     row.appendChild(a);
     body.appendChild(row);
     card.appendChild(imgBox); card.appendChild(body);
@@ -299,6 +352,7 @@
   });
 
   // ---------- i18n ----------
+  var onLang = [];
   function setMeta(sel, val) { var m = document.querySelector(sel); if (m) m.setAttribute("content", val); }
   function apply(code) {
     if (!T[code]) code = "en";
@@ -315,12 +369,13 @@
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n-alt]"), function (n) {
       n.alt = tr(n.getAttribute("data-i18n-alt"));
     });
-    $("langCur").textContent = L.short;
-    $("langBtn").setAttribute("aria-label", tr("lang") + ": " + L.name);
-    Array.prototype.forEach.call($("langMenu").querySelectorAll("button"), function (b) {
-      b.setAttribute("aria-selected", b.getAttribute("data-lang") === code ? "true" : "false");
+    var bar = $("langBar");
+    bar.setAttribute("aria-label", tr("lang"));
+    Array.prototype.forEach.call(bar.querySelectorAll("button"), function (b) {
+      b.setAttribute("aria-pressed", b.getAttribute("data-lang") === code ? "true" : "false");
     });
     try { localStorage.setItem("mp_lang", code); } catch (e) {}
+    onLang.forEach(function (f) { f(); });
   }
   function detect() {
     try { var s = localStorage.getItem("mp_lang"); if (s && T[s]) return s; } catch (e) {}
@@ -333,80 +388,115 @@
     return "en";
   }
 
-  // ---------- Language dropdown ----------
-  var btn = $("langBtn"), menu = $("langMenu");
+  // ---------- Language switcher: one-click buttons in the header (order = LANGS) ----------
+  var langBar = $("langBar");
   LANGS.forEach(function (l) {
-    var li = el("li"); li.setAttribute("role", "none");
-    var b = el("button"); b.type = "button"; b.setAttribute("role", "option"); b.setAttribute("data-lang", l.code);
-    b.setAttribute("lang", l.html);
-    b.appendChild(document.createTextNode(l.name)); b.appendChild(el("span", null, l.short));
-    b.addEventListener("click", function () { apply(l.code); closeMenu(); btn.focus(); });
-    li.appendChild(b); menu.appendChild(li);
+    var b = el("button", "lb", l.short); b.type = "button";
+    b.setAttribute("data-lang", l.code); b.setAttribute("lang", l.html); b.title = l.name;
+    b.setAttribute("aria-label", l.name);
+    b.addEventListener("click", function () { apply(l.code); });
+    langBar.appendChild(b);
   });
-  function openMenu() {
-    menu.hidden = false; btn.setAttribute("aria-expanded", "true");
-    var sel = menu.querySelector('[aria-selected="true"]') || menu.querySelector("button");
-    if (sel) sel.focus();
+
+  // ---------- News feed (same-origin data/news.json, no third-party scripts) ----------
+  var SECS = ["all", "market", "world", "politics", "ukraine", "x"];
+  var MAX_PER_TAB = 30;
+  var newsData = null, curTab = "all", loadState = "loading";
+  var listEl = $("newsList"), tabsEl = $("newsTabs"), updEl = $("newsUpdated");
+  try { var st = sessionStorage.getItem("mp_tab"); if (st && SECS.indexOf(st) >= 0) curTab = st; } catch (e) {}
+
+  function safeUrl(u) { return (typeof u === "string" && /^https?:\/\//i.test(u)) ? u : null; }
+  function locale() { var L = LANGS.filter(function (l) { return l.code === cur; })[0]; return L ? L.html : "en"; }
+  function rel(ts) {
+    var diff = ts - Date.now() / 1000, a = Math.abs(diff);
+    var u = a < 3600 ? ["minute", 60] : a < 86400 ? ["hour", 3600] : ["day", 86400];
+    var v = Math.round(diff / u[1]); if (u[0] === "minute" && v === 0) v = -1;
+    try { return new Intl.RelativeTimeFormat(locale(), { numeric: "auto" }).format(v, u[0]); }
+    catch (e) { return new Date(ts * 1000).toLocaleString(); }
   }
-  function closeMenu() { menu.hidden = true; btn.setAttribute("aria-expanded", "false"); }
-  btn.addEventListener("click", function (e) { e.stopPropagation(); menu.hidden ? openMenu() : closeMenu(); });
-  document.addEventListener("click", function (e) { if (!menu.hidden && !menu.contains(e.target)) closeMenu(); });
-  document.addEventListener("keydown", function (e) {
-    if (menu.hidden) return;
-    var items = Array.prototype.slice.call(menu.querySelectorAll("button"));
-    var i = items.indexOf(document.activeElement);
-    if (e.key === "Escape") { closeMenu(); btn.focus(); }
-    else if (e.key === "ArrowDown") { e.preventDefault(); items[(i + 1) % items.length].focus(); }
-    else if (e.key === "ArrowUp") { e.preventDefault(); items[(i - 1 + items.length) % items.length].focus(); }
+  function absDate(ts) {
+    try { return new Date(ts * 1000).toLocaleString(locale(), { dateStyle: "medium", timeStyle: "short" }); }
+    catch (e) { return new Date(ts * 1000).toISOString(); }
+  }
+  function shortUrl(u) { return u.replace(/^https?:\/\/(www\.)?/i, "").replace(/^(.{0,60}).*$/, function (m, a) { return m.length > 60 ? a + "…" : a; }); }
+
+  function itemsFor(tab) {
+    if (!newsData) return [];
+    var x = (newsData.x || []).map(function (p) { return { kind: "x", title: p.text, url: p.url, ts: p.ts, source: "@" + (newsData.x_handle || "MarketPulseGold") }; });
+    var rss = (newsData.items || []).map(function (i) { return { kind: "rss", title: i.title, url: i.url, ts: i.ts, source: i.source, sec: i.sec || [] }; });
+    var out;
+    if (tab === "x") out = x;
+    else if (tab === "all") out = x.concat(rss);
+    else out = rss.filter(function (i) { return i.sec.indexOf(tab) >= 0; });
+    out = out.filter(function (i) { return safeUrl(i.url) && i.title; });
+    out.sort(function (a, b) { return (b.ts || 0) - (a.ts || 0); });
+    return out.slice(0, tab === "all" ? 40 : MAX_PER_TAB);
+  }
+
+  function card(it) {
+    var a = el("a", "ni" + (it.kind === "x" ? " ni-x" : ""));
+    a.href = safeUrl(it.url); a.target = "_blank"; a.rel = "noopener noreferrer";
+    var meta = el("span", "ni-meta");
+    meta.appendChild(el("b", "ni-src", it.kind === "x" ? it.source + " · X" : it.source));
+    if (it.ts) {
+      meta.appendChild(document.createTextNode(" · "));
+      var t = el("time", null, rel(it.ts)); t.dateTime = new Date(it.ts * 1000).toISOString(); t.title = absDate(it.ts);
+      meta.appendChild(t);
+    }
+    a.appendChild(meta);
+    a.appendChild(el("span", "ni-t", it.title));
+    if (it.kind === "x") a.appendChild(el("span", "ni-link", shortUrl(it.url)));
+    return a;
+  }
+
+  function render() {
+    Array.prototype.forEach.call(tabsEl.querySelectorAll("button"), function (b) {
+      var on = b.getAttribute("data-tab") === curTab;
+      b.setAttribute("aria-selected", on ? "true" : "false"); b.tabIndex = on ? 0 : -1;
+    });
+    var keepScroll = listEl.scrollTop;
+    listEl.textContent = "";
+    if (loadState !== "ok") {
+      listEl.appendChild(el("p", "ni-state", tr(loadState === "error" ? "news.error" : "news.loading")));
+      updEl.textContent = "";
+      return;
+    }
+    var items = itemsFor(curTab);
+    if (!items.length) listEl.appendChild(el("p", "ni-state", tr("news.empty")));
+    items.forEach(function (it) { listEl.appendChild(card(it)); });
+    listEl.scrollTop = keepScroll;
+    updEl.textContent = newsData.updated ? tr("news.updated") + " " + rel(newsData.updated) : "";
+    if (newsData.updated) updEl.title = absDate(newsData.updated);
+  }
+
+  SECS.forEach(function (s) {
+    var b = el("button", "tab"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("data-tab", s);
+    b.setAttribute("aria-controls", "newsList");
+    if (s === "x") b.textContent = "X @MarketPulseGold"; else b.setAttribute("data-i18n", "tab." + s);
+    b.addEventListener("click", function () {
+      curTab = s; try { sessionStorage.setItem("mp_tab", s); } catch (e) {}
+      render(); listEl.scrollTop = 0;
+    });
+    tabsEl.appendChild(b);
   });
+  tabsEl.addEventListener("keydown", function (e) {
+    if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+    var i = SECS.indexOf(curTab) + (e.key === "ArrowRight" ? 1 : -1);
+    curTab = SECS[(i + SECS.length) % SECS.length]; render();
+    var b = tabsEl.querySelector('[data-tab="' + curTab + '"]'); if (b) b.focus();
+  });
+  onLang.push(function () { tabsEl.setAttribute("aria-label", tr("news.tabs")); render(); });
 
   apply(detect());
 
-  // ---------- X timeline: lazy-load + fallback ----------
-  var box = $("xbox"), feed = $("feed"), skel = $("xskel"), fb = $("xfallback"), tl = $("xtl");
-  var started = false, ok = false, timer = null;
-  function rendered() {
-    var f = box.querySelector("iframe");
-    return !!(f && f.offsetHeight > 80);
+  function load() {
+    var bucket = Math.floor(Date.now() / 300000); // refresh at most every 5 min (cache-busting)
+    fetch("data/news.json?v=" + bucket, { cache: "no-cache" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d) { newsData = d; loadState = "ok"; render(); })
+      .catch(function () { if (!newsData) { loadState = "error"; render(); } });
   }
-  function showOk() {
-    if (ok) return; ok = true;
-    clearTimeout(timer);
-    skel.hidden = true; skel.style.display = "none"; fb.hidden = true; feed.classList.remove("failed"); $("news").classList.remove("xfail");
-  }
-  function showFallback() {
-    if (ok) return;
-    skel.style.display = "none"; fb.hidden = false; feed.classList.add("failed"); $("news").classList.add("xfail");
-  }
-  function startX() {
-    if (started) return; started = true;
-    var L = LANGS.filter(function (l) { return l.code === cur; })[0];
-    tl.setAttribute("data-lang", L ? L.x : "en");
-    tl.setAttribute("data-height", String(Math.max(420, box.clientHeight || 620)));
-    var s = document.createElement("script");
-    s.src = "https://platform.twitter.com/widgets.js"; s.async = true; s.charset = "utf-8";
-    s.onerror = showFallback;
-    s.onload = function () {
-      if (window.twttr && twttr.events && twttr.events.bind) {
-        twttr.events.bind("rendered", function () { setTimeout(function () { if (rendered()) showOk(); }, 300); });
-      }
-    };
-    document.body.appendChild(s);
-    // Poll the DOM too (works even if the events API is unavailable)
-    var tries = 0;
-    var poll = setInterval(function () {
-      tries++;
-      if (rendered()) { clearInterval(poll); showOk(); }
-      else if (tries > 60) clearInterval(poll);
-    }, 500);
-    timer = setTimeout(function () { if (!rendered()) showFallback(); }, 6000);
-  }
-  if ("IntersectionObserver" in window) {
-    var io = new IntersectionObserver(function (en) {
-      if (en.some(function (x) { return x.isIntersecting; })) { io.disconnect(); startX(); }
-    }, { rootMargin: "600px 0px" });
-    io.observe($("news"));
-  } else {
-    window.addEventListener("load", startX);
-  }
+  load();
+  setInterval(load, 10 * 60 * 1000);
+  setInterval(function () { if (loadState === "ok") render(); }, 60 * 1000);
 })();
