@@ -63,7 +63,6 @@
       "q.h": "Market quotes",
       "q.gold": "Gold (COMEX futures)",
       "q.wti": "Oil WTI",
-      "q.brent": "Oil Brent",
       "q.note": "Yahoo Finance data, delayed (up to ~30 min). As of",
       "q.closed": "market closed",
       "q.open": "Open on Yahoo Finance",
@@ -138,7 +137,6 @@
       "q.h": "Котировки",
       "q.gold": "Золото (фьючерс COMEX)",
       "q.wti": "Нефть WTI",
-      "q.brent": "Нефть Brent",
       "q.note": "Данные Yahoo Finance с задержкой (до ~30 мин). На",
       "q.closed": "рынок закрыт",
       "q.open": "Открыть на Yahoo Finance",
@@ -213,7 +211,6 @@
       "q.h": "Котирування",
       "q.gold": "Золото (ф’ючерс COMEX)",
       "q.wti": "Нафта WTI",
-      "q.brent": "Нафта Brent",
       "q.note": "Дані Yahoo Finance із затримкою (до ~30 хв). Станом на",
       "q.closed": "ринок закритий",
       "q.open": "Відкрити на Yahoo Finance",
@@ -288,7 +285,6 @@
       "q.h": "Cours des marchés",
       "q.gold": "Or (contrat à terme COMEX)",
       "q.wti": "Pétrole WTI",
-      "q.brent": "Pétrole Brent",
       "q.note": "Données Yahoo Finance, en différé (jusqu’à ~30 min). Au",
       "q.closed": "marché fermé",
       "q.open": "Ouvrir sur Yahoo Finance",
@@ -363,7 +359,6 @@
       "q.h": "Marktkurse",
       "q.gold": "Gold (COMEX-Future)",
       "q.wti": "Öl WTI",
-      "q.brent": "Öl Brent",
       "q.note": "Daten von Yahoo Finance, verzögert (bis ~30 Min.). Stand",
       "q.closed": "Markt geschlossen",
       "q.open": "Auf Yahoo Finance öffnen",
@@ -438,7 +433,6 @@
       "q.h": "市场行情",
       "q.gold": "黄金（COMEX期货）",
       "q.wti": "WTI原油",
-      "q.brent": "布伦特原油",
       "q.note": "数据来自 Yahoo Finance，有延迟（最多约30分钟）。截至",
       "q.closed": "休市",
       "q.open": "在 Yahoo Finance 上打开",
@@ -753,7 +747,7 @@
   setInterval(function () { if (loadState === "ok") render(); }, 60 * 1000);
   // ---------- Quotes strip (same-origin data/quotes.json written by a GitHub Action from Yahoo Finance) ----------
   var qRow = $("qRow"), qNote = $("qNote"), qSec = $("quotes"), quotes = null;
-  var Q_NAMES = { gold: "q.gold", eurusd: "EUR/USD", wti: "q.wti", brent: "q.brent", spx: "S&P 500", ndx: "Nasdaq" };
+  var Q_NAMES = { gold: "q.gold", eurusd: "EUR/USD", wti: "q.wti", spx: "S&P 500", ndx: "Nasdaq", vti: "VTI" };
   function nf(v, d, sign) {
     var s = new Intl.NumberFormat(locale(), { minimumFractionDigits: d, maximumFractionDigits: d }).format(Math.abs(v));
     return (sign ? (v > 0 ? "+" : v < 0 ? "\u2212" : "") : (v < 0 ? "\u2212" : "")) + s;

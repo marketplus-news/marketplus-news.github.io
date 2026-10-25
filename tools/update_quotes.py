@@ -14,7 +14,7 @@ UA = "Mozilla/5.0"  # Yahoo returns 429 for full browser UA strings and for pyth
 # id, Yahoo symbol, decimals. XAUUSD=X does not exist on Yahoo (404) -> COMEX gold futures GC=F, labelled as futures.
 SYMBOLS = [
     ("gold", "GC=F", 2), ("eurusd", "EURUSD=X", 4),  # UAH=X left out: Yahoo returns a stale previous close (0.00% change) and jumpy data
-    ("wti", "CL=F", 2), ("brent", "BZ=F", 2), ("spx", "^GSPC", 2), ("ndx", "^IXIC", 2),
+    ("wti", "CL=F", 2), ("spx", "^GSPC", 2), ("ndx", "^IXIC", 2), ("vti", "VTI", 2),
 ]
 SPARK_POINTS = 48
 
