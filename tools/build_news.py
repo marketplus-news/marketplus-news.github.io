@@ -181,6 +181,16 @@ X_SOURCES = [("syndication.twitter.com", x_from_syndication)] + [
     (b, (lambda b=b: x_from_nitter("https://" + b))) for b in
     ("nitter.net", "xcancel.com", "nitter.poast.org", "nitter.privacydev.net", "nitter.tiekoetter.com")]
 
+TCO_RE = re.compile(r"[ \t]*https?://t\.co/\S+")
+
+def strip_tco(text):
+    """Remove t.co short links (X attaches them to every link/media); tidy leftover whitespace."""
+    if not isinstance(text, str) or "t.co/" not in text:
+        return text
+    text = TCO_RE.sub("", text)
+    text = "\n".join(l.strip() for l in text.split("\n"))
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
+
 def normalize_posts(posts):
     out, seen = [], set()
     for p in posts:
@@ -192,7 +202,7 @@ def normalize_posts(posts):
         text = html.unescape(str(p.get("text") or ""))
         # drop Telegram promo lines (site policy: no Telegram links)
         text = re.sub(r"(?im)^[^\n]*telegram[^\n]*$", "", text)
-        text = re.sub(r"\n{3,}", "\n\n", text).strip()
+        text = strip_tco(re.sub(r"\n{3,}", "\n\n", text).strip())
         if not text:
             continue
         out.append({"id": pid, "text": text, "ts": ts,
@@ -448,7 +458,9 @@ def attach_translations(items, xposts, prev, log):
             cache[("u", it.get("url"), it.get("title"))] = (it.get("t"), it.get("lang"))
     for p in prev.get("x", []):
         if p.get("t") is not None:
-            cache[("x", p.get("id"), p.get("text"))] = (p.get("t"), p.get("lang"))
+            # key on the t.co-free text so cached translations survive link stripping
+            t = {k: strip_tco(v) for k, v in p["t"].items()}
+            cache[("x", p.get("id"), strip_tco(p.get("text")))] = (t, p.get("lang"))
     entries = []
     for kind, key, txtkey, obj in [("u", i["url"], "title", i) for i in items] + [("x", p["id"], "text", p) for p in xposts]:
         hit = cache.get((kind, key, obj[txtkey]))

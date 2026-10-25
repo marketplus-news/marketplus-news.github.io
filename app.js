@@ -48,7 +48,7 @@
       "hero.badge": "● Market Plus · live news from X",
       "hero.lead": "Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.",
       "hero.cta": "Follow on X", "hero.cta2": "Latest news", "hero.cta3": "Products",
-      "stat.1": "gold & currencies", "stat.2b": "Macro", "stat.2": "Fed, inflation, oil", "stat.3b": "Live", "stat.3": "news feed from X",
+      "stat.1": "gold & currencies", "stat.2b": "Macro", "stat.2": "Fed, inflation, oil", "stat.3b": "Live", "stat.3": "news feed from\u00a0X",
       "about.h": "About",
       "about.sub": "Market Plus is a markets news project for people who want the signal, not the noise.",
       "about.t1h": "Only what matters", "about.t1p": "Geopolitics, central bank decisions, inflation and jobs data — the things that move gold and currencies.",
@@ -122,7 +122,7 @@
       "hero.badge": "● Market Plus · живая лента из X",
       "hero.lead": "Market Plus — о событиях, которые действительно двигают рынок, коротко и по делу: что произошло и как это может повлиять на золото, доллар, нефть и рисковые активы.",
       "hero.cta": "Читать в X", "hero.cta2": "Последние новости", "hero.cta3": "Продукты",
-      "stat.1": "золото и валюты", "stat.2b": "Макро", "stat.2": "ФРС, инфляция, нефть", "stat.3b": "Онлайн", "stat.3": "лента новостей из X",
+      "stat.1": "золото и валюты", "stat.2b": "Макро", "stat.2": "ФРС, инфляция, нефть", "stat.3b": "Онлайн", "stat.3": "лента новостей из\u00a0X",
       "about.h": "О проекте",
       "about.sub": "Market Plus — новостной проект о рынках для тех, кому нужна суть, а не шум.",
       "about.t1h": "Только важное", "about.t1p": "Геополитика, решения центробанков, данные по инфляции и занятости — всё, что двигает золото и валюты.",
@@ -196,7 +196,7 @@
       "hero.badge": "● Market Plus · жива стрічка з X",
       "hero.lead": "Market Plus — про події, які справді рухають ринок, коротко й по суті: що сталося і як це може вплинути на золото, долар, нафту та ризикові активи.",
       "hero.cta": "Читати в X", "hero.cta2": "Останні новини", "hero.cta3": "Продукти",
-      "stat.1": "золото й валюти", "stat.2b": "Макро", "stat.2": "ФРС, інфляція, нафта", "stat.3b": "Онлайн", "stat.3": "стрічка новин з X",
+      "stat.1": "золото й валюти", "stat.2b": "Макро", "stat.2": "ФРС, інфляція, нафта", "stat.3b": "Онлайн", "stat.3": "стрічка новин з\u00a0X",
       "about.h": "Про проєкт",
       "about.sub": "Market Plus — новинний проєкт про ринки для тих, кому потрібна суть, а не шум.",
       "about.t1h": "Лише важливе", "about.t1p": "Геополітика, рішення центробанків, дані щодо інфляції та зайнятості — усе, що рухає золото й валюти.",
@@ -270,7 +270,7 @@
       "hero.badge": "● Market Plus · l'actu en direct depuis X",
       "hero.lead": "Market Plus suit les événements qui font vraiment bouger les marchés, en bref et sans détour : ce qui s'est passé et l'impact possible sur l'or, le dollar, le pétrole et les actifs risqués.",
       "hero.cta": "Suivre sur X", "hero.cta2": "Dernières actus", "hero.cta3": "Produits",
-      "stat.1": "or et devises", "stat.2b": "Macro", "stat.2": "Fed, inflation, pétrole", "stat.3b": "Direct", "stat.3": "fil d'actu depuis X",
+      "stat.1": "or et devises", "stat.2b": "Macro", "stat.2": "Fed, inflation, pétrole", "stat.3b": "Direct", "stat.3": "fil d'actu depuis\u00a0X",
       "about.h": "À propos",
       "about.sub": "Market Plus est un projet d'actualité des marchés pour ceux qui veulent l'essentiel, pas le bruit.",
       "about.t1h": "L'essentiel uniquement", "about.t1p": "Géopolitique, décisions des banques centrales, chiffres de l'inflation et de l'emploi — ce qui fait bouger l'or et les devises.",
@@ -344,7 +344,7 @@
       "hero.badge": "● Market Plus · Live-News von X",
       "hero.lead": "Market Plus berichtet über die Ereignisse, die die Märkte wirklich bewegen — kurz und auf den Punkt: was passiert ist und wie es sich auf Gold, Dollar, Öl und Risikoanlagen auswirken kann.",
       "hero.cta": "Auf X folgen", "hero.cta2": "Aktuelle News", "hero.cta3": "Produkte",
-      "stat.1": "Gold & Währungen", "stat.2b": "Makro", "stat.2": "Fed, Inflation, Öl", "stat.3b": "Live", "stat.3": "News-Feed von X",
+      "stat.1": "Gold & Währungen", "stat.2b": "Makro", "stat.2": "Fed, Inflation, Öl", "stat.3b": "Live", "stat.3": "News-Feed von\u00a0X",
       "about.h": "Über uns",
       "about.sub": "Market Plus ist ein Marktnachrichten-Projekt für alle, die das Signal statt des Rauschens wollen.",
       "about.t1h": "Nur das Wichtige", "about.t1p": "Geopolitik, Zentralbankentscheidungen, Inflations- und Arbeitsmarktdaten — alles, was Gold und Währungen bewegt.",
@@ -418,7 +418,7 @@
       "hero.badge": "● Market Plus · 来自 X 的实时资讯",
       "hero.lead": "Market Plus 聚焦真正推动市场的事件，简明扼要：发生了什么，以及它可能如何影响黄金、美元、原油和风险资产。",
       "hero.cta": "在 X 上关注", "hero.cta2": "最新资讯", "hero.cta3": "产品",
-      "stat.1": "黄金与外汇", "stat.2b": "宏观", "stat.2": "美联储、通胀、原油", "stat.3b": "实时", "stat.3": "来自 X 的资讯流",
+      "stat.1": "黄金与外汇", "stat.2b": "宏观", "stat.2": "美联储、通胀、原油", "stat.3b": "实时", "stat.3": "来自\u00a0X\u00a0的资讯流",
       "about.h": "关于我们",
       "about.sub": "Market Plus 是一个市场资讯项目，为只想要关键信息、不要噪音的人而做。",
       "about.t1h": "只看重点", "about.t1p": "地缘政治、央行决议、通胀与就业数据——这些才是推动黄金和汇率的因素。",
@@ -656,7 +656,8 @@
     try { return new Date(ts * 1000).toLocaleString(locale(), { dateStyle: "medium", timeStyle: "short" }); }
     catch (e) { return new Date(ts * 1000).toISOString(); }
   }
-  function shortUrl(u) { return u.replace(/^https?:\/\/(www\.)?/i, "").replace(/^(.{0,60}).*$/, function (m, a) { return m.length > 60 ? a + "…" : a; }); }
+  // X attaches t.co short links to posts; the card itself already opens the post
+  function noTco(s) { return String(s || "").replace(/[ \t]*https?:\/\/t\.co\/\S+/g, "").replace(/[ \t]+$/gm, "").replace(/^[ \t]+/gm, "").replace(/\n{3,}/g, "\n\n").trim(); }
 
   function itemsFor(tab) {
     if (!newsData) return [];
@@ -689,9 +690,8 @@
     // lang = language of the text actually shown (never inherit the UI language blindly)
     var shownLang = tt ? scriptLang(tt, locale()) : scriptLang(it.title, it.lang || "en");
     var span = el("span", "ni-t"); span.lang = shownLang;
-    setText(span, tt || it.title, shownLang);
+    setText(span, it.kind === "x" ? noTco(tt || it.title) : (tt || it.title), shownLang);
     a.appendChild(span);
-    if (it.kind === "x") { var lk = el("span", "ni-link", shortUrl(it.url)); lk.lang = "en"; lk.setAttribute("translate", "no"); a.appendChild(lk); }
     return a;
   }
 
