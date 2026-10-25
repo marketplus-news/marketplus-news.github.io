@@ -1,5 +1,5 @@
 {
- "updated": 1792967225,
+ "updated": 1792969033,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -220,7 +220,7 @@
    "source": "CNBC",
    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
    "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-   "ts": 1792967192,
+   "ts": 1792968901,
    "sec": [
     "market"
    ],
@@ -234,21 +234,259 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons ‘not going anywhere’",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-   "ts": 1792966370,
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "ts": 1792968897,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Австралійська політика в прямому ефірі: депутати віддають данину пам’яті Хелен Хейнс під час відновлення роботи парламенту; Хенсон каже, що мультфільми One Nation «нікуди не дінуться»",
-    "fr": "La politique australienne en direct : les députés rendront hommage à Helen Haines à la reprise du Parlement ; Hanson dit que les dessins animés de One Nation « ne mèneront nulle part »",
-    "de": "Australische Politik live: Abgeordnete zollen Helen Haines Tribut, während das Parlament wieder antritt; Hanson sagt, One-Nation-Cartoons „gehen nirgendwohin“",
-    "zh": "澳大利亚政治直播：议会复会后议员们向海伦·海恩斯致敬；汉森说一国漫画“不会去任何地方”",
-    "ru": "Политика Австралии жива: депутаты отдадут дань уважения Хелен Хейнс после возобновления работы парламента; Хэнсон говорит, что карикатуры One Nation «никуда не денутся»"
+    "uk": "Ветеран правителя Сербії Вучич поступається обранням студентському протестному руху",
+    "fr": "Le dirigeant vétéran de la Serbie, Vučić, concède son élection au mouvement de protestation dirigé par les étudiants.",
+    "de": "Serbiens altgedienter Machthaber Vučić überlässt die Wahl einer studentischen Protestbewegung",
+    "zh": "塞尔维亚资深统治者武契奇承认学生领导的抗议运动当选",
+    "ru": "Правитель Сербии-ветеран Вучич признал победу на выборах студенческим протестным движением"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Brazil's Lula takes early lead in presidential runoff vote",
+   "url": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+   "ts": 1792968781,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Бразилець Лула достроково лідирує в другому турі президентських виборів",
+    "fr": "Le Brésilien Lula prend rapidement la tête du second tour de l'élection présidentielle",
+    "de": "Brasiliens Lula übernimmt in der Stichwahl um das Präsidentenamt frühzeitig die Führung",
+    "zh": "巴西总统决选投票中卢拉早早领先",
+    "ru": "Бразилец Лула лидирует во втором туре президентских выборов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "ts": 1792968187,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Дикі сцени святкування в Белграді, коли Вучич визнав сербські вибори – Європа в прямому ефірі",
+    "fr": "Scènes de célébration sauvages à Belgrade alors que Vučić concède les élections serbes – L’Europe en direct",
+    "de": "Wilde Jubelszenen in Belgrad, als Vučić die serbischen Wahlen zugibt – Europa live",
+    "zh": "武契奇承认塞尔维亚选举失败，贝尔格莱德爆发疯狂庆祝场面 - 欧洲直播",
+    "ru": "Дикие сцены празднования в Белграде, когда Вучич признал поражение на выборах в Сербии – Европа в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
+   "ts": 1792968180,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Сильний лідер Сербії Вучич визнає поразку студентського руху в сейсмічній політичній зміні",
+    "fr": "L'homme fort de Serbie, Vucic, reconnaît sa défaite face au mouvement étudiant dans un changement politique sismique",
+    "de": "Serbiens starker Führer Vucic räumt der von Studenten geführten Bewegung in einem seismischen politischen Wandel eine Niederlage ein",
+    "zh": "塞尔维亚强人领导人武契奇承认学生领导的运动在地震性政治转变中失败",
+    "ru": "Лидер Сербии Вучич признал поражение студенческого движения в сейсмическом политическом сдвиге"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+   "url": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+   "ts": 1792968147,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Маск каже, що SpaceX залучила 40 мільярдів доларів у вигляді боргової угоди, прогнозує потрясіння Neocloud",
+    "fr": "Musk dit que SpaceX a levé 40 milliards de dollars dans le cadre d'un accord de dette et prédit le bouleversement du néocloud",
+    "de": "Laut Musk hat SpaceX einen Schuldendeal in Höhe von 40 Milliarden US-Dollar eingesammelt und prognostiziert eine Marktbereinigung bei Neocloud",
+    "zh": "马斯克称 SpaceX 通过债务交易筹集了 400 亿美元，并预测 Neocloud 将面临洗牌",
+    "ru": "Маск говорит, что SpaceX привлекла $40 млрд в рамках долговой сделки и предсказывает встряску Neocloud"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Australia politics live: MPs to honour Haines with ‘civility pledge’ and orange cockatoos; access to contraception and UTI treatment to become cheaper and easier",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+   "ts": 1792967868,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Австралійська політика в прямому ефірі: депутати вшанують Хейнса «присягою цивілізованості» та помаранчевими какаду; доступ до контрацепції та лікування сечових шляхів стане дешевшим і простішим",
+    "fr": "La politique australienne en direct : les députés rendront hommage à Haines avec un « engagement civique » et des cacatoès orange ; l’accès à la contraception et au traitement des infections urinaires deviendra moins cher et plus facile",
+    "de": "Australiens Politik live: Abgeordnete ehren Haines mit „Höflichkeitsversprechen“ und orangefarbenen Kakadus; Der Zugang zu Empfängnisverhütung und Harnwegsinfektionsbehandlung soll billiger und einfacher werden",
+    "zh": "澳大利亚政治现场：国会议员以“文明誓言”和橙色凤头鹦鹉向海恩斯致敬；获得避孕和尿路感染治疗变得更便宜、更容易",
+    "ru": "Политика Австралии жива: депутаты почтили Хейнса «клятвой вежливости» и оранжевыми какаду; доступ к контрацепции и лечению ИМП станет дешевле и проще"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+   "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+   "ts": 1792967856,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Фінансування планується подвоїти для того, щоб до Різдва позбутися вулиць, які сплять",
+    "fr": "Le financement devrait doubler pour le plan visant à retirer les sans-abri de la rue d'ici Noël",
+    "de": "Die Mittel sollen verdoppelt werden, um bis Weihnachten Menschen mit unruhigen Schläfern von der Straße zu verbannen",
+    "zh": "圣诞节前让露宿者远离街头的计划资金将增加一倍",
+    "ru": "Финансирование удвоится для плана по избавлению от плохо спящих людей на улицах к Рождеству"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+   "ts": 1792967751,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Трамп посилається на події 11 вересня, закликаючи виборців Мічигану виступити проти мусульманського кандидата в Сенат Ель-Сайєда",
+    "fr": "Trump invoque le 11 septembre pour exhorter les électeurs du Michigan à s'opposer au candidat musulman au Sénat, El-Sayed",
+    "de": "Trump beruft sich auf den 11. September, als er die Wähler in Michigan auffordert, sich gegen den muslimischen Senatskandidaten El-Sayed zu stellen",
+    "zh": "特朗普援引9/11事件敦促密歇根州选民反对穆斯林参议院候选人埃尔-赛义德",
+    "ru": "Трамп ссылается на события 11 сентября, призывая избирателей Мичигана выступить против мусульманского кандидата в Сенат Эль-Сайеда"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Australia’s NEXTDC CEO to forgo fiscal 2027 bonuses after forecast cut, project delay",
+   "url": "https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+   "ts": 1792967461,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Генеральний директор Австралії NEXTDC відмовиться від бонусів на 2027 фінансовий рік після скорочення прогнозу та затримки проекту",
+    "fr": "Le PDG australien de NEXTDC renoncera aux bonus de l’exercice 2027 après une réduction des prévisions et un retard du projet",
+    "de": "Australiens NEXTDC-CEO verzichtet nach Prognosekürzung und Projektverzögerung auf Boni für das Geschäftsjahr 2027",
+    "zh": "澳大利亚 NEXTDC 首席执行官在预测下调、项目延迟后放弃 2027 财年奖金",
+    "ru": "Генеральный директор австралийской NEXTDC откажется от бонусов в 2027 финансовом году из-за сокращения прогноза и задержки проекта"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
+   "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "ts": 1792967422,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Лідер Сербії Александар Вучич визнає поразку на парламентських виборах, що пройшли в країні",
+    "fr": "Le dirigeant serbe Aleksandar Vučić reconnaît sa défaite lors d'élections parlementaires âprement disputées",
+    "de": "Der serbische Staatschef Aleksandar Vučić räumt seine Niederlage bei der hart umkämpften Parlamentswahl ein",
+    "zh": "塞尔维亚领导人亚历山大·武契奇承认在竞争激烈的议会选举中失败",
+    "ru": "Сербский лидер Александр Вучич признал поражение на ожесточенных парламентских выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+   "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+   "ts": 1792967413,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бернем подвоїть витрати на бездомних на тлі бажання покінчити з важким сном до Різдва",
+    "fr": "Burnham va doubler ses dépenses de lutte contre le sans-abrisme dans le cadre des efforts visant à mettre fin au sommeil dans la rue d'ici Noël",
+    "de": "Burnham verdoppelt seine Ausgaben für Obdachlosenhilfe, um bis Weihnachten ein Ende des unruhigen Schlafens zu erreichen",
+    "zh": "伯纳姆将加大对无家可归者的支出，以期在圣诞节前结束露宿街头的现象",
+    "ru": "Бернэм удвоит расходы на бездомных на фоне стремления положить конец бессоннице к Рождеству"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "US appeals court appears skeptical of Trump DOJ's lawsuit over California voter rolls",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU25wRVhKZUxxMGJKMjRLWVptYXNHRVZ1UjYtM1VDUGFDOFRlSkY4eERuQm90RUV4a1R6NE1ia1FHZzItRTRVSHJOS3dvMXc4VURHTmxuMzBMWUZDOFI1SGhrVjdQMkJXM1ByRFRsNEVDUFkzX1huMWl1SEZqaWhYUERUNWxPWGlaMThLU2RjaUxUSTc4V3hRWWtyaVN3aENiSnZOMGRrZUlsQ3AtMHQ5WFVURTBrN1BW?oc=5",
+   "ts": 1792967314,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Апеляційний суд США скептично ставиться до позову Міністерства юстиції Трампа щодо списків виборців Каліфорнії",
+    "fr": "La cour d'appel américaine semble sceptique quant au procès du DOJ de Trump concernant les listes électorales de Californie",
+    "de": "Das US-Berufungsgericht scheint der Klage des Justizministeriums von Trump wegen Wählerlisten in Kalifornien skeptisch gegenüberzustehen",
+    "zh": "美国上诉法院似乎对特朗普司法部就加州选民名册提起的诉讼持怀疑态度",
+    "ru": "Апелляционный суд США скептически отнесся к иску Министерства юстиции Трампа по поводу списков избирателей в Калифорнии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+   "ts": 1792966973,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Мадридський \"Реал\" переміг \"Барселону\" на \"Камп Ноу\" з рахунком 2:1 і вдвічі скоротив відставання від лідерів Ла Ліги",
+    "fr": "Le Real Madrid a battu Barcelone 2-1 au Camp Nou pour réduire de moitié l'écart avec le leader de la Liga.",
+    "de": "Real Madrid besiegte Barcelona im Camp Nou mit 2:1 und halbierte damit den Rückstand auf den Spitzenreiter der La Liga",
+    "zh": "皇马在诺坎普2-1击败巴塞罗那，将与西甲领头羊的差距缩小了一半",
+    "ru": "Мадридский «Реал» обыграл «Барселону» со счетом 2:1 на «Камп Ноу» и вдвое сократил отставание от лидеров Ла Лиги"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+   "ts": 1792966758,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Двоє загиблих і 160 000 об’єктів залишилися без світла через шторм Боело, що обрушився на Великобританію",
+    "fr": "Deux morts et 160 000 propriétés privées d'électricité alors que la tempête Boelo frappe le Royaume-Uni",
+    "de": "Zwei Tote und 160.000 Häuser ohne Strom, während Sturm Boelo Großbritannien heimsucht",
+    "zh": "风暴博埃洛袭击英国，造成两人死亡、16万财产断电",
+    "ru": "Двое погибших и 160 000 домов остались без электричества из-за шторма Боэло, обрушившегося на Великобританию"
    },
    "lang": "en"
   },
@@ -267,44 +505,6 @@
     "de": "Trump sagt, der Iran-Krieg werde nicht enden, bis die nukleare Bedrohung verschwunden sei; Kein Streik heute",
     "zh": "特朗普表示，在核威胁消失之前，伊朗战争不会结束；今天没有罢工",
     "ru": "Трамп говорит, что война с Ираном не закончится, пока не исчезнет ядерная угроза; сегодня никакой забастовки"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
-   "ts": 1792966329,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Президент Сербії Вучич визнає поразку на історичній перемозі студентського протестного руху на виборах",
-    "fr": "Vucic de Serbie reconnaît la défaite électorale historique du mouvement de protestation étudiant",
-    "de": "Serbiens Vucic räumt beim historischen Wahlsieg der Studentenprotestbewegung eine Niederlage ein",
-    "zh": "塞尔维亚总统武契奇承认学生抗议运动在历史性选举中失败",
-    "ru": "Сербский Вучич признал поражение в исторической победе студенческого протестного движения на выборах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "ts": 1792966309,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Дикі сцени святкування в Белграді, коли Вучич визнав сербські вибори – Європа в прямому ефірі",
-    "fr": "Scènes de célébration sauvages à Belgrade alors que Vučić concède les élections serbes – L’Europe en direct",
-    "de": "Wilde Jubelszenen in Belgrad, als Vučić die serbischen Wahlen zugibt – Europa live",
-    "zh": "武契奇承认塞尔维亚选举失败，贝尔格莱德爆发疯狂庆祝场面 - 欧洲直播",
-    "ru": "Дикие сцены празднования в Белграде, когда Вучич признал поражение на выборах в Сербии – Европа в прямом эфире"
    },
    "lang": "en"
   },
@@ -349,25 +549,6 @@
   {
    "feed": "bbc_world",
    "source": "BBC",
-   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "ts": 1792965986,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Ветеран правителя Сербії Вучич поступається обранням студентському протестному руху",
-    "fr": "Le dirigeant vétéran de la Serbie, Vučić, concède son élection au mouvement de protestation dirigé par les étudiants.",
-    "de": "Serbiens altgedienter Machthaber Vučić überlässt die Wahl einer studentischen Protestbewegung",
-    "zh": "塞尔维亚资深统治者武契奇承认学生领导的抗议运动当选",
-    "ru": "Правитель Сербии-ветеран Вучич признал победу на выборах студенческим протестным движением"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
    "title": "Why Israel's election is one of the most important in its history",
    "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
    "ts": 1792965930,
@@ -399,25 +580,6 @@
     "de": "Laut KCNA berichtet Nordkorea von einem erfundenen Landminenvorfall im Süden der Vereinten Nationen",
     "zh": "朝中社称，朝鲜向联合国通报韩国捏造的地雷事件",
     "ru": "Северная Корея сообщила Югу ООН об инциденте с сфабрикованной наземной миной, сообщает ЦТАК"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
-   "ts": 1792965570,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Трамп посилається на події 11 вересня, закликаючи виборців Мічигану виступити проти мусульманського кандидата в Сенат Ель-Сайєда",
-    "fr": "Trump invoque le 11 septembre pour exhorter les électeurs du Michigan à s'opposer au candidat musulman au Sénat, El-Sayed",
-    "de": "Trump beruft sich auf den 11. September, als er die Wähler in Michigan auffordert, sich gegen den muslimischen Senatskandidaten El-Sayed zu stellen",
-    "zh": "特朗普援引9/11事件敦促密歇根州选民反对穆斯林参议院候选人埃尔-赛义德",
-    "ru": "Трамп ссылается на события 11 сентября, призывая избирателей Мичигана выступить против мусульманского кандидата в Сенат Эль-Сайеда"
    },
    "lang": "en"
   },
@@ -458,6 +620,25 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+   "ts": 1792965292,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Бразилія призупинила підрахунок президентських голосів після того, як Верховний суд продовжив час голосування",
+    "fr": "Le Brésil suspend le décompte des voix présidentielles après que la Cour suprême a prolongé les heures de vote",
+    "de": "Brasilien unterbricht die Auszählung der Präsidentschaftsstimmen, nachdem der Oberste Gerichtshof die Abstimmungszeiten verlängert hat",
+    "zh": "最高法院延长投票时间后巴西暂停总统计票",
+    "ru": "Бразилия приостановила подсчет голосов президента после того, как Верховный суд продлил часы голосования"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "investing",
    "source": "Investing.com",
    "title": "Goldman lists 3 factors that support long commodities positions",
@@ -472,24 +653,6 @@
     "de": "Goldman listet drei Faktoren auf, die Long-Positionen in Rohstoffen unterstützen",
     "zh": "高盛列出了支持大宗商品多头头寸的 3 个因素",
     "ru": "Goldman перечисляет 3 фактора, которые поддерживают длинные позиции по сырьевым товарам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Two dead and more than 160,000 properties without power as Storm Boelo batters UK",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "ts": 1792965055,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Двоє загиблих і понад 160 000 об’єктів залишилися без світла через шторм Боело, що обрушився на Великобританію",
-    "fr": "Deux morts et plus de 160 000 propriétés privées d'électricité alors que la tempête Boelo frappe le Royaume-Uni",
-    "de": "Zwei Tote und mehr als 160.000 Häuser ohne Strom, während Sturm Boelo Großbritannien heimsucht",
-    "zh": "风暴博埃洛袭击英国，造成两人死亡、超过 16 万财产断电",
-    "ru": "Двое погибших и более 160 000 домов остались без электричества из-за шторма Боэло, обрушившегося на Великобританию"
    },
    "lang": "en"
   },
@@ -530,24 +693,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
-   "ts": 1792964760,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Сильний лідер Сербії Вучич визнає поразку студентського руху в сейсмічній політичній зміні",
-    "fr": "L'homme fort de Serbie, Vucic, reconnaît sa défaite face au mouvement étudiant dans un changement politique sismique",
-    "de": "Serbiens starker Führer Vucic räumt der von Studenten geführten Bewegung in einem seismischen politischen Wandel eine Niederlage ein",
-    "zh": "塞尔维亚强人领导人武契奇承认学生领导的运动在地震性政治转变中失败",
-    "ru": "Лидер Сербии Вучич признал поражение студенческого движения в сейсмическом политическом сдвиге"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
@@ -582,25 +727,6 @@
     "de": "Marine Le Pen startet den französischen Präsidentschaftswahlkampf",
     "zh": "玛丽娜·勒庞发起法国总统竞选活动",
     "ru": "Марин Ле Пен начала президентскую кампанию во Франции"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-   "url": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
-   "ts": 1792963799,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Бразилія призупинила підрахунок президентських голосів після того, як Верховний суд продовжив час голосування",
-    "fr": "Le Brésil suspend le décompte des voix présidentielles après que la Cour suprême a prolongé les heures de vote",
-    "de": "Brasilien unterbricht die Auszählung der Präsidentschaftsstimmen, nachdem der Oberste Gerichtshof die Abstimmungszeiten verlängert hat",
-    "zh": "最高法院延长投票时间后巴西暂停总统计票",
-    "ru": "Бразилия приостановила подсчет голосов президента после того, как Верховный суд продлил часы голосования"
    },
    "lang": "en"
   },
@@ -770,24 +896,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
-   "url": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-   "ts": 1792962024,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Маск каже, що SpaceX зібрала 40 мільярдів доларів боргу за графічні процесори",
-    "fr": "Musk dit que SpaceX a levé 40 milliards de dollars de dette pour les GPU",
-    "de": "Laut Musk hat SpaceX 40 Milliarden US-Dollar an Schulden für GPUs aufgenommen",
-    "zh": "马斯克表示 SpaceX 为 GPU 筹集了 400 亿美元债务",
-    "ru": "Маск заявил, что SpaceX привлекла $40 млрд в долг за графические процессоры"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
@@ -807,25 +915,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
-   "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-   "ts": 1792961937,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Лідер Сербії Александар Вучич визнає поразку на парламентських виборах, що пройшли в країні",
-    "fr": "Le dirigeant serbe Aleksandar Vučić reconnaît sa défaite lors d'élections parlementaires âprement disputées",
-    "de": "Der serbische Staatschef Aleksandar Vučić räumt seine Niederlage bei der hart umkämpften Parlamentswahl ein",
-    "zh": "塞尔维亚领导人亚历山大·武契奇承认在竞争激烈的议会选举中失败",
-    "ru": "Сербский лидер Александр Вучич признал поражение на ожесточенных парламентских выборах"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky on Oleshky evacuation: Russia will try to force residents to flee to its territory",
@@ -840,6 +929,24 @@
     "de": "Selenskyj über die Evakuierung von Oleshky: Russland wird versuchen, die Bewohner zur Flucht auf sein Territorium zu zwingen",
     "zh": "泽连斯基谈奥列什基疏散：俄罗斯将试图迫使居民逃往其领土",
     "ru": "Зеленский об эвакуации Олешек: Россия попытается заставить жителей бежать на свою территорию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+   "ts": 1792961812,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Маск каже, що SpaceX зібрала 40 мільярдів доларів боргу за графічні процесори",
+    "fr": "Musk dit que SpaceX a levé 40 milliards de dollars de dette pour les GPU",
+    "de": "Laut Musk hat SpaceX 40 Milliarden US-Dollar an Schulden für GPUs aufgenommen",
+    "zh": "马斯克表示 SpaceX 为 GPU 筹集了 400 亿美元债务",
+    "ru": "Маск заявил, что SpaceX привлекла $40 млрд в долг за графические процессоры"
    },
    "lang": "en"
   },
@@ -1101,61 +1208,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-   "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-   "ts": 1792958216,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Лідерка опозиції, яка перебуває у вигнанні, Марія Коріна Мачадо повертається до Венесуели",
-    "fr": "La chef de l'opposition en exil María Corina Machado retourne au Venezuela",
-    "de": "Die im Exil lebende Oppositionsführerin María Corina Machado kehrt nach Venezuela zurück",
-    "zh": "流亡反对派领导人玛丽亚·科里纳·马查多返回委内瑞拉",
-    "ru": "Сосланный лидер оппозиции Мария Корина Мачадо возвращается в Венесуэлу"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Marine Le Pen launches presidential campaign in Orléans",
-   "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-   "ts": 1792957540,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Марін Ле Пен починає президентську кампанію в Орлеані",
-    "fr": "Marine Le Pen lance sa campagne présidentielle à Orléans",
-    "de": "Marine Le Pen startet Präsidentschaftswahlkampf in Orléans",
-    "zh": "玛丽娜·勒庞在奥尔良启动总统竞选活动",
-    "ru": "Марин Ле Пен начинает президентскую кампанию в Орлеане"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "The narrative battle over France’s unrest",
-   "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
-   "ts": 1792956974,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Оповідна битва навколо заворушень у Франції",
-    "fr": "La bataille narrative sur les troubles en France",
-    "de": "Der narrative Kampf um die Unruhen in Frankreich",
-    "zh": "关于法国动乱的叙事之战",
-    "ru": "Нарративная битва по поводу беспорядков во Франции"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky: Energy truce could signal Russia’s readiness to end war",
@@ -1228,6 +1280,25 @@
    "lang": "en"
   },
   {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Le Pen vows to revive oil prospecting in France, calling 2017 ban \"stupid\"",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTAwN0hYNWlxcGRhbjJNREJIRDI5M0ZYTDhUTXItemNJSDRieUJHMGJSdDBBNTJ4a3ZGdTYwY3BJb3dYa1I1TVd0RjJqSUw0T3lZai1iZ2RhWDUzdUs2c0d2ODFPeDlvZDBWX2NkTW1KOGtUTXROODFUZEw4bk1uczRtdk9SZWpTLV9BOHNMQVhIT3o1Qng1Q3lyS0Y?oc=5",
+   "ts": 1792954860,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Ле Пен пообіцяла відновити розвідку нафти у Франції, назвавши заборону 2017 року \"дурністю\"",
+    "fr": "Le Pen s'engage à relancer la prospection pétrolière en France, qualifiant l'interdiction de 2017 de \"stupide\"",
+    "de": "Le Pen verspricht, die Ölförderung in Frankreich wiederzubeleben und bezeichnet das Verbot von 2017 als „dumm“",
+    "zh": "勒庞发誓要重振法国石油勘探，称2017年禁令“愚蠢”",
+    "ru": "Ле Пен обещает возродить разведку нефти во Франции, назвав запрет 2017 года «глупым»"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky warns against lifting sanctions on Russia “just to have chat”",
@@ -1242,24 +1313,6 @@
     "de": "Selenskyj warnt davor, die Sanktionen gegen Russland aufzuheben, „nur um sich zu unterhalten“",
     "zh": "泽连斯基警告不要“只是为了聊天”而解除对俄罗斯的制裁",
     "ru": "Зеленский предостерегает от снятия санкций с России «просто для того, чтобы поболтать»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "U.S, Canada “very close” to trade deal, White House’s Hassett says",
-   "url": "https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
-   "ts": 1792954755,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "США та Канада «дуже близькі» до торгової угоди, каже Хассетт з Білого дому",
-    "fr": "Les États-Unis et le Canada sont « très proches » d’un accord commercial, selon Hassett de la Maison Blanche",
-    "de": "Die USA und Kanada stehen kurz vor einem Handelsabkommen, sagt Hassett vom Weißen Haus",
-    "zh": "白宫的哈塞特表示，美国和加拿大“非常接近”达成贸易协议",
-    "ru": "США и Канада «очень близки» к торговому соглашению, говорит Хассетт из Белого дома"
    },
    "lang": "en"
   },
@@ -1783,24 +1836,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "ts": 1792938600,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Моя дружина отримала 90 000 доларів із моїх 401(k) під час нашого розлучення. Як це справедливо?",
-    "fr": "Mon conjoint a reçu 90 000 $ de mon 401(k) lors de notre divorce. En quoi est-ce juste ?",
-    "de": "Meinem Ehepartner wurden bei unserer Scheidung 90.000 US-Dollar von meinem 401(k) zugesprochen. Wie ist das fair?",
-    "zh": "在我们离婚时，我的配偶从我的 401(k) 中获得了 90,000 美元。怎样才公平呢？",
-    "ru": "Моя супруга получила 90 000 долларов из моей страховки 401 (k) при разводе. Насколько это справедливо?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "One killed and five injured in Russian drone strike on bus in Kherson – photos",
@@ -2167,25 +2202,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-   "ts": 1792877997,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна каже, що Starshield повертається до нормального стану, Маск каже, що Київ порушив умови",
-    "fr": "L'Ukraine affirme que Starshield est revenu à la normale, Musk affirme que Kyiv a violé les conditions",
-    "de": "Die Ukraine sagt, Starshield sei wieder normal, Musk sagt, Kiew habe gegen die Bedingungen verstoßen",
-    "zh": "乌克兰称星盾恢复正常，马斯克称基辅违反条款",
-    "ru": "Украина заявляет, что Starshield вернулась в нормальное состояние, Маск говорит, что Киев нарушил условия"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Healey’s first budget to include big devolution package to boost growth",
@@ -2200,6 +2216,25 @@
     "de": "Healeys erster Haushalt beinhaltet ein großes Dezentralisierungspaket zur Ankurbelung des Wachstums",
     "zh": "希利的第一份预算包括大规模权力下放计划以促进增长",
     "ru": "Первый бюджет Хили, включающий большой пакет передачи полномочий для стимулирования роста"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
+   "ts": 1792872960,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Маск каже, що він стоїть за обмеженням швидкості Starlink після відновлення обслуговування в Україні",
+    "fr": "Musk dit qu'il était à l'origine de la restriction de vitesse de Starlink après le rétablissement du service en Ukraine",
+    "de": "Musk sagt, er stecke hinter der Geschwindigkeitsbeschränkung von Starlink, nachdem der Dienst in der Ukraine wiederhergestellt wurde",
+    "zh": "马斯克表示，在乌克兰恢复服务后，星链速度限制是他推动的",
+    "ru": "Маск заявил, что стоял за ограничением скорости Starlink после восстановления сервиса в Украине"
    },
    "lang": "en"
   },
@@ -2476,24 +2511,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Police yet to receive £2m after A66 crash, says commissioner",
-   "url": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o?at_medium=RSS&at_campaign=rss",
-   "ts": 1792774082,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Поліція ще не отримала 2 мільйони фунтів після аварії A66, каже комісар",
-    "fr": "La police n'a pas encore reçu 2 millions de livres sterling après l'accident de l'A66, déclare le commissaire",
-    "de": "Die Polizei hat nach dem Unfall auf der A66 noch 2 Millionen Pfund erhalten, sagt Kommissar",
-    "zh": "专员称，A66 坠机事故后警方尚未收到 200 万英镑",
-    "ru": "Полиция еще не получила 2 миллиона фунтов стерлингов после крушения А66, говорит комиссар"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Martin Rowson on the approval of the Jackdaw gasfield – cartoon",
@@ -2559,7 +2576,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "guardian_business",
@@ -2579,12 +2596,12 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "source": "reuters_business",
    "ok": true,
-   "items": 37
+   "items": 34
   },
   {
    "source": "reuters_world",
@@ -2629,7 +2646,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 22
+   "items": 23
   },
   {
    "source": "guardian_politics",
@@ -2695,7 +2712,7 @@
    "source": "translate",
    "ok": true,
    "requests": 5,
-   "translated": 85,
+   "translated": 65,
    "method": {
     "dict": 5
    }
