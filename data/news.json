@@ -1,5 +1,5 @@
 {
- "updated": 1792949478,
+ "updated": 1792951102,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,13 +216,104 @@
  ],
  "items": [
   {
-   "feed": "guardian_politics",
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+   "ts": 1792950635,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Бланш захищає позов Міністерства юстиції щодо блокування результатів сенату Аляски, якщо республіканці програють",
+    "fr": "Blanche défend le procès du DOJ bloquant les résultats du Sénat de l'Alaska si le républicain perd",
+    "de": "Blanche verteidigt die Klage des DOJ, die die Ergebnisse des Senats von Alaska blockiert, wenn die Republikaner verlieren",
+    "zh": "如果共和党失败，布兰奇将为司法部阻止阿拉斯加州参议院结果的诉讼进行辩护",
+    "ru": "Бланш защищает иск Министерства юстиции о блокировке результатов Сената Аляски, если республиканец проиграет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+   "url": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+   "ts": 1792950495,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оппенгеймер бачить покращення фону Інтернету, програмного забезпечення для торгівлі Q3, занепокоєння штучним інтелектом залишаються",
+    "fr": "Oppenheimer voit le contexte du Web et des logiciels de commerce s'améliorer au troisième trimestre, les inquiétudes en matière d'IA persistent",
+    "de": "Oppenheimer geht davon aus, dass sich das Umfeld für Web- und E-Commerce-Software im dritten Quartal verbessert, die KI-Sorgen bleiben bestehen",
+    "zh": "奥本海默认为网络、商业软件第三季度背景有所改善，人工智能担忧挥之不去",
+    "ru": "Оппенгеймер считает, что ситуация в Интернете и коммерческом программном обеспечении в третьем квартале улучшается, а опасения по поводу искусственного интеллекта сохраняются"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+   "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+   "ts": 1792950210,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Лідер опозиції Венесуели Мачадо повертається після місяців у вигнанні, оскільки сумніви щодо демократії поглиблюються",
+    "fr": "Le chef de l'opposition vénézuélienne Machado revient après des mois d'exil, alors que les doutes sur la démocratie s'accentuent",
+    "de": "Venezuelas Oppositionsführer Machado kehrt nach Monaten im Exil zurück, während die Zweifel an der Demokratie zunehmen",
+    "zh": "随着对民主的怀疑加深，委内瑞拉反对派领导人马查多在流亡数月后返回",
+    "ru": "Лидер оппозиции Венесуэлы Мачадо возвращается после нескольких месяцев изгнания, поскольку сомнения в демократии углубляются"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "ts": 1792950168,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Сербія голосує, оскільки сильний Вучич стикається з масовим викликом 12-річного правління – Європа наживо",
+    "fr": "La Serbie vote alors que l’homme fort Vučić fait face à une contestation populaire pour un règne de 12 ans – L’Europe en direct",
+    "de": "Serbien wählt als starker Mann Vučić vor der Basisherausforderung für die 12-jährige Herrschaft – Europa live",
+    "zh": "塞尔维亚投票，强人武契奇面临草根挑战，挑战12年统治 - 欧洲直播",
+    "ru": "Сербия голосует, поскольку авторитарному лидеру Вучичу грозит массовый вызов 12-летнему правлению – Европа в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+   "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+   "ts": 1792949182,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Представник ООН попереджає, що «розрив можливостей» ШІ може поглибити глобальну нерівність",
+    "fr": "La « fracture des opportunités » de l’IA pourrait aggraver les inégalités mondiales, prévient un responsable de l’ONU",
+    "de": "Die „Chancenkluft“ der KI könnte die globale Ungleichheit verschärfen, warnt ein UN-Beamter",
+    "zh": "联合国官员警告称，人工智能的“机会鸿沟”可能会加剧全球不平等",
+    "ru": "«Разрыв возможностей» ИИ может усугубить глобальное неравенство, предупреждает представитель ООН"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
    "source": "The Guardian",
    "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
    "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
    "ts": 1792949107,
    "sec": [
-    "politics"
+    "market"
    ],
    "t": {
     "uk": "Погляд The ​​Guardian на пішохідну зону Оксфорд-стріт: міста мають будуватися навколо людей, а не автомобілів | Редакція",
@@ -234,20 +325,57 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-   "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
-   "ts": 1792948485,
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+   "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+   "ts": 1792948708,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Лідер опозиції Венесуели Мачадо повертається після місяців у вигнанні, оскільки сумніви щодо демократії поглиблюються",
-    "fr": "Le chef de l'opposition vénézuélienne Machado revient après des mois d'exil, alors que les doutes sur la démocratie s'accentuent",
-    "de": "Venezuelas Oppositionsführer Machado kehrt nach Monaten im Exil zurück, während die Zweifel an der Demokratie zunehmen",
-    "zh": "随着对民主的怀疑加深，委内瑞拉反对派领导人马查多在流亡数月后返回",
-    "ru": "Лидер оппозиции Венесуэлы Мачадо возвращается после нескольких месяцев изгнания, поскольку сомнения в демократии углубляются"
+    "uk": "Лідерка опозиції, яка перебуває у вигнанні, Марія Коріна Мачадо повертається до Венесуели",
+    "fr": "La chef de l'opposition en exil María Corina Machado retourne au Venezuela",
+    "de": "Die im Exil lebende Oppositionsführerin María Corina Machado kehrt nach Venezuela zurück",
+    "zh": "流亡反对派领导人玛丽亚·科里纳·马查多返回委内瑞拉",
+    "ru": "Сосланный лидер оппозиции Мария Корина Мачадо возвращается в Венесуэлу"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+   "ts": 1792948418,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Бразилія голосує у другому турі між Лулою та Болсонару",
+    "fr": "Le Brésil vote dans un second tour serré entre Lula et Bolsonaro",
+    "de": "Brasilien stimmt in knapper Stichwahl zwischen Lula und Bolsonaro ab",
+    "zh": "巴西投票，卢拉和博尔索纳罗之间的决选激烈",
+    "ru": "В Бразилии проголосовали во втором туре между Лулой и Болсонару"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+   "ts": 1792948379,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Jerusalem Daily: Ізраїль виганяє тисячі людей з Хеврону",
+    "fr": "Jerusalem Daily : Israël expulse des milliers de personnes d’Hébron",
+    "de": "Jerusalem Daily: Israel vertreibt Tausende aus Hebron",
+    "zh": "耶路撒冷日报：以色列将数千人驱逐出希伯伦",
+    "ru": "«Джерузалем Дейли»: Израиль изгоняет тысячи людей из Хеврона"
    },
    "lang": "en"
   },
@@ -267,6 +395,24 @@
     "de": "Frankreich: Le Pen versucht, Unruhen zum Auftakt des Präsidentschaftswahlkampfs auszunutzen",
     "zh": "法国：勒庞寻求在总统竞选活动中利用骚乱",
     "ru": "Франция: Ле Пен пытается использовать беспорядки в начале президентской кампании"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Tech firms should pay the creators whose work they use | Letter",
+   "url": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use",
+   "ts": 1792948294,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Технічні компанії повинні платити творцям, чиї роботи вони використовують | лист",
+    "fr": "Les entreprises technologiques devraient rémunérer les créateurs dont elles utilisent le travail | Lettre",
+    "de": "Technologiefirmen sollten die Urheber bezahlen, deren Arbeit sie nutzen | Brief",
+    "zh": "科技公司应该向其使用其作品的创作者付费信",
+    "ru": "Технологические компании должны платить создателям, чьи работы они используют | Письмо"
    },
    "lang": "en"
   },
@@ -303,43 +449,6 @@
     "de": "Oppositionsführer Machado kehrt nach zehn Monaten im Exil nach Venezuela zurück",
     "zh": "流亡十个月后，反对派领袖马查多返回委内瑞拉",
     "ru": "Лидер оппозиции Мачадо возвращается в Венесуэлу после 10 месяцев изгнания"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "ts": 1792947967,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Сербія голосує, оскільки сильний Вучич стикається з масовим викликом 12-річного правління – Європа наживо",
-    "fr": "La Serbie vote alors que l’homme fort Vučić fait face à une contestation populaire pour un règne de 12 ans – L’Europe en direct",
-    "de": "Serbien wählt als starker Mann Vučić vor der Basisherausforderung für die 12-jährige Herrschaft – Europa live",
-    "zh": "塞尔维亚投票，强人武契奇面临草根挑战，挑战12年统治 - 欧洲直播",
-    "ru": "Сербия голосует, поскольку авторитарному лидеру Вучичу грозит массовый вызов 12-летнему правлению – Европа в прямом эфире"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Exiled Venezuelan opposition leader announces her return",
-   "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-   "ts": 1792947612,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Лідер венесуельської опозиції у вигнанні оголосила про своє повернення",
-    "fr": "La chef de l’opposition vénézuélienne en exil annonce son retour",
-    "de": "Die im Exil lebende venezolanische Oppositionsführerin kündigt ihre Rückkehr an",
-    "zh": "流亡的委内瑞拉反对派领导人宣布回国",
-    "ru": "Сосланный лидер венесуэльской оппозиции объявил о своем возвращении"
    },
    "lang": "en"
   },
@@ -398,6 +507,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3JPM2RsSG1DcVg1NFh3Y3ljUXp3MmJSTU9QTWEycDVTN1lRelFGSEk5MWlxdjlBazcwRERzME9ieWFxRE5lbGZQZXA3WU5aMXdqTDctQ08yUkw3b243YnE1Vnp4bUxVLTZLQTJ0U21UemtpWURfSGNsa05mazRFVXIyLXQta0R4dGdqdDRXd3laMXFBLUNrSGNlVUNDUm5kM1Ytb3ZCQjhQVlJJdWpXWm9hWWYxalVQ?oc=5",
+   "ts": 1792947504,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Лідер венесуельської опозиції Марія Коріна Мачадо повертається до Венесуели",
+    "fr": "La chef de l'opposition vénézuélienne Maria Corina Machado rentre au Venezuela",
+    "de": "Die venezolanische Oppositionsführerin Maria Corina Machado kehrt nach Venezuela zurück",
+    "zh": "委内瑞拉反对派领导人玛丽亚·科里娜·马查多返回委内瑞拉",
+    "ru": "Лидер оппозиции Венесуэлы Мария Корина Мачадо возвращается в Венесуэлу"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Injury toll from Russian attack on Vinnytsia rises to seven, search and rescue operations completed",
@@ -448,6 +575,25 @@
     "de": "„Ich habe kein Mitleid mit mir selbst“: Ich bin 64 und werde für den Rest meines Lebens zur Miete wohnen. Ist das so schlimm?",
     "zh": "“我不为自己感到难过”：我今年 64 岁，余生都会租房。有那么糟糕吗？",
     "ru": "«Я себя не жалею»: мне 64 года, и я буду снимать жилье до конца жизни. Это так плохо?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+   "ts": 1792946580,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Україна заперечує заяву Ілона Маска про те, що її військові порушили умови обслуговування Starlink",
+    "fr": "L’Ukraine conteste l’affirmation d’Elon Musk selon laquelle son armée aurait violé les conditions de service de Starlink",
+    "de": "Die Ukraine bestreitet die Behauptung von Elon Musk, dass ihr Militär gegen die Nutzungsbedingungen von Starlink verstoßen habe",
+    "zh": "乌克兰对埃隆·马斯克关于其军队违反星链服务条款的说法提出异议",
+    "ru": "Украина оспаривает утверждение Илона Маска о том, что ее военные нарушили условия обслуживания Starlink"
    },
    "lang": "en"
   },
@@ -541,25 +687,6 @@
     "de": "Frankreich: 1.314 Personen bei Protesten im ganzen Land festgenommen",
     "zh": "法国：全国抗议活动中有 1,314 人被捕",
     "ru": "Франция: 1314 человек арестованы во время протестов по всей стране"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-   "ts": 1792945952,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Бразилія голосує у другому турі між лівим Лулою та Болсонару-молодшим.",
-    "fr": "Le Brésil vote dans un second tour serré entre le gauchiste Lula et Bolsonaro Jr.",
-    "de": "Brasilien stimmt in knapper Stichwahl zwischen dem linken Lula und Bolsonaro Jr. ab.",
-    "zh": "巴西投票结果在左翼卢拉和小博尔索纳罗之间激烈角逐。",
-    "ru": "В Бразилии голосование проходит в жестком втором туре между левым Лулой и Болсонару-младшим."
    },
    "lang": "en"
   },
@@ -944,24 +1071,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "UN official warns AI could ‘deepen’ global inequality",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
-   "ts": 1792942732,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Представник ООН попереджає, що ШІ може «поглибити» глобальну нерівність",
-    "fr": "Un responsable de l’ONU prévient que l’IA pourrait « creuser » les inégalités mondiales",
-    "de": "UN-Beamter warnt davor, dass KI die globale Ungleichheit „vertiefen“ könnte",
-    "zh": "联合国官员警告人工智能可能“加深”全球不平等",
-    "ru": "Представитель ООН предупреждает, что ИИ может «углублять» глобальное неравенство"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Russia says it hit two cargo vessels and Ukrainian logistics hubs",
@@ -999,42 +1108,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-   "ts": 1792942371,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Підозрюваного у вбивстві в передмісті Парижа відправили на психіатричне спостереження",
-    "fr": "Le suspect d'une fusillade meurtrière en banlieue parisienne envoyé en observation psychiatrique",
-    "de": "Verdächtiger bei tödlicher Schießerei in einem Pariser Vorort zur psychiatrischen Beobachtung geschickt",
-    "zh": "巴黎郊区致命枪击案嫌疑人被送往精神观察",
-    "ru": "Подозреваемого в смертельной стрельбе в пригороде Парижа отправили на психиатрическое наблюдение"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-   "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "ts": 1792942340,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Португальська поліція з собаками та кийками розбирає житлові табори протесту",
-    "fr": "La police portugaise, armée de chiens et de matraques, démantèle les camps de protestation contre le logement",
-    "de": "Portugiesische Polizisten bauen mit Hunden und Schlagstöcken Wohn-Protestlager ab",
-    "zh": "葡萄牙警察带着警犬和警棍拆除住房抗议营地",
-    "ru": "Португальская полиция с собаками и дубинками сносит жилищные лагеря протестующих"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "investing",
    "source": "Investing.com",
    "title": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
@@ -1067,24 +1140,6 @@
     "de": "Kiew plant den Ausbau der Wärmeerzeugungskapazität um mehr als 1,5 GW",
     "zh": "基辅计划增加超过1.5吉瓦的火力发电能力",
     "ru": "Киев планирует добавить более 1,5 ГВт тепловых мощностей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Thousands mourn victims of deadly Jordan church attack",
-   "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-   "ts": 1792941686,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Тисячі оплакують жертв смертоносного нападу на церкву в Йорданії",
-    "fr": "Des milliers de personnes pleurent les victimes de l'attaque meurtrière contre une église en Jordanie",
-    "de": "Tausende trauern um die Opfer des tödlichen Kirchenangriffs in Jordanien",
-    "zh": "数千人哀悼约旦教堂致命袭击的受害者",
-    "ru": "Тысячи скорбят по жертвам смертельного нападения на церковь в Иордании"
    },
    "lang": "en"
   },
@@ -1744,42 +1799,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
-   "url": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
-   "ts": 1792933234,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Скорочення «бюрократії» — це не що інше, як червоний оселедець — і, мабуть, контрпродуктивний | Хізер Стюарт",
-    "fr": "Réduire les « formalités administratives » n’est rien d’autre qu’un faux-fuyant – et sans doute contre-productif | Heather Stewart",
-    "de": "„Bürokratieabbau“ ist nichts weiter als ein Ablenkungsmanöver – und wohl kontraproduktiv | Heather Stewart",
-    "zh": "削减“繁文缛节”只不过是转移注意力——而且可以说适得其反|希瑟·斯图尔特",
-    "ru": "Прекращение бюрократической волокиты – это не что иное, как отвлекающий маневр – и, возможно, контрпродуктивный | Хизер Стюарт"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings flood, Fed meeting will test rickety AI market rally",
-   "url": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
-   "ts": 1792933224,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Потік доходів, засідання ФРС перевірить хитке зростання ринку штучного інтелекту",
-    "fr": "Inondation des bénéfices, la réunion de la Fed testera la reprise branlante du marché de l'IA",
-    "de": "Die Gewinnflut und die Fed-Sitzung werden die wackelige Rallye des KI-Marktes auf die Probe stellen",
-    "zh": "财报泛滥，美联储会议将考验摇摇欲坠的人工智能市场反弹",
-    "ru": "Падение доходов, заседание ФРС проверит шаткое ралли рынка искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Drones attack plant owned by Russia’s largest titanium producer in Perm Krai, media report",
@@ -1834,24 +1853,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_business",
-   "source": "NPR",
-   "title": "Netflix lays off 6% of workforce amidst slowing growth",
-   "url": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
-   "ts": 1792931129,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Netflix звільняє 6% працівників на тлі уповільнення зростання",
-    "fr": "Netflix licencie 6 % de ses effectifs dans un contexte de ralentissement de la croissance",
-    "de": "Netflix entlässt 6 % der Belegschaft angesichts des sich verlangsamenden Wachstums",
-    "zh": "Netflix因增长放缓而裁员 6%",
-    "ru": "Netflix увольняет 6% сотрудников на фоне замедления роста"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -1902,25 +1903,6 @@
     "de": "Die Demokraten sehen eine Chance, die gesetzgebende Körperschaft des Bundesstaates Pennsylvania nach ihren Vorstellungen zu beeinflussen",
     "zh": "民主党人看到了让宾夕法尼亚州立法机构向自己倾斜的机会",
     "ru": "Демократы видят возможность склонить законодательный орган штата Пенсильвания на свою сторону"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-   "ts": 1792929916,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Нафтова пляма з танкера в Ормузькій протоці вимивається на пляжі ОАЕ",
-    "fr": "Une nappe de pétrole provenant d'un pétrolier dans le détroit d'Ormuz s'échoue sur les plages des Émirats arabes unis",
-    "de": "Ölteppich von Tanker in der Straße von Hormus wird an Strände der VAE gespült",
-    "zh": "霍尔木兹海峡油轮的浮油被冲上阿联酋海滩",
-    "ru": "Нефтяное пятно с танкера в Ормузском проливе вымылось на пляжи ОАЭ"
    },
    "lang": "en"
   },
@@ -2200,25 +2182,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-   "ts": 1792877997,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна каже, що Starshield повертається до нормального стану, Маск каже, що Київ порушив умови",
-    "fr": "L'Ukraine déclare que Starshield est revenu à la normale, Musk affirme que Kyiv a violé les conditions",
-    "de": "Die Ukraine sagt, Starshield sei wieder normal, Musk sagt, Kiew habe gegen die Bedingungen verstoßen",
-    "zh": "乌克兰称星盾恢复正常，马斯克称基辅违反条款",
-    "ru": "Украина заявляет, что Starshield вернулась в нормальное состояние, Маск говорит, что Киев нарушил условия"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Healey’s first budget to include big devolution package to boost growth",
@@ -2233,25 +2196,6 @@
     "de": "Healeys erster Haushalt beinhaltet ein großes Dezentralisierungspaket zur Ankurbelung des Wachstums",
     "zh": "希利的第一份预算包括大规模权力下放计划以促进增长",
     "ru": "Первый бюджет Хили, включающий большой пакет передачи полномочий для стимулирования роста"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-   "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-   "ts": 1792877158,
-   "sec": [
-    "market",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українські військові заявляють, що супутниковий зв’язок Starlink стабільний після останніх обмежень",
-    "fr": "L'armée ukrainienne affirme que la connexion par satellite Starlink est stable après les récentes restrictions",
-    "de": "Nach Angaben des ukrainischen Militärs ist die Starlink-Satellitenverbindung nach den jüngsten Einschränkungen stabil",
-    "zh": "乌克兰军方表示，星链卫星连接在最近的限制后保持稳定",
-    "ru": "Украинские военные заявили, что спутниковая связь Starlink стабильна после недавних ограничений"
    },
    "lang": "en"
   },
@@ -2399,6 +2343,25 @@
     "de": "Andy Burnham ist wegen der Kopfhörer-Fans gekommen. Aber gibt es Beweise dafür, dass Bußgelder funktionieren?",
     "zh": "安迪·伯纳姆 (Andy Burnham) 是来对付耳机迷的。但有证据表明罚款有效吗？",
     "ru": "Энди Бёрнем пришел на помощь любителям наушников. Но есть ли доказательства того, что штрафы работают?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVlneFRqcVJHMTZlOGpILW51QW1qWXBtVHd3aFpRZGRjT1NDUnVaUW9US2dMTUg2SGp0SGx4YjFENFZQYjVKamhPemJoYlpNQzlHS0E1ZTBHZnlwOXE2OVVJS0NqcFpCaGFuQ3lqUjZxalpSZkVzRUhTOEEzSk9jZTBhSVRuZUZreWtkWkJULXplX2VZMV9KRlN4SklZb0ZlVnhPZVRRMDNoWEdSanlPbEI3SGxSZmI3ZER6X2NneHFwMjNkUS1Dc1lid1ZPa1h1RURSTXFOX0JOSEE?oc=5",
+   "ts": 1792839504,
+   "sec": [
+    "market",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія стверджує, що атака безпілотників завдала шкоди об’єктам Тольятті, Україна стверджує, що потрапив на нафтохімічний завод",
+    "fr": "La Russie affirme qu'une attaque de drone a endommagé les installations de Togliatti, l'Ukraine affirme qu'une usine pétrochimique a été touchée",
+    "de": "Nach Angaben Russlands wurden Anlagen in Togliatti durch einen Drohnenangriff beschädigt, in der Ukraine wurde eine Petrochemieanlage getroffen",
+    "zh": "俄罗斯称无人机袭击损坏了陶里亚蒂设施，乌克兰称石化厂遭到袭击",
+    "ru": "Россия заявляет, что атака беспилотников нанесла ущерб объектам Тольятти, Украина заявляет, что пострадал нефтехимический завод"
    },
    "lang": "en"
   },
@@ -2563,24 +2526,6 @@
     "de": "Die Wall Street verliert unter dem Druck steigender Ölpreise an Boden",
     "zh": "华尔街在油价上涨的压力下下跌",
     "ru": "Уолл-стрит теряет позиции под давлением роста цен на нефть"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-   "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-   "ts": 1792783875,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Звіт показує, що вказівки Пентагону щодо «відповідального ШІ» не завжди дотримуються",
-    "fr": "Les directives du Pentagone pour une « IA responsable » ne sont pas toujours suivies, selon un rapport",
-    "de": "Berichten zufolge werden die Richtlinien des Pentagons für „verantwortungsvolle KI“ nicht immer befolgt",
-    "zh": "报告显示，五角大楼的“负责任的人工智能”指导方针并不总是得到遵守",
-    "ru": "В докладе показано, что рекомендации Пентагона по «ответственному ИИ» не всегда соблюдаются"
    },
    "lang": "en"
   },
@@ -2763,7 +2708,7 @@
   {
    "source": "guardian_business",
    "ok": true,
-   "items": 33
+   "items": 31
   },
   {
    "source": "dw_business",
@@ -2828,7 +2773,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 24
+   "items": 23
   },
   {
    "source": "guardian_politics",
@@ -2858,7 +2803,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2893,10 +2838,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 6,
-   "translated": 66,
+   "requests": 5,
+   "translated": 50,
    "method": {
-    "dict": 6
+    "dict": 5
    }
   },
   {
