@@ -41,3 +41,8 @@ Not investment advice.
 - `.github/workflows/update-quotes.yml` runs `tools/update_quotes.py` every 15 minutes: it reads Yahoo Finance's public chart endpoint (no key) and commits `data/quotes.json` only when prices change (no commits while markets are closed).
 - The page re-reads the same-origin `data/quotes.json` every 60 seconds without reloading (the browser cannot call Yahoo directly: no CORS headers). Data is delayed — exchange delay plus up to ~15 min schedule plus GitHub's scheduling lag — and the strip says so, with the "as of" time.
 - If the file is missing the strip hides itself; on a failed refresh the last values stay.
+
+## Guides (EN + RU)
+- `tools/guides_src/build.py` builds `guides/*.html` (English) and `guides/ru/*.html` (Russian) from the article bodies in `tools/guides_src/` and `tools/guides_src/ru/`, plus `sitemap.xml` with hreflang alternates. Run `python3 tools/guides_src/build.py` after editing.
+- EN and RU pages link to each other with `hreflang` (x-default = English). A visitor whose language is RU (`?lang=ru`, saved choice or browser) opening an English guide is sent to the Russian one; picking a language in the header on a guide page opens the matching version. The "Guides" links point to `/guides/ru/` when the site language is RU, otherwise to `/guides/`.
+- `404.html` is translated via `app.js` (`nf.*` keys).

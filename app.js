@@ -16,6 +16,7 @@
 
   var T = {
     en: {
+      "nav.aria": "Main", "nf.title": "Page not found — Market Plus", "nf.h": "Page not found", "nf.p": "This page doesn't exist or has moved. Try the home page or the guides.", "nf.guides": "Open the guides",
       "title": "Market Plus — market and world news",
       "desc": "Market Plus — market and world news: markets, gold, forex, oil, macro, politics and Ukraine. Headlines from open sources in 6 languages, plus trading and finance tools.",
       "hero.h1": "market and world news",
@@ -103,6 +104,7 @@
       "foot.priv": "No trackers, no forms, no data collection."
     },
     ru: {
+      "nav.aria": "Главное меню", "nf.title": "Страница не найдена — Market Plus", "nf.h": "Страница не найдена", "nf.p": "Такой страницы нет или она переехала. Откройте главную страницу или гайды.", "nf.guides": "Открыть гайды",
       "title": "Market Plus — новости рынка и мира",
       "desc": "Market Plus — новости рынка и мира: рынки, золото, форекс, нефть, макроэкономика, политика и Украина. Заголовки из открытых источников на 6 языках и инструменты для трейдинга и финансов.",
       "hero.h1": "новости рынка и мира",
@@ -166,7 +168,7 @@
       "prod.note": "Кнопки открывают страницы Patreon, GitHub или Notion. Этот сайт не собирает и не хранит данные.",
       "prod.buy": "Купить на Patreon", "prod.get": "Скачать бесплатно", "prod.github": "Открыть на GitHub", "prod.free": "Бесплатно",
       "p1.d": "10 готовых AI-навыков для Claude и ChatGPT: маркетинг, продажи, поддержка, SEO, HR и контент-календарь. PDF-гайд в комплекте.",
-      "p2.d": "Журнал сделок с автоматической статистикой: win rate, R-multiple, P&L, дашборд и разбор ошибок. Google Sheets и Excel.",
+      "p2.d": "Журнал сделок с автоматической статистикой: доля прибыльных сделок, R-мультипликатор, P&L, дашборд и разбор ошибок. Google Sheets и Excel.",
       "p3.d": "Таблица личного бюджета на 2026 год: доходы, расходы по категориям, цели накоплений и наглядные графики по месяцам.",
       "p4.d": "Бесплатная облегчённая версия журнала трейдера — начните вести статистику сделок уже сегодня.",
       "p5.d": "Бесплатный простой трекер бюджета: доходы, расходы и остаток в одной таблице.",
@@ -190,6 +192,7 @@
       "foot.priv": "Без трекеров, без форм, без сбора данных."
     },
     uk: {
+      "nav.aria": "Головне меню", "nf.title": "Сторінку не знайдено — Market Plus", "nf.h": "Сторінку не знайдено", "nf.p": "Такої сторінки немає або її перенесено. Відкрийте головну сторінку або гайди.", "nf.guides": "Відкрити гайди",
       "title": "Market Plus — новини ринку та світу",
       "desc": "Market Plus — новини ринку та світу: ринки, золото, форекс, нафта, макроекономіка, політика й Україна. Заголовки з відкритих джерел 6 мовами та інструменти для трейдингу й фінансів.",
       "hero.h1": "новини ринку та світу",
@@ -277,6 +280,7 @@
       "foot.priv": "Без трекерів, без форм, без збору даних."
     },
     fr: {
+      "nav.aria": "Menu principal", "nf.title": "Page introuvable — Market Plus", "nf.h": "Page introuvable", "nf.p": "Cette page n'existe pas ou a été déplacée. Essayez la page d'accueil ou les guides.", "nf.guides": "Voir les guides",
       "title": "Market Plus — actualités des marchés et du monde",
       "desc": "Market Plus — actualités des marchés et du monde : marchés, or, forex, pétrole, macro, politique et Ukraine. Titres de sources ouvertes en 6 langues, plus des outils de trading et de finances.",
       "hero.h1": "actualités des marchés et du monde",
@@ -364,6 +368,7 @@
       "foot.priv": "Aucun traceur, aucun formulaire, aucune collecte de données."
     },
     de: {
+      "nav.aria": "Hauptmenü", "nf.title": "Seite nicht gefunden — Market Plus", "nf.h": "Seite nicht gefunden", "nf.p": "Diese Seite existiert nicht oder wurde verschoben. Versuchen Sie die Startseite oder die Ratgeber.", "nf.guides": "Zu den Ratgebern",
       "title": "Market Plus — Markt- und Weltnachrichten",
       "desc": "Market Plus — Markt- und Weltnachrichten: Märkte, Gold, Forex, Öl, Makro, Politik und Ukraine. Schlagzeilen aus offenen Quellen in 6 Sprachen sowie Tools für Trading und Finanzen.",
       "hero.h1": "Markt- und Weltnachrichten",
@@ -451,6 +456,7 @@
       "foot.priv": "Keine Tracker, keine Formulare, keine Datenerhebung."
     },
     zh: {
+      "nav.aria": "主导航", "nf.title": "页面未找到 — Market Plus", "nf.h": "页面未找到", "nf.p": "此页面不存在或已移动。请返回首页或查看指南。", "nf.guides": "查看指南",
       "title": "Market Plus — 市场与全球资讯",
       "desc": "Market Plus — 市场与全球资讯：市场、黄金、外汇、原油、宏观、政治与乌克兰。来自公开新闻源的标题，支持 6 种语言，并提供交易和理财工具。",
       "hero.h1": "市场与全球资讯",
@@ -542,19 +548,19 @@
   // ---------- Products (edit here) ----------
   var PRODUCTS = [
     // seasonal first
-    { t: "p7.t", price: "$3", img: "assets/christmas-budget-2026.webp", d: "p7.d",
+    { t: "p7.t", price: "$4", img: "assets/christmas-budget-2026.webp", d: "p7.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/christmas-budget-173352149" },
     { t: "p8.t", free: true, img: "assets/christmas-budget-2026.webp", d: "p8.d", cta: "prod.get",
       url: "https://www.patreon.com/DmitryZhuk/posts/free-christmas-173352318" },
-    { t: "p9.t", price: "$3.50", img: "assets/savings-challenge-2027.webp", d: "p9.d",
+    { t: "p9.t", price: "$4", img: "assets/savings-challenge-2027.webp", d: "p9.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/2027-savings-16-173352268" },
-    { t: "p10.t", price: "$4.50", img: "assets/goal-planner-2027-pro.webp", d: "p10.d",
+    { t: "p10.t", price: "$9", img: "assets/goal-planner-2027-pro.webp", d: "p10.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/2027-goal-life-173353268" },
     { t: "p11.t", free: true, img: "assets/goal-planner-2027-lite.webp", d: "p11.d", cta: "prod.get",
       url: "https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6" },
-    { title: "AI Skills Pack for Business", price: "$8", img: "assets/ai-skills.webp", d: "p1.d",
+    { title: "AI Skills Pack for Business", price: "$13", img: "assets/ai-skills.webp", d: "p1.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/ai-skills-pack-173304384" },
-    { title: "Trading Journal Pro (Google Sheets & Excel)", price: "$12", img: "assets/trading-journal.webp", d: "p2.d",
+    { title: "Trading Journal Pro (Google Sheets & Excel)", price: "$14", img: "assets/trading-journal.webp", d: "p2.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/trading-journal-173290193" },
     { title: "Budget & Expense Tracker 2026", price: "$9", img: "assets/budget-tracker.webp", d: "p3.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/budget-expense-173290094" },
@@ -654,7 +660,8 @@
   // ---------- i18n ----------
   var onLang = [];
   function setMeta(sel, val) { var m = document.querySelector(sel); if (m) m.setAttribute("content", val); }
-  function apply(code) {
+  var PAGE_LANG = document.body ? document.body.getAttribute("data-page-lang") : null; // guides: "en" | "ru" content
+  function apply(code, noSave) {
     if (!T[code]) code = "en";
     cur = code;
     var L = LANGS.filter(function (l) { return l.code === code; })[0];
@@ -677,6 +684,9 @@
     Array.prototype.forEach.call(document.querySelectorAll("[data-i18n-alt]"), function (n) {
       n.alt = tr(n.getAttribute("data-i18n-alt"));
     });
+    Array.prototype.forEach.call(document.querySelectorAll("[data-i18n-aria]"), function (n) {
+      n.setAttribute("aria-label", tr(n.getAttribute("data-i18n-aria")));
+    });
     var lc = $("langCur"); if (lc) { lc.textContent = L.short; lc.lang = /[A-Za-z]/.test(L.short) ? "en" : L.html; lc.setAttribute("translate", "no"); }
     var lbtn = $("langBtn"); if (lbtn) lbtn.setAttribute("aria-label", tr("lang") + ": " + L.name);
     var menu = $("langMenu");
@@ -686,11 +696,16 @@
         b.setAttribute("aria-checked", b.getAttribute("data-lang") === code ? "true" : "false");
       });
     }
-    try { localStorage.setItem("mp_lang", code); } catch (e) {}
+    // Guides links follow the language: Russian guides for RU, English guides otherwise
+    Array.prototype.forEach.call(document.querySelectorAll('a[data-i18n="nav.guides"], a[data-guides-link]'), function (a) {
+      a.setAttribute("href", code === "ru" ? "/guides/ru/" : "/guides/");
+    });
+    if (!noSave) { try { localStorage.setItem("mp_lang", code); } catch (e) {} }
     onLang.forEach(function (f) { f(); });
   }
   function detect() {
     try { var q = new URLSearchParams(location.search).get("lang"); if (q && T[q]) return q; } catch (e) {}
+    if (PAGE_LANG === "ru") return "ru"; // Russian guide page: Russian UI (not saved as a preference)
     try { var s = localStorage.getItem("mp_lang"); if (s && T[s]) return s; } catch (e) {}
     var list = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || "en"];
     for (var i = 0; i < list.length; i++) {
@@ -699,6 +714,12 @@
       if (T[c]) return c;
     }
     return "en";
+  }
+
+  function startLang() {
+    var c = detect(), q = null;
+    try { q = new URLSearchParams(location.search).get("lang"); } catch (e) {}
+    apply(c, PAGE_LANG === "ru" && !(q && T[q])); // landing on a Russian guide doesn't overwrite the saved choice
   }
 
   // ---------- Language switcher: dropdown in the header (order = LANGS: UK, EN, FR, DE, 中文, RU) ----------
@@ -719,7 +740,15 @@
       var b = el("button", "lang-opt"); b.type = "button";
       b.setAttribute("role", "menuitemradio"); b.setAttribute("data-lang", l.code); b.setAttribute("lang", l.html);
       b.appendChild(el("b", null, l.short)); b.appendChild(el("span", null, l.name));
-      b.addEventListener("click", function () { apply(l.code); closeMenu(true); });
+      b.addEventListener("click", function () {
+        apply(l.code); closeMenu(true);
+        // guides exist in EN and RU: switching language opens the matching version of the same page
+        var want = l.code === "ru" ? "ru" : "en";
+        if (PAGE_LANG && PAGE_LANG !== want) {
+          var to = document.body.getAttribute("data-alt-" + want);
+          if (to) location.href = to + "?lang=" + l.code + location.hash;
+        }
+      });
       li.appendChild(b); langMenu.appendChild(li);
     });
     langBtn.addEventListener("click", function () { if (langMenu.hidden) openMenu(false); else closeMenu(false); });
@@ -743,7 +772,7 @@
   var MAX_PER_TAB = 30;
   var newsData = null, curTab = "all", loadState = "loading";
   var listEl = $("newsList"), tabsEl = $("newsTabs"), updEl = $("newsUpdated");
-  if (!listEl || !tabsEl) { apply(detect()); return; } // pages without the feed (terms.html)
+  if (!listEl || !tabsEl) { startLang(); return; } // pages without the feed (terms.html)
   try { var st = sessionStorage.getItem("mp_tab"); if (st && SECS.indexOf(st) >= 0) curTab = st; } catch (e) {}
 
   function safeUrl(u) { return (typeof u === "string" && /^https?:\/\//i.test(u)) ? u : null; }
@@ -836,7 +865,7 @@
   });
   onLang.push(function () { tabsEl.setAttribute("aria-label", tr("news.tabs")); render(); });
 
-  apply(detect());
+  startLang();
 
   function load() {
     var bucket = Math.floor(Date.now() / 300000); // refresh at most every 5 min (cache-busting)
