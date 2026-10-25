@@ -138,3 +138,20 @@ footer .wrap{display:grid;gap:14px}
 .doc .back{display:inline-flex;margin-top:30px}
 :focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.sr-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+/* quotes strip (v4): compact, in normal flow, horizontal scroll only inside the row */
+.quotes{padding:10px 0 6px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg2)}
+.qrow{display:flex;gap:8px;margin:0;padding:0 0 2px;list-style:none;overflow-x:auto;overflow-y:hidden;scrollbar-width:thin;scrollbar-color:var(--line) transparent;min-height:58px}
+.qrow::-webkit-scrollbar{height:4px}.qrow::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+.qrow li{flex:1 0 auto;min-width:118px}
+.qi{display:grid;grid-template-columns:auto auto;grid-template-rows:auto auto auto;column-gap:8px;align-items:center;height:100%;box-sizing:border-box;padding:6px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);text-decoration:none;line-height:1.2}
+.qi:hover{border-color:rgba(212,175,55,.45)}
+.qn{grid-column:1/3;font-size:11.5px;color:var(--muted);white-space:nowrap}
+.qp{font-weight:700;font-size:14.5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.qs{grid-row:2/4;grid-column:2;justify-self:end;width:56px;height:22px;opacity:.85}
+.qc{font-size:11.5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.qc.up{color:#8cc79a}.qc.dn{color:#e08a7e}.qc.fl{color:var(--muted)}
+.qnote{margin:4px 0 0;font-size:11px;color:var(--muted);line-height:1.3}
+.qnote a{color:var(--muted)}
+@media (max-width:640px){.qrow li{min-width:112px}.qp{font-size:14px}}

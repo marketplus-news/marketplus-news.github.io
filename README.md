@@ -35,3 +35,9 @@ Not investment advice.
 - `<html lang>` follows the UI language (set early in `<head>` from `?lang=`, saved choice or browser language, then by `app.js` on every switch); `og:locale` and `hreflang` alternates (`?lang=uk|en|fr|de|zh|ru`) are provided.
 - Every headline carries the `lang` of the text actually shown; Latin brand/source/person names inside Ukrainian, Russian or Chinese text are wrapped in `<span lang="en" translate="no">`, so screen readers and read-aloud don't pronounce them with Cyrillic rules.
 - `tools/build_news.py` normalizes names with a small glossary: Russian translations get Russian spellings (Зеленский, Сырский, Ермак, Киев, Харьков, Уиткофф, Бёрнем), Ukrainian ones get Ukrainian spellings (Зеленський, Сирський, Єрмак, Київ, Харків, Віткофф, Бернем). A translation in the wrong alphabet (і/ї/є/ґ in Russian, ы/э/ё/ъ in Ukrainian) is dropped and re-translated.
+
+## Quotes strip (v4)
+- A compact strip under the hero shows gold (COMEX futures `GC=F` — Yahoo has no `XAUUSD=X` spot symbol), EUR/USD, WTI, Brent, S&P 500 and Nasdaq: price, daily change in points and %, and an intraday sparkline.
+- `.github/workflows/update-quotes.yml` runs `tools/update_quotes.py` every 15 minutes: it reads Yahoo Finance's public chart endpoint (no key) and commits `data/quotes.json` only when prices change (no commits while markets are closed).
+- The page re-reads the same-origin `data/quotes.json` every 60 seconds without reloading (the browser cannot call Yahoo directly: no CORS headers). Data is delayed — exchange delay plus up to ~15 min schedule plus GitHub's scheduling lag — and the strip says so, with the "as of" time.
+- If the file is missing the strip hides itself; on a failed refresh the last values stay.

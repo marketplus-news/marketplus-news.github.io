@@ -60,6 +60,13 @@
       "news.empty": "No news in this section yet — check back soon.",
       "news.error": "Couldn't load the news feed. Please refresh the page.",
       "news.updated": "Updated",
+      "q.h": "Market quotes",
+      "q.gold": "Gold (COMEX futures)",
+      "q.wti": "Oil WTI",
+      "q.brent": "Oil Brent",
+      "q.note": "Yahoo Finance data, delayed (up to ~30 min). As of",
+      "q.closed": "market closed",
+      "q.open": "Open on Yahoo Finance",
       "news.xsrc": "Post on X",
       "news.posts": "Latest posts",
       "news.tabs": "News sections",
@@ -128,6 +135,13 @@
       "news.empty": "В этом разделе пока нет новостей — загляните позже.",
       "news.error": "Не удалось загрузить ленту. Обновите страницу.",
       "news.updated": "Обновлено",
+      "q.h": "Котировки",
+      "q.gold": "Золото (фьючерс COMEX)",
+      "q.wti": "Нефть WTI",
+      "q.brent": "Нефть Brent",
+      "q.note": "Данные Yahoo Finance с задержкой (до ~30 мин). На",
+      "q.closed": "рынок закрыт",
+      "q.open": "Открыть на Yahoo Finance",
       "news.xsrc": "Пост в X",
       "news.posts": "Свежие посты",
       "news.tabs": "Разделы новостей",
@@ -196,6 +210,13 @@
       "news.empty": "У цьому розділі поки немає новин — зазирніть пізніше.",
       "news.error": "Не вдалося завантажити стрічку. Оновіть сторінку.",
       "news.updated": "Оновлено",
+      "q.h": "Котирування",
+      "q.gold": "Золото (ф’ючерс COMEX)",
+      "q.wti": "Нафта WTI",
+      "q.brent": "Нафта Brent",
+      "q.note": "Дані Yahoo Finance із затримкою (до ~30 хв). Станом на",
+      "q.closed": "ринок закритий",
+      "q.open": "Відкрити на Yahoo Finance",
       "news.xsrc": "Пост в X",
       "news.posts": "Свіжі пости",
       "news.tabs": "Розділи новин",
@@ -264,6 +285,13 @@
       "news.empty": "Pas encore d'actus dans cette rubrique — revenez bientôt.",
       "news.error": "Impossible de charger le fil. Actualisez la page.",
       "news.updated": "Mis à jour",
+      "q.h": "Cours des marchés",
+      "q.gold": "Or (contrat à terme COMEX)",
+      "q.wti": "Pétrole WTI",
+      "q.brent": "Pétrole Brent",
+      "q.note": "Données Yahoo Finance, en différé (jusqu’à ~30 min). Au",
+      "q.closed": "marché fermé",
+      "q.open": "Ouvrir sur Yahoo Finance",
       "news.xsrc": "Post sur X",
       "news.posts": "Derniers posts",
       "news.tabs": "Rubriques",
@@ -332,6 +360,13 @@
       "news.empty": "In dieser Rubrik gibt es noch keine News — schau bald wieder vorbei.",
       "news.error": "Der News-Feed konnte nicht geladen werden. Bitte lade die Seite neu.",
       "news.updated": "Aktualisiert",
+      "q.h": "Marktkurse",
+      "q.gold": "Gold (COMEX-Future)",
+      "q.wti": "Öl WTI",
+      "q.brent": "Öl Brent",
+      "q.note": "Daten von Yahoo Finance, verzögert (bis ~30 Min.). Stand",
+      "q.closed": "Markt geschlossen",
+      "q.open": "Auf Yahoo Finance öffnen",
       "news.xsrc": "Post auf X",
       "news.posts": "Neueste Posts",
       "news.tabs": "Rubriken",
@@ -400,6 +435,13 @@
       "news.empty": "该栏目暂无新闻，请稍后再来。",
       "news.error": "无法加载新闻，请刷新页面。",
       "news.updated": "更新于",
+      "q.h": "市场行情",
+      "q.gold": "黄金（COMEX期货）",
+      "q.wti": "WTI原油",
+      "q.brent": "布伦特原油",
+      "q.note": "数据来自 Yahoo Finance，有延迟（最多约30分钟）。截至",
+      "q.closed": "休市",
+      "q.open": "在 Yahoo Finance 上打开",
       "news.xsrc": "X 上的帖子",
       "news.posts": "最新帖子",
       "news.tabs": "新闻栏目",
@@ -709,4 +751,61 @@
   load();
   setInterval(load, 10 * 60 * 1000);
   setInterval(function () { if (loadState === "ok") render(); }, 60 * 1000);
+  // ---------- Quotes strip (same-origin data/quotes.json written by a GitHub Action from Yahoo Finance) ----------
+  var qRow = $("qRow"), qNote = $("qNote"), qSec = $("quotes"), quotes = null;
+  var Q_NAMES = { gold: "q.gold", eurusd: "EUR/USD", wti: "q.wti", brent: "q.brent", spx: "S&P 500", ndx: "Nasdaq" };
+  function nf(v, d, sign) {
+    var s = new Intl.NumberFormat(locale(), { minimumFractionDigits: d, maximumFractionDigits: d }).format(Math.abs(v));
+    return (sign ? (v > 0 ? "+" : v < 0 ? "\u2212" : "") : (v < 0 ? "\u2212" : "")) + s;
+  }
+  function sparkSvg(pts, cls) {
+    var NS = "http://www.w3.org/2000/svg", svg = document.createElementNS(NS, "svg");
+    svg.setAttribute("class", "qs"); svg.setAttribute("viewBox", "0 0 56 22"); svg.setAttribute("aria-hidden", "true"); svg.setAttribute("focusable", "false");
+    if (pts && pts.length > 1) {
+      var mn = Math.min.apply(null, pts), mx = Math.max.apply(null, pts), rg = (mx - mn) || 1;
+      var d = pts.map(function (v, i) { return (i * 56 / (pts.length - 1)).toFixed(1) + "," + (20 - (v - mn) / rg * 18).toFixed(1); }).join(" ");
+      var pl = document.createElementNS(NS, "polyline");
+      pl.setAttribute("points", d); pl.setAttribute("fill", "none"); pl.setAttribute("stroke-width", "1.4"); pl.setAttribute("stroke-linejoin", "round");
+      pl.setAttribute("stroke", cls === "up" ? "#8cc79a" : cls === "dn" ? "#e08a7e" : "#9a978f");
+      svg.appendChild(pl);
+    }
+    return svg;
+  }
+  function renderQuotes() {
+    if (!qRow || !quotes) return;
+    var order = (quotes.order || Object.keys(quotes.q || {})).filter(function (k) { return quotes.q[k] && typeof quotes.q[k].price === "number"; });
+    if (!order.length) { if (qSec) qSec.hidden = true; return; }
+    qSec.hidden = false; qRow.textContent = "";
+    var now = Date.now() / 1000, allClosed = true;
+    order.forEach(function (k) {
+      var q = quotes.q[k], li = el("li"), a = el("a", "qi");
+      a.href = "https://finance.yahoo.com/quote/" + encodeURIComponent(q.sym) + "/"; a.target = "_blank"; a.rel = "noopener noreferrer";
+      var key = Q_NAMES[k] || k, name = key.indexOf("q.") === 0 ? tr(key) : key;
+      var n = el("span", "qn"); setText(n, name, key.indexOf("q.") === 0 ? locale() : "en"); if (key.indexOf("q.") !== 0) { n.lang = "en"; n.setAttribute("translate", "no"); }
+      var cls = q.ch > 0 ? "up" : q.ch < 0 ? "dn" : "fl";
+      var p = el("span", "qp", nf(q.price, q.dec, false));
+      var c = el("span", "qc " + cls, nf(q.ch, q.dec, true) + " (" + nf(q.pct, 2, true) + "%)");
+      a.appendChild(n); a.appendChild(p); a.appendChild(sparkSvg(q.spark, cls)); a.appendChild(c);
+      var stale = q.time && now - q.time > 3 * 3600; if (!stale) allClosed = false;
+      a.title = name + ": " + nf(q.price, q.dec, false) + (q.cur ? " " + q.cur : "") + " · " + absDate(q.time) + (stale ? " · " + tr("q.closed") : "");
+      a.setAttribute("aria-label", a.title + " · " + tr("q.open"));
+      li.appendChild(a); qRow.appendChild(li);
+    });
+    qNote.textContent = "";
+    var asof = quotes.asof ? new Date(quotes.asof * 1000).toLocaleString(locale(), { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "";
+    setText(qNote, tr("q.note") + " " + asof + (allClosed ? " · " + tr("q.closed") : "") + ". ", locale());
+    var src = el("a", null, "finance.yahoo.com"); src.href = "https://finance.yahoo.com/markets/"; src.target = "_blank"; src.rel = "noopener noreferrer"; src.lang = "en"; src.setAttribute("translate", "no");
+    qNote.appendChild(src);
+  }
+  function loadQuotes() {
+    fetch("data/quotes.json?t=" + Math.floor(Date.now() / 60000), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d) { if (d && d.q) { quotes = d; renderQuotes(); } })
+      .catch(function () { if (!quotes && qSec) qSec.hidden = true; }); // keep last values on a failed refresh
+  }
+  if (qRow) {
+    onLang.push(renderQuotes);
+    loadQuotes();
+    setInterval(loadQuotes, 60 * 1000);
+  }
 })();
