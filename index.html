@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Plus — markets, gold, forex &amp; macro news without the fluff</title>
+<meta name="description" content="Market Plus: concise news on markets, gold, forex, oil and macroeconomics. Live feed from X, trading and finance tools.">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:title" content="Market Plus — markets, gold, forex &amp; macro news without the fluff">
+<meta property="og:description" content="Concise news on markets, gold, forex and macro. Live feed from X, trading and finance tools.">
+<meta property="og:image" content="assets/ai-skills.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Market Plus">
+<meta name="twitter:site" content="@MarketPulseGold">
+<link rel="preconnect" href="https://platform.twitter.com">
+<style>
+:root{--bg:#0b0b0d;--bg2:#121216;--card:#16161b;--line:#26262e;--text:#e9e7e1;--muted:#9a978f;--gold:#d4af37;--gold2:#f2d77a;--radius:14px;
+--font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif}
+:lang(zh){--font:system-ui,-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC","Source Han Sans SC","WenQuanYi Micro Hei",sans-serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--font);overflow-x:hidden}
+a{color:var(--gold2)}
+img{max-width:100%;display:block}
+.wrap{max-width:1120px;margin:0 auto;padding:0 18px}
+/* header */
+header.top{position:sticky;top:0;z-index:20;background:rgba(11,11,13,.88);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:58px}
+.brand{display:flex;align-items:center;gap:10px;min-width:0;position:relative}
+.logo{display:flex;align-items:center;gap:9px;color:var(--text);text-decoration:none;font-weight:800;letter-spacing:.2px;white-space:nowrap;font-size:18px}
+.logo img{width:30px;height:30px}
+.logo b{color:var(--gold)}
+.lang-btn{display:inline-flex;align-items:center;gap:5px;height:32px;padding:0 10px;border-radius:999px;border:1px solid rgba(212,175,55,.55);background:rgba(212,175,55,.1);color:var(--gold2);font:700 13px/1 var(--font);cursor:pointer;letter-spacing:.3px;white-space:nowrap}
+.lang-btn:hover,.lang-btn[aria-expanded=true]{background:rgba(212,175,55,.22)}
+.lang-btn svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2}
+.lang-btn .car{width:10px;height:10px;transition:transform .15s}
+.lang-btn[aria-expanded=true] .car{transform:rotate(180deg)}
+.lang-menu{position:absolute;top:calc(100% + 8px);left:0;margin:0;padding:6px;list-style:none;background:#17171c;border:1px solid rgba(212,175,55,.4);border-radius:12px;box-shadow:0 14px 40px rgba(0,0,0,.6);min-width:170px;z-index:30}
+.lang-menu[hidden]{display:none}
+.lang-menu button{display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px;padding:9px 10px;border:0;border-radius:8px;background:transparent;color:var(--text);font:500 15px/1.2 var(--font);cursor:pointer;text-align:left}
+.lang-menu button span{color:var(--muted);font-size:12px;font-weight:700}
+.lang-menu button:hover,.lang-menu button:focus-visible{background:rgba(212,175,55,.14);outline:none}
+.lang-menu button[aria-selected=true]{color:var(--gold2)}
+.lang-menu button[aria-selected=true] span{color:var(--gold)}
+nav.main{display:flex;align-items:center;gap:18px}
+nav.main a{color:var(--muted);text-decoration:none;font-size:15px;white-space:nowrap}
+nav.main a:hover{color:var(--gold2)}
+nav.main a.xbtn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid var(--line);border-radius:10px;color:var(--text)}
+nav.main a.xbtn svg{width:15px;height:15px;fill:currentColor}
+@media (max-width:640px){nav.main a.hide-sm{display:none}nav.main{gap:10px}}
+@media (max-width:380px){.logo{font-size:16px;gap:7px}.logo img{width:26px;height:26px}.brand{gap:7px}.lang-btn{padding:0 8px}}
+/* hero */
+.hero{padding:52px 0 40px;background:radial-gradient(700px 320px at 85% -10%,rgba(212,175,55,.18),transparent 70%),radial-gradient(500px 260px at -10% 110%,rgba(212,175,55,.08),transparent 70%)}
+.badge{display:inline-block;font-size:13px;color:var(--gold2);border:1px solid rgba(212,175,55,.35);border-radius:999px;padding:4px 12px;margin-bottom:16px}
+h1{font-size:clamp(30px,7.5vw,56px);line-height:1.12;margin:0 0 16px;letter-spacing:-.5px;overflow-wrap:break-word}
+h1 .g{background:linear-gradient(90deg,var(--gold2),var(--gold) 60%,#b8912b);-webkit-background-clip:text;background-clip:text;color:transparent}
+.lead{font-size:clamp(16px,2.4vw,19px);color:#cfccc4;max-width:660px;margin:0 0 26px}
+.cta{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;padding:0 20px;border-radius:12px;font-weight:700;text-decoration:none;font-size:15px;text-align:center;transition:transform .15s,box-shadow .15s,background .15s,border-color .15s;cursor:pointer}
+.btn svg{width:17px;height:17px;fill:currentColor;flex:none}
+.btn-gold{background:linear-gradient(180deg,#e6c55a,var(--gold));color:#141008;box-shadow:0 6px 24px rgba(212,175,55,.25);border:0}
+.btn-gold:hover{transform:translateY(-1px);box-shadow:0 8px 28px rgba(212,175,55,.35)}
+.btn-ghost{border:1px solid var(--line);color:var(--text);background:var(--bg2)}
+.btn-ghost:hover{border-color:var(--gold)}
+@media (max-width:420px){.cta .btn{flex:1 1 100%}}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:34px;max-width:620px}
+.stat{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:12px 14px;min-width:0}
+.stat b{display:block;color:var(--gold2);font-size:18px}
+.stat span{color:var(--muted);font-size:13px;line-height:1.35;display:block}
+/* sections */
+section{padding:44px 0}
+h2{font-size:clamp(24px,4.5vw,34px);margin:0 0 6px;letter-spacing:-.3px}
+.sub{color:var(--muted);margin:0 0 24px}
+.about{display:grid;gap:14px;grid-template-columns:1fr}
+@media (min-width:760px){.about{grid-template-columns:repeat(3,1fr)}}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px}
+.tile h3{margin:0 0 6px;font-size:17px;color:var(--gold2)}
+.tile p{margin:0;color:#c9c6be;font-size:15px}
+/* news */
+#news{background:linear-gradient(180deg,transparent,rgba(212,175,55,.04),transparent)}
+.feed{max-width:640px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.feed-bar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 16px;border-bottom:1px solid var(--line);font-size:14px;color:var(--muted)}
+.feed-bar b{color:var(--text)}
+.live{display:inline-flex;align-items:center;gap:6px;color:#7fd39b;font-weight:700;font-size:12px;letter-spacing:.5px;text-transform:uppercase}
+.live:before{content:"";width:8px;height:8px;border-radius:50%;background:#3ecf6e;box-shadow:0 0 0 0 rgba(62,207,110,.6);animation:pl 1.8s infinite}
+@keyframes pl{70%{box-shadow:0 0 0 8px rgba(62,207,110,0)}100%{box-shadow:0 0 0 0 rgba(62,207,110,0)}}
+.xbox{height:620px;max-height:75vh;overflow-y:auto;-webkit-overflow-scrolling:touch;position:relative}
+.xbox iframe{width:100%!important;min-width:0!important;max-width:100%!important;border-radius:0!important}
+.xbox .twitter-timeline{display:none}
+.skeleton{padding:16px;display:grid;gap:12px}
+.skeleton i{display:block;height:90px;border-radius:12px;background:linear-gradient(90deg,#1a1a20,#23232a,#1a1a20);background-size:200% 100%;animation:sh 1.4s infinite}
+.skeleton p{margin:0;text-align:center;color:var(--muted);font-size:14px}
+@keyframes sh{to{background-position:-200% 0}}
+.fallback{padding:34px 22px;text-align:center}
+.fallback[hidden]{display:none}
+.fallback .xi{width:54px;height:54px;margin:0 auto 14px;border-radius:14px;display:flex;align-items:center;justify-content:center;background:rgba(212,175,55,.12);border:1px solid rgba(212,175,55,.4)}
+.fallback .xi svg{width:24px;height:24px;fill:var(--gold2)}
+.fallback h3{margin:0 0 8px;font-size:20px}
+.fallback p{margin:0 auto 18px;color:#c9c6be;max-width:440px;font-size:15px}
+.feed.failed .xbox{height:auto}
+.xfail .feed-actions .btn{display:none}
+.feed-actions{max-width:640px;margin:14px auto 0;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.feed-actions small{color:var(--muted);font-size:13px;flex:1 1 220px}
+@media (max-width:420px){.feed-actions .btn{flex:1 1 100%}}
+/* products */
+.products{display:grid;gap:16px;grid-template-columns:1fr}
+@media (min-width:640px){.products{grid-template-columns:repeat(2,1fr)}}
+@media (min-width:1000px){.products{grid-template-columns:repeat(3,1fr)}}
+.prod{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s}
+.prod:hover{border-color:rgba(212,175,55,.5);transform:translateY(-2px)}
+.prod .img{aspect-ratio:16/9;background:linear-gradient(135deg,#1d1a10,#0f0f12);position:relative}
+.prod .img img{width:100%;height:100%;object-fit:cover}
+.prod .tag{position:absolute;top:10px;left:10px;font-size:12px;font-weight:800;letter-spacing:.4px;text-transform:uppercase;padding:4px 10px;border-radius:999px;background:#0f2a19;color:#7fd39b;border:1px solid rgba(127,211,155,.5)}
+.prod .body{padding:16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.prod h3{margin:0;font-size:18px;line-height:1.3}
+.prod p{margin:0;color:#c9c6be;font-size:14.5px}
+.prod .row{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;padding-top:10px;flex-wrap:wrap}
+.price{font-size:22px;font-weight:800;color:var(--gold2)}
+.price.free{font-size:15px;color:#7fd39b;border:1px solid rgba(127,211,155,.35);border-radius:999px;padding:2px 12px}
+.prod .btn{min-height:42px;padding:0 18px}
+.note{color:var(--muted);font-size:13px;margin-top:16px}
+/* footer */
+footer{border-top:1px solid var(--line);padding:30px 0 40px;color:var(--muted);font-size:14px;background:var(--bg2)}
+footer .wrap{display:grid;gap:14px}
+.disc{color:#cfccc4;border-left:3px solid var(--gold);padding-left:12px;margin:0}
+.flinks{display:flex;flex-wrap:wrap;gap:8px 18px}
+.flinks a{color:var(--muted);text-decoration:none}
+.flinks a:hover{color:var(--gold2)}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="#top" aria-label="Market Plus"><img src="favicon.svg" alt="" width="30" height="30"><span>Market <b>Plus</b></span></a>
+    <button class="lang-btn" id="langBtn" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="langMenu" aria-label="Language">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>
+      <span id="langCur">EN</span>
+      <svg class="car" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+    </button>
+    <ul class="lang-menu" id="langMenu" role="listbox" aria-label="Language" hidden></ul>
+  </div>
+  <nav class="main">
+    <a href="#news" data-i18n="nav.news">News</a>
+    <a class="hide-sm" href="#products" data-i18n="nav.products">Products</a>
+    <a class="hide-sm" href="#about" data-i18n="nav.about">About</a>
+    <a class="xbtn" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg></a>
+  </nav>
+</div></header>
+
+<main id="top">
+<section class="hero"><div class="wrap">
+  <div class="badge" data-i18n="hero.badge">● Market Plus · live news from X</div>
+  <h1><span data-i18n="hero.h1a">Markets, gold, forex &amp; macro news</span> <span class="g" data-i18n="hero.h1b">without the fluff</span></h1>
+  <p class="lead" data-i18n="hero.lead">Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.</p>
+  <div class="cta">
+    <a class="btn btn-gold" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg><span data-i18n="hero.cta">Follow on X</span></a>
+    <a class="btn btn-ghost" href="#news" data-i18n="hero.cta2">Latest news</a>
+    <a class="btn btn-ghost" href="#products" data-i18n="hero.cta3">Products</a>
+  </div>
+  <div class="stats">
+    <div class="stat"><b>XAU · FX</b><span data-i18n="stat.1">gold &amp; currencies</span></div>
+    <div class="stat"><b data-i18n="stat.2b">Macro</b><span data-i18n="stat.2">Fed, inflation, oil</span></div>
+    <div class="stat"><b data-i18n="stat.3b">Live</b><span data-i18n="stat.3">news feed from X</span></div>
+  </div>
+</div></section>
+
+<section id="about"><div class="wrap">
+  <h2 data-i18n="about.h">About</h2>
+  <p class="sub" data-i18n="about.sub">Market Plus is a markets news project for people who want the signal, not the noise.</p>
+  <div class="about">
+    <div class="tile"><h3 data-i18n="about.t1h">Only what matters</h3><p data-i18n="about.t1p">Geopolitics, central bank decisions, inflation and jobs data — the things that move gold and currencies.</p></div>
+    <div class="tile"><h3 data-i18n="about.t2h">With context</h3><p data-i18n="about.t2p">Every headline comes with a short takeaway: how the event may affect the market and why.</p></div>
+    <div class="tile"><h3 data-i18n="about.t3h">Source included</h3><p data-i18n="about.t3p">Reuters, Bloomberg, official statements — the original is always one tap away.</p></div>
+  </div>
+</div></section>
+
+<section id="news"><div class="wrap">
+  <h2 data-i18n="news.h">Latest news</h2>
+  <p class="sub" data-i18n="news.sub">Live feed from our X account — new posts appear here automatically.</p>
+  <div class="feed" id="feed">
+    <div class="feed-bar"><b>@MarketPulseGold</b><span class="live" data-i18n="news.live">Live</span></div>
+    <div class="xbox" id="xbox">
+      <a class="twitter-timeline" id="xtl" data-theme="dark" data-dnt="true" data-chrome="noheader transparent" href="https://twitter.com/MarketPulseGold">Posts by @MarketPulseGold</a>
+      <div class="skeleton" id="xskel"><i></i><i></i><i></i><p data-i18n="news.loading">Loading posts from X…</p></div>
+      <div class="fallback" id="xfallback" hidden>
+        <div class="xi"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg></div>
+        <h3 data-i18n="fb.h">Latest posts on X</h3>
+        <p data-i18n="fb.p">The live feed couldn't load in your browser — X sometimes limits embeds for visitors who aren't signed in, or a privacy blocker is on. All posts are available on X.</p>
+        <a class="btn btn-gold" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" data-i18n="fb.btn">Open @MarketPulseGold on X</a>
+      </div>
+    </div>
+  </div>
+  <div class="feed-actions">
+    <small data-i18n="news.hint">Feed empty? Some browsers and extensions block X embeds.</small>
+    <a class="btn btn-ghost" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" data-i18n="fb.btn">Open @MarketPulseGold on X</a>
+  </div>
+</div></section>
+
+<section id="products"><div class="wrap">
+  <h2 data-i18n="prod.h">Products</h2>
+  <p class="sub" data-i18n="prod.sub">Tools for trading, personal finance and business. Payment and download on Patreon.</p>
+  <div class="products" id="productList"></div>
+  <p class="note" data-i18n="prod.note">Buttons open Patreon or GitHub pages. This site does not collect or store any data.</p>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+  <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p>
+  <div class="flinks"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  <div>© <span id="yr">2026</span> Market Plus · <span data-i18n="foot.priv">No trackers, no forms, no data collection.</span></div>
+</div></footer>
+<script src="app.js" defer></script>
+</body>
+</html>
