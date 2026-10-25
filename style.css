@@ -129,6 +129,9 @@ h2{font-size:clamp(24px,4.5vw,34px);margin:0 0 6px;letter-spacing:-.3px}
 .price{font-size:22px;font-weight:800;color:var(--gold2)}
 .price.free{font-size:15px;color:#7fd39b;border:1px solid rgba(127,211,155,.35);border-radius:999px;padding:2px 12px}
 .prod .btn{min-height:42px;padding:0 18px}
+.prod .img.more{text-decoration:none;display:flex;align-items:center;justify-content:center;aspect-ratio:3/1;background:radial-gradient(circle at 30% 20%,rgba(212,175,55,.28),transparent 60%),linear-gradient(135deg,#1d1a10,#0f0f12)}
+@media (min-width:640px){.prod .img.more{aspect-ratio:16/9}}
+.prod .img.more .mark{font-size:clamp(28px,4vw,40px);font-weight:800;letter-spacing:.5px;color:var(--gold2)}
 .note{color:var(--muted);font-size:13px;margin-top:16px}
 /* footer */
 footer{border-top:1px solid var(--line);padding:30px 0 40px;color:var(--muted);font-size:14px;background:var(--bg2)}

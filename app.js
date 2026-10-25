@@ -34,9 +34,9 @@
       "terms.s3h": "3. Not financial advice",
       "terms.s3p": "All information on the site is provided for informational purposes only and is not financial, investment, legal or tax advice, nor an offer or recommendation to buy or sell any asset. Trading in financial markets involves a risk of loss. Make your own decisions and, if needed, consult a licensed professional.",
       "terms.s4h": "4. Products",
-      "terms.s4p": "Paid and free products are sold and delivered via Patreon (some free materials are on GitHub). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.",
+      "terms.s4p": "Paid and free products are sold and delivered via Patreon (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.",
       "terms.s5h": "5. Privacy",
-      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, X, Patreon, GitHub) are governed by those sites’ own policies.",
+      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, X, Patreon, GitHub, Notion) are governed by those sites’ own policies.",
       "terms.s6h": "6. No warranty",
       "terms.s6p": "The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.",
       "terms.s7h": "7. Contact",
@@ -76,7 +76,7 @@
       "tab.ukraine": "Ukraine",
       "prod.h": "Products",
       "prod.sub": "Tools for trading, personal finance and business. Payment and download on Patreon.",
-      "prod.note": "Buttons open Patreon or GitHub pages. This site does not collect or store any data.",
+      "prod.note": "Buttons open Patreon, GitHub or Notion pages. This site does not collect or store any data.",
       "prod.buy": "Buy on Patreon", "prod.get": "Get it free", "prod.github": "Open on GitHub", "prod.free": "Free",
       "p1.d": "10 ready-made AI skills for Claude & ChatGPT: marketing, sales, support, SEO, HR and a content calendar. PDF guide included.",
       "p2.d": "Trade journal with automatic stats: win rate, R-multiple, P&L, dashboard and mistake analysis. Google Sheets and Excel.",
@@ -85,6 +85,19 @@
       "p5.d": "Free simple budget tracker: income, expenses and balance in one sheet.",
       "p6.t": "3 free AI skills for business",
       "p6.d": "Three free AI skills from the pack in an open GitHub repository. Try them before buying the full version.",
+      "p7.t": "Christmas Budget & Gift Tracker 2026 (Excel + Google Sheets)",
+      "p7.d": "Gift list with budget vs actual, holiday spending by category, a dashboard with charts, card and party lists and a countdown. No macros.",
+      "p8.t": "FREE Christmas Gift List 2026",
+      "p8.d": "Simple free gift list: budget, actual price and Bought / Wrapped for each gift, with totals that update automatically. Excel and Google Sheets.",
+      "p9.t": "2027 Savings Challenge Pack (16 printable challenges + Excel tracker)",
+      "p9.d": "16 printable savings challenges (52-week, 100-envelope, $10,000 and more) in A6, A4 and US Letter sizes, plus an Excel tracker with automatic totals.",
+      "p10.t": "2027 Goal & Life Planner Pro for Notion",
+      "p10.d": "Notion planner where goals update their progress from quarterly OKRs, projects and money goals. Monthly habit stats plus weekly, monthly and year-end reviews.",
+      "p11.t": "2027 Goal & Life Planner Lite for Notion",
+      "p11.d": "Free Notion planner: year vision, goals with progress bars and a days-left countdown, a weekly habit tracker and a monthly review.",
+      "pall.t": "All products on Patreon",
+      "pall.d": "See all paid and free templates in one place on the Patreon page.",
+      "prod.all": "Open Patreon",
       "foot.na": "Not investment advice.",
       "foot.disc": "All content is for informational purposes only. Trading in financial markets involves risk of loss.",
       "foot.priv": "No trackers, no forms, no data collection."
@@ -108,9 +121,9 @@
       "terms.s3h": "3. Не финансовая рекомендация",
       "terms.s3p": "Вся информация на сайте носит исключительно ознакомительный характер и не является финансовой, инвестиционной, юридической или налоговой рекомендацией, а также предложением купить или продать какой-либо актив. Торговля на финансовых рынках связана с риском потерь. Принимайте решения самостоятельно и при необходимости консультируйтесь с лицензированным специалистом.",
       "terms.s4h": "4. Продукты",
-      "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Patreon (часть бесплатных материалов — на GitHub). Оплата, доступ, получение и возвраты обрабатываются Patreon и регулируются его условиями. Сам сайт платежи не обрабатывает.",
+      "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Patreon (часть бесплатных материалов — на GitHub и в Notion). Оплата, доступ, получение и возвраты обрабатываются Patreon и регулируются его условиями. Сам сайт платежи не обрабатывает.",
       "terms.s5h": "5. Конфиденциальность",
-      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, X, Patreon, GitHub) распространяются их собственные правила.",
+      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, X, Patreon, GitHub, Notion) распространяются их собственные правила.",
       "terms.s6h": "6. Отказ от гарантий",
       "terms.s6p": "Сайт предоставляется «как есть». Мы стараемся поддерживать точность и доступность, но не гарантируем полноту, точность и актуальность информации и не несём ответственности за убытки, возникшие в результате её использования.",
       "terms.s7h": "7. Контакты",
@@ -150,7 +163,7 @@
       "tab.ukraine": "Украина",
       "prod.h": "Продукты",
       "prod.sub": "Инструменты для трейдинга, личных финансов и бизнеса. Оплата и скачивание — на Patreon.",
-      "prod.note": "Кнопки ведут на страницы Patreon или GitHub. Сайт не собирает и не хранит никаких данных.",
+      "prod.note": "Кнопки открывают страницы Patreon, GitHub или Notion. Этот сайт не собирает и не хранит данные.",
       "prod.buy": "Купить на Patreon", "prod.get": "Скачать бесплатно", "prod.github": "Открыть на GitHub", "prod.free": "Бесплатно",
       "p1.d": "10 готовых AI-навыков для Claude и ChatGPT: маркетинг, продажи, поддержка, SEO, HR и контент-календарь. PDF-гайд в комплекте.",
       "p2.d": "Журнал сделок с автоматической статистикой: win rate, R-multiple, P&L, дашборд и разбор ошибок. Google Sheets и Excel.",
@@ -159,6 +172,19 @@
       "p5.d": "Бесплатный простой трекер бюджета: доходы, расходы и остаток в одной таблице.",
       "p6.t": "3 бесплатных AI-навыка для бизнеса",
       "p6.d": "Три бесплатных AI-навыка из пакета в открытом репозитории на GitHub. Попробуйте перед покупкой полной версии.",
+      "p7.t": "Бюджет и список подарков на Рождество 2026 (Excel + Google Sheets)",
+      "p7.d": "Список подарков с бюджетом и фактическими расходами, праздничные траты по категориям, панель с диаграммами, списки открыток и вечеринок и обратный отсчёт. Без макросов.",
+      "p8.t": "БЕСПЛАТНЫЙ список подарков на Рождество 2026",
+      "p8.d": "Простой бесплатный список подарков: бюджет, фактическая цена и статус «Куплено / Упаковано» для каждого подарка, с автоматическим подсчётом итогов. Excel и Google Sheets.",
+      "p9.t": "Набор челленджей накоплений 2027 (16 челленджей для печати + трекер Excel)",
+      "p9.d": "16 челленджей накоплений для печати (52 недели, 100 конвертов, $10 000 и другие) в форматах A6, A4 и US Letter, а также трекер Excel с автоматическими итогами.",
+      "p10.t": "Планировщик целей и жизни 2027 Pro для Notion",
+      "p10.d": "Планировщик в Notion, где цели обновляют свой прогресс на основе квартальных OKR, проектов и финансовых целей. Ежемесячная статистика привычек, а также еженедельные, ежемесячные и годовые обзоры.",
+      "p11.t": "Планировщик целей и жизни 2027 Lite для Notion",
+      "p11.d": "Бесплатный планировщик в Notion: видение года, цели с индикаторами прогресса и обратным отсчётом дней, недельный трекер привычек и ежемесячный обзор.",
+      "pall.t": "Все продукты на Patreon",
+      "pall.d": "Смотрите все платные и бесплатные шаблоны в одном месте на странице Patreon.",
+      "prod.all": "Открыть Patreon",
       "foot.na": "Не является инвестиционной рекомендацией.",
       "foot.disc": "Все материалы носят исключительно ознакомительный характер. Торговля на финансовых рынках связана с риском потери средств.",
       "foot.priv": "Без трекеров, без форм, без сбора данных."
@@ -182,9 +208,9 @@
       "terms.s3h": "3. Не фінансова порада",
       "terms.s3p": "Уся інформація на сайті має виключно ознайомчий характер і не є фінансовою, інвестиційною, юридичною чи податковою порадою, а також пропозицією купити або продати будь-який актив. Торгівля на фінансових ринках пов’язана з ризиком втрат. Ухвалюйте рішення самостійно й за потреби консультуйтеся з ліцензованим фахівцем.",
       "terms.s4h": "4. Продукти",
-      "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Patreon (частина безкоштовних матеріалів — на GitHub). Оплата, доступ, отримання й повернення обробляються Patreon і регулюються його умовами. Сам сайт платежів не обробляє.",
+      "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Patreon (частина безкоштовних матеріалів — на GitHub і в Notion). Оплата, доступ, отримання й повернення обробляються Patreon і регулюються його умовами. Сам сайт платежів не обробляє.",
       "terms.s5h": "5. Конфіденційність",
-      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, X, Patreon, GitHub) поширюються їхні власні правила.",
+      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, X, Patreon, GitHub, Notion) поширюються їхні власні правила.",
       "terms.s6h": "6. Відмова від гарантій",
       "terms.s6p": "Сайт надається «як є». Ми намагаємося підтримувати точність і доступність, але не гарантуємо повноту, точність і актуальність інформації та не несемо відповідальності за збитки, що виникли внаслідок її використання.",
       "terms.s7h": "7. Контакти",
@@ -224,7 +250,7 @@
       "tab.ukraine": "Україна",
       "prod.h": "Продукти",
       "prod.sub": "Інструменти для трейдингу, особистих фінансів і бізнесу. Оплата та завантаження — на Patreon.",
-      "prod.note": "Кнопки ведуть на сторінки Patreon або GitHub. Сайт не збирає й не зберігає жодних даних.",
+      "prod.note": "Кнопки відкривають сторінки Patreon, GitHub або Notion. Цей сайт не збирає і не зберігає жодних даних.",
       "prod.buy": "Купити на Patreon", "prod.get": "Завантажити безкоштовно", "prod.github": "Відкрити на GitHub", "prod.free": "Безкоштовно",
       "p1.d": "10 готових AI-навичок для Claude і ChatGPT: маркетинг, продажі, підтримка, SEO, HR і контент-календар. PDF-посібник у комплекті.",
       "p2.d": "Журнал угод з автоматичною статистикою: win rate, R-multiple, P&L, дашборд і розбір помилок. Google Sheets та Excel.",
@@ -233,6 +259,19 @@
       "p5.d": "Безкоштовний простий трекер бюджету: доходи, витрати й залишок в одній таблиці.",
       "p6.t": "3 безкоштовні AI-навички для бізнесу",
       "p6.d": "Три безкоштовні AI-навички з пакета у відкритому репозиторії на GitHub. Спробуйте перед купівлею повної версії.",
+      "p7.t": "Різдвяний бюджет і список подарунків 2026 (Excel + Google Sheets)",
+      "p7.d": "Список подарунків із бюджетом і фактичними витратами, святкові витрати за категоріями, панель із діаграмами, списки листівок і вечірок та зворотний відлік. Без макросів.",
+      "p8.t": "БЕЗКОШТОВНИЙ різдвяний список подарунків 2026",
+      "p8.d": "Простий безкоштовний список подарунків: бюджет, фактична ціна та позначки «Куплено / Запаковано» для кожного подарунка, підсумки оновлюються автоматично. Excel і Google Sheets.",
+      "p9.t": "Набір челенджів заощаджень 2027 (16 челенджів для друку + трекер Excel)",
+      "p9.d": "16 челенджів заощаджень для друку (52 тижні, 100 конвертів, $10 000 та інші) у форматах A6, A4 і US Letter, а також трекер Excel з автоматичними підсумками.",
+      "p10.t": "Планувальник цілей і життя 2027 Pro для Notion",
+      "p10.d": "Планувальник у Notion, де цілі оновлюють свій прогрес на основі квартальних OKR, проєктів і фінансових цілей. Щомісячна статистика звичок, а також щотижневі, щомісячні та річні огляди.",
+      "p11.t": "Планувальник цілей і життя 2027 Lite для Notion",
+      "p11.d": "Безкоштовний планувальник у Notion: річне бачення, цілі з індикаторами прогресу та зворотним відліком днів, щотижневий трекер звичок і щомісячний огляд.",
+      "pall.t": "Усі продукти на Patreon",
+      "pall.d": "Перегляньте всі платні та безкоштовні шаблони в одному місці на сторінці Patreon.",
+      "prod.all": "Відкрити Patreon",
       "foot.na": "Не є інвестиційною порадою.",
       "foot.disc": "Усі матеріали мають виключно ознайомчий характер. Торгівля на фінансових ринках пов'язана з ризиком втрати коштів.",
       "foot.priv": "Без трекерів, без форм, без збору даних."
@@ -256,9 +295,9 @@
       "terms.s3h": "3. Pas un conseil financier",
       "terms.s3p": "Toutes les informations du site sont fournies à titre informatif uniquement et ne constituent pas un conseil financier, d'investissement, juridique ou fiscal, ni une offre ou recommandation d'acheter ou de vendre un actif. Le trading sur les marchés financiers comporte un risque de perte.",
       "terms.s4h": "4. Produits",
-      "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Patreon (certains contenus gratuits sont sur GitHub). Paiements, accès, livraison et remboursements sont gérés par Patreon selon ses propres conditions. Le site ne traite aucun paiement.",
+      "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Patreon (certains contenus gratuits sont sur GitHub ou Notion). Paiements, accès, livraison et remboursements sont gérés par Patreon selon ses propres conditions. Le site ne traite aucun paiement.",
       "terms.s5h": "5. Confidentialité",
-      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, X, Patreon, GitHub) ont leurs propres règles.",
+      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, X, Patreon, GitHub, Notion) ont leurs propres règles.",
       "terms.s6h": "6. Absence de garantie",
       "terms.s6p": "Le site est fourni « tel quel ». Nous faisons de notre mieux, mais ne garantissons pas l'exhaustivité, l'exactitude ou l'actualité des informations et déclinons toute responsabilité pour les pertes liées à leur utilisation.",
       "terms.s7h": "7. Contact",
@@ -298,7 +337,7 @@
       "tab.ukraine": "Ukraine",
       "prod.h": "Produits",
       "prod.sub": "Des outils pour le trading, les finances personnelles et l'entreprise. Paiement et téléchargement sur Patreon.",
-      "prod.note": "Les boutons ouvrent des pages Patreon ou GitHub. Ce site ne collecte ni ne stocke aucune donnée.",
+      "prod.note": "Les boutons ouvrent les pages Patreon, GitHub ou Notion. Ce site ne collecte ni ne stocke aucune donnée.",
       "prod.buy": "Acheter sur Patreon", "prod.get": "Obtenir gratuitement", "prod.github": "Ouvrir sur GitHub", "prod.free": "Gratuit",
       "p1.d": "10 compétences IA prêtes à l'emploi pour Claude et ChatGPT : marketing, ventes, support, SEO, RH et calendrier éditorial. Guide PDF inclus.",
       "p2.d": "Journal de trading avec statistiques automatiques : taux de réussite, R-multiple, P&L, tableau de bord et analyse des erreurs. Google Sheets et Excel.",
@@ -307,6 +346,19 @@
       "p5.d": "Suivi de budget simple et gratuit : revenus, dépenses et solde sur une seule feuille.",
       "p6.t": "3 compétences IA gratuites pour l'entreprise",
       "p6.d": "Trois compétences IA gratuites du pack, dans un dépôt GitHub public. Essayez-les avant d'acheter la version complète.",
+      "p7.t": "Suivi du budget et des cadeaux de Noël 2026 (Excel + Google Sheets)",
+      "p7.d": "Liste de cadeaux avec budget vs réel, dépenses des fêtes par catégorie, tableau de bord avec graphiques, listes de cartes de vœux et de fêtes, et compte à rebours. Sans macros.",
+      "p8.t": "Liste de cadeaux de Noël 2026 GRATUITE",
+      "p8.d": "Liste de cadeaux simple et gratuite : budget, prix réel et Acheté / Emballé pour chaque cadeau, avec des totaux mis à jour automatiquement. Excel et Google Sheets.",
+      "p9.t": "Pack de défis d'épargne 2027 (16 défis imprimables + suivi Excel)",
+      "p9.d": "16 défis d'épargne imprimables (52 semaines, 100 enveloppes, 10 000 $ et plus) aux formats A6, A4 et US Letter, plus un suivi Excel avec totaux automatiques.",
+      "p10.t": "Planificateur Objectifs & Vie 2027 Pro pour Notion",
+      "p10.d": "Planificateur Notion où les objectifs mettent à jour leur progression à partir des OKR trimestriels, des projets et des objectifs financiers. Statistiques mensuelles d'habitudes plus revues hebdomadaires, mensuelles et de fin d'année.",
+      "p11.t": "Planificateur Objectifs & Vie 2027 Lite pour Notion",
+      "p11.d": "Planificateur Notion gratuit : vision annuelle, objectifs avec barres de progression et compte à rebours des jours restants, suivi hebdomadaire des habitudes et revue mensuelle.",
+      "pall.t": "Tous les produits sur Patreon",
+      "pall.d": "Voir tous les modèles payants et gratuits en un seul endroit sur la page Patreon.",
+      "prod.all": "Ouvrir Patreon",
       "foot.na": "Ceci n'est pas un conseil en investissement.",
       "foot.disc": "Tous les contenus sont fournis à titre informatif uniquement. Le trading sur les marchés financiers comporte un risque de perte.",
       "foot.priv": "Aucun traceur, aucun formulaire, aucune collecte de données."
@@ -330,9 +382,9 @@
       "terms.s3h": "3. Keine Finanzberatung",
       "terms.s3p": "Alle Informationen dienen ausschließlich Informationszwecken und stellen keine Finanz-, Anlage-, Rechts- oder Steuerberatung und kein Angebot oder keine Empfehlung zum Kauf oder Verkauf von Vermögenswerten dar. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
       "terms.s4h": "4. Produkte",
-      "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Patreon verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub). Zahlung, Zugang, Lieferung und Erstattungen wickelt Patreon gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
+      "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Patreon verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub oder Notion). Zahlung, Zugang, Lieferung und Erstattungen wickelt Patreon gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
       "terms.s5h": "5. Datenschutz",
-      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, X, Patreon, GitHub) gelten deren eigene Richtlinien.",
+      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, X, Patreon, GitHub, Notion) gelten deren eigene Richtlinien.",
       "terms.s6h": "6. Keine Gewähr",
       "terms.s6p": "Die Website wird „wie besehen“ bereitgestellt. Wir geben unser Bestes, übernehmen aber keine Gewähr für Vollständigkeit, Richtigkeit oder Aktualität und haften nicht für Verluste aus der Nutzung der Informationen.",
       "terms.s7h": "7. Kontakt",
@@ -372,7 +424,7 @@
       "tab.ukraine": "Ukraine",
       "prod.h": "Produkte",
       "prod.sub": "Tools für Trading, private Finanzen und Business. Bezahlung und Download über Patreon.",
-      "prod.note": "Die Buttons öffnen Seiten auf Patreon oder GitHub. Diese Website erhebt und speichert keinerlei Daten.",
+      "prod.note": "Buttons öffnen Patreon-, GitHub- oder Notion-Seiten. Diese Seite sammelt oder speichert keine Daten.",
       "prod.buy": "Auf Patreon kaufen", "prod.get": "Kostenlos holen", "prod.github": "Auf GitHub öffnen", "prod.free": "Kostenlos",
       "p1.d": "10 fertige KI-Skills für Claude & ChatGPT: Marketing, Vertrieb, Support, SEO, HR und Content-Kalender. Inklusive PDF-Anleitung.",
       "p2.d": "Trading-Journal mit automatischer Statistik: Trefferquote, R-Multiple, P&L, Dashboard und Fehleranalyse. Google Sheets und Excel.",
@@ -381,6 +433,19 @@
       "p5.d": "Kostenloser, einfacher Budget-Tracker: Einnahmen, Ausgaben und Saldo in einer Tabelle.",
       "p6.t": "3 kostenlose KI-Skills fürs Business",
       "p6.d": "Drei kostenlose KI-Skills aus dem Paket in einem öffentlichen GitHub-Repository. Teste sie vor dem Kauf der Vollversion.",
+      "p7.t": "Weihnachtsbudget & Geschenk-Tracker 2026 (Excel + Google Sheets)",
+      "p7.d": "Geschenkliste mit Budget vs. Ist, Feiertagsausgaben nach Kategorie, Dashboard mit Diagrammen, Karten- und Partylisten sowie ein Countdown. Keine Makros.",
+      "p8.t": "KOSTENLOSE Weihnachts-Geschenkliste 2026",
+      "p8.d": "Einfache kostenlose Geschenkliste: Budget, tatsächlicher Preis und Gekauft / Eingepackt für jedes Geschenk, mit automatisch aktualisierten Summen. Excel und Google Sheets.",
+      "p9.t": "Spar-Challenge-Set 2027 (16 druckbare Challenges + Excel-Tracker)",
+      "p9.d": "16 druckbare Spar-Challenges (52-Wochen-, 100-Umschlag-, $10.000- und weitere) in A6-, A4- und US-Letter-Größen, plus ein Excel-Tracker mit automatischen Summen.",
+      "p10.t": "Ziel- & Lebensplaner 2027 Pro für Notion",
+      "p10.d": "Notion-Planer, in dem Ziele ihren Fortschritt aus Quartals-OKRs, Projekten und Geldzielen berechnen. Monatliche Gewohnheitsstatistiken plus Wochen-, Monats- und Jahresrückblicke.",
+      "p11.t": "Ziel- & Lebensplaner 2027 Lite für Notion",
+      "p11.d": "Kostenloser Notion-Planer: Jahresvision, Ziele mit Fortschrittsbalken und Countdown der verbleibenden Tage, wöchentlicher Gewohnheitstracker und Monatsrückblick.",
+      "pall.t": "Alle Produkte auf Patreon",
+      "pall.d": "Sieh alle kostenpflichtigen und kostenlosen Vorlagen an einem Ort auf der Patreon-Seite.",
+      "prod.all": "Patreon öffnen",
       "foot.na": "Keine Anlageberatung.",
       "foot.disc": "Alle Inhalte dienen ausschließlich Informationszwecken. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
       "foot.priv": "Keine Tracker, keine Formulare, keine Datenerhebung."
@@ -404,9 +469,9 @@
       "terms.s3h": "3. 不构成投资建议",
       "terms.s3p": "本网站所有信息仅供参考，不构成任何财务、投资、法律或税务建议，也不构成买卖任何资产的要约或推荐。金融市场交易存在亏损风险。",
       "terms.s4h": "4. 产品",
-      "terms.s4p": "付费和免费产品均通过 Patreon 销售和交付（部分免费资料位于 GitHub）。付款、访问、交付和退款由 Patreon 按其条款处理。本网站不处理任何付款。",
+      "terms.s4p": "付费和免费产品均通过 Patreon 销售和交付（部分免费资料位于 GitHub 或 Notion）。付款、访问、交付和退款由 Patreon 按其条款处理。本网站不处理任何付款。",
       "terms.s5h": "5. 隐私",
-      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、X、Patreon、GitHub）适用其各自的政策。",
+      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、X、Patreon、GitHub、Notion）适用其各自的政策。",
       "terms.s6h": "6. 免责声明",
       "terms.s6p": "本网站按“现状”提供。我们尽力保证信息准确和网站可用，但不保证信息的完整性、准确性或及时性，对因使用这些信息造成的任何损失不承担责任。",
       "terms.s7h": "7. 联系方式",
@@ -446,7 +511,7 @@
       "tab.ukraine": "乌克兰",
       "prod.h": "产品",
       "prod.sub": "面向交易、个人理财和企业的实用工具。在 Patreon 上付款和下载。",
-      "prod.note": "按钮将打开 Patreon 或 GitHub 页面。本网站不收集、不存储任何数据。",
+      "prod.note": "按钮会打开 Patreon、GitHub 或 Notion 页面。本网站不收集或存储任何数据。",
       "prod.buy": "在 Patreon 购买", "prod.get": "免费获取", "prod.github": "在 GitHub 打开", "prod.free": "免费",
       "p1.d": "10 个适用于 Claude 和 ChatGPT 的现成 AI 技能：营销、销售、客服、SEO、人力资源和内容日历。附 PDF 指南。",
       "p2.d": "交易日志，自动统计胜率、R 倍数、盈亏，附仪表盘和错误分析。支持 Google Sheets 和 Excel。",
@@ -455,6 +520,19 @@
       "p5.d": "免费简易预算表：收入、支出和余额尽在一张表中。",
       "p6.t": "3 个免费的商业 AI 技能",
       "p6.d": "来自技能包的三个免费 AI 技能，托管在公开的 GitHub 仓库中。购买完整版前先试用。",
+      "p7.t": "2026 圣诞预算与礼物追踪器（Excel + Google Sheets）",
+      "p7.d": "礼物清单（预算与实际对比）、按类别统计的节日开支、带图表的仪表盘、贺卡与聚会清单以及倒计时。无宏。",
+      "p8.t": "免费 2026 圣诞礼物清单",
+      "p8.d": "简易免费礼物清单：每件礼物的预算、实际价格以及已购买/已包装状态，自动更新总计。Excel 和 Google Sheets。",
+      "p9.t": "2027 储蓄挑战套装（16 个可打印挑战 + Excel 追踪器）",
+      "p9.d": "提供 16 项可打印储蓄挑战（52 周、100 信封、$10,000 等），尺寸包括 A6、A4 和 US Letter，并附带自动累计的 Excel 追踪器。",
+      "p10.t": "2027 目标与生活规划器 Pro（Notion）",
+      "p10.d": "Notion 规划器：目标进度根据季度 OKR、项目和储蓄目标自动更新。提供月度习惯统计，以及每周、每月和年终回顾。",
+      "p11.t": "2027 目标与生活规划器 Lite（Notion）",
+      "p11.d": "免费 Notion 规划器：年度愿景、带进度条的目标和剩余天数倒计时、每周习惯追踪器以及月度回顾。",
+      "pall.t": "Patreon 上的所有产品",
+      "pall.d": "在 Patreon 页面一次性查看所有付费和免费模板。",
+      "prod.all": "打开 Patreon",
       "foot.na": "不构成投资建议。",
       "foot.disc": "所有内容仅供参考。金融市场交易存在亏损风险。",
       "foot.priv": "无追踪器、无表单、不收集数据。"
@@ -463,6 +541,17 @@
 
   // ---------- Products (edit here) ----------
   var PRODUCTS = [
+    // seasonal first
+    { t: "p7.t", price: "$3", img: "assets/christmas-budget-2026.webp", d: "p7.d",
+      url: "https://www.patreon.com/DmitryZhuk/posts/christmas-budget-173352149" },
+    { t: "p8.t", free: true, img: "assets/christmas-budget-2026.webp", d: "p8.d", cta: "prod.get",
+      url: "https://www.patreon.com/DmitryZhuk/posts/free-christmas-173352318" },
+    { t: "p9.t", price: "$3.50", img: "assets/savings-challenge-2027.webp", d: "p9.d",
+      url: "https://www.patreon.com/DmitryZhuk/posts/2027-savings-16-173352268" },
+    { t: "p10.t", price: "$4.50", img: "assets/goal-planner-2027-pro.webp", d: "p10.d",
+      url: "https://www.patreon.com/DmitryZhuk/posts/2027-goal-life-173353268" },
+    { t: "p11.t", free: true, img: "assets/goal-planner-2027-lite.webp", d: "p11.d", cta: "prod.get",
+      url: "https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6" },
     { title: "AI Skills Pack for Business", price: "$8", img: "assets/ai-skills.webp", d: "p1.d",
       url: "https://www.patreon.com/DmitryZhuk/posts/ai-skills-pack-173304384" },
     { title: "Trading Journal Pro (Google Sheets & Excel)", price: "$12", img: "assets/trading-journal.webp", d: "p2.d",
@@ -474,7 +563,10 @@
     { title: "Budget Lite", free: true, img: "assets/budget-tracker.webp", d: "p5.d", cta: "prod.get",
       url: "https://www.patreon.com/DmitryZhuk/posts/free-budget-lite-173292612" },
     { t: "p6.t", free: true, img: "assets/ai-skills.webp", d: "p6.d", cta: "prod.github",
-      url: "https://github.com/aiskillsdrop/ai-skills-for-business" }
+      url: "https://github.com/aiskillsdrop/ai-skills-for-business" },
+    // closing tile: fills the last grid slot (12 cards = full rows at 1/2/3 columns)
+    { t: "pall.t", more: true, d: "pall.d", cta: "prod.all",
+      url: "https://www.patreon.com/DmitryZhuk" }
   ];
 
   var $ = function (id) { return document.getElementById(id); };
@@ -527,9 +619,15 @@
     var imgBox = el("a", "img");
     imgBox.href = p.url; imgBox.target = "_blank"; imgBox.rel = "noopener noreferrer"; imgBox.tabIndex = -1;
     imgBox.setAttribute("aria-hidden", "true");
-    var im = new Image(); im.src = p.img; im.loading = "lazy"; im.decoding = "async"; im.width = 960; im.height = 540;
-    im.alt = p.title || ""; if (p.t) im.setAttribute("data-i18n-alt", p.t);
-    imgBox.appendChild(im);
+    if (p.more) {
+      imgBox.className = "img more";
+      var mk = el("span", "mark", "Patreon"); mk.lang = "en"; mk.setAttribute("translate", "no");
+      imgBox.appendChild(mk);
+    } else {
+      var im = new Image(); im.src = p.img; im.loading = "lazy"; im.decoding = "async"; im.width = 800; im.height = 450;
+      im.alt = p.title || ""; if (p.t) im.setAttribute("data-i18n-alt", p.t);
+      imgBox.appendChild(im);
+    }
     if (p.free) { var tag = el("span", "tag"); tag.setAttribute("data-i18n", "prod.free"); imgBox.appendChild(tag); }
     var body = el("div", "body");
     var h = el("h3");
@@ -539,9 +637,11 @@
     var d = el("p"); d.setAttribute("data-i18n", p.d);
     body.appendChild(h); body.appendChild(d);
     var row = el("div", "row");
-    var pr = el("span", p.free ? "price free" : "price", p.free ? "" : p.price);
-    if (p.free) pr.setAttribute("data-i18n", "prod.free");
-    row.appendChild(pr);
+    if (!p.more) {
+      var pr = el("span", p.free ? "price free" : "price", p.free ? "" : p.price);
+      if (p.free) pr.setAttribute("data-i18n", "prod.free");
+      row.appendChild(pr);
+    }
     var a = el("a", "btn " + (p.free ? "btn-ghost" : "btn-gold"));
     a.setAttribute("data-i18n", p.cta || "prod.buy");
     a.href = p.url; a.target = "_blank"; a.rel = "noopener noreferrer";
