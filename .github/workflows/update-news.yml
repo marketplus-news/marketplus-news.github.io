@@ -24,6 +24,7 @@ jobs:
       - name: Build data/news.json
         run: python3 tools/build_news.py
       - name: Commit if changed
+        id: commit
         run: |
           git config user.name "marketplus-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -34,4 +35,18 @@ jobs:
             git commit -m "Update news feed $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+      - name: Ping IndexNow
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          INDEXNOW_KEY: 37b5b832a649d26268bd94509bf13d87
+          SITE_HOST: marketplus-news.github.io
+        run: |
+          # Only data/news.json and data/posts.json change; they render on the homepage.
+          curl -sS -m 20 -o /dev/null -w "IndexNow HTTP %{http_code}\n" \
+            -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "{\"host\":\"${SITE_HOST}\",\"key\":\"${INDEXNOW_KEY}\",\"keyLocation\":\"https://${SITE_HOST}/${INDEXNOW_KEY}.txt\",\"urlList\":[\"https://${SITE_HOST}/\"]}" \
+            || true
