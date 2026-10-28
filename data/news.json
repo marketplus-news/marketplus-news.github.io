@@ -1,5 +1,5 @@
 {
- "updated": 1793155633,
+ "updated": 1793159098,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,58 +216,439 @@
  ],
  "items": [
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "ts": 1793154891,
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793159018,
    "sec": [
-    "world",
     "market"
    ],
    "t": {
-    "uk": "Політика в прямому ефірі: ABC закликає One Nation «негайно видалити» мультфільм Bluey; RBA каже, що рецесії немає",
-    "fr": "Politique en direct : ABC appelle One Nation à « supprimer immédiatement » le dessin animé de Bluey ; La RBA dit qu'il n'y aura pas de récession en vue",
-    "de": "Politik live: ABC fordert One Nation auf, den Bluey-Cartoon „sofort zu entfernen“; RBA sagt, dass keine Rezession bevorstehe",
-    "zh": "政治直播：美国广播公司 (ABC) 呼吁一国党“立即删除”布鲁伊 (Bluey) 卡通片；澳洲联储称不会出现经济衰退",
-    "ru": "Политика в прямом эфире: ABC призывает One Nation «немедленно удалить» мультфильм Блюи; РБА заявляет, что рецессии не предвидится"
+    "uk": "Пасажири розкішного круїзу застрягли в Камбоджі через різке зростання цін на пальне",
+    "fr": "Les croisiéristes de luxe bloqués au Cambodge en raison de la flambée des prix du carburant",
+    "de": "Luxuskreuzfahrtpassagiere sind aufgrund steigender Treibstoffkosten in Kambodscha gestrandet",
+    "zh": "由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨",
+    "ru": "Пассажиры роскошных круизных судов застряли в Камбодже из-за резкого роста цен на топливо"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+   "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+   "ts": 1793158433,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Кіліан Мбаппе стикається з негативною реакцією Китаю, оскільки спонсори розривають зв’язки через вірусний мем",
+    "fr": "Kylian Mbappé fait face à la réaction de la Chine alors que les sponsors coupent les liens à cause d'un mème viral",
+    "de": "Kylian Mbappé sieht sich mit Chinas Gegenreaktion konfrontiert, da Sponsoren wegen eines viralen Memes ihre Beziehungen abgebrochen haben",
+    "zh": "基利安·姆巴佩因赞助商因流行表情包而断绝联系，面临中国的强烈反对",
+    "ru": "Килиан Мбаппе сталкивается с негативной реакцией Китая, поскольку спонсоры разрывают отношения из-за вирусного мема"
    },
    "lang": "en"
   },
   {
    "feed": "guardian_world",
    "source": "The Guardian",
-   "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
-   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "ts": 1793154797,
+   "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Taylor targets Labor’s ‘out-of-control’ spending in question time",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+   "ts": 1793158339,
    "sec": [
-    "world",
-    "politics"
+    "world"
    ],
    "t": {
-    "uk": "Вибори в Ізраїлі в прямому ефірі: Нетаньяху говорить, оскільки екзит-поли вказують на те, що він зрівнявся з опозиційним блоком Айзенкота",
-    "fr": "Élection en Israël en direct : Netanyahu s'exprime alors que les sondages à la sortie des urnes indiquent un lien avec le bloc d'opposition d'Eizenkot",
-    "de": "Live-Wahl in Israel: Netanjahu spricht, während Wahlumfragen darauf hindeuten, dass er mit dem Eisenkot-Oppositionsblock gleichzieht",
-    "zh": "以色列选举直播：内塔尼亚胡发表讲话，出口民意调查显示与艾森科特反对派阵营持平",
-    "ru": "Выборы в Израиле в прямом эфире: Нетаньяху выступает, поскольку экзитполы указывают на его связь с оппозиционным блоком Айзенкот"
+    "uk": "Австралійська політика в прямому ефірі: ABC закликає One Nation «негайно видалити» мультфільм Блуї; Тейлор націлений на «неконтрольовані» витрати лейбористів у відповідний час",
+    "fr": "La politique australienne en direct : ABC appelle One Nation à « supprimer immédiatement » le dessin animé de Bluey ; Taylor cible les dépenses « incontrôlables » du Parti travailliste lors de l’heure des questions",
+    "de": "Australische Politik live: ABC fordert One Nation auf, den Bluey-Cartoon „sofort zu entfernen“; Taylor nimmt in der Fragestunde die „außer Kontrolle geratenen“ Ausgaben der Labour-Partei ins Visier",
+    "zh": "澳大利亚政治直播：ABC 呼吁一国党“立即删除”Bluey 卡通片；泰勒在质询期间针对工党“失控”的支出",
+    "ru": "Австралийская политика в прямом эфире: ABC призывает One Nation «немедленно удалить» мультфильм Блюи; Тейлор нацелен на «вышедшие из-под контроля» расходы Лейбористской партии в период вопросов"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information",
-   "url": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-google-ai-chips-to-expand-computing-capacity--the-information-4977389",
-   "ts": 1793154129,
+   "title": "Honeywell CEO Vimal Kapur sells $1.43 million in company stock",
+   "url": "https://www.investing.com/news/insider-trading-news/honeywell-ceo-vimal-kapur-sells-143-million-in-company-stock-93CH-4977426",
+   "ts": 1793158302,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "OpenAI планує придбати чіпи Google AI для розширення обчислювальної потужності – Інформація",
-    "fr": "OpenAI envisage d'acheter des puces Google AI pour augmenter sa capacité de calcul - The Information",
-    "de": "OpenAI plant den Kauf von Google-KI-Chips zur Erweiterung der Rechenkapazität – The Information",
-    "zh": "OpenAI计划购买谷歌AI芯片以扩大计算能力 - The Information",
-    "ru": "OpenAI планирует купить чипы Google AI для расширения вычислительных мощностей - Информация"
+    "uk": "Генеральний директор Honeywell Вімал Капур продає акції компанії на суму 1,43 мільйона доларів",
+    "fr": "Le PDG d'Honeywell, Vimal Kapur, vend pour 1,43 million de dollars d'actions de la société",
+    "de": "Vimal Kapur, CEO von Honeywell, verkauft Unternehmensaktien im Wert von 1,43 Millionen US-Dollar",
+    "zh": "霍尼韦尔首席执行官 Vimal Kapur 出售价值 143 万美元的公司股票",
+    "ru": "Генеральный директор Honeywell Вимал Капур продает акции компании на 1,43 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Burke & Herbert director David Wilson buys $7,273 of common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/burke--herbert-director-david-wilson-buys-7273-of-common-stock-93CH-4977425",
+   "ts": 1793158277,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Burke & Herbert Девід Вілсон купує звичайні акції на суму 7273 долари",
+    "fr": "Le directeur de Burke & Herbert, David Wilson, achète pour 7 273 $ d'actions ordinaires",
+    "de": "David Wilson, Direktor von Burke & Herbert, kauft Stammaktien im Wert von 7.273 US-Dollar",
+    "zh": "Burke & Herbert 董事 David Wilson 购买 7,273 美元的普通股",
+    "ru": "Директор Burke & Herbert Дэвид Уилсон покупает обыкновенные акции на сумму 7273 доллара."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Zscaler CFO Kevin Rubin sells $133,200 in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/zscaler-cfo-kevin-rubin-sells-133200-in-common-stock-93CH-4977424",
+   "ts": 1793158274,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Фінансовий директор Zscaler Кевін Рубін продає звичайні акції на 133 200 доларів",
+    "fr": "Le directeur financier de Zscaler, Kevin Rubin, vend 133 200 $ d'actions ordinaires",
+    "de": "Kevin Rubin, CFO von Zscaler, verkauft Stammaktien im Wert von 133.200 US-Dollar",
+    "zh": "Zscaler 首席财务官 Kevin Rubin 出售价值 133,200 美元的普通股",
+    "ru": "Финансовый директор Zscaler Кевин Рубин продает обыкновенные акции на сумму $133 200"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "‘Backdrop for countless local love stories’: Geelong gingko named Victorian tree of the year",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
+   "ts": 1793157815,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "«Тло для незліченних місцевих історій кохання»: Джілонг гінгко названо Вікторіанським деревом року",
+    "fr": "« Toile de fond pour d'innombrables histoires d'amour locales » : le gingko de Geelong nommé arbre victorien de l'année",
+    "de": "„Hintergrund für unzählige lokale Liebesgeschichten“: Geelong-Gingko zum viktorianischen Baum des Jahres gekürt",
+    "zh": "“无数当地爱情故事的背景”：吉隆银杏被评为维多利亚年度树",
+    "ru": "«Фон для бесчисленных местных любовных историй»: гинкго из Джилонга названо викторианским деревом года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rally-as-sk-hynix-earnings-boost-ai-trade-fed-decision-ahead-4977421",
+   "ts": 1793157523,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Азійські фондові ринки ростуть, оскільки прибутки SK Hynix стимулюють торгівлю AI; Рішення ФРС попереду",
+    "fr": "Les actions asiatiques rebondissent alors que les bénéfices de SK Hynix stimulent le commerce de l'IA ; Décision de la Fed à venir",
+    "de": "Asiatische Aktien erholen sich, da die Gewinne von SK Hynix den KI-Handel ankurbeln; Fed-Entscheidung steht bevor",
+    "zh": "SK 海力士盈利提振人工智能贸易，亚洲股市上涨；美联储即将做出决定",
+    "ru": "Азиатские акции растут, поскольку доходы SK Hynix стимулируют торговлю ИИ; Решение ФРС впереди"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Opus Genetics president Yerxa sells $117,364 in IRD stock",
+   "url": "https://www.investing.com/news/insider-trading-news/opus-genetics-president-yerxa-sells-117364-in-ird-stock-93CH-4977420",
+   "ts": 1793157370,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Президент Opus Genetics Yerxa продає акції IRD за $117 364",
+    "fr": "Le président d'Opus Genetics, Yerxa, vend 117 364 $ d'actions IRD",
+    "de": "Yerxa, Präsident von Opus Genetics, verkauft IRD-Aktien im Wert von 117.364 US-Dollar",
+    "zh": "Opus Genetics 总裁 Yerxa 出售价值 117,364 美元的 IRD 股票",
+    "ru": "Президент Opus Genetics Йеркса продает акции IRD на сумму 117 364 доллара."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Israel election live: exit polls point to tie between Netanyahu and Eisenkot opposition blocs",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "ts": 1793157336,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Вибори в Ізраїлі в прямому ефірі: екзит-поли вказують на рівність між опозиційними блоками Нетаньяху та Айзенкота",
+    "fr": "Élection en Israël en direct : les sondages à la sortie des urnes indiquent une égalité entre les blocs d'opposition Netanyahu et Eizenkot",
+    "de": "Live-Wahl in Israel: Wahlumfragen deuten auf Unentschieden zwischen den Oppositionsblöcken Netanjahu und Eisenkot hin",
+    "zh": "以色列选举现场：出口民意调查显示内塔尼亚胡和艾森科特反对派集团之间持平",
+    "ru": "Выборы в Израиле в прямом эфире: экзит-поллы указывают на связь между оппозиционными блоками Нетаньяху и Айзенкота"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Global stock markets rise as investors continue to bet on AI",
+   "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
+   "ts": 1793157271,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Світові фондові ринки зростають, оскільки інвестори продовжують робити ставки на ШІ",
+    "fr": "Les marchés boursiers mondiaux augmentent alors que les investisseurs continuent de miser sur l’IA",
+    "de": "Die globalen Aktienmärkte steigen, da Anleger weiterhin auf KI setzen",
+    "zh": "随着投资者继续押注人工智能，全球股市上涨",
+    "ru": "Мировые фондовые рынки растут, поскольку инвесторы продолжают делать ставки на ИИ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Six AI picks are up 13%–66% since entry, and a generic-drug maker leads them all",
+   "url": "https://www.investing.com/news/stock-market-news/six-ai-picks-are-up-1366-since-entry-and-a-genericdrug-maker-leads-them-all-4977418",
+   "ts": 1793157174,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Шість варіантів штучного інтелекту зросли на 13–66% з моменту появи, і виробник генеричних препаратів лідирує серед них",
+    "fr": "Six choix d’IA sont en hausse de 13 % à 66 % depuis leur entrée, et un fabricant de médicaments génériques les mène tous",
+    "de": "Sechs KI-Picks sind seit ihrer Einführung um 13–66 % gestiegen, und ein Hersteller von Generika führt sie alle an",
+    "zh": "六种人工智能精选股自进入以来上涨了 13%–66%，一家仿制药制造商领先所有股票",
+    "ru": "Шесть вариантов ИИ выросли на 13–66% с момента появления на рынке, и их всех возглавляет производитель непатентованных лекарств."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Mapletree Industrial Q2 FY26/27 slides: DPU falls 6.6% on US weakness",
+   "url": "https://www.investing.com/news/company-news/mapletree-industrial-q2-fy2627-slides-dpu-falls-66-on-us-weakness-93CH-4977417",
+   "ts": 1793157145,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Покази Mapletree Industrial за 2 квартал 26/27 фінансового року: DPU падає на 6,6% через слабкість США",
+    "fr": "Mapletree Industrial Q2 FY26/27 glisse : le DPU chute de 6,6 % en raison de la faiblesse des États-Unis",
+    "de": "Mapletree Industrial Q2 GJ26/27 rutscht ab: DPU fällt aufgrund der US-Schwäche um 6,6 %",
+    "zh": "丰树工业 2026/27 财年第二季度下滑：美国疲软导致 DPU 下跌 6.6%",
+    "ru": "Mapletree Industrial понизилась во втором квартале 26/27 финансового года: акции DPU упали на 6,6% из-за слабости США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+   "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+   "ts": 1793157017,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Сирійсько-йорданський кордон знову відкрився через розслідування смертоносних авіаударів",
+    "fr": "La frontière entre la Syrie et la Jordanie rouvre dans le cadre d'une enquête sur les frappes aériennes meurtrières",
+    "de": "Die syrisch-jordanische Grenze wird nach Ermittlungen zu tödlichen Luftangriffen wieder geöffnet",
+    "zh": "叙利亚和约旦边境重新开放，对致命空袭进行调查",
+    "ru": "Граница Сирии и Иордании вновь открылась на фоне расследования смертоносных авиаударов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Why is Kioxia stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-4977415",
+   "ts": 1793156594,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому акції Kioxia сьогодні стрімко зростають?",
+    "fr": "Pourquoi l’action Kioxia augmente-t-elle aujourd’hui ?",
+    "de": "Warum steigt die Kioxia-Aktie heute?",
+    "zh": "为什么铠侠股价今天飙升？",
+    "ru": "Почему акции Kioxia сегодня растут?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+   "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+   "ts": 1793156564,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що війна в Ірані закінчиться, «коли я цього захочу», оскільки витрати, як повідомляється, зросли до 47 мільярдів доларів",
+    "fr": "Trump affirme que la guerre en Iran prendra fin \"quand je le souhaite\", alors que les coûts s'élèveraient à 47 milliards de dollars",
+    "de": "Trump sagt, der Iran-Krieg werde enden, „wenn ich es will“, da die Kosten Berichten zufolge auf 47 Milliarden US-Dollar ansteigen",
+    "zh": "特朗普称伊朗战争将“在我希望的时候”结束，据报道成本飙升至470亿美元",
+    "ru": "Трамп говорит, что война с Ираном закончится «когда я этого захочу», поскольку расходы, как сообщается, вырастут до 47 миллиардов долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+   "url": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+   "ts": 1793156256,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції виробника Labubu Pop Mart продовжують падати через падіння продажів у третьому кварталі",
+    "fr": "Les actions du fabricant de Labubu Pop Mart prolongent leur baisse alors que les ventes plongent au troisième trimestre",
+    "de": "Die Aktien des Labubu-Herstellers Pop Mart setzen ihren Rückgang fort, da die Umsätze im dritten Quartal einbrechen",
+    "zh": "随着第三季度销售额暴跌，Labubu 制造商 Pop Mart 股价延续跌势",
+    "ru": "Акции производителя лабубу Pop Mart продолжают снижаться на фоне падения продаж в третьем квартале"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures are little changed as traders await Fed decision, Big Tech earnings: Live updates",
+   "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+   "ts": 1793156222,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ф'ючерси на акції незначно змінилися, оскільки трейдери очікують рішення ФРС, Big Tech earnings: Live Updates",
+    "fr": "Les contrats à terme sur actions ont peu changé alors que les traders attendent la décision de la Fed et les résultats des Big Tech : mises à jour en direct",
+    "de": "Aktien-Futures haben sich kaum verändert, da Händler auf die Entscheidung der Fed warten, Big-Tech-Ergebnisse: Live-Updates",
+    "zh": "由于交易员等待美联储决定，股票期货几乎没有变化，大型科技公司的收益：实时更新",
+    "ru": "Фьючерсы на акции мало изменились, поскольку трейдеры ждут решения ФРС. Доходы крупных технологических компаний: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
+   "url": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
+   "ts": 1793156219,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Правозахисні групи виступають проти Лани Нуссейбе з ОАЕ на посаді голови ООН через претензії щодо Судану",
+    "fr": "Des groupes de défense des droits s’opposent à la candidature de Lana Nusseibeh, des Émirats arabes unis, au poste de chef de l’ONU suite aux affirmations du Soudan",
+    "de": "Menschenrechtsgruppen lehnen Lana Nusseibeh aus den Vereinigten Arabischen Emiraten als UN-Chefin wegen Ansprüchen auf den Sudan ab",
+    "zh": "人权组织反对阿联酋拉娜·努赛贝担任联合国秘书长，反对苏丹主权主张",
+    "ru": "Правозащитные группы выступают против кандидатуры Ланы Нуссейбе из ОАЭ на пост главы ООН из-за претензий Судана"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Five key takeaways from Israel’s parliamentary elections",
+   "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+   "ts": 1793156015,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "П’ять ключових висновків із парламентських виборів в Ізраїлі",
+    "fr": "Cinq points à retenir des élections législatives israéliennes",
+    "de": "Fünf wichtige Erkenntnisse aus den israelischen Parlamentswahlen",
+    "zh": "以色列议会选举的五个关键要点",
+    "ru": "Пять ключевых выводов парламентских выборов в Израиле"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Russia launched over 100 ballistic missiles against Kyiv in past two weeks",
+   "url": "https://kyivindependent.com/russia-launched-over-100-ballistic-missiles-against-kyiv-in-past-two-weeks/",
+   "ts": 1793155811,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "За останні два тижні Росія запустила по Києву понад 100 балістичних ракет",
+    "fr": "La Russie a lancé plus de 100 missiles balistiques contre Kyiv au cours des deux dernières semaines",
+    "de": "Russland hat in den vergangenen zwei Wochen über 100 ballistische Raketen auf Kiew abgefeuert",
+    "zh": "过去两周俄罗斯向基辅发射了100多枚弹道导弹",
+    "ru": "За последние две недели Россия запустила более 100 баллистических ракет по Киеву."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw?oc=5",
+   "ts": 1793154900,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Бразилець Флавіо Болсонаро та його сім'я отримають візи в США після поразки на виборах, повідомляє Державний департамент",
+    "fr": "Le Brésilien Flávio Bolsonaro et sa famille obtiendront des visas américains après la défaite électorale, selon le Département d'État",
+    "de": "Nach Angaben des Außenministeriums werden der Brasilianer Flávio Bolsonaro und seine Familie nach der Wahlniederlage US-Visa erhalten",
+    "zh": "美国国务院表示，巴西总统弗拉维奥·博尔索纳罗及其家人将在选举失败后获得美国签证",
+    "ru": "Бразилец Флавио Болсонару и его семья получат американские визы после поражения на выборах, заявляет Госдепартамент"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Norway allocates nearly $54M in energy support for Ukraine",
+   "url": "https://www.ukrinform.net/rubric-economy/4178703-norway-allocates-nearly-54m-in-energy-support-for-ukraine.html",
+   "ts": 1793154720,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Норвегія виділяє майже $54 млн на енергетичну підтримку України",
+    "fr": "La Norvège alloue près de 54 millions de dollars d’aide énergétique à l’Ukraine",
+    "de": "Norwegen stellt der Ukraine fast 54 Millionen US-Dollar an Energieunterstützung zur Verfügung",
+    "zh": "挪威拨款近 5400 万美元为乌克兰提供能源支持",
+    "ru": "Норвегия выделила почти $54 млн на энергетическую поддержку Украины"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+   "ts": 1793154387,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Нетаньяху: коаліція з арабськими партіями була б «ганебною»",
+    "fr": "Netanyahu : une coalition avec des partis arabes serait « honteuse »",
+    "de": "Netanjahu: Koalition mit arabischen Parteien wäre „beschämend“",
+    "zh": "内塔尼亚胡：与阿拉伯政党结盟将是“可耻的”",
+    "ru": "Нетаньяху: Коалиция с арабскими партиями была бы «позорной»"
    },
    "lang": "en"
   },
@@ -286,24 +667,6 @@
     "de": "Alexander-Brüder im Fall von Sexhandel jeweils zu 30 Jahren Gefängnis verurteilt",
     "zh": "亚历山大兄弟因性交易案各被判入狱30年",
     "ru": "Братья Александры приговорены к 30 годам лишения свободы по делу о торговле людьми в целях сексуальной эксплуатации"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns-4977369",
-   "ts": 1793153903,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Зростання цін на нафту після нападу на нафтопереробний завод у Саудівській Аравії знову викликало занепокоєння щодо пропозиції",
-    "fr": "Les prix du pétrole augmentent après l’attaque contre une raffinerie saoudienne qui ravive les inquiétudes en matière d’approvisionnement",
-    "de": "Der Anstieg der Ölpreise nach einem Angriff auf eine Raffinerie in Saudi-Arabien schürt erneut Versorgungssorgen",
-    "zh": "沙特阿拉伯炼油厂遇袭重燃供应担忧，油价上涨",
-    "ru": "Цены на нефть растут после атаки на нефтеперерабатывающий завод в Саудовской Аравии, что вновь вызывает опасения по поводу поставок"
    },
    "lang": "en"
   },
@@ -364,110 +727,21 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows",
-   "url": "https://www.investing.com/news/stock-market-news/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-4977384",
-   "ts": 1793153576,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
+   "ts": 1793152920,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Згідно з опитуванням DBS, майже 90% компаній переходять на токенізовані гроші",
-    "fr": "Près de 90 % des entreprises se tournent vers l'argent symbolique, selon une enquête DBS",
-    "de": "Laut einer DBS-Umfrage greifen fast 90 % der Unternehmen auf tokenisiertes Geld zurück",
-    "zh": "星展银行调查显示，近 90% 的企业正在转向代币化货币",
-    "ru": "Исследование DBS показывает, что почти 90% предприятий обращаются к токенизированным деньгам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage",
-   "url": "https://www.investing.com/news/stock-market-news/us-closes-51-billion-loan-to-alliant-energy-for-new-gas-power-generation-energy-storage-4977383",
-   "ts": 1793153563,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "США закривають позику Alliant Energy на 5,1 мільярда доларів на нове виробництво газової електроенергії та зберігання енергії",
-    "fr": "Les États-Unis concluent un prêt de 5,1 milliards de dollars à Alliant Energy pour une nouvelle production d'électricité au gaz et le stockage d'énergie",
-    "de": "Die USA schließen ein Darlehen in Höhe von 5,1 Milliarden US-Dollar an Alliant Energy für neue Gasstromerzeugung und Energiespeicherung ab",
-    "zh": "美国向 Alliant Energy 提供 51 亿美元贷款，用于新天然气发电和储能",
-    "ru": "США закрывают кредит Alliant Energy на сумму 5,1 миллиарда долларов для новой генерации газовой энергии и хранения энергии"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "OpenAI plans to buy Google’s AI chips, The Information reports",
-   "url": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342",
-   "ts": 1793153546,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "OpenAI планує придбати чіпи Google AI, повідомляє The Information",
-    "fr": "OpenAI envisage d’acheter les puces IA de Google, rapporte The Information",
-    "de": "OpenAI plant, Googles KI-Chips zu kaufen, berichtet The Information",
-    "zh": "据 The Information 报道，OpenAI 计划购买谷歌的人工智能芯片",
-    "ru": "OpenAI планирует купить ИИ-чипы Google, сообщает The Information"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Stifel’s surprise gaming pick leads a sector bracing for a choppy earnings season",
-   "url": "https://www.investing.com/news/stock-market-news/stifels-surprise-gaming-pick-leads-a-sector-bracing-for-a-choppy-earnings-season-4977382",
-   "ts": 1793153358,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Несподіваний ігровий вибір Стіфела веде до того, що сектор готується до неспокійного сезону прибутків",
-    "fr": "Le choix surprise de Stifel en matière de jeu mène un secteur se préparant à une saison de résultats agitée",
-    "de": "Stifels überraschende Gaming-Auswahl führt einen Sektor an, der sich auf eine unruhige Gewinnsaison vorbereitet",
-    "zh": "Stifel 出人意料的游戏选择引领该行业迎接动荡的财报季",
-    "ru": "Неожиданный выбор Стифеля в сфере игр приводит к тому, что сектор готовится к нестабильному сезону прибылей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
-   "url": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
-   "ts": 1793152975,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Інфляція в Австралії у третьому кварталі прискорюється, що сприяє зростанню ставок РБА",
-    "fr": "L’inflation australienne au troisième trimestre s’accélère, renforçant le scénario de hausse des taux de la RBA",
-    "de": "Die Inflation in Australien beschleunigt sich im dritten Quartal, was die Argumente für eine Zinserhöhung durch die RBA stützt",
-    "zh": "澳大利亚第三季度通胀加速，支持澳洲联储加息",
-    "ru": "Инфляция в Австралии в третьем квартале ускорилась, что подкрепляет идею повышения ставки РБА"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Maplebear CEO Chris Rogers sells $1.48M in common stock",
-   "url": "https://www.investing.com/news/insider-trading-news/maplebear-ceo-chris-rogers-sells-148m-in-common-stock-93CH-4977379",
-   "ts": 1793152875,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Генеральний директор Maplebear Кріс Роджерс продає звичайні акції на суму 1,48 млн доларів",
-    "fr": "Le PDG de Maplebear, Chris Rogers, vend 1,48 million de dollars d'actions ordinaires",
-    "de": "Chris Rogers, CEO von Maplebear, verkauft Stammaktien im Wert von 1,48 Millionen US-Dollar",
-    "zh": "Maplebear 首席执行官克里斯·罗杰斯出售价值 148 万美元的普通股",
-    "ru": "Генеральный директор Maplebear Крис Роджерс продает обыкновенные акции на сумму $1,48 млн."
+    "uk": "Велике журі відмовляється висувати звинувачення колишньому помічнику Білого дому Кессіді Хатчінсон, повідомляють джерела AP",
+    "fr": "Le grand jury refuse d'inculper Cassidy Hutchinson, ancienne assistante de la Maison Blanche, selon des sources de l'AP",
+    "de": "AP-Quellen zufolge weigert sich die Grand Jury, die ehemalige Beraterin des Weißen Hauses, Cassidy Hutchinson, anzuklagen",
+    "zh": "美联社消息人士称，大陪审团拒绝起诉前白宫助手卡西迪·哈钦森",
+    "ru": "Большое жюри отказывается предъявить обвинение бывшему помощнику Белого дома Кэссиди Хатчинсон, сообщают источники AP"
    },
    "lang": "en"
   },
@@ -508,6 +782,25 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Stocks get AI lift, dollar holds steady ahead of Fed decision",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5",
+   "ts": 1793151600,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Акції підвищуються, долар тримається стабільно перед рішенням ФРС",
+    "fr": "Les actions bénéficient de l'IA, le dollar reste stable avant la décision de la Fed",
+    "de": "Aktien erhalten KI-Auftrieb, Dollar bleibt vor Fed-Entscheidung stabil",
+    "zh": "股市受到人工智能提振，美元在美联储决定前保持稳定",
+    "ru": "Акции растут благодаря искусственному интеллекту, доллар остается стабильным в преддверии решения ФРС"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "guardian_ukraine",
    "source": "The Guardian",
    "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
@@ -540,6 +833,24 @@
     "de": "Ukrposhta reduziert sein Netzwerk innerhalb von drei Jahren auf 7.211 Filialen, sagt Lubinets",
     "zh": "Lubinets 表示，Ukrposhta 在三年内将网络削减至 7,211 个分支机构",
     "ru": "Укрпочта за три года сократит сеть до 7211 отделений, - Лубинец"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "OpenAI plans to buy Google's AI chips, The Information reports",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+   "ts": 1793150580,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "OpenAI планує придбати чіпи Google AI, повідомляє The Information",
+    "fr": "OpenAI envisage d'acheter les puces IA de Google, rapporte The Information",
+    "de": "OpenAI plant den Kauf von Googles KI-Chips, berichtet The Information",
+    "zh": "据 The Information 报道，OpenAI 计划购买谷歌的人工智能芯片",
+    "ru": "OpenAI планирует купить ИИ-чипы Google, сообщает The Information"
    },
    "lang": "en"
   },
@@ -634,46 +945,9 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stock futures are little changed as traders await Fed decision, Big Tech earnings: Live updates",
-   "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-   "ts": 1793148409,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ф'ючерси на акції незначно змінилися, оскільки трейдери очікують рішення ФРС, Big Tech earnings: Live Updates",
-    "fr": "Les contrats à terme sur actions ont peu changé alors que les traders attendent la décision de la Fed et les résultats des Big Tech : mises à jour en direct",
-    "de": "Aktien-Futures haben sich kaum verändert, da Händler auf die Entscheidung der Fed warten, Big-Tech-Ergebnisse: Live-Updates",
-    "zh": "由于交易员等待美联储决定，股票期货几乎没有变化，大型科技公司的收益：实时更新",
-    "ru": "Фьючерсы на акции мало изменились, поскольку трейдеры ждут решения ФРС. Доходы крупных технологических компаний: текущие обновления"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
-   "ts": 1793148360,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Велике журі відмовляється висувати звинувачення колишньому помічнику Білого дому Кессіді Хатчінсон, повідомляють джерела AP",
-    "fr": "Le grand jury refuse d'inculper Cassidy Hutchinson, ancienne assistante de la Maison Blanche, selon des sources de l'AP",
-    "de": "AP-Quellen zufolge weigert sich die Grand Jury, die ehemalige Beraterin des Weißen Hauses, Cassidy Hutchinson, anzuklagen",
-    "zh": "美联社消息人士称，大陪审团拒绝起诉前白宫助手卡西迪·哈钦森",
-    "ru": "Большое жюри отказывается предъявить обвинение бывшему помощнику Белого дома Кэссиди Хатчинсон, сообщают источники AP"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
+   "title": "Arab parties could win record 18 seats in Israel election, exit polls show",
    "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
    "ts": 1793148236,
    "sec": [
@@ -681,11 +955,11 @@
     "politics"
    ],
    "t": {
-    "uk": "Арабські партії, за прогнозами, здобудуть 18 місць на парламентських виборах в Ізраїлі",
-    "fr": "Les partis arabes devraient remporter 18 sièges aux élections parlementaires israéliennes",
-    "de": "Arabische Parteien werden voraussichtlich 18 Sitze bei den israelischen Parlamentswahlen gewinnen",
-    "zh": "阿拉伯政党预计将在以色列议会选举中赢得18个席位",
-    "ru": "Арабские партии могут получить 18 мест на парламентских выборах в Израиле"
+    "uk": "Арабські партії можуть отримати рекордні 18 місць на виборах в Ізраїлі, показують екзит-поли",
+    "fr": "Les partis arabes pourraient remporter un record de 18 sièges aux élections en Israël, selon les sondages à la sortie des urnes",
+    "de": "Umfragen zeigen, dass arabische Parteien bei den Wahlen in Israel die Rekordzahl von 18 Sitzen erringen könnten",
+    "zh": "出口民意调查显示，阿拉伯政党可能在以色列选举中赢得创纪录的18个席位",
+    "ru": "Арабские партии могут получить рекордные 18 мест на выборах в Израиле, показывают экзитполы"
    },
    "lang": "en"
   },
@@ -814,25 +1088,6 @@
     "de": "Der Dollar bleibt vor der Fed-Entscheidung stabil, der Kiwi bricht ein, nachdem die RBNZ gehalten hat",
     "zh": "美联储决定前美元稳定，新西兰联储坚守后纽元下跌",
     "ru": "Доллар стабилен в преддверии решения ФРС, киви падает после поддержки РБНЗ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Disinformation videos, likely from Russia, are exploiting real people to malign Senate candidates",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBRQWtGd3R6TThQTzE1bG5tc2FRd3djYVVsd0JiYl9MbTV4dWtXV2RsOTNiV3E4T2Nmdm1hYS1CazJPdVNKUG92aWJIcEdiQnhIaXJmbmZQZzNrZTgzMWswSmIzOUFvcll4NHhKYWNBR0hKaEJVaDNsNjJNMW5XM1VSdXRvUFd2cUFRcW9POWl6T1FyUWhGSmpPUnk2Mndtb1k5V2Fray15NGJDTzA0Y1NzTQ?oc=5",
-   "ts": 1793146500,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Відео з дезінформацією, ймовірно з Росії, використовують реальних людей для дискредитації кандидатів у Сенат",
-    "fr": "Des vidéos de désinformation, provenant probablement de Russie, exploitent de vraies personnes pour calomnier les candidats au Sénat",
-    "de": "In Desinformationsvideos, die wahrscheinlich aus Russland stammen, werden echte Menschen ausgenutzt, um Senatskandidaten zu verunglimpfen",
-    "zh": "可能来自俄罗斯的虚假信息视频正在利用真人来诽谤参议院候选人",
-    "ru": "Дезинформационные видеоролики, скорее всего, из России, используют реальных людей для клеветы на кандидатов в Сенат."
    },
    "lang": "en"
   },
@@ -984,7 +1239,7 @@
   {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "SK Hynix unveils shareholder return plan worth $75 billion after posting 7-fold jump in Q3 profit",
+   "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
    "ts": 1793144940,
    "sec": [
@@ -992,47 +1247,11 @@
     "market"
    ],
    "t": {
-    "uk": "SK Hynix оприлюднила план повернення акціонерам на 75 мільярдів доларів після 7-кратного зростання прибутку за 3 квартал",
-    "fr": "SK Hynix dévoile un plan de retour aux actionnaires d'une valeur de 75 milliards de dollars après avoir multiplié par 7 son bénéfice au troisième trimestre",
-    "de": "SK Hynix stellt Aktionärsrenditeplan im Wert von 75 Milliarden US-Dollar vor, nachdem der Gewinn im dritten Quartal um das Siebenfache gestiegen ist",
-    "zh": "SK海力士第三季度利润增长7倍后公布价值750亿美元的股东回报计划",
-    "ru": "SK Hynix обнародовала план возврата акционерам на сумму $75 млрд после сообщения о 7-кратном росте прибыли в третьем квартале"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-   "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-   "ts": 1793144151,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Жінки-кінематографістки Гази перетворюють біль на кіно, коли відкривається нова академія",
-    "fr": "Les cinéastes de Gaza transforment la douleur en cinéma lors du lancement d’une nouvelle académie",
-    "de": "Gazas Filmemacherinnen verwandeln Schmerz in Kino, als eine neue Akademie eröffnet wird",
-    "zh": "随着新学院的成立，加沙的女性电影制片人将痛苦转化为电影",
-    "ru": "Женщины-режиссеры Газы превращают боль в кино благодаря открытию новой академии"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-   "url": "https://www.cnbc.com/2026/10/27/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "ts": 1793143966,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Великі біржові історії середи: що, імовірно, змінить ринок під час наступної торгової сесії",
-    "fr": "Les grandes actualités boursières de mercredi : ce qui est susceptible de faire bouger le marché lors de la prochaine séance de bourse",
-    "de": "Die großen Aktiengeschichten vom Mittwoch: Was den Markt in der nächsten Handelssitzung voraussichtlich bewegen wird",
-    "zh": "周三的重大股票故事：下一个交易日可能会影响市场的因素",
-    "ru": "Главные биржевые новости среды: что может повлиять на рынок в следующую торговую сессию"
+    "uk": "SK Hynix оприлюднила план повернення акціонерам на суму 75 мільярдів доларів США після рекордного прибутку",
+    "fr": "SK Hynix dévoile un plan de retour aux actionnaires de 75 milliards de dollars après avoir enregistré un bénéfice record",
+    "de": "SK Hynix stellt nach Rekordgewinn einen 75-Milliarden-Dollar-Aktionärsrenditeplan vor",
+    "zh": "SK海力士公布创纪录利润后公布750亿美元股东回报计划",
+    "ru": "SK Hynix представляет план возврата акционерам $75 млрд после сообщения о рекордной прибыли"
    },
    "lang": "en"
   },
@@ -1091,43 +1310,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Rights monitors raise concerns over senior UAE diplomat bid for next UN boss",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEo2NDgyNjdJcHpxNTlUcGpCRURGc2JWTjhjSUx0aHBYUEhCcVlTajg1QjRhczNUeVBRS0JURTlMYU9VMGtUVks5MnBCal8wOWI5TTA1eFA4SU8xZDBHanZ2eUZSTVMwbWVVQTRpS2VWNW5STjRVYjBsVHBKRGZEaG1nRERnS1ExTGxad1NfUllEc28tc2k2NnpiU0l6V0h5dF83WmswWUV5YWpaM1Z0UENqTlpFVFFRanI0Z21aaFZ5cGpD?oc=5",
-   "ts": 1793143610,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Правозахисники висловлюють занепокоєння щодо кандидатури високопоставленого дипломата ОАЕ на пост голови ООН",
-    "fr": "Les observateurs des droits de l'homme s'inquiètent de la candidature d'un haut diplomate des Émirats arabes unis au prochain patron de l'ONU",
-    "de": "Menschenrechtsbeobachter äußern Bedenken hinsichtlich der Bewerbung eines hochrangigen Diplomaten aus den VAE für den nächsten UN-Chef",
-    "zh": "人权监察员对阿联酋高级外交官竞选下一任联合国主席表示担忧",
-    "ru": "Наблюдатели за соблюдением прав выражают обеспокоенность по поводу заявки высокопоставленного дипломата ОАЭ на пост следующего главы ООН"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
-   "ts": 1793143422,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Президент Лула назвав вихід Болсонару з Бразилії «ганебним»",
-    "fr": "Le président Lula qualifie de « honteuse » la sortie de Bolsonaro du Brésil",
-    "de": "Präsident Lula nennt Bolsonaros Brasilien-Ausstieg „beschämend“",
-    "zh": "卢拉总统称博尔索纳罗退出巴西“可耻”",
-    "ru": "Президент Лула назвал уход Болсонару из Бразилии «позорным»"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_business",
    "source": "Reuters",
    "title": "First Venezuelan oil from US-NABEP deal arrives in Texas, to be sold to Exxon, Citgo",
@@ -1146,24 +1328,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "A bad day for Ben-Gvir as he addresses his supporters",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
-   "ts": 1793142998,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Поганий день для Бен-Гвіра, коли він звертається до своїх прихильників",
-    "fr": "Mauvaise journée pour Ben-Gvir alors qu'il s'adresse à ses partisans",
-    "de": "Ein schlechter Tag für Ben-Gvir, als er sich an seine Anhänger wendet",
-    "zh": "本-格维尔向他的支持者发表讲话，这对他来说是糟糕的一天",
-    "ru": "Плохой день для Бен-Гвира, он обращается к своим сторонникам"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_business",
    "source": "BBC",
    "title": "China's families are now supporting more old people than kids",
@@ -1178,24 +1342,6 @@
     "de": "Chinas Familien unterstützen mittlerweile mehr alte Menschen als Kinder",
     "zh": "中国家庭现在赡养的老人多于孩子",
     "ru": "Семьи Китая теперь поддерживают больше стариков, чем детей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "King Charles confronts calls for slavery apology during Caribbean tour",
-   "url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
-   "ts": 1793142874,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Король Чарльз протистоїть закликам вибачитися за рабство під час карибського туру",
-    "fr": "Le roi Charles répond aux appels aux excuses pour l’esclavage lors de sa tournée dans les Caraïbes",
-    "de": "König Charles wird während einer Karibikreise mit Forderungen nach einer Entschuldigung für die Sklaverei konfrontiert",
-    "zh": "查尔斯国王在加勒比海之旅中面临要求奴隶制道歉的呼声",
-    "ru": "Король Чарльз противостоит призывам извиниться за рабство во время турне по Карибскому морю"
    },
    "lang": "en"
   },
@@ -1219,25 +1365,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Israel election results: No clear winner projected, what’s next?",
-   "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-   "ts": 1793142407,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів в Ізраїлі: явного переможця не визначено, що далі?",
-    "fr": "Résultats des élections en Israël : aucun vainqueur clair prévu, quelle est la prochaine étape ?",
-    "de": "Wahlergebnisse in Israel: Kein klarer Gewinner vorhergesagt, was kommt als nächstes?",
-    "zh": "以色列选举结果：没有明确的获胜者预计，下一步是什么？",
-    "ru": "Результаты выборов в Израиле: явного победителя не прогнозируется, что дальше?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_business",
    "source": "BBC",
    "title": "Plaid demands more cash, but how could the Budget affect Wales?",
@@ -1252,24 +1379,6 @@
     "de": "Plaid fordert mehr Geld, aber wie könnte sich der Haushalt auf Wales auswirken?",
     "zh": "格子图案需要更多现金，但预算会对威尔士产生什么影响？",
     "ru": "Плед требует больше денег, но как бюджет может повлиять на Уэльс?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-   "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-   "ts": 1793142189,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Діаграма: купа готівки Anthropic височить майже над кожною американською компанією",
-    "fr": "Graphique : La trésorerie d'Anthropic dépasse celle de presque toutes les entreprises américaines",
-    "de": "Diagramm: Der Bargeldhaufen von Anthropic übersteigt fast jedes US-Unternehmen",
-    "zh": "图表：Anthropic 的现金储备超过几乎所有美国公司",
-    "ru": "Диаграмма: Денежные запасы Anthropic превосходят почти все компании в США"
    },
    "lang": "en"
   },
@@ -1307,25 +1416,6 @@
     "de": "Zwei nordische Staats- und Regierungschefs fordern Putin auf, den Krieg in der Ukraine zu beenden, was zu einem seltenen direkten Kontakt zwischen Europäern führt",
     "zh": "两位北欧领导人罕见地与欧洲人直接接触，敦促普京结束乌克兰战争",
     "ru": "Два лидера Северных стран призывают Путина положить конец войне на Украине в редком прямом контакте с европейцами"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
-   "url": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
-   "ts": 1793141688,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Екзит-поли показують докір Нетаньяху, але без явного переможця на виборах в Ізраїлі",
-    "fr": "Les sondages à la sortie des urnes montrent une réprimande à l'égard de Netanyahu mais aucun vainqueur clair aux élections israéliennes",
-    "de": "Wahlumfragen zeigen, dass Netanjahu getadelt wird, es aber keinen klaren Sieger bei der israelischen Wahl gibt",
-    "zh": "出口民调显示内塔尼亚胡遭到谴责，但以色列选举没有明显赢家",
-    "ru": "Экзит-поллы показывают упрек Нетаньяху, но явного победителя на выборах в Израиле нет"
    },
    "lang": "en"
   },
@@ -1435,24 +1525,6 @@
     "de": "Der ukrainische Vertreter Selenskyj sagt, das Territorium sei zurückerobert und die Streitkräfte seien in der Offensive",
     "zh": "乌克兰泽连斯基称领土已收复，军队发起进攻",
     "ru": "Зеленский заявил, что территория отбита, силы переходят в наступление"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "ts": 1793139480,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Вона живе своєю мрією»: моя мачуха сказала, що я можу купити будинок свого дитинства за 850 000 доларів. Вона користується мною?",
-    "fr": "« Elle vit un rêve » : ma belle-mère a dit que je pouvais acheter la maison de mon enfance pour 850 000 $. Est-ce qu'elle profite de moi ?",
-    "de": "„Sie lebt ihren Traum“: Meine Stiefmutter sagte, ich könne das Haus meiner Kindheit für 850.000 Dollar kaufen. Nutzt sie mich aus?",
-    "zh": "“她正在实现梦想”：我的继母说我可以花 85 万美元买下我童年的房子。她是在利用我吗？",
-    "ru": "«Она живет мечтой»: моя мачеха сказала, что я могу купить дом своего детства за 850 000 долларов. Она пользуется мной?"
    },
    "lang": "en"
   },
@@ -1805,24 +1877,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Both sides observing ceasefire in Oleshky, Lubinets says",
-   "url": "https://www.ukrinform.net/rubric-society/4178763-both-sides-observing-ceasefire-in-oleshky-lubinets-says.html",
-   "ts": 1793127360,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Обидві сторони дотримуються режиму припинення вогню в Олешках, каже Лубінець",
-    "fr": "Les deux parties observent le cessez-le-feu à Olechky, dit Lubinets",
-    "de": "Beide Seiten halten in Oleschky den Waffenstillstand ein, sagt Lubinets",
-    "zh": "鲁宾涅茨说，双方都遵守奥列什基停火协议",
-    "ru": "Обе стороны соблюдают режим прекращения огня в Олешках, говорит Лубинец"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Ukraine intercepting more Russian Geran-4 jet-powered drones, General Staff says",
@@ -2131,25 +2185,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "High inflation to persist globally into next year, Reuters poll shows",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
-   "ts": 1793116036,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Висока інфляція збережеться в усьому світі в наступному році, показує опитування Reuters",
-    "fr": "Une inflation élevée persistera à l’échelle mondiale jusqu’à l’année prochaine, selon un sondage Reuters",
-    "de": "Eine Reuters-Umfrage zeigt, dass die hohe Inflation auch im nächsten Jahr weltweit anhalten wird",
-    "zh": "路透调查显示全球高通胀将持续到明年",
-    "ru": "Высокая инфляция сохранится во всем мире в следующем году, показывает опрос Reuters"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Kyiv approves alternative Dnipro crossings after Russian strikes on bridges",
@@ -2182,24 +2217,6 @@
     "de": "Russischer Angriff beschädigt Schulstadion in Dnipro",
     "zh": "俄罗斯袭击破坏第聂伯罗学校体育场",
     "ru": "Россияне нанесли ущерб школьному стадиону в Днепре"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Ukrainians fled west for safety. Now Russian drones are following them",
-   "url": "https://kyivindependent.com/ukrainians-fled-west-for-safety-now-russian-drones-are-following-them/",
-   "ts": 1793114620,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українці втікали на захід у пошуках безпеки. Зараз за ними слідкують російські безпілотники",
-    "fr": "Les Ukrainiens ont fui vers l'ouest pour se mettre en sécurité. Désormais, des drones russes les suivent",
-    "de": "Die Ukrainer flohen aus Sicherheitsgründen nach Westen. Jetzt verfolgen sie russische Drohnen",
-    "zh": "乌克兰人向西逃亡寻求安全。现在俄罗斯无人机正在跟踪他们",
-    "ru": "Украинцы бежали на запад в поисках безопасности. Теперь за ними следят российские дроны"
    },
    "lang": "en"
   },
@@ -2623,18 +2640,18 @@
   {
    "feed": "bbc_politics",
    "source": "BBC",
-   "title": "Board of Deputies of British Jews declares Greens to be racist party",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-   "ts": 1792951517,
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+   "ts": 1792974409,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Рада депутатів британських євреїв визнала Зелених расистською партією",
-    "fr": "Le Conseil des députés des Juifs britanniques déclare les Verts parti raciste",
-    "de": "Das Abgeordnetenhaus der britischen Juden erklärt die Grünen zur rassistischen Partei",
-    "zh": "英国犹太人代表委员会宣布绿党为种族主义政党",
-    "ru": "Совет депутатов британских евреев объявил зеленых расистской партией"
+    "uk": "Бюджет Healey має підтримувати сильнішу економіку через накопичення хмар",
+    "fr": "Le budget de Healey doit soutenir une économie plus forte en accumulant des nuages",
+    "de": "Healeys Haushalt muss die stärkere Wirtschaft durch aufziehende Wolken aufrechterhalten",
+    "zh": "希利的预算需要通过阴云密布来维持更强劲的经济",
+    "ru": "Бюджет Хили должен поддерживать более сильную экономику за счет сгущения облаков"
    },
    "lang": "en"
   }
@@ -2668,7 +2685,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 24
+   "items": 23
   },
   {
    "source": "guardian_business",
@@ -2688,7 +2705,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 9
+   "items": 5
   },
   {
    "source": "reuters_business",
@@ -2773,7 +2790,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "empty timeline"
   },
   {
    "source": "x:nitter.net",
@@ -2804,7 +2821,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 110,
+   "translated": 140,
    "method": {
     "dict": 10
    }
