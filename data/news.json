@@ -1,5 +1,5 @@
 {
- "updated": 1793368824,
+ "updated": 1793372205,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,19 +216,178 @@
  ],
  "items": [
   {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Yorkshire Water boss resigns after firm downgraded",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793368756,
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+   "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+   "ts": 1793371992,
    "sec": [
     "market"
    ],
    "t": {
-    "fr": "Le patron de Yorkshire Water démissionne après le déclassement de son entreprise",
+    "uk": "Міністерство фінансів оголошує нову ставку облігацій серії I у розмірі 5,51% на наступні шість місяців",
+    "fr": "Le département du Trésor annonce un nouveau taux obligataire de série I de 5,51 % pour les six prochains mois",
+    "de": "Das Finanzministerium kündigt einen neuen Zinssatz für Anleihen der Serie I von 5,51 % für die nächsten sechs Monate an",
+    "zh": "财政部宣布未来六个月新的 I 系列债券利率为 5.51%",
     "_miss": [
-     "uk",
-     "de",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "US tech stocks see sharp falls over AI cost concerns",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793371837,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції технологічних компаній США різко впали через занепокоєння витратами штучного інтелекту",
+    "fr": "Les valeurs technologiques américaines chutent fortement en raison des inquiétudes sur les coûts de l'IA",
+    "de": "US-Technologieaktien verzeichnen aufgrund von Bedenken hinsichtlich der KI-Kosten starke Rückgänge",
+    "zh": "人工智能成本担忧导致美国科技股大幅下跌",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "$6.3 billion Binance hack is largest crypto theft on record",
+   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "ts": 1793371706,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Злом Binance на суму 6,3 мільярда доларів є найбільшою крадіжкою криптовалюти в історії",
+    "fr": "Le piratage de Binance de 6,3 milliards de dollars est le plus grand vol de crypto jamais enregistré",
+    "de": "Binance-Hack im Wert von 6,3 Milliarden US-Dollar ist der größte Krypto-Diebstahl aller Zeiten",
+    "zh": "币安遭受黑客攻击，价值 63 亿美元，是有记录以来最大的加密货币盗窃案",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Putin open to phone call with Zelensky, Ukraine suspects a Kremlin trap",
+   "url": "https://kyivindependent.com/putin-open-to-phone-call-with-zelensky-ukraine-suspects-a-kremlin-trap/",
+   "ts": 1793371657,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Путін готовий до телефонної розмови із Зеленським, Україна підозрює кремлівську пастку",
+    "fr": "Poutine ouvert à une conversation téléphonique avec Zelensky, l'Ukraine soupçonne un piège du Kremlin",
+    "de": "Putin ist offen für Telefonat mit Selenskyj, die Ukraine vermutet eine Kreml-Falle",
+    "zh": "普京愿意与泽连斯基通话，乌克兰怀疑克里姆林宫陷阱",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – UK politics live",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "ts": 1793371635,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бізнес-секретар каже, що Велика Британія повинна зрозуміти напрямок ЄС, перш ніж підписати підписку на більш тісні відносини – Політика Великобританії в прямому ефірі",
+    "fr": "Le secrétaire aux Affaires déclare que le Royaume-Uni doit comprendre l’orientation de l’UE avant de s’engager dans des relations plus étroites – La politique britannique en direct",
+    "de": "Wirtschaftsminister sagt, dass Großbritannien die Richtung der EU verstehen muss, bevor es engere Beziehungen eingeht – britische Politik live",
+    "zh": "商务大臣表示，英国在签署更紧密的关系之前需要了解欧盟的方向 – 英国政治直播",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+   "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+   "ts": 1793371614,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Ставка на демократію: всередині підозрілих контрактів на вибори, що торгуються на ринках прогнозів",
+    "fr": "Parier sur la démocratie : des contrats électoraux suspects négociés sur les marchés de prédiction",
+    "de": "Glücksspiel mit der Demokratie: Insider verdächtiger Wahlkampfgeschäfte auf Prognosemärkten",
+    "zh": "赌民主：预测市场上可疑的选举合约交易内部",
+    "ru": "Ставка на демократию: внутри подозрительных избирательных контрактов, торгующих на рынках прогнозов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Reader Q&A: How can we radically change the way we live? Ask Aditya Chakrabortty",
+   "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+   "ts": 1793371565,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Питання та відповіді читача: як ми можемо радикально змінити спосіб життя? Запитайте Адітю Чакрабортті",
+    "fr": "Questions et réponses des lecteurs : Comment pouvons-nous changer radicalement notre façon de vivre ? Demandez à Aditya Chakrabortty",
+    "de": "Leser-Fragen und Antworten: Wie können wir unsere Lebensweise radikal ändern? Fragen Sie Aditya Chakrabortty",
+    "zh": "读者问答：我们如何才能从根本上改变我们的生活方式？询问 Aditya Chakrabortty",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Russia has damaged more than 800 Ukrainian energy assets since September",
+   "url": "https://kyivindependent.com/russia-has-damaged-more-than-800-ukrainian-energy-assets-since-september/",
+   "ts": 1793371429,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "З вересня Росія пошкодила понад 800 українських енергетичних об’єктів",
+    "fr": "La Russie a endommagé plus de 800 actifs énergétiques ukrainiens depuis septembre",
+    "de": "Russland hat seit September mehr als 800 ukrainische Energieanlagen beschädigt",
+    "zh": "自9月份以来，俄罗斯已损坏了超过800处乌克兰能源资产",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Reddit shares on track for biggest-ever one-day drop. It’s not the last of the bad news, analysts say.",
+   "url": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+   "ts": 1793371380,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Reddit на шляху до найбільшого падіння за один день. Аналітики кажуть, що це не остання з поганих новин.",
+    "fr": "Les actions Reddit sont en passe de connaître la plus forte baisse jamais réalisée en une journée. Ce n’est pas la dernière des mauvaises nouvelles, estiment les analystes.",
+    "de": "Reddit-Aktien sind auf dem Weg zum größten Tagesrückgang aller Zeiten. Es ist nicht die letzte schlechte Nachricht, sagen Analysten.",
+    "_miss": [
      "zh",
      "ru"
     ]
@@ -236,19 +395,119 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Colgate-Palmolive net sales top estimates despite \"volatile\" operating backdrop",
-   "url": "https://www.investing.com/news/earnings/colgatepalmolive-net-sales-top-estimates-despite-volatile-operating-backdrop-4986957",
-   "ts": 1793368661,
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+   "ts": 1793371366,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Протести проти втрати життя поширяться на Німеччину та знову спалахнуть у Франції на Хелловін",
+    "fr": "Les manifestations contre le coût de la vie vont s'étendre à l'Allemagne et reprendre en France à l'occasion d'Halloween",
+    "de": "Die Proteste gegen die Lebenshaltungskosten weiten sich auf Deutschland aus und entfachen an Halloween in Frankreich erneut",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+   "ts": 1793371219,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Сенатори поінформували про «божевільний» план Трампа щодо відновлення війни з Іраном",
+    "fr": "Les sénateurs informés du plan « insensé » de Trump visant à relancer la guerre contre l’Iran",
+    "de": "Senatoren informierten über Trumps „verrückten“ Plan, den Krieg gegen den Iran wieder aufzunehmen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Ukraine’s SOF ambush enemy in Russia and seize documents",
+   "url": "https://www.ukrinform.net/rubric-ato/4179800-ukraines-sof-ambush-enemy-in-russia-and-seize-documents.html",
+   "ts": 1793371140,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "ССО України влаштували засідку на ворога в Росії та вилучили документи",
+    "fr": "Les FOS ukrainiennes tendent une embuscade à l’ennemi en Russie et saisissent des documents",
+    "de": "Die ukrainische SOF überfällt den Feind in Russland und beschlagnahmt Dokumente",
+    "zh": "乌克兰特种部队在俄罗斯伏击敌人并夺取文件",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "FBI working with Binance after crypto exchange hit by $6.3bn heist – business live",
+   "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+   "ts": 1793371069,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Найвищі оцінки чистих продажів Colgate-Palmolive, незважаючи на «нестабільний» робочий фон",
-    "fr": "Les ventes nettes de Colgate-Palmolive sont supérieures aux estimations malgré un contexte opérationnel « volatil »",
+    "uk": "ФБР співпрацює з Binance після крадіжки криптовалютної біржі на 6,3 мільярда доларів – бізнес наживо",
+    "fr": "Le FBI travaille avec Binance après un échange de crypto-monnaie touché par un braquage de 6,3 milliards de dollars – Business Live",
+    "de": "Das FBI arbeitet mit Binance zusammen, nachdem die Krypto-Börse von einem Raubüberfall im Wert von 6,3 Milliarden US-Dollar heimgesucht wurde – Geschäftsleben",
     "_miss": [
-     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Nasdaq hits near three-month low as Amazon, Intel deepen AI capex concerns",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
+   "ts": 1793370972,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nasdaq досягає майже тримісячного мінімуму, оскільки Amazon і Intel посилюють занепокоєння щодо капіталовкладень у сфері штучного інтелекту",
+    "fr": "Le Nasdaq atteint son plus bas niveau depuis trois mois alors qu'Amazon et Intel aggravent leurs préoccupations en matière d'investissement en IA",
+    "de": "Nasdaq erreicht fast ein Dreimonatstief, da Amazon und Intel die Bedenken hinsichtlich der KI-Investitionen verschärfen",
+    "zh": "随着亚马逊和英特尔加深对人工智能资本支出的担忧，纳斯达克指数触及近三个月低点",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "France braces for new wave of protests, govt warns of 'very high' violence risk",
+   "url": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
+   "ts": 1793370937,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Франція готується до нової хвилі протестів, уряд попереджає про «дуже високий» ризик насильства",
+    "fr": "La France se prépare à une nouvelle vague de manifestations, le gouvernement met en garde contre un risque de violence « très élevé »",
+    "de": "Frankreich bereitet sich auf eine neue Protestwelle vor, Regierung warnt vor „sehr hohem“ Gewaltrisiko",
+    "_miss": [
      "zh",
      "ru"
     ]
@@ -260,15 +519,35 @@
    "source": "CNBC",
    "title": "Nasdaq falls more than 2% as investors rotate out of tech after Amazon, Intel earnings: Live updates",
    "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "ts": 1793368596,
+   "ts": 1793370800,
    "sec": [
     "market"
    ],
    "t": {
     "fr": "Le Nasdaq chute de plus de 2 % alors que les investisseurs se détournent de la technologie après les bénéfices d'Amazon et d'Intel : mises à jour en direct",
+    "uk": "Nasdaq падає більш ніж на 2%, оскільки інвестори відходять від технологій після прибутків Amazon і Intel: актуальні оновлення",
+    "de": "Nasdaq fällt um mehr als 2 %, da Investoren nach den Gewinnen von Amazon und Intel: Live-Updates aus dem Technologiesektor aussteigen",
     "_miss": [
-     "uk",
-     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Ukraine to co-found defense bank aimed at financing weapons production",
+   "url": "https://kyivindependent.com/ukraine-to-co-found-defense-bank-aimed-at-financing-weapons-production/",
+   "ts": 1793370795,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Україна стане співзасновником оборонного банку для фінансування виробництва зброї",
+    "fr": "L'Ukraine va cofonder une banque de défense destinée à financer la production d'armes",
+    "de": "Die Ukraine ist Mitgründerin einer Verteidigungsbank zur Finanzierung der Waffenproduktion",
+    "_miss": [
      "zh",
      "ru"
     ]
@@ -278,17 +557,17 @@
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Nasdaq slides over 2% at the open as tech earnings deepen AI spending concerns",
-   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
-   "ts": 1793368586,
+   "title": "Globalstar stock may move 4.1% on Nov. 6 earnings release",
+   "url": "https://www.investing.com/news/stock-market-news/globalstar-stock-may-move-41-on-nov-6-earnings-release-93CH-4988126",
+   "ts": 1793370779,
    "sec": [
     "market"
    ],
    "t": {
-    "fr": "Le Nasdaq chute de plus de 2 % à l'ouverture alors que les bénéfices technologiques aggravent les inquiétudes en matière de dépenses en IA",
+    "uk": "Акції Globalstar можуть піднятися на 4,1% після публікації прибутків 6 листопада",
+    "fr": "L'action Globalstar pourrait progresser de 4,1 % lors de la publication des résultats du 6 novembre",
+    "de": "Die Globalstar-Aktie könnte bei der Gewinnveröffentlichung vom 6. November um 4,1 % steigen",
     "_miss": [
-     "uk",
-     "de",
      "zh",
      "ru"
     ]
@@ -298,17 +577,17 @@
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "American Financial Group stock hits 52-week low at 20.03 USD",
-   "url": "https://www.investing.com/news/company-news/american-financial-group-stock-hits-52week-low-at-2003-usd-93CH-4988043",
-   "ts": 1793368485,
+   "title": "Why is SK hynix stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4988125",
+   "ts": 1793370777,
    "sec": [
     "market"
    ],
    "t": {
-    "fr": "L'action d'American Financial Group atteint son plus bas niveau depuis 52 semaines à 20,03 USD",
+    "uk": "Чому акції SK Hynix сьогодні падають?",
+    "fr": "Pourquoi l’action SK hynix baisse-t-elle aujourd’hui ?",
+    "de": "Warum rutscht die SK-Hynix-Aktie heute ab?",
     "_miss": [
-     "uk",
-     "de",
      "zh",
      "ru"
     ]
@@ -318,16 +597,756 @@
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Intel on course for worst day ever, triggers global chip rout",
-   "url": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123",
-   "ts": 1793368480,
+   "title": "Up 55% in October: Is Bausch Health’s turnaround just getting started?",
+   "url": "https://www.investing.com/news/stock-market-news/up-55-in-october-is-bausch-healths-turnaround-just-getting-started-4988066",
+   "ts": 1793370753,
    "sec": [
     "market"
    ],
    "t": {
-    "fr": "Intel sur la bonne voie pour connaître la pire journée de son histoire et déclenche une déroute mondiale des puces",
+    "uk": "Зростання на 55% у жовтні: перетворення Bausch Health тільки починається?",
+    "fr": "Hausse de 55 % en octobre : le redressement de Bausch Health ne fait-il que commencer ?",
+    "de": "Plus 55 % im Oktober: Steht die Trendwende bei Bausch Health gerade erst am Anfang?",
     "_miss": [
-     "uk",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "As ServiceNow plunges 31%, this mid-cap software stock is surging",
+   "url": "https://www.investing.com/news/stock-market-news/as-servicenow-plunges-31-this-midcap-software-stock-is-surging-4988044",
+   "ts": 1793370724,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оскільки ServiceNow падає на 31%, ці акції програмного забезпечення середньої капіталізації стрімко зростають",
+    "fr": "Alors que ServiceNow plonge de 31 %, ce titre de logiciels de taille moyenne est en forte hausse",
+    "de": "Da ServiceNow um 31 % einbricht, steigt diese Mid-Cap-Softwareaktie stark an",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Janux Therapeutics stock may move 6.3% on earnings release",
+   "url": "https://www.investing.com/news/stock-market-news/janux-therapeutics-stock-may-move-63-on-earnings-release-93CH-4988124",
+   "ts": 1793370711,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Janux Therapeutics можуть подорожчати на 6,3% після публікації прибутків",
+    "fr": "L'action Janux Therapeutics pourrait progresser de 6,3 % lors de la publication des résultats",
+    "de": "Die Aktie von Janux Therapeutics könnte nach Veröffentlichung der Gewinne um 6,3 % steigen",
+    "zh": "Janux Therapeutics 股价可能因财报发布而上涨 6.3%",
+    "ru": "Акции Janux Therapeutics могут вырасти на 6,3% после публикации отчета о прибылях и убытках"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Beyond chipmakers: Why Vertiv surged 24% on a 100% order explosion",
+   "url": "https://www.investing.com/news/stock-market-news/beyond-chipmakers-why-vertiv-surged-24-on-a-100-order-explosion-4988036",
+   "ts": 1793370692,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Крім виробників мікросхем: Чому Vertiv зросла на 24% при 100% вибуху замовлень",
+    "fr": "Au-delà des fabricants de puces : pourquoi Vertiv a bondi de 24 % suite à une explosion des commandes de 100 %",
+    "de": "Jenseits von Chipherstellern: Warum Vertiv aufgrund einer Auftragsexplosion von 100 % um 24 % zulegte",
+    "zh": "超越芯片制造商：为什么 Vertiv 在 100% 订单激增的情况下股价飙升 24%",
+    "ru": "Помимо производителей микросхем: почему акции Vertiv выросли на 24% при 100%-м росте заказов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Why is Marvell Technology stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-4988117",
+   "ts": 1793370655,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому акції Marvell Technology сьогодні падають?",
+    "fr": "Pourquoi l’action Marvell Technology baisse-t-elle aujourd’hui ?",
+    "de": "Warum rutscht die Aktie von Marvell Technology heute ab?",
+    "zh": "为什么 Marvell Technology 股价今天下跌？",
+    "ru": "Почему акции Marvell Technology сегодня падают?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Kyivstar Group stock may move 6.4% on earnings release",
+   "url": "https://www.investing.com/news/stock-market-news/kyivstar-group-stock-may-move-64-on-earnings-release-93CH-4988116",
+   "ts": 1793370653,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції групи Київстар можуть подорожчати на 6,4% після публікації прибутків",
+    "fr": "L'action du groupe Kyivstar pourrait progresser de 6,4 % lors de la publication des résultats",
+    "de": "Die Aktie der Kyivstar Group könnte bei Veröffentlichung der Gewinne um 6,4 % steigen",
+    "zh": "Kyivstar Group 股价可能因财报发布而上涨 6.4%",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.",
+   "url": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
+   "ts": 1793370600,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Минулого року цей стратег правильно рекомендував скоротити борг Big Tech. Тепер він каже, що врожайність робить його привабливим.",
+    "fr": "Ce stratège a recommandé à juste titre de vendre à découvert la dette des Big Tech l’année dernière. Il affirme désormais que les rendements le rendent attractif.",
+    "de": "Dieser Stratege empfahl letztes Jahr zu Recht, die Schulden von Big Tech zu leerverkaufen. Jetzt sagt er, dass die Renditen es attraktiv machen.",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Black Sea shipping under growing threats as drones hit container ships",
+   "url": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
+   "ts": 1793370471,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Чорноморське судноплавство піддається зростаючій загрозі, оскільки дрони вражають контейнеровози",
+    "fr": "Le transport maritime en mer Noire est de plus en plus menacé alors que des drones frappent des porte-conteneurs",
+    "de": "Die Schifffahrt im Schwarzen Meer wird zunehmend bedroht, da Drohnen Containerschiffe angreifen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+   "ts": 1793370277,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "fr": "Des personnes de 27 nationalités pourraient figurer parmi les personnes tuées ou blessées dans l'accident de train en Espagne, selon Sánchez – L'Europe en direct",
+    "uk": "Серед загиблих і постраждалих у залізничній катастрофі в Іспанії можуть бути люди 27 національностей, каже Санчес – Європа наживо",
+    "de": "Menschen mit 27 Nationalitäten könnten unter den Toten oder Verletzten bei Zugunglück in Spanien sein, sagt Sánchez – Europa live",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "'The Phantom of the Opera' haunts French cinemas again",
+   "url": "https://www.france24.com/en/tv-shows/arts24/20261030-the-phantom-of-the-opera-haunts-french-cinemas-again",
+   "ts": 1793370255,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "«Привид Опери» знову переслідує французькі кінотеатри",
+    "fr": "\"Le Fantôme de l'Opéra\" hante à nouveau les cinémas français",
+    "de": "„Das Phantom der Oper“ geistert erneut durch die französischen Kinos",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "King Charles' sorrow over slavery faces test as reparations movement gains ground",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlNXWUdBLVdhb1R6TFF1U09KeVhFc0psSEJNM3E1TXZpanhkbDNDV3FXSzljVDJrNm5aWGhIeUROQzBfZFYweEZQWEdYa2cxSXBIY3ZOQktGSHJ4NlhieW1tUEVtUXlWc1N5VXEwVWFITE9EbE50NDg1djRYeG16dy10UkVZSXBnSGxxZThzLUxTd1BXWlhzdnptRlBUcFBoSVpUNUc5Yk1JaHVWSlhoVkZzcWE3QnJTaXhfaVRLcw?oc=5",
+   "ts": 1793370230,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Скорбота короля Чарльза через рабство стикається з випробуванням, оскільки рух за репарації набуває поширення",
+    "fr": "Le chagrin du roi Charles face à l'esclavage est mis à l'épreuve alors que le mouvement en faveur des réparations gagne du terrain",
+    "de": "Die Trauer von König Charles über die Sklaverei steht vor einer Bewährungsprobe, da die Wiedergutmachungsbewegung an Boden gewinnt",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+   "url": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+   "ts": 1793370120,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Це найдивніший ринок праці, який коли-небудь бачили США. Економіці з низьким наймом і звільненнями виповнюється 3 роки.",
+    "fr": "C’est le marché du travail le plus étrange que les États-Unis aient jamais connu. L’économie à faible embauche et à faible feu fête ses 3 ans.",
+    "de": "Es ist der seltsamste Arbeitsmarkt, den die USA je gesehen haben. Die Low-Hire-Low-Fire-Wirtschaft wird drei Jahre alt.",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Spanish transport minister faces calls to quit after deadly train crash",
+   "url": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
+   "ts": 1793370099,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Міністра транспорту Іспанії закликають піти у відставку після смертельної залізничної катастрофи",
+    "fr": "Le ministre espagnol des Transports fait face à des appels à démissionner après un accident de train mortel",
+    "de": "Nach tödlichem Zugunglück wird der spanische Verkehrsminister zum Rücktritt aufgefordert",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
+   "ts": 1793369989,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "В Олешки заходять російські та українські гуманітарні чиновники",
+    "fr": "Des responsables humanitaires russes et ukrainiens entrent à Olechky",
+    "de": "Russische und ukrainische humanitäre Beamte betreten Oleshky",
+    "zh": "俄罗斯和乌克兰人道主义官员进入奥列什基",
+    "_miss": [
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793369983,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "fr": "La détenue américaine Christa Pike dit s'être réveillée « confuse et souffrante » après l'échec de son exécution",
+    "uk": "Ув'язнена США Кріста Пайк каже, що прокинулася «збентежена і від болю» після невдалої страти",
+    "de": "Die US-Häftling Christa Pike sagt, sie sei nach der gescheiterten Hinrichtung „verwirrt und voller Schmerzen“ aufgewacht",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+   "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+   "ts": 1793369940,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "fr": "Les actions d'AMD chutent après que les résultats d'Intel révèlent deux problèmes majeurs",
+    "uk": "Акції AMD падають після того, як прибутки Intel виявили дві великі проблеми",
+    "de": "Die AMD-Aktie rutscht ab, nachdem die Intel-Ergebnisse zwei große Probleme offenbaren",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUtZcEpHSm0xRzNpcmNyYTA5TjE0cnhlUWE0RGJkdU5vSjA4Y29tUGxyTmR1Z0pVT1Q1N0FLYlF6Ui12ZVppUXlrUmY5YmhNdlp3OGpFQ19QM1VQVEJuZ2hYSkFvUzZsQk1aM0pMamlQaDJRTHlCRjdKcXUybG1kVkQxOUVINEt4Mks0N3JVZC1VUHVRV3dRSEJIekZUN1htUVlMRVRDNzVLQ2tmYkRnMC1tNHhxT3JzVFZFdDYzVQ?oc=5",
+   "ts": 1793369928,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "ЕКСКЛЮЗИВ: Індія наказує Sun Pharma припинити виробництво ліків для очей на заводі через погіршення якості",
+    "fr": "EXCLUSIF : L'Inde ordonne à Sun Pharma d'arrêter la production de médicaments pour les yeux dans son usine après un problème de qualité",
+    "de": "EXKLUSIV: Indien weist Sun Pharma an, die Produktion von Augenmedikamenten im Werk wegen Qualitätsmängeln einzustellen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+   "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+   "ts": 1793369887,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Побоювання етнічних чисток зростають, оскільки Ізраїль стискає простір у Газі: ООН",
+    "fr": "Les craintes de nettoyage ethnique augmentent alors qu'Israël réduit l'espace à Gaza (ONU)",
+    "de": "Ängste vor ethnischen Säuberungen nehmen zu, da Israel den Platz im Gazastreifen knapp macht: UN",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "One injured, apartment buildings and school damaged in Russian strike on Dnipro",
+   "url": "https://www.ukrinform.net/rubric-ato/4179790-one-injured-apartment-buildings-and-school-damaged-in-russian-strike-on-dnipro.html",
+   "ts": 1793369880,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Внаслідок удару росіян у Дніпрі один поранений, пошкоджені житлові будинки та школа",
+    "fr": "Un blessé, des immeubles d'habitation et une école endommagés lors d'une frappe russe sur Dnipro",
+    "de": "Ein Verletzter, Wohngebäude und Schule wurden bei russischem Angriff auf Dnipro beschädigt",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
+   "url": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+   "ts": 1793369820,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "У цій діаграмі ви знайдете все, що вам потрібно знати про прогнозовані прибутки Exxon, Chevron і BP.",
+    "fr": "Ce graphique vous dit tout ce que vous devez savoir sur les bénéfices supérieurs aux prévisions d'Exxon, Chevron et BP.",
+    "de": "In dieser einen Grafik erfahren Sie alles, was Sie über die über den Prognosen liegenden Gewinne von Exxon, Chevron und BP wissen müssen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+   "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+   "ts": 1793369700,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "«У нього було розбите серце»: діти мого чоловіка покинули його, коли він помирав. Чи мав він рацію, залишивши все мені?",
+    "fr": "« Il avait le cœur brisé » : les enfants de mon mari l’ont abandonné alors qu’il était mourant. Avait-il raison de tout me laisser ?",
+    "de": "„Er war untröstlich“: Die Kinder meines Mannes haben ihn verlassen, als er im Sterben lag. Hatte er Recht, mir alles zu überlassen?",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+   "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez",
+   "ts": 1793369632,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Довіра Іспанії до високошвидкісної залізниці «порушена» після другої смертельної аварії цього року, каже прем’єр-міністр",
+    "fr": "La confiance de l’Espagne dans le train à grande vitesse « brisée » après le deuxième accident mortel cette année, déclare le Premier ministre",
+    "de": "Spaniens Vertrauen in den Hochgeschwindigkeitszug ist nach dem zweiten tödlichen Unfall in diesem Jahr „zerbrochen“, sagt Premierminister",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+   "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+   "ts": 1793369600,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Трамп і Венс скасували заплановані виступи в останній частині проміжної кампанії",
+    "fr": "Trump et Vance annulent leurs apparitions prévues dans la dernière partie de la campagne de mi-mandat",
+    "zh": "特朗普和万斯取消了中期竞选最后阶段的露面计划",
+    "ru": "Трамп и Вэнс отказались от запланированных выступлений на заключительном этапе промежуточной избирательной кампании",
+    "_miss": [
+     "de"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+   "url": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+   "ts": 1793369520,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Цього Хелловіна батончики королівського розміру є кращими, ніж веселі?",
+    "fr": "Cet Halloween, les barres chocolatées king-size sont-elles une meilleure affaire que les barres chocolatées de taille amusante ?",
+    "zh": "这个万圣节，特大号的糖果比有趣的糖果更划算吗？",
+    "_miss": [
+     "de",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Third weekend of protests looms as tensions persist across France",
+   "url": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
+   "ts": 1793369452,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Наближаються треті вихідні протестів, оскільки у Франції зберігається напруженість",
+    "fr": "Un troisième week-end de manifestations se profile alors que les tensions persistent dans toute la France",
+    "zh": "法国各地紧张局势持续，抗议活动第三周末迫在眉睫",
+    "_miss": [
+     "de",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
+   "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+   "ts": 1793369400,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому акції Intel падають до найгіршого дня за десятиліття — і 140 мільярдів доларів зникли",
+    "fr": "Pourquoi les actions d'Intel s'effondrent vers leur pire journée depuis des décennies – et un effacement de 140 milliards de dollars",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Pope Leo XIV has become the first pope in history to vote in a US general election",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGtJQXdjdzUwNWRVSDhJZGpLbEhhQ1V5aHlfa0R3czdQdmZLMGUtcHNJY2lxaU1GNktWQ1BCYjNYb0xXQUM0c3pMeTU5Y3Y5RlEzT3F4b3NSQi1HUXhLTkYxVDlkVkR0SEh2VkZMQWY5ODZtLW1mX0F0WXI1bFBFRWhJVlpyR1BBLXRSeXlicUtUWlk?oc=5",
+   "ts": 1793369400,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Папа Лев XIV став першим папою в історії, який проголосував на загальних виборах у США",
+    "fr": "Le pape Léon XIV est devenu le premier pape de l'histoire à voter lors d'élections générales aux États-Unis.",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "The sell-off for tech stocks worsens and drowns out strength elsewhere on Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+   "ts": 1793369400,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Розпродаж акцій технологічних компаній погіршується й заглушає силу інших акцій Уолл-стріт",
+    "fr": "La liquidation des valeurs technologiques s’aggrave et noie la force ailleurs à Wall Street",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+   "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+   "ts": 1793369321,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "«Дібіли-любителі»: короткочасна заява Флавіо Болсонаро про «обраного президента» викликала глузування",
+    "fr": "« Abrutis amateurs » : l'éphémère affirmation de Flávio Bolsonaro sur le \"président élu\" a été ridiculisée",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
+   "url": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
+   "ts": 1793369185,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Хто такий Кевін Т., головний підозрюваний у расистській атаці на Trappes?",
+    "fr": "Qui est Kevin T., le principal suspect derrière l'attentat raciste de Trappes ?",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
+   "ts": 1793369183,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Андреас Мальм засуджує заборону на поїздки до Великобританії як «спрямування до авторитаризму»",
+    "fr": "Andreas Malm condamne l’interdiction de voyager au Royaume-Uni, la qualifiant de « dérive vers l’autoritarisme »",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Explosion at Spanish ammunition factory supplying Ukraine injures 3",
+   "url": "https://kyivindependent.com/explosion-at-spanish-ammunitions-factory-supplying-ukraine-injures-3/",
+   "ts": 1793368910,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "На іспанському заводі, що постачає боєприпаси в Україну, стався вибух, постраждали 3 людини",
+    "fr": "Explosion dans une usine de munitions espagnole fournissant l'Ukraine : 3 blessés",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Bhutan hot springs hit by flood from glacial lake burst",
+   "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
+   "ts": 1793368863,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Гарячі джерела Бутану постраждали від повені через вибух льодовикового озера",
+    "fr": "Les sources chaudes du Bhoutan touchées par les inondations causées par l'éclatement d'un lac glaciaire",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+   "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+   "ts": 1793368818,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Експерти попереджають, що зміни в авторських правах на штучний інтелект можуть порушити конституцію Австралії та спровокувати величезну справу про компенсацію",
+    "fr": "Les experts préviennent que les modifications apportées aux droits d'auteur sur l'IA pourraient enfreindre la constitution australienne et déclencher une énorme affaire de droits à indemnisation",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "NATO top commander sees no delays in delivery of Patriot missiles to Ukraine",
+   "url": "https://www.ukrinform.net/rubric-polytics/4179783-nato-top-commander-sees-no-delays-in-delivery-of-patriot-missiles-to-ukraine.html",
+   "ts": 1793368800,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Головнокомандувач НАТО не бачить затримок у постачанні Україні ракет Patriot",
+    "fr": "Le commandant en chef de l'OTAN ne constate aucun retard dans la livraison des missiles Patriot à l'Ukraine",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793368756,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "fr": "Le patron de Yorkshire Water démissionne après le déclassement de son entreprise",
+    "uk": "Керівник Yorkshire Water пішов у відставку після зниження рейтингу компанії",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "MLB World Series: Why did baseball’s biggest stage struggle for viewership?",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/major-league-baseball-world-series-brewers-rays-nba-nfl-united-states?traffic_source=rss",
+   "ts": 1793368684,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Світова серія MLB: чому найбільша бейсбольна сцена боролася за глядачів?",
+    "fr": "MLB World Series : Pourquoi la plus grande scène de baseball a-t-elle eu du mal à attirer les téléspectateurs ?",
+    "_miss": [
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss",
+   "ts": 1793368582,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Погоня спричиняє крах Бангладеш, коли Вест-Індія лідирує в тесті Мірпур",
+    "fr": "Chase provoque l'effondrement du Bangladesh alors que les Antilles sont en tête du test de Mirpur",
+    "_miss": [
      "de",
      "zh",
      "ru"
@@ -347,28 +1366,8 @@
    ],
    "t": {
     "fr": "Comment le vote des femmes influencera-t-il les élections de mi-mandat aux États-Unis ?",
+    "uk": "Як голоси жінок вплинуть на проміжні вибори в США?",
     "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
-   "url": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-amazon-intel-stoke-ai-cashburn-fears-4985916",
-   "ts": 1793368365,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "Les actions européennes chutent alors qu'Amazon et Intel alimentent les craintes de consommation de liquidités de l'IA",
-    "_miss": [
-     "uk",
      "de",
      "zh",
      "ru"
@@ -388,8 +1387,8 @@
    ],
    "t": {
     "fr": "Comment s'est déroulé le braquage record de 6,3 milliards de dollars dans l'histoire de la cryptographie",
+    "uk": "Як розгорталося рекордне за всю історію криптовалюти пограбування на 6,3 мільярда доларів",
     "_miss": [
-     "uk",
      "de",
      "zh",
      "ru"
@@ -398,98 +1397,36 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "The Bancorp Inc stock hits 52-week low at 46.83 USD",
-   "url": "https://www.investing.com/news/company-news/the-bancorp-inc-stock-hits-52week-low-at-4683-usd-93CH-4988037",
-   "ts": 1793368284,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "L'action Bancorp Inc atteint son plus bas niveau sur 52 semaines à 46,83 USD",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "EOG Resources stock hits all-time high at 165.3 USD",
-   "url": "https://www.investing.com/news/company-news/eog-resources-stock-hits-alltime-high-at-1653-usd-93CH-4988035",
-   "ts": 1793368276,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "L'action EOG Resources atteint un sommet historique à 165,3 USD",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "ExxonMobil earnings top estimates as diesel, gasoline spike fuels refining margins",
-   "url": "https://www.investing.com/news/earnings/exxonmobil-earnings-top-estimates-as-diesel-gasoline-spike-fuels-refining-profit-4986774",
-   "ts": 1793368273,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "Les bénéfices d'ExxonMobil dépassent les estimations alors que le diesel et l'essence augmentent les marges de raffinage",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-   "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-   "ts": 1793368140,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "Les actions d'AMD chutent après que les résultats d'Intel révèlent deux problèmes majeurs",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-   "ts": 1793368138,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Meta, TikTok, X lose legal challenge against UK watchdog over online safety data demands",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG8teFQwNFU4cXJzMjdVS2wtOGZKaFAwdDlBZjczR3lJSWYxYW8xdlYwZ2hoYW5mb3FvejVrQ2s1QUpOWGJYbGFKRjRBOWRLM3hZU1FoTHdOa1Q2N0xLSjV0RmlKdjBxa1lKRlduVXkwbE1SbWhETzJDV3B5NXNKc21NT1VhaFd6azhDVnRieHM5eURVSmVIcUNBNnNUUlZxM2h6VjhDUEw1OHVOc2htWlN3b01ranhVT0hTbg?oc=5",
+   "ts": 1793368249,
    "sec": [
     "world"
    ],
    "t": {
-    "fr": "Des personnes de 27 nationalités pourraient figurer parmi les personnes tuées ou blessées dans l'accident de train en Espagne, selon Sánchez – L'Europe en direct",
+    "uk": "Meta, TikTok, X програли судовий позов проти сторожового органу Великобританії через вимоги безпеки даних в Інтернеті",
+    "fr": "Meta, TikTok et X perdent leur contestation judiciaire contre l'organisme de surveillance britannique concernant les demandes de données de sécurité en ligne",
+    "de": "Meta, TikTok und X verlieren den Rechtsstreit gegen die britische Aufsichtsbehörde wegen Online-Sicherheitsdatenanforderungen",
+    "zh": "Meta、TikTok、X 在针对英国监管机构在线安全数据要求的法律诉讼中败诉",
+    "ru": "Meta, TikTok, X проигрывают судебный иск против британского надзорного органа по поводу требований к данным о безопасности в Интернете"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Polish police seize 250,000 photos of critical infrastructure from detained Russian national",
+   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060482/",
+   "ts": 1793368200,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Польська поліція вилучила у затриманого росіянина 250 тисяч фотографій критичної інфраструктури",
+    "fr": "La police polonaise saisit 250 000 photos d'infrastructures critiques appartenant à un ressortissant russe détenu",
     "_miss": [
-     "uk",
      "de",
      "zh",
      "ru"
@@ -509,8 +1446,48 @@
    ],
    "t": {
     "fr": "Le candidat au Sénat de l'Alaska nie avoir eu connaissance d'un prétendu complot visant à inscrire deux Dan Sullivans sur le bulletin de vote",
+    "uk": "Кандидат у сенат Аляски заперечує інформацію про ймовірну змову з метою включити двох Денів Салліванів до голосування",
     "_miss": [
-     "uk",
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Mayor defects from Greens after Zionism motion",
+   "url": "https://www.bbc.co.uk/news/articles/ck20r295pw2vo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793367971,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Мер відходить від Зелених після сіоністського руху",
+    "fr": "Le maire fait défaut aux Verts après une motion sur le sionisme",
+    "ru": "Мэр уходит от зеленых после сионистского движения",
+    "_miss": [
+     "de",
+     "zh"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russia strikes Kharkiv shopping centre with jet-powered drone, forcing temporary closure",
+   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060481/",
+   "ts": 1793367960,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія завдала удару по торговому центру Харкова з реактивного безпілотника, що призвело до тимчасового закриття",
+    "fr": "La Russie frappe un centre commercial de Kharkiv avec un drone à réaction, forçant une fermeture temporaire",
+    "_miss": [
      "de",
      "zh",
      "ru"
@@ -529,51 +1506,11 @@
    ],
    "t": {
     "fr": "Des experts ukrainiens lancent un indice de sécurité pour aider l'Europe à faire face à la menace croissante des drones",
+    "uk": "Українські експерти запустили індекс безпеки, щоб допомогти Європі протистояти зростаючій загрозі безпілотників",
+    "ru": "Украинские эксперты запускают индекс безопасности, чтобы помочь Европе справиться с растущей угрозой беспилотников",
     "_miss": [
-     "uk",
      "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-   "url": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-   "ts": 1793367720,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "fr": "Le coût de l'argent lui-même est sur le bulletin de vote alors que les électeurs sont aux prises avec des prêts automobiles coûteux, des hypothèques et des dettes de carte de crédit.",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793367717,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "fr": "La détenue américaine Christa Pike dit s'être réveillée « confuse et souffrante » après l'échec de son exécution",
-    "_miss": [
-     "uk",
-     "de",
-     "zh",
-     "ru"
+     "zh"
     ]
    },
    "lang": "en"
@@ -589,30 +1526,12 @@
    ],
    "t": {
     "fr": "L'Ukraine détruit un lanceur de missiles Iskander-M dans l'oblast de Koursk en Russie, selon l'état-major",
+    "uk": "Україна знищила ракетну установку \"Іскандер-М\" у Курській області Росії, повідомляє Генштаб",
     "_miss": [
-     "uk",
      "de",
      "zh",
      "ru"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Binance hackers using ‘never-seen-before laundering patterns’ to hide proceeds of $6.3bn heist – business live",
-   "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-   "ts": 1793367640,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Хакери Binance використовують «схеми відмивання, яких ніколи не бачили», щоб приховати доходи від крадіжки на 6,3 мільярда доларів – бізнес наживо",
-    "fr": "Les pirates de Binance utilisent des « modèles de blanchiment inédits » pour cacher le produit d'un braquage de 6,3 milliards de dollars – Business Live",
-    "de": "Binance-Hacker nutzen „noch nie dagewesene Geldwäschemuster“, um Erlöse aus Raubüberfällen in Höhe von 6,3 Milliarden US-Dollar zu verbergen – live im Geschäft",
-    "zh": "币安黑客利用“前所未见的洗钱模式”隐藏 63 亿美元的抢劫收益 – Business Live",
-    "ru": "Хакеры Binance используют «невиданные ранее схемы отмывания», чтобы скрыть доходы от ограбления на сумму 6,3 миллиарда долларов – бизнес-прямой эфир"
    },
    "lang": "en"
   },
@@ -627,8 +1546,28 @@
    ],
    "t": {
     "fr": "Un drone russe frappe une entreprise à Chostka, faisant un mort et huit blessés",
+    "uk": "Російський безпілотник завдав удару по підприємству в Шостці, один загинув і вісім отримали поранення",
     "_miss": [
-     "uk",
+     "de",
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdZSUNubThrN1F0Z25oYTlqNWdPVzdQUlN4YWRIOW16UWhQbXdTTDA3RXJHWFlVZUF1ZElXQ0FPYUxSVXdGcDFqdDQtdUQxSnJvbk4xaU9sSzFqUTdGWlQyZjJOUUdaRDJOOUZIVllPQ3VqelNyMXVRTzVQVG1oVXBmRUJIMHpHYV9kbzUxYTN4d1dvUnJEUEVGbElwVG9HdUZ3TDNQQ1hOcW91SGpZYm01TlVsRHM?oc=5",
+   "ts": 1793367340,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "CMA Великобританії починає розслідування умов Meta для видавців і рекламодавців",
+    "fr": "La CMA britannique ouvre une enquête sur les conditions de Meta pour les éditeurs et les annonceurs",
+    "_miss": [
      "de",
      "zh",
      "ru"
@@ -668,50 +1607,10 @@
    "t": {
     "uk": "Найкращі способи заробити та використати готівку для святкових покупок",
     "ru": "Лучшие способы заработать и использовать кэшбэк за праздничные покупки",
+    "fr": "Les meilleures façons d'obtenir et d'utiliser des remises en argent pour vos achats des Fêtes",
     "_miss": [
-     "fr",
      "de",
      "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Georgia's European dream left in limbo",
-   "url": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
-   "ts": 1793367291,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Європейська мрія Грузії залишилася в підвішеному стані",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Palestinian child survives Israeli gunshot to the head",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-   "ts": 1793367144,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Палестинська дитина пережила поранення Ізраїлем у голову",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
     ]
    },
    "lang": "en"
@@ -728,8 +1627,8 @@
    ],
    "t": {
     "uk": "Україна інвестує у вогневу міць, оскільки завдає нового рекорду втрат Росії",
+    "fr": "L'Ukraine investit dans la puissance de feu alors qu'elle inflige un nouveau record de pertes à la Russie",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -748,8 +1647,8 @@
    ],
    "t": {
     "uk": "Продажі Starbucks виправдовують очікування, але її розвиток у США набирає обертів",
+    "fr": "Les ventes de Starbucks dépassent les attentes, mais le redressement aux États-Unis s'accélère",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -768,8 +1667,8 @@
    ],
    "t": {
     "uk": "«Поганий час для тролення»: співзасновник Binance Чанпен Чжао просить Ілона Маска «поваги» після публікації про злом біткойнів",
+    "fr": "« Mauvais moment pour troller » : le cofondateur de Binance, Changpeng Zhao, demande du « respect » à Elon Musk après un article sur le piratage du Bitcoin",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -788,48 +1687,8 @@
    ],
    "t": {
     "uk": "Україна запровадила санкції до компаній, осіб, пов’язаних із російською супутниковою системою «Рассвет», тіньового флоту",
+    "fr": "L'Ukraine sanctionne des entreprises, des individus liés au système satellitaire russe Rassvet et à la flotte fantôme",
     "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Burnham says he wants to ‘draw a line’ under relationship with devolved powers – UK politics live",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-   "ts": 1793366881,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Бернем каже, що хоче «підвести риску» у відносинах із переданими повноваженнями – Політика Великобританії в прямому ефірі",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
-   "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-   "ts": 1793366760,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Виборці покоління Z сказали нам, що проміжні семестри зводяться до того, щоб дозволити собі життя, оскільки соціальні справи відходять на другий план",
-    "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -848,8 +1707,8 @@
    ],
    "t": {
     "uk": "Intel падає на 25%, ініціює глобальне звільнення чіпів із похмурими прогнозами",
+    "fr": "Intel plonge de 25% et déclenche une déroute mondiale des puces sur fond de sombres perspectives",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -858,18 +1717,18 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Intel issued weaker-than-expected guidance. Analysts are losing confidence in the stock",
-   "url": "https://www.cnbc.com/2026/10/30/intel-guidance-analyst-price-targets.html",
-   "ts": 1793366552,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
+   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060470/",
+   "ts": 1793366700,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Intel випустила слабші, ніж очікувалося, рекомендації. Аналітики втрачають довіру до акцій",
+    "uk": "У Польщі затримали чоловіка, підозрюваного в нанесенні ножових поранень двом українцям під час нападу на етнічних мотивах",
+    "fr": "La Pologne arrête un homme soupçonné d'avoir poignardé deux Ukrainiens lors d'une attaque à motivation ethnique",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -878,18 +1737,18 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
-   "url": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
-   "ts": 1793366522,
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Winter fuel cuts turned the Welsh against Labour, former leader Neil Kinnock says",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5j4jp5d5lo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793366684,
    "sec": [
-    "market"
+    "politics"
    ],
    "t": {
-    "uk": "Наскільки великою є крадіжка криптовалюти на 6,3 мільярда доларів, хто це зробив і чи безпечні інвестиції?",
+    "uk": "Колишній лідер Ніл Кінок каже, що зимові скорочення палива настроїли валлійців проти лейбористів",
+    "fr": "Les coupures de carburant en hiver ont retourné les Gallois contre les travaillistes, selon l'ancien dirigeant Neil Kinnock",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -908,8 +1767,8 @@
    ],
    "t": {
     "uk": "Польща може переглянути можливість передачі Україні додаткових МіГ-29, якщо угода з Болгарією провалиться – експерт",
+    "fr": "La Pologne pourrait reconsidérer le transfert de MiG-29 supplémentaires vers l'Ukraine si l'accord avec la Bulgarie échoue – expert",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -920,16 +1779,16 @@
   {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
-   "title": "Russia set to return to international hockey after top sports court's ruling",
+   "title": "Controversial court ruling paves way for Russia's return to world ice hockey. European nations push back",
    "url": "https://kyivindependent.com/russia-set-to-return-to-international-hockey-tournaments-after-top-sports-courts-ruling/",
    "ts": 1793366189,
    "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "Росія має намір повернутися до міжнародного хокею після рішення вищого спортивного суду",
+    "uk": "Суперечливе рішення суду відкриває шлях для повернення Росії у світовий хокей. Європейські нації відступають",
+    "fr": "Une décision controversée du tribunal ouvre la voie au retour de la Russie au hockey sur glace mondial. Les nations européennes réagissent",
     "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -948,164 +1807,8 @@
    ],
    "t": {
     "uk": "«Вони нас вбили» – Тиск російської влади змушує закрити «Нову газету».",
+    "fr": "« Ils nous ont tués » – La pression des autorités russes force la fermeture de Novaya Gazeta",
     "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-   "url": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-   "ts": 1793366160,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ця кредитна картка є «найкращою зброєю» для боротьби з боргами, поки відсоткові ставки продовжують зростати",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Rivian's stock correction allows favorable 'entry point' after Q3 earnings, Jefferies says",
-   "url": "https://www.cnbc.com/2026/10/30/rivians-stock-correction-allows-an-entry-point-following-q3-earnings-jefferies-says-.html",
-   "ts": 1793366107,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Корекція акцій Rivian забезпечує сприятливу «точку входу» після прибутку за 3 квартал, каже Джеффріс",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-   "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-   "ts": 1793366100,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "У мого батька рання хвороба Альцгеймера, і його опікун використовує його дебетову картку для DoorDash. що я можу зробити",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Italy tightens security as students, unions launch nationwide protests",
-   "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-   "ts": 1793366051,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Італія посилює заходи безпеки, оскільки студенти та профспілки розпочинають загальнонаціональні протести",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
-   "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-   "ts": 1793365980,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Біткойн падає після кошмарного сценарію криптовалюти: історичне пограбування 6,3 мільярда доларів",
-    "fr": "Bitcoin glisse après le scénario cauchemardesque de la crypto : un braquage historique de 6,3 milliards de dollars",
-    "de": "Bitcoin rutscht nach dem Albtraumszenario der Kryptowährung ab: einem historischen Raubüberfall in Höhe von 6,3 Milliarden US-Dollar",
-    "_miss": [
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
-   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "ts": 1793365874,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Хакери викрали 6,3 мільярда доларів у Binance у найбільшій за всю історію крадіжці криптовалюти",
-    "fr": "Des pirates informatiques volent 6,3 milliards de dollars à Binance dans le cadre du plus grand vol de cryptomonnaie jamais réalisé.",
-    "de": "Hacker stehlen 6,3 Milliarden US-Dollar von Binance im größten Kryptowährungsdiebstahl aller Zeiten",
-    "zh": "黑客从币安窃取了 63 亿美元，这是有史以来最大的加密货币盗窃案",
-    "ru": "Хакеры украли у Binance 6,3 миллиарда долларов в результате крупнейшей в истории кражи криптовалюты"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Meta, TikTok, X lose legal challenge against UK watchdog over online safety data demands",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG8teFQwNFU4cXJzMjdVS2wtOGZKaFAwdDlBZjczR3lJSWYxYW8xdlYwZ2hoYW5mb3FvejVrQ2s1QUpOWGJYbGFKRjRBOWRLM3hZU1FoTHdOa1Q2N0xLSjV0RmlKdjBxa1lKRlduVXkwbE1SbWhETzJDV3B5NXNKc21NT1VhaFd6azhDVnRieHM5eURVSmVIcUNBNnNUUlZxM2h6VjhDUEw1OHVOc2htWlN3b01ranhVT0hTbg?oc=5",
-   "ts": 1793365761,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Meta, TikTok, X програли судовий позов проти сторожового органу Великобританії через вимоги безпеки даних в Інтернеті",
-    "fr": "Meta, TikTok et X perdent leur contestation judiciaire contre l'organisme de surveillance britannique concernant les demandes de données de sécurité en ligne",
-    "de": "Meta, TikTok und X verlieren den Rechtsstreit gegen die britische Aufsichtsbehörde wegen Online-Sicherheitsdatenanforderungen",
-    "zh": "Meta、TikTok、X 在针对英国监管机构在线安全数据要求的法律诉讼中败诉",
-    "ru": "Meta, TikTok, X проигрывают судебный иск против британского надзорного органа по поводу требований к данным о безопасности в Интернете"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUtZcEpHSm0xRzNpcmNyYTA5TjE0cnhlUWE0RGJkdU5vSjA4Y29tUGxyTmR1Z0pVT1Q1N0FLYlF6Ui12ZVppUXlrUmY5YmhNdlp3OGpFQ19QM1VQVEJuZ2hYSkFvUzZsQk1aM0pMamlQaDJRTHlCRjdKcXUybG1kVkQxOUVINEt4Mks0N3JVZC1VUHVRV3dRSEJIekZUN1htUVlMRVRDNzVLQ2tmYkRnMC1tNHhxT3JzVFZFdDYzVQ?oc=5",
-   "ts": 1793365732,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "ЕКСКЛЮЗИВ: Індія наказує Sun Pharma припинити виробництво ліків для очей на заводі через погіршення якості",
-    "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -1124,48 +1827,8 @@
    ],
    "t": {
     "uk": "У результаті російського удару по Сумській області загинула 1 людина, поранено 8 осіб",
+    "fr": "Une frappe russe dans la région de Soumy fait un mort et huit blessés",
     "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Texas Republicans accused of changing electoral rules ahead of midterms",
-   "url": "https://www.france24.com/en/tv-shows/focus/20261030-texas-republicans-accused-of-changing-electoral-rules-ahead-of-midterms",
-   "ts": 1793365633,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Техаських республіканців звинувачують у зміні виборчих правил перед проміжними виборами",
-    "_miss": [
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
-   "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
-   "ts": 1793365443,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Керівник компанії Unison каже, що державний сектор — «запізніла думка» про нафтові роботи в Північному морі",
-    "_miss": [
-     "fr",
      "de",
      "zh",
      "ru"
@@ -1184,49 +1847,9 @@
     "politics"
    ],
    "t": {
+    "uk": "Міністр транспорту Іспанії заявив, що не піде у відставку через аварію на швидкісній залізниці",
+    "fr": "Le ministre espagnol des Transports déclare qu'il ne démissionnera pas suite à la catastrophe du train à grande vitesse",
     "_miss": [
-     "uk",
-     "en",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   }
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran?traffic_source=rss",
-   "ts": 1793365303,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_business",
-   "source": "NPR",
-   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-   "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-   "ts": 1793365282,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
      "de",
      "zh",
      "ru"
@@ -1245,30 +1868,10 @@
     "politics"
    ],
    "t": {
+    "uk": "Ірландський уряд оцінить потенціал об'єднаної Ірландії",
+    "fr": "Le gouvernement irlandais va évaluer le potentiel d’une Irlande unie",
+    "de": "Die irische Regierung prüft das Potenzial für ein vereintes Irland",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "‘Ceilidh renaissance’ lures gen Z offline in search of real-life joy",
-   "url": "https://www.theguardian.com/music/2026/oct/30/ceilidh-renaissance-traditional-experience-young-people-community-london",
-   "ts": 1793365254,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
      "zh",
      "ru"
     ]
@@ -1286,12 +1889,12 @@
     "ukraine"
    ],
    "t": {
+    "uk": "🔴 Війна в Україні в прямому ефірі: російські удари залишили без світла 200 000 людей на Дніпропетровщині",
+    "fr": "🔴 Guerre d'Ukraine en direct : les frappes russes laissent 200 000 personnes sans électricité dans la région ukrainienne de Dnipropetrovsk",
+    "de": "🔴 Ukraine-Krieg live: Russische Angriffe führen dazu, dass 200.000 Menschen in der ukrainischen Region Dnipropetrowsk keinen Strom haben",
+    "ru": "🔴 Война на Украине в прямом эфире: российские удары оставили без электричества 200 000 человек в Днепропетровской области Украины",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
+     "zh"
     ]
    },
    "lang": "en"
@@ -1306,51 +1909,34 @@
     "ukraine"
    ],
    "t": {
+    "uk": "Шмигаль: Росія з вересня здійснила понад 350 атак на енергетику України",
+    "fr": "Chmyhal : La Russie a mené plus de 350 attaques contre le secteur énergétique ukrainien depuis septembre",
+    "de": "Shmyhal: Russland hat seit September mehr als 350 Angriffe auf den Energiesektor der Ukraine verübt",
+    "ru": "Шмыгаль: С сентября Россия осуществила более 350 атак на энергетический сектор Украины",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
+     "zh"
     ]
    },
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Sudan RSF commander defects from Hemedti’s forces",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
-   "ts": 1793364910,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Brief truce agreed by Russia and Ukraine allows aid operation and evacuations in Oleshky",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+   "ts": 1793364900,
    "sec": [
-    "world"
+    "world",
+    "ukraine"
    ],
    "t": {
+    "uk": "Короткочасне перемир'я, погоджене Росією та Україною, дозволяє операцію з надання допомоги та евакуацію в Олешках",
+    "fr": "Une brève trêve convenue entre la Russie et l'Ukraine permet des opérations d'aide et des évacuations à Oleshky",
+    "de": "Zwischen Russland und der Ukraine vereinbarter kurzer Waffenstillstand ermöglicht Hilfseinsätze und Evakuierungen in Oleshky",
+    "ru": "Кратковременное перемирие, достигнутое Россией и Украиной, позволяет провести операцию по оказанию помощи и эвакуацию в Олешках.",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
+     "zh"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
-   "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-   "ts": 1793364756,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Центральний банк Швейцарії отримав величезний прибуток у 23 мільярди доларів завдяки золоту та іноземним активам",
-    "fr": "La banque centrale suisse affiche un bénéfice exceptionnel de 23 milliards de dollars grâce à l'or et aux actifs étrangers",
-    "de": "Die Schweizer Zentralbank verbucht dank Gold und ausländischen Vermögenswerten einen Rekordgewinn von 23 Milliarden US-Dollar",
-    "zh": "得益于黄金和外国资产，瑞士央行利润高达 230 亿美元",
-    "ru": "Центральный банк Швейцарии сообщил о рекордной прибыли в $23 млрд благодаря золоту и иностранным активам"
    },
    "lang": "en"
   },
@@ -1384,32 +1970,13 @@
     "politics"
    ],
    "t": {
+    "uk": "Іспанський міністр відмовляється піти у відставку через другу велику залізничну катастрофу за його час",
+    "fr": "Le ministre espagnol refuse de démissionner suite au deuxième accident ferroviaire majeur survenu sous sa direction",
+    "de": "Der spanische Minister weigert sich wegen des zweiten großen Zugunglücks unter seiner Amtszeit zurückzutreten",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
      "zh",
      "ru"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-   "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-   "ts": 1793364316,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Ставка на демократію: всередині підозрілих контрактів на вибори, що торгуються на ринках прогнозів",
-    "fr": "Parier sur la démocratie : des contrats électoraux suspects négociés sur les marchés de prédiction",
-    "de": "Glücksspiel mit der Demokratie: Insider verdächtiger Wahlkampfgeschäfte auf Prognosemärkten",
-    "zh": "赌民主：预测市场上可疑的选举合约交易内部",
-    "ru": "Ставка на демократию: внутри подозрительных избирательных контрактов, торгующих на рынках прогнозов"
    },
    "lang": "en"
   },
@@ -1423,70 +1990,10 @@
     "ukraine"
    ],
    "t": {
+    "uk": "В окупованому Криму росіяни вчать дітей керувати безпілотниками та стріляти з автоматів – українська розвідка",
+    "fr": "Les Russes apprennent aux enfants à utiliser des drones et à tirer avec des fusils d’assaut en Crimée occupée – renseignements ukrainiens",
+    "de": "Russen bringen Kindern auf der besetzten Krim bei, Drohnen zu bedienen und Sturmgewehre abzufeuern – ukrainischer Geheimdienst",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Russia back in ice hockey world championships after sport court ruling",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
-   "ts": 1793364208,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "World number one Rybakina withdraws from Pan Pacific Open with neck injury",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/world-number-one-rybakina-withdraws-from-pan-pacific-open-with-neck-injury?traffic_source=rss",
-   "ts": 1793364176,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
-   "ts": 1793364163,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
      "zh",
      "ru"
     ]
@@ -1504,10 +2011,10 @@
     "market"
    ],
    "t": {
+    "uk": "Binance каже, що 6,3 мільярда доларів викрадено під час найбільшого в історії криптовалютного пограбування: що ми знаємо",
+    "fr": "Binance affirme que 6,3 milliards de dollars ont été volés lors du plus grand braquage de crypto de l'histoire : ce que nous savons",
+    "de": "Laut Binance wurden beim größten Krypto-Raub der Geschichte 6,3 Milliarden US-Dollar gestohlen: Was wir wissen",
     "_miss": [
-     "uk",
-     "fr",
-     "de",
      "zh",
      "ru"
     ]
@@ -1533,41 +2040,21 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-   "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793363815,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh",
-     "ru"
-    ]
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
-   "title": "Russians attack Nizhyn district of Chernihiv Oblast, setting garages on fire and injuring three people – photos",
+   "title": "Russians attack Nizhyn district of Chernihiv Oblast: three injured, garages catch fire – photos",
    "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060464/",
    "ts": 1793363580,
    "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "Росіяни атакували Ніжинський район Чернігівської області, підпалили гаражі та поранили трьох людей – фото",
-    "de": "Russen greifen den Bezirk Nischyn im Oblast Tschernihiw an, setzen Garagen in Brand und verletzen drei Menschen – Fotos",
-    "ru": "Россияне напали на Нежинский район Черниговской области, подожгли гаражи и ранили трех человек – фото",
+    "uk": "Росіяни атакували Ніжинський район Чернігівської області: троє поранених, горять гаражі – фото",
+    "fr": "Les Russes attaquent le district de Nizhyn dans la région de Tchernihiv : trois blessés et des garages prennent feu – photos",
+    "de": "Russen greifen Bezirk Nischyn im Oblast Tschernihiw an: Drei Verletzte, Garagen geraten in Brand – Fotos",
     "_miss": [
-     "fr",
-     "zh"
+     "zh",
+     "ru"
     ]
    },
    "lang": "en"
@@ -1584,65 +2071,11 @@
    "t": {
     "uk": "Під час евакуації рятували пасажирів: під час страйку на вокзалі Дніпра загинули п'ятеро залізничників",
     "ru": "Спасали пассажиров во время эвакуации: пятеро железнодорожников погибли в результате забастовки на вокзале Днепр",
+    "fr": "Ils ont secouru les passagers lors de l'évacuation : cinq employés des chemins de fer tués dans une grève à la gare de Dnipro",
+    "de": "Sie retteten Passagiere bei der Evakuierung: Fünf Bahnangestellte wurden bei Streik am Bahnhof Dnipro getötet",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "‘Scared of crossing the border’: The Arizona farmers who rely on Mexican workers",
-   "url": "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers",
-   "ts": 1793363324,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "«Боїться перетину кордону»: фермери з Арізони, які покладаються на мексиканських робітників",
-    "fr": "« Peur de traverser la frontière » : les agriculteurs de l’Arizona qui comptent sur les travailleurs mexicains",
-    "de": "„Angst vor dem Grenzübertritt“: Die Bauern in Arizona, die auf mexikanische Arbeiter angewiesen sind",
-    "zh": "“害怕跨越边境”：依赖墨西哥工人的亚利桑那州农民",
-    "ru": "«Боятся пересекать границу»: фермеры из Аризоны, которые полагаются на мексиканских рабочих"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins",
-   "ts": 1793363301,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Чоловіка, який наїхав на велосипедиста та протягнув його під машиною кілометр, засудили за вбивство",
-    "fr": "Un homme qui a écrasé un cycliste et l'a traîné sous une voiture sur un kilomètre et demi, reconnu coupable de meurtre",
-    "de": "Mann, der einen Radfahrer überfuhr und ihn eine Meile lang unter das Auto schleifte, wegen Mordes verurteilt",
-    "zh": "男子碾压骑车人并将其拖到车下一英里被判谋杀罪",
-    "ru": "Мужчина, сбивший велосипедиста и протащивший его под машиной на милю, признан виновным в убийстве"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "What we know about Binance's $6.3bn hack",
-   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793363248,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо про злом Binance на 6,3 мільярда доларів",
-    "fr": "Ce que nous savons du piratage de 6,3 milliards de dollars de Binance",
-    "de": "Was wir über den 6,3-Milliarden-Dollar-Hack von Binance wissen",
-    "zh": "我们对币安 63 亿美元黑客事件的了解",
-    "ru": "Что мы знаем о взломе Binance на сумму $6,3 млрд"
    },
    "lang": "en"
   },
@@ -1659,85 +2092,10 @@
     "uk": "Російський безпілотник вдарив по будівлі в центрі Новгород-Сіверського",
     "fr": "Un drone russe frappe un immeuble au centre de Novhorod-Siverskyi",
     "ru": "Российский беспилотник нанес удар по зданию в центре Новгорода-Северского",
+    "de": "Russische Drohne greift Gebäude im Zentrum von Nowhorod-Siwerskyj an",
     "_miss": [
-     "de",
      "zh"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793363153,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Мешканці залишають зруйновані окуповані Росією Олешки, коли відкривається евакуаційний коридор",
-    "fr": "Les habitants quittent Oleshky dévasté par l'occupation russe alors que le couloir d'évacuation s'ouvre",
-    "de": "Bewohner verlassen das zerstörte, von Russland besetzte Oleschky, als der Evakuierungskorridor geöffnet wird",
-    "zh": "随着疏散走廊开放，居民离开被俄罗斯占领的奥列什基",
-    "ru": "Жители покидают опустошенный оккупированный Россией Олешки после открытия коридора эвакуации"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUo0QTNPRWduWkx5cnZYRTliM2F1aGJEM1cyTmprd1htM2w0WWRadnNHZWdZNVgxcThncktfRjBHRGdMRjZQWmVqZ3F2SmI0MjdyU0VOMGNFMEhZZVR4SWZqdjBpTkctUTJMS3lhVmhyODZzQXZDeF85TUNNRWxvRGpSdVN6LXpOSXQ1aDVFd0R2NnhCWXlzdHZ4SkFTSl93dUY5UlNxRUdsUUxlMF84VlZJc3U1bTRBRXdTNXBn?oc=5",
-   "ts": 1793363066,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "За словами джерел, Трамп не планує підтримувати претензії Болсонару на посаду лідера Бразилії",
-    "fr": "Trump n'a pas l'intention de soutenir la prétention de Bolsonaro d'être le leader du Brésil, selon des sources",
-    "de": "Laut Quellen hat Trump nicht vor, Bolsonaros Anspruch, Brasiliens Führer zu sein, zu unterstützen",
-    "zh": "消息人士称，特朗普不打算支持博索纳罗担任巴西领导人的说法",
-    "ru": "Трамп не планирует поддерживать претензии Болсонару на пост лидера Бразилии, сообщают источники"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "China denies allegations of spy operation targeting Nvidia CEO",
-   "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793362804,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Китай заперечує звинувачення в шпигунській операції проти генерального директора Nvidia",
-    "ru": "Китай отверг обвинения в шпионской операции против генерального директора Nvidia",
-    "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Georgia midterm elections: Why this is a key US battleground",
-   "url": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss",
-   "ts": 1793362143,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Проміжні вибори в Грузії: чому це ключове поле битви в США",
-    "fr": "Élections de mi-mandat en Géorgie : pourquoi il s’agit d’un champ de bataille clé aux États-Unis",
-    "de": "Zwischenwahlen in Georgia: Warum dies ein wichtiges Schlachtfeld in den USA ist",
-    "zh": "佐治亚州中期选举：为什么这是美国的关键战场",
-    "ru": "Промежуточные выборы в Грузии: почему это ключевое поле битвы в США"
    },
    "lang": "en"
   },
@@ -1817,18 +2175,20 @@
   {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
-   "title": "UP: Kravchenko stopped at border over NABU and SAPO flag, let through after call from Kyiv",
+   "title": "UP: Kravchenko was stopped at border as flagged by anti-corruption agencies but let through after call from Kyiv",
    "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060451/",
    "ts": 1793361300,
    "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "УП: Кравченка зупинили на кордоні під прапором НАБУ та САП, пропустили після дзвінка з Києва",
-    "fr": "UP : Kravchenko arrêté à la frontière au-dessus du drapeau de la NABU et de la SAPO, laissé passer après un appel de Kiev",
-    "de": "UP: Kravchenko hielt an der Grenze über der NABU- und SAPO-Flagge an und wurde nach einem Anruf aus Kiew durchgelassen",
-    "zh": "上：克拉夫琴科在 NABU 和 SAPO 旗帜上停在边境，在基辅接到电话后放行",
-    "ru": "УП: Кравченко остановили на границе из-за флага НАБУ и САП, пропустили после звонка из Киева"
+    "uk": "УП: Кравченка зупинили на кордоні під прапором антикорупціонерів, але пропустили після дзвінка з Києва",
+    "fr": "UP : Kravchenko a été arrêté à la frontière comme l'ont signalé les agences anti-corruption, mais laissé passer après un appel de Kiev",
+    "de": "UP: Krawtschenko wurde wie von den Antikorruptionsbehörden angezeigt an der Grenze angehalten, aber nach einem Anruf aus Kiew durchgelassen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
    },
    "lang": "en"
   },
@@ -1865,27 +2225,6 @@
     "de": "Leiter des Präsidialamtes: Humanitäre Operation in Oleshky im Gange, Transport organisiert",
     "zh": "总统办公室主任：奥列什基正在进行人道主义行动，运输已安排好",
     "ru": "Глава Офиса Президента: В Олешках проходит гуманитарная операция, организован транспорт"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "US futures fall as Amazon, Intel and Alphabet weigh on Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
-   "ts": 1793360040,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Ф'ючерси на США падають, оскільки Amazon, Intel і Alphabet важать на Уолл-стріт",
-    "ru": "Фьючерсы в США падают, поскольку Amazon, Intel и Alphabet оказывают давление на Уолл-стрит",
-    "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
    },
    "lang": "en"
   },
@@ -1927,27 +2266,6 @@
    "lang": "en"
   },
   {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Germany takes cautious approach on Israeli election results",
-   "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
-   "ts": 1793359560,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Німеччина обережно ставиться до результатів виборів в Ізраїлі",
-    "ru": "Германия осторожно относится к результатам выборов в Израиле",
-    "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Humanitarian aid reaches residents of Oleshky",
@@ -1966,102 +2284,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-   "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-   "ts": 1793359226,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Перегони до Сенату Аляски стикаються з претензіями кандидата-спойлера. І Гегсет скидає генерала армії",
-    "fr": "\"La course au Sénat de l'Alaska fait face à des allégations de candidat spoiler\". Et Hegseth évince le général de l'armée",
-    "de": "Alaskas Rennen um den Senat wird als potenzieller Spielverderber eingestuft. Und Hegseth verdrängt den Armeegeneral",
-    "zh": "阿拉斯加州的参议员竞选面临着破坏候选人的指控。并且，赫格斯驱逐了陆军将军",
-    "ru": "Предвыборная гонка в Сенате Аляски сталкивается с претензиями на кандидата-спойлера. И Хегсет свергает генерала армии"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "\"We've been killed by secret services\": Independent Russian newspaper Novaya Gazeta to close after 30 years",
-   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060432/",
-   "ts": 1793359200,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "«Нас убили спецслужби»: незалежну російську «Новую газету» закриють через 30 років",
-    "ru": "«Нас убили спецслужбы»: независимая российская «Новая газета» закроется спустя 30 лет",
-    "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Rozetka marketplace store damaged in Russian attack on Kyiv",
-   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060446/",
-   "ts": 1793359080,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Магазин Rozetka Marketplace постраждав під час нападу Росії на Київ",
-    "fr": "Le magasin du marché Rozetka endommagé lors de l'attaque russe contre Kyiv",
-    "de": "Der Laden auf dem Rozetka-Marktplatz wurde bei einem russischen Angriff auf Kiew beschädigt",
-    "zh": "Rozetka 市场商店在俄罗斯对基辅的袭击中受损",
-    "ru": "Магазин на торговой площадке «Розетка» пострадал в результате нападения РФ на Киев"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "UP finds that Odesa businessman may have sheltered fugitive prosecutor general Kravchenko in Vienna",
-   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060436/",
-   "ts": 1793359020,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "УП встановила, що одеський бізнесмен міг прихистити генпрокурора-втікача Кравченка у Відні",
-    "ru": "УП считает, что одесский бизнесмен мог приютить в Вене беглого генпрокурора Кравченко",
-    "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-   "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-   "ts": 1793358737,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Уолл-стріт готується до успіхів Демократичної партії з наближенням проміжних виборів 2026 року",
-    "fr": "Wall Street se prépare aux gains démocrates à l’approche des élections de mi-mandat de 2026",
-    "de": "Die Wall Street bereitet sich auf Zugewinne der Demokraten vor, während die Zwischenwahlen 2026 näher rückten",
-    "zh": "随着 2026 年中期选举临近，华尔街为民主党的胜利做好准备",
-    "ru": "Уолл-стрит готовится к успехам демократов по мере приближения промежуточных выборов 2026 года"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Euro zone growth beats projections but headwinds mount",
@@ -2074,9 +2296,9 @@
    "t": {
     "uk": "Зростання єврозони перевищує прогнози, але зустрічні вітри зростають",
     "ru": "Рост еврозоны превзошел прогнозы, но встречные ветры усиливаются",
+    "fr": "La croissance de la zone euro dépasse les prévisions mais les vents contraires s’accentuent",
+    "de": "Das Wachstum in der Eurozone übertrifft die Prognosen, aber der Gegenwind nimmt zu",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
    },
@@ -2114,9 +2336,9 @@
    "t": {
     "uk": "Прокуратура Словаччини відновила розслідування щодо надання Україні винищувачів",
     "ru": "Словацкая прокуратура возобновила расследование по факту передачи истребителей Украине",
+    "fr": "Le procureur slovaque rouvre l'enquête sur le don d'avions de combat à l'Ukraine",
+    "de": "Slowakischer Staatsanwalt nimmt Ermittlungen zur Kampfjet-Spende an die Ukraine wieder auf",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
    },
@@ -2141,24 +2363,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian forces strike facility in Chernihiv",
-   "url": "https://www.ukrinform.net/rubric-ato/4179717-russian-forces-strike-facility-in-chernihiv.html",
-   "ts": 1793357880,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські війська завдали удару по об'єкту в Чернігові",
-    "fr": "Les forces russes frappent une installation à Tchernihiv",
-    "de": "Russische Streitkräfte greifen Einrichtung in Tschernihiw an",
-    "zh": "俄罗斯军队袭击切尔尼戈夫设施",
-    "ru": "Российские войска нанесли удар по объекту в Чернигове"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Aid convoy enters besieged Ukrainian town Oleshky",
@@ -2178,61 +2382,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian forces strike Dnipro again",
-   "url": "https://www.ukrinform.net/rubric-ato/4179713-russian-forces-strike-dnipro-again.html",
-   "ts": 1793356980,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські війська знову атакують Дніпро",
-    "fr": "Les forces russes frappent à nouveau Dnipro",
-    "de": "Russische Streitkräfte greifen Dnipro erneut an",
-    "zh": "俄罗斯军队再次袭击第聂伯罗",
-    "ru": "Российские войска снова нанесли удар по Днепру"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Meeting is what matters: Zelenskyy's office responds to idea of phone call with Kremlin",
-   "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060430/",
-   "ts": 1793356560,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Важлива зустріч: в офісі Зеленського відповідають на ідею телефонної розмови з Кремлем",
-    "fr": "Ce qui compte, c'est la réunion : le bureau de Zelensky répond à l'idée d'un appel téléphonique avec le Kremlin",
-    "de": "Auf Treffen kommt es an: Selenskyjs Büro reagiert auf die Idee eines Telefongesprächs mit dem Kreml",
-    "zh": "会议才是最重要的：泽连斯基办公室回应与克里姆林宫通话的想法",
-    "ru": "Главное — встреча: в офисе Зеленского отреагировали на идею телефонного разговора с Кремлем"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "A rare Russia-Ukraine truce allows a humanitarian mission to reach the stricken city of Oleshky",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
-   "ts": 1793354700,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Рідкісне російсько-українське перемир'я дозволяє гуманітарній місії дістатися до постраждалого міста Олешки",
-    "fr": "Une rare trêve entre la Russie et l'Ukraine permet à une mission humanitaire d'atteindre la ville sinistrée d'Oleshky",
-    "de": "Ein seltener Waffenstillstand zwischen Russland und der Ukraine ermöglicht es einer humanitären Mission, die betroffene Stadt Oleshky zu erreichen",
-    "zh": "俄罗斯和乌克兰罕见地达成停战协议，允许人道主义救援团抵达受灾城市奥列什基",
-    "ru": "Редкое российско-украинское перемирие позволило гуманитарной миссии добраться до пострадавшего города Олешки"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
@@ -2247,114 +2396,6 @@
     "de": "Healeys Haushaltskürzungen bedeuten, dass Großbritannien die Ziele für umweltfreundliche Heizkosten wahrscheinlich verfehlen wird",
     "zh": "希利的预算削减意味着英国可能无法实现绿色供暖目标",
     "ru": "Сокращение бюджета Хили означает, что Великобритания, скорее всего, не достигнет целей по экологическому отоплению."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Ukraine imposes new sanctions on Russia's Rassvet satellite system, 39 shadow fleet vessels",
-   "url": "https://www.ukrinform.net/rubric-polytics/4179685-ukraine-imposes-new-sanctions-on-russias-rassvet-satellite-system-39-shadow-fleet-vessels.html",
-   "ts": 1793354400,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна запровадила нові санкції проти російської супутникової системи \"Рассвет\" і 39 кораблів тіньового флоту",
-    "fr": "L'Ukraine impose de nouvelles sanctions au système satellitaire russe Rassvet et à 39 navires de la flotte fantôme",
-    "de": "Die Ukraine verhängt neue Sanktionen gegen das russische Satellitensystem Rassvet und 39 Schiffe der Schattenflotte",
-    "zh": "乌克兰对俄罗斯 Rassvet 卫星系统和 39 艘影子舰队实施新制裁",
-    "ru": "Украина вводит новые санкции в отношении российской спутниковой системы «Рассвет» и 39 кораблей теневого флота"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "No ceasefire violations reported in Oleshky over past 75 hours – Lubinets",
-   "url": "https://www.ukrinform.net/rubric-ato/4179675-no-ceasefire-violations-reported-in-oleshky-over-past-75-hours-lubinets.html",
-   "ts": 1793353500,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "В Олешках за минулу добу порушень режиму припинення вогню не зафіксовано – Лубінець",
-    "fr": "Aucune violation du cessez-le-feu signalée à Oleshky au cours des dernières 75 heures – Lubinets",
-    "de": "In Oleschky wurden in den letzten 75 Stunden keine Verstöße gegen den Waffenstillstand gemeldet – Lubinez",
-    "zh": "过去 75 小时内奥列什基没有违反停火事件的报道 – Lubinets",
-    "ru": "За последние 75 часов в Олешках не зафиксировано нарушений режима прекращения огня – Лубинец"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
-   "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
-   "ts": 1793353207,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Починається евакуація Олешків, але волонтери стверджують, що Росія вже переселила людей поза домовленими термінами",
-    "fr": "L'évacuation d'Oleshky commence, mais un volontaire affirme que la Russie a déjà déplacé des personnes en dehors des conditions convenues",
-    "de": "Die Evakuierung von Oleshky beginnt, aber Freiwillige behaupten, Russland habe Menschen bereits außerhalb der vereinbarten Bedingungen umgesiedelt",
-    "zh": "奥列什基疏散开始，但志愿者声称俄罗斯已经在商定条件之外转移人员",
-    "ru": "Начинается эвакуация Олешек, но волонтеры утверждают, что Россия уже перевезла людей вне согласованных условий"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian attacks leave consumers without power in Kyiv and four regions – Ukrenergo",
-   "url": "https://www.ukrinform.net/rubric-economy/4179670-russian-attacks-leave-consumers-without-power-in-kyiv-and-four-regions-ukrenergo.html",
-   "ts": 1793352840,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські атаки залишають без світла споживачів Києва та чотирьох областей – Укренерго",
-    "fr": "Les attaques russes laissent les consommateurs sans électricité à Kyiv et dans quatre régions – Ukrenergo",
-    "de": "Russische Angriffe führen dazu, dass Verbraucher in Kiew und vier Regionen keinen Strom haben – Ukrenergo",
-    "zh": "俄罗斯的袭击导致基辅和四个地区的消费者断电 – Ukrenergo",
-    "ru": "Российские атаки оставили потребителей без электричества в Киеве и четырех регионах – Укрэнерго"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Here are the Senate races to watch ahead of Election Day",
-   "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-   "ts": 1793350800,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Ось перегони в Сенаті, які варто спостерігати перед днем ​​виборів",
-    "fr": "Voici les courses au Sénat à surveiller avant le jour du scrutin",
-    "de": "Hier sind die Rennen im Senat, die Sie vor dem Wahltag im Auge behalten sollten",
-    "zh": "以下是选举日之前值得关注的参议院竞选",
-    "ru": "Вот гонки в Сенате, за которыми стоит следить накануне дня выборов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Democrats seek to weaken the Republican lead in state legislatures",
-   "url": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
-   "ts": 1793350800,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократи прагнуть послабити лідерство республіканців у законодавчих зборах штатів",
-    "fr": "Les démocrates cherchent à affaiblir l’avance républicaine dans les législatures des États",
-    "de": "Die Demokraten versuchen, die Führung der Republikaner in den Parlamenten der Bundesstaaten zu schwächen",
-    "zh": "民主党寻求削弱共和党在州立法机构中的领先地位",
-    "ru": "Демократы стремятся ослабить лидерство республиканцев в законодательных собраниях штатов"
    },
    "lang": "en"
   },
@@ -2397,6 +2438,24 @@
   {
    "feed": "npr_politics",
    "source": "NPR",
+   "title": "Democrats seek to weaken the Republican lead in state legislatures",
+   "url": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+   "ts": 1793350800,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократи прагнуть послабити лідерство республіканців у законодавчих зборах штатів",
+    "fr": "Les démocrates cherchent à affaiblir l’avance républicaine dans les législatures des États",
+    "de": "Die Demokraten versuchen, die Führung der Republikaner in den Parlamenten der Bundesstaaten zu schwächen",
+    "zh": "民主党寻求削弱共和党在州立法机构中的领先地位",
+    "ru": "Демократы стремятся ослабить лидерство республиканцев в законодательных собраниях штатов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
    "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
    "url": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
    "ts": 1793350800,
@@ -2413,22 +2472,20 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
-   "url": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
-   "ts": 1793347306,
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Here are the Senate races to watch ahead of Election Day",
+   "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+   "ts": 1793350800,
    "sec": [
-    "world",
-    "market",
     "politics"
    ],
    "t": {
-    "uk": "Міністр фінансів попереджає, що французька економіка «притиснулася до стіни» через скорочення ВВП",
-    "fr": "L'économie française se dirige vers un mur alors que le PIB diminue, prévient le ministre des Finances",
-    "de": "Finanzminister warnt: „Die französische Wirtschaft steuert auf eine Wand zu, da das BIP schrumpft.“",
-    "zh": "财政部长警告称，随着GDP萎缩，法国经济“走向墙”",
-    "ru": "Французская экономика «приближается к стене» из-за сокращения ВВП, предупреждает министр финансов"
+    "uk": "Ось перегони в Сенаті, які варто спостерігати перед днем ​​виборів",
+    "fr": "Voici les courses au Sénat à surveiller avant le jour du scrutin",
+    "de": "Hier sind die Rennen im Senat, die Sie vor dem Wahltag im Auge behalten sollten",
+    "zh": "以下是选举日之前值得关注的参议院竞选",
+    "ru": "Вот гонки в Сенате, за которыми стоит следить накануне дня выборов"
    },
    "lang": "en"
   },
@@ -2487,24 +2544,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "Hitting the fan: London council angers residents with removal of 700 dog-waste bins",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/30/london-council-remove-dog-waste-bins-hillingdon",
-   "ts": 1793340046,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Удар по віялу: міська рада Лондона розлютила жителів, видаливши 700 урн для собачих відходів",
-    "fr": "Frapper le fan : le conseil municipal de Londres met les résidents en colère avec la suppression de 700 poubelles à déjections canines",
-    "de": "Auf den Punkt gebracht: Der Londoner Stadtrat verärgert Anwohner mit der Entfernung von 700 Hundekot-Behältern",
-    "zh": "引起轩然大波：伦敦议会拆除 700 个狗垃圾箱，激怒了居民",
-    "ru": "Удар по вентилятору: муниципалитет Лондона разозлил жителей удалением 700 мусорных баков для собак"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Oleshky aid mission and evacuations begin as local Russia-Ukraine truce holds",
@@ -2517,30 +2556,11 @@
    "t": {
     "uk": "Місія допомоги в Олешках та евакуація розпочинаються через локальне російсько-українське перемир’я",
     "ru": "Миссия Олешки по оказанию помощи и эвакуация начинаются в условиях локального перемирия между Россией и Украиной",
+    "fr": "La mission d'aide et les évacuations d'Olechky commencent alors que la trêve locale entre la Russie et l'Ukraine est maintenue",
+    "de": "Oleschkis Hilfsmission und Evakuierungen beginnen, da vor Ort Waffenstillstand zwischen Russland und der Ukraine herrscht",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Binance hit by $6.3 billion security breach in potential record crypto heist",
-   "url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
-   "ts": 1793332108,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Binance постраждав від порушення безпеки на суму 6,3 мільярда доларів у потенційному рекордному криптографічному пограбуванні",
-    "fr": "Binance touché par une faille de sécurité de 6,3 milliards de dollars lors d'un possible vol de crypto record",
-    "de": "Binance von Sicherheitsverstoß im Wert von 6,3 Milliarden US-Dollar bei potenziellem Rekord-Krypto-Raub betroffen",
-    "zh": "币安因潜在创纪录的加密货币盗窃案而遭遇 63 亿美元的安全漏洞",
-    "ru": "Binance пострадала от нарушения безопасности на сумму 6,3 миллиарда долларов в результате потенциального рекордного ограбления криптовалюты"
    },
    "lang": "en"
   },
@@ -2577,9 +2597,9 @@
    "t": {
     "uk": "Золото досягло чотиримісячного мінімуму, срібло впало нижче 50 доларів за унцію через побоювання ФРС щодо зростання",
     "ru": "Золото достигло четырехмесячного минимума, серебро упало ниже $50 за унцию на фоне опасений повышения ФРС",
+    "fr": "L'or atteint son plus bas niveau depuis quatre mois, l'argent tombe en dessous de 50 $ l'once en raison des craintes d'une hausse de la Fed",
+    "de": "Gold erreicht Viermonatstief, Silber fällt aufgrund von Zinserhöhungsängsten der Fed unter 50 USD/Unze",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
    },
@@ -2605,6 +2625,27 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9uNjhpN1dHMHNxdDR0SlBWa1VGV0Q5MkxrVWxKYWk0YWhtd2ZBZFM4dkYwaFNocVBfYmR2czM3VU9aUlV5SVMwRGtOWUJicTV4VFlZODRZRC1IMUw2aFZyYzcxUWpjWFNJbWY0YWFyaHJaRloxM1BWTlZzc1NzRkoyUm45aVNBM1hNODNWbkY4ZmpreWVmMXc4b2FGbkc5NzdWQkwwaWVCYm8?oc=5",
+   "ts": 1793326800,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Японський Nikkei впав на 3% через падіння акцій технологічних компаній через занепокоєння штучним інтелектом",
+    "fr": "Le Nikkei japonais s'effondre de 3% alors que les valeurs technologiques chutent en raison des inquiétudes liées à l'IA",
+    "de": "Japans Nikkei bricht um bis zu 3 % ein, da Technologieaktien aufgrund von KI-Sorgen einbrechen",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
+   },
+   "lang": "en"
+  },
+  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Justice Department issues subpoenas to California election workers",
@@ -2619,25 +2660,6 @@
     "de": "Das Justizministerium stellt Vorladungen an kalifornische Wahlhelfer aus",
     "zh": "司法部向加州选举工作人员发出传票",
     "ru": "Минюст США вызвал в суд сотрудников избирательных комиссий Калифорнии"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5",
-   "ts": 1793320080,
-   "sec": [
-    "market",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна призупиняє страйки на російських НПЗ після тиску Трампа, повідомляє WSJ",
-    "fr": "L'Ukraine suspend ses frappes contre les raffineries russes après la pression de Trump, rapporte le WSJ",
-    "de": "Die Ukraine unterbricht Streiks gegen russische Raffinerien auf Druck von Trump, berichtet WSJ",
-    "zh": "据《华尔街日报》报道，在特朗普的压力下，乌克兰暂停了对俄罗斯炼油厂的罢工",
-    "ru": "Украина приостановила удары по российским нефтеперерабатывающим заводам из-за давления со стороны Трампа, сообщает WSJ"
    },
    "lang": "en"
   },
@@ -2671,9 +2693,9 @@
    "t": {
     "uk": "Погляд The ​​Guardian на зміну дебатів щодо Brexit: Кемі Баденок потрапила в пастку заперечення | Редакція",
     "ru": "Мнение The Guardian об изменении дебатов по Брекситу: Кеми Баденоч застрял в ловушке отрицания | Редакционный",
+    "fr": "Le point de vue du Guardian sur un débat changeant sur le Brexit : Kemi Badenoch est piégée dans le déni | Éditorial",
+    "de": "Die Sicht des Guardian auf eine sich verändernde Brexit-Debatte: Kemi Badenoch ist in der Leugnung gefangen | Leitartikel",
     "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
    },
@@ -2806,38 +2828,24 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Treasury will not commit to reducing welfare bill before next election",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793270510,
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+   "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+   "ts": 1793273670,
    "sec": [
+    "world",
+    "market",
     "politics"
    ],
    "t": {
-    "uk": "Казначейство не візьме на себе зобов'язання зменшувати рахунок соціальної допомоги до наступних виборів",
-    "fr": "Le Trésor ne s'engagera pas à réduire la facture sociale avant les prochaines élections",
-    "de": "Das Finanzministerium wird sich nicht dazu verpflichten, die Sozialausgaben vor der nächsten Wahl zu kürzen",
-    "zh": "财政部不会承诺在下次选举前减少福利法案",
-    "ru": "Казначейство не будет брать на себя обязательства по сокращению расходов на социальное обеспечение до следующих выборов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Healey tells departments to make 1% cuts to fund defence",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793214094,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Хілі каже міністерствам скоротити фінансування оборони на 1%.",
-    "fr": "Healey demande aux ministères de réduire de 1 % le financement de la défense",
-    "de": "Healey fordert die Ministerien auf, die Verteidigungsfinanzierung um 1 % zu kürzen",
-    "zh": "希利要求各部门削减 1% 的国防经费",
-    "ru": "Хили посоветовал департаментам сократить расходы на оборону на 1%"
+    "uk": "Звіт про ВВП, щоб дати розуміння перед днем ​​виборів. І вибори в Ізраїлі зайшли в глухий кут",
+    "fr": "Rapport sur le PIB pour donner un aperçu avant le jour du scrutin. Et les élections israéliennes sont dans l’impasse",
+    "de": "BIP-Bericht soll vor dem Wahltag Einblicke geben. Und die Wahlen in Israel sind festgefahren",
+    "_miss": [
+     "zh",
+     "ru"
+    ]
    },
    "lang": "en"
   },
@@ -2889,29 +2897,9 @@
    "t": {
     "uk": "Бюджет на 2026 рік: шість діаграм, які розкривають економічні реалії, з якими стикається канцлер",
     "ru": "Бюджет-2026: шесть диаграмм, раскрывающих экономические реалии, стоящие перед канцлером",
+    "fr": "Budget 2026 : six graphiques qui révèlent les réalités économiques auxquelles est confrontée la chancelière",
+    "de": "Haushalt 2026: Sechs Diagramme, die die wirtschaftlichen Realitäten aufzeigen, vor denen die Kanzlerin steht",
     "_miss": [
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "How has Andy Burnham used his first 100 days in power?",
-   "url": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
-   "ts": 1793109863,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Як Енді Бернем використав свої перші 100 днів при владі?",
-    "ru": "Как Энди Бёрнем провел свои первые 100 дней у власти?",
-    "_miss": [
-     "fr",
-     "de",
      "zh"
     ]
    },
@@ -2947,7 +2935,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 25
+   "items": 27
   },
   {
    "source": "guardian_business",
@@ -2967,7 +2955,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 10
+   "items": 11
   },
   {
    "source": "reuters_business",
@@ -2987,7 +2975,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 37
+   "items": 36
   },
   {
    "source": "aljazeera",
@@ -3017,12 +3005,12 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 28
+   "items": 29
   },
   {
    "source": "guardian_politics",
    "ok": true,
-   "items": 20
+   "items": 19
   },
   {
    "source": "npr_politics",
@@ -3082,11 +3070,11 @@
   {
    "source": "translate",
    "ok": false,
-   "requests": 22,
-   "translated": 84,
-   "failed": 307,
+   "requests": 24,
+   "translated": 251,
+   "failed": 203,
    "method": {
-    "dict": 22
+    "dict": 24
    }
   },
   {
