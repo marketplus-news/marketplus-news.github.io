@@ -1,5 +1,5 @@
 {
- "updated": 1793488026,
+ "updated": 1793491507,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,6 +216,60 @@
  ],
  "items": [
   {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+   "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+   "ts": 1793491000,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Позов Трампа про наклеп проти Мердока, WSJ через лист Епштейна відхилив із упередженням",
+    "fr": "Le procès en diffamation de Trump contre Murdoch et le WSJ suite à la lettre d'Epstein rejeté avec préjudice",
+    "de": "Trump-Verleumdungsklage gegen Murdoch und WSJ wegen Epstein-Briefs mit Vorurteilen abgewiesen",
+    "zh": "特朗普因爱泼斯坦信件对默多克和《华尔街日报》提起诽谤诉讼，但被驳回",
+    "ru": "Иск Трампа о клевете против Мердока и WSJ из-за письма Эпштейна отклонен с предубеждением"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Russian airstrike destroys Kramatorsk city council building that survived 2014 occupation",
+   "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/",
+   "ts": 1793489281,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російська авіація знищила будівлю міськради Краматорська, яка пережила окупацію 2014 року",
+    "fr": "Une frappe aérienne russe détruit le bâtiment du conseil municipal de Kramatorsk qui a survécu à l'occupation de 2014",
+    "de": "Ein russischer Luftangriff zerstört das Gebäude des Stadtrats von Kramatorsk, das die Besetzung 2014 überstanden hat",
+    "zh": "俄罗斯空袭摧毁了 2014 年占领中幸存的克拉马托尔斯克市议会大楼",
+    "ru": "Российский авиаудар разрушил здание горсовета Краматорска, пережившее оккупацию 2014 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793487973,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Я роками застряг на маленькому тихоокеанському острові й не можу отримати транзитну візу, щоб полетіти додому",
+    "fr": "Je suis coincé sur une petite île du Pacifique depuis des années et je ne parviens pas à obtenir un visa de transit pour rentrer chez moi.",
+    "de": "Ich sitze seit Jahren auf einer winzigen Pazifikinsel fest und bekomme kein Transitvisum für den Heimflug",
+    "zh": "我被困在太平洋的一个小岛上很多年了，却无法获得飞回家的过境签证",
+    "ru": "Я застрял на крошечном острове в Тихом океане на долгие годы и не могу получить транзитную визу, чтобы полететь домой."
+   },
+   "lang": "en"
+  },
+  {
    "feed": "investing",
    "source": "Investing.com",
    "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
@@ -246,10 +300,8 @@
     "fr": "Principaux points à retenir de l'enquête annuelle Global Sportswear de Bernstein",
     "zh": "伯恩斯坦年度全球运动服装调查的主要要点",
     "ru": "Основные выводы ежегодного глобального исследования спортивной одежды Bernstein",
-    "_miss": [
-     "uk",
-     "de"
-    ]
+    "uk": "Найкращі висновки зі щорічного опитування Bernstein Global Sportswear",
+    "de": "Die wichtigsten Erkenntnisse aus Bernsteins jährlicher Global Sportswear-Umfrage"
    },
    "lang": "en"
   },
@@ -265,11 +317,9 @@
    "t": {
     "zh": "弗吉尼亚州和华盛顿特区起诉阻止修建特朗普拱门",
     "ru": "Вирджиния и округ Колумбия подали в суд, чтобы заблокировать строительство арки Трампа",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Вірджинія та округ Колумбія подали в суд, щоб заблокувати будівництво арки Трампа",
+    "fr": "La Virginie et DC intentent une action en justice pour bloquer la construction de l'arche de Trump",
+    "de": "Virginia und D.C. klagen, um den Bau des Trump Arch zu blockieren"
    },
    "lang": "en"
   },
@@ -285,11 +335,9 @@
    "t": {
     "zh": "消息人士称，OPEC+原则上同意保持12月石油产量目标稳定",
     "ru": "ОПЕК+ в принципе согласна сохранить неизменными целевые показатели добычи нефти в декабре, сообщают источники",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Джерела повідомляють, що ОПЕК+ в принципі погоджується зберегти цілі видобутку нафти в грудні стабільними",
+    "fr": "L'OPEP+ accepte en principe de maintenir ses objectifs de production pétrolière en décembre, selon des sources",
+    "de": "Laut Quellen stimmt die OPEC+ im Prinzip zu, die Ölförderziele im Dezember konstant zu halten"
    },
    "lang": "en"
   },
@@ -305,11 +353,27 @@
    "t": {
     "zh": "尽管遭到抗议，图斯克仍为波兰宪法法院的改革辩护",
     "ru": "Туск защищает реформу Конституционного суда Польши, несмотря на протесты",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Туск захищає реформу Конституційного суду Польщі, незважаючи на протести",
+    "fr": "Tusk défend la refonte de la Cour constitutionnelle polonaise malgré les protestations",
+    "de": "Tusk verteidigt trotz Protesten die Überarbeitung des polnischen Verfassungsgerichts"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Ukraine and NATO to deepen cooperation on innovative technologies",
+   "url": "https://www.ukrinform.net/rubric-polytics/4179942-ukraine-and-nato-to-deepen-cooperation-on-innovative-technologies.html",
+   "ts": 1793486400,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Україна та НАТО поглиблюють співпрацю з інноваційних технологій",
+    "fr": "L'Ukraine et l'OTAN vont approfondir leur coopération dans le domaine des technologies innovantes",
+    "de": "Ukraine und NATO vertiefen Zusammenarbeit bei innovativen Technologien",
+    "zh": "乌克兰与北约深化创新技术合作",
+    "ru": "Украина и НАТО углубят сотрудничество в сфере инновационных технологий"
    },
    "lang": "en"
   },
@@ -325,11 +389,9 @@
    "t": {
     "zh": "荷兰当局救起橡皮船上漂流的38人",
     "ru": "Власти Нидерландов спасли 38 человек, дрейфующих в резиновой лодке",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Влада Нідерландів врятувала 38 людей, що дрейфували на гумовому човні",
+    "fr": "Les autorités néerlandaises sauvent 38 personnes à la dérive dans un canot pneumatique",
+    "de": "Niederländische Behörden retten 38 Menschen, die in einem Schlauchboot treiben"
    },
    "lang": "en"
   },
@@ -346,11 +408,45 @@
    "t": {
     "zh": "特朗普在与爱泼斯坦有关的《华尔街日报》案件中输掉了官司",
     "ru": "Трамп проиграл судебную тяжбу по делу Wall Street Journal, связанному с Эпштейном",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Трамп програв судову битву за пов’язану з Епштейном справу Wall Street Journal",
+    "fr": "Trump perd la bataille juridique dans l'affaire du Wall Street Journal liée à Epstein",
+    "de": "Trump verliert den Rechtsstreit im Wall Street Journal-Fall, der mit Epstein in Verbindung steht"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
+   "ts": 1793486040,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "У Каліфорнії сталася стрілянина в магазині Spirit Halloween: вагітна жінка загинула та 6 поранено",
+    "fr": "Une fusillade dans un magasin Spirit Halloween en Californie fait une femme enceinte morte et 6 blessées",
+    "de": "Bei Schießerei im Spirit-Halloween-Laden in Kalifornien sterben schwangere Frau und sechs werden verletzt",
+    "zh": "加州Spirit万圣节商店发生枪击事件，造成孕妇死亡、六人受伤",
+    "ru": "В результате стрельбы в магазине Spirit Halloween в Калифорнии погибла беременная женщина и ранены шестеро"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
+   "ts": 1793485920,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "ru": "Анализ показывает, что более 40% имен в списке предполагаемых неграждан Министерства юстиции не фигурируют в списках избирателей Калифорнии.",
+    "uk": "Понад 40% імен зі списку міністерства юстиції ймовірних негромадян не входять до списків виборців Каліфорнії, показує аналіз",
+    "fr": "Plus de 40 % des noms figurant sur la liste des non-citoyens présumés du DOJ ne figurent pas sur les listes électorales de Californie, selon une analyse",
+    "de": "Laut einer Analyse stehen über 40 % der Namen auf der Liste der mutmaßlichen Nicht-Staatsbürger des US-Justizministeriums nicht im kalifornischen Wählerverzeichnis",
+    "zh": "分析发现，司法部涉嫌非公民名单上超过 40% 的名字并未出现在加州选民名册上"
    },
    "lang": "en"
   },
@@ -403,11 +499,9 @@
    "t": {
     "zh": "巴勒斯坦行动支持者在美国驻伦敦大使馆外被捕",
     "ru": "Сторонников «Палестинских действий» арестовали возле посольства США в Лондоне",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Біля посольства США в Лондоні затримали прихильників Palestine Action",
+    "fr": "Des partisans de Palestine Action arrêtés devant l’ambassade américaine à Londres",
+    "de": "Unterstützer der Palästina-Aktion wurden vor der US-Botschaft in London festgenommen"
    },
    "lang": "en"
   },
@@ -423,11 +517,9 @@
    "t": {
     "zh": "英国首相伯纳姆表示，他愿意就奴隶制问题正式道歉，但排除赔偿的可能性",
     "ru": "Премьер-министр Великобритании Бёрнем заявил, что он «открыт» для официальных извинений за рабство, но исключает возможность возмещения ущерба",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Прем'єр-міністр Великої Британії Бернем каже, що «відкритий» до офіційних вибачень за рабство, але виключає репарації",
+    "fr": "Le Premier ministre britannique Burnham se dit « ouvert » aux excuses officielles pour l'esclavage, mais exclut les réparations",
+    "de": "Der britische Premierminister Burnham sagt, er sei „offen“ für eine formelle Entschuldigung für die Sklaverei, schließt jedoch Wiedergutmachungen aus"
    },
    "lang": "en"
   },
@@ -442,12 +534,10 @@
    ],
    "t": {
     "ru": "Зеленский назвал возможные даты трехсторонней встречи Украины, США и России",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Зеленський окреслив можливі дати тристоронньої зустрічі Україна, США та Росія",
+    "fr": "Zelensky présente les dates possibles d'une réunion trilatérale entre l'Ukraine, les États-Unis et la Russie",
+    "de": "Selenskyj skizziert mögliche Termine für ein trilaterales Treffen zwischen der Ukraine, den USA und Russland",
+    "zh": "泽连斯基概述了乌克兰、美国、俄罗斯三边会议的可能日期"
    },
    "lang": "en"
   },
@@ -482,11 +572,9 @@
    "t": {
     "zh": "朝鲜称国防研究机构测试了主要武器系统",
     "ru": "Северная Корея заявляет, что оборонные научно-исследовательские институты испытали крупную систему вооружений",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Північна Корея каже, що науково-дослідні інститути оборони випробували велику систему озброєння",
+    "fr": "La Corée du Nord affirme que des instituts de recherche sur la défense ont testé un système d'armes majeur",
+    "de": "Nordkorea sagt, Verteidigungsforschungsinstitute hätten ein wichtiges Waffensystem getestet"
    },
    "lang": "en"
   },
@@ -501,12 +589,10 @@
    ],
    "t": {
     "ru": "ФБР связывает Северную Корею с кражей $6 млрд у Binance",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "ФБР пов'язує Північну Корею з крадіжкою 6 мільярдів доларів у Binance",
+    "fr": "Le FBI relie la Corée du Nord au vol de 6 milliards de dollars à Binance",
+    "de": "Das FBI bringt Nordkorea mit dem Diebstahl von 6 Milliarden US-Dollar von Binance in Verbindung",
+    "zh": "FBI 称朝鲜涉嫌从币安盗窃 60 亿美元"
    },
    "lang": "en"
   },
@@ -522,12 +608,28 @@
    ],
    "t": {
     "ru": "Юридическая жалоба ставит под сомнение утверждения Трампа о голосовании неграждан в Калифорнии",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Судова заява ставить під сумнів твердження Трампа про голосування негромадян у Каліфорнії",
+    "fr": "Un dossier juridique remet en question les affirmations de Trump concernant le vote des non-citoyens en Californie",
+    "de": "Die Klageschrift stellt Trumps Behauptungen in Frage, in Kalifornien hätten Nicht-Staatsbürger gewählt",
+    "zh": "法律文件质疑特朗普关于加州非公民投票的说法"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGw3Zm1VdjB6bGlhTElQR3huQmFMdG5YMG0tUHhuanV2UFFZTndBVno2TmhFTWpySWdianloRF9CSXdWVXRzcTZsSWpWbHVWQ0pxX2haLW1Jdi1MNmJYeWszaTZSd3RLZGFwYmtNN0pOQ1E5NGdnblphTThOZGpkeHBmWUV2bU5SNllVa2VyTTJyM3NvNkt4WUlab2E2eVhqRmZ6R1FSRTV0eXRsSnhPQVpNMUREX28?oc=5",
+   "ts": 1793482620,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев каже баскетбольним командам Вілланови та Нотр-Дам, що він нейтральний. Превост має інші ідеї",
+    "fr": "Le pape Léon dit aux équipes de basket-ball de Villanova et de Notre-Dame qu'il est neutre. Prévost a d'autres idées",
+    "de": "Papst Leo sagt den Basketballteams Villanova und Notre Dame, dass er neutral sei. Prevost hat andere Ideen",
+    "zh": "教皇利奥告诉维拉诺瓦大学和圣母大学篮球队，他是中立的。普雷沃斯特还有其他想法",
+    "ru": "Папа Лев заявил баскетбольным командам Виллановы и Нотр-Дама, что он придерживается нейтральной позиции. У Прево другие идеи"
    },
    "lang": "en"
   },
@@ -634,11 +736,9 @@
    "t": {
     "zh": "数千人返回里斯本广场，敦促政府废除租金法案",
     "ru": "Тысячи людей вернулись на площадь Лиссабона и потребовали от правительства отменить законопроект об аренде",
-    "_miss": [
-     "uk",
-     "fr",
-     "de"
-    ]
+    "uk": "Тисячі повертаються на Лісабонську площу, вимагаючи від уряду скасувати законопроект про оренду",
+    "fr": "Des milliers de personnes retournent sur la place de Lisbonne et font pression sur le gouvernement pour qu'il supprime la facture de loyer",
+    "de": "Tausende kehren zum Lissabonner Platz zurück und drängen die Regierung, die Mietrechnung abzuschaffen"
    },
    "lang": "en"
   },
@@ -707,12 +807,10 @@
    ],
    "t": {
     "ru": "Смешанный экономический прогноз имеет большое значение в преддверии промежуточных выборов",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Змішаний економічний прогноз є важким перед середньостроковими періодами",
+    "fr": "Des prévisions économiques mitigées pèsent lourd avant la mi-mandat",
+    "de": "Die gemischten Wirtschaftsprognosen belasten die Halbzeitprüfungen",
+    "zh": "中期选举前经济预测好坏参半"
    },
    "lang": "en"
   },
@@ -803,24 +901,6 @@
     "de": "Heftige Auseinandersetzungen zwischen Demonstranten und Polizei in Albanien",
     "zh": "阿尔巴尼亚抗议者与警察发生激烈冲突",
     "ru": "Ожесточенные столкновения между протестующими и полицией в Албании"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-   "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-   "ts": 1793480753,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Позов Трампа про наклеп проти Мердока, WSJ через лист Епштейна відхилив із упередженням",
-    "fr": "Le procès en diffamation de Trump contre Murdoch et le WSJ suite à la lettre d'Epstein rejeté avec préjudice",
-    "de": "Trump-Verleumdungsklage gegen Murdoch und WSJ wegen Epstein-Briefs mit Vorurteilen abgewiesen",
-    "zh": "特朗普因爱泼斯坦信件对默多克和《华尔街日报》提起诽谤诉讼，但被驳回",
-    "ru": "Иск Трампа о клевете против Мердока и WSJ из-за письма Эпштейна отклонен с предубеждением"
    },
    "lang": "en"
   },
@@ -990,26 +1070,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
-   "ts": 1793478240,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "ru": "Анализ показывает, что более 40% имен в списке предполагаемых неграждан Министерства юстиции не фигурируют в списках избирателей Калифорнии.",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Man in Belfast charged with possessing explosives and firearms",
@@ -1156,42 +1216,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'Gen Z' demonstrations across Germany demand more education funding",
-   "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
-   "ts": 1793477272,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Демонстрації «покоління Z» по всій Німеччині вимагають збільшення фінансування освіти",
-    "fr": "Les manifestations de la « génération Z » dans toute l'Allemagne réclament davantage de financement pour l'éducation",
-    "de": "Auf Demonstrationen der „Gen Z“ in ganz Deutschland wird mehr Bildungsfinanzierung gefordert",
-    "zh": "德国各地的“Z世代”示威活动要求更多教育资金",
-    "ru": "Демонстрации «поколения Z» по всей Германии требуют увеличения финансирования образования"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
-   "ts": 1793476836,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Посла Ірану зустрічаються з катарськими посередниками через загрозу ударів США після проміжних виборів",
-    "fr": "Les envoyés iraniens rencontrent les médiateurs qataris alors que la menace de frappes américaines se profile après la mi-mandat",
-    "de": "Iranische Gesandte treffen sich mit katarischen Vermittlern, während nach den Zwischenwahlen die Gefahr von US-Angriffen droht",
-    "zh": "中期选举后美国袭击威胁迫在眉睫，伊朗特使会见卡塔尔调解员",
-    "ru": "Иранские посланники встретились с катарскими посредниками, поскольку после промежуточных выборов нависла угроза ударов США"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
@@ -1221,12 +1245,10 @@
    ],
    "t": {
     "ru": "Туск защищает отстранение от должности председателя Конституционного трибунала Польши, поскольку протестующие снова собираются",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Туск захищає призупинення повноважень президента Конституційного трибуналу Польщі, оскільки протестувальники знову збираються",
+    "fr": "Tusk défend la suspension du président du Tribunal constitutionnel polonais alors que les manifestants se rassemblent à nouveau",
+    "de": "Tusk verteidigt die Suspendierung des Präsidenten des polnischen Verfassungsgerichtshofs, während sich erneut Demonstranten versammeln",
+    "zh": "图斯克为波兰宪法法庭庭长停职辩护，抗议者再次聚集"
    },
    "lang": "en"
   },
@@ -1796,24 +1818,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Zelensky, Erdogan discuss ways to unblock Black Sea",
-   "url": "https://www.ukrinform.net/rubric-polytics/4180091-zelensky-erdogan-discuss-ways-to-unblock-black-sea.html",
-   "ts": 1793466300,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський і Ердоган обговорюють шляхи розблокування Чорного моря",
-    "fr": "Zelensky et Erdogan discutent des moyens de débloquer la mer Noire",
-    "de": "Selenskyj und Erdogan diskutieren Möglichkeiten zur Freigabe des Schwarzen Meeres",
-    "zh": "泽伦斯基与埃尔多安讨论疏通黑海的方法",
-    "ru": "Зеленский и Эрдоган обсудили пути разблокирования Черного моря"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "investing_comm",
    "source": "Investing.com",
    "title": "OPEC+ set to keep production targets unchanged in December, source says",
@@ -1824,12 +1828,10 @@
    ],
    "t": {
     "ru": "ОПЕК+ намерена сохранить объемы добычи без изменений в декабре, сообщил источник",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "За словами джерела, ОПЕК+ має намір залишити цілі видобутку незмінними в грудні",
+    "fr": "L'OPEP+ devrait maintenir ses objectifs de production inchangés en décembre, selon une source",
+    "de": "Laut einer Quelle wird die OPEC+ ihre Produktionsziele im Dezember unverändert lassen",
+    "zh": "消息人士称，OPEC+将维持12月产量目标不变"
    },
    "lang": "en"
   },
@@ -1904,6 +1906,24 @@
     "de": "Selenskyj sagte, die Ukraine und die Türkei hätten vereinbart, am Schwarzmeer-Getreidekorridor zu arbeiten",
     "zh": "泽伦斯基表示，乌克兰和土耳其已同意在黑海粮食走廊上开展合作",
     "ru": "Зеленский заявил, что Украина и Турция договорились работать над Черноморским зерновым коридором"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "African lenders formally establish $5 billion energy bank",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0psczBDdnpUSWlSNnRmQURlR2tEUFhHVFZkZktQRTNRNWNNUU1laFplb2RfbDNGNGItRmF4d3A4XzdvdkdmZFQyMEQ1Q0c2bUhiWEZUSlpuV2ZXRXBsS0kzTkJkS2JJNGFDc2M1M1Y0WUc0UnVwa04xWVZIN2xJVFFjeUpLck1IUU5aWWpjWU92ZHc2VVNNYVFvTzJXdDlZSFNrZmx3enBYTkMx?oc=5",
+   "ts": 1793463580,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Африканські кредитори офіційно заснували енергетичний банк на 5 мільярдів доларів",
+    "fr": "Les prêteurs africains créent officiellement une banque de l’énergie de 5 milliards de dollars",
+    "de": "Afrikanische Kreditgeber gründen offiziell eine 5-Milliarden-Dollar-Energiebank",
+    "zh": "非洲银行正式成立 50 亿美元能源银行",
+    "ru": "Африканские кредиторы официально учредили энергетический банк на 5 миллиардов долларов"
    },
    "lang": "en"
   },
@@ -2000,18 +2020,18 @@
   {
    "feed": "guardian_business",
    "source": "The Guardian",
-   "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
-   "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
-   "ts": 1793462446,
+   "title": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
+   "ts": 1793462447,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Житлову кризу в Британії не вдасться вирішити без нового податкового ландшафту",
-    "fr": "La crise du logement en Grande-Bretagne ne sera pas résolue sans un nouveau paysage fiscal",
-    "de": "Die britische Immobilienkrise wird ohne eine neue Steuerlandschaft nicht gelöst werden können",
-    "zh": "如果没有新的税收格局，英国的住房危机就无法解决",
-    "ru": "Жилищный кризис в Британии не будет решен без нового налогового ландшафта"
+    "uk": "Це ближче до Пекіна, ніж до Вашингтона, і жителі цього аляскинського форпосту не враховують політики Трампа",
+    "fr": "C’est plus proche de Pékin que de Washington – et les habitants de cet avant-poste d’Alaska sont sous le choc de la politique de Trump.",
+    "de": "Es liegt näher an Peking als an Washington – und die Bewohner dieses Außenpostens in Alaska sind von Trumps Politik betroffen",
+    "zh": "这里距离北京比华盛顿更近——而这个阿拉斯加前哨基地的居民正对特朗普的政策感到不安",
+    "ru": "Он ближе к Пекину, чем к Вашингтону – и жители этого форпоста на Аляске недовольны политикой Трампа"
    },
    "lang": "en"
   },
@@ -2066,24 +2086,6 @@
     "de": "Der finnische Präsident sagte, er habe Putin zwei Botschaften von Selenskyj übermittelt",
     "zh": "芬兰总统表示，他向普京转达了泽伦斯基的两条信息",
     "ru": "Президент Финляндии заявил, что передал Путину два послания от Зеленского"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
-   "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
-   "ts": 1793461031,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції почали тиждень багатообіцяюче, але закінчили розпачем. Наш погляд на великий розворот",
-    "fr": "Les actions ont commencé la semaine avec des promesses mais se sont terminées dans le désespoir. Notre point de vue sur le grand renversement",
-    "de": "Die Aktien begannen die Woche vielversprechend, endeten jedoch mit Verzweiflung. Unsere Sicht auf die große Trendwende",
-    "zh": "本周股市开局充满希望，但最终却陷入绝望。我们对大逆转的看法",
-    "ru": "Акции начали неделю многообещающе, но завершили ее отчаянием. Наш взгляд на большой разворот"
    },
    "lang": "en"
   },
@@ -2156,24 +2158,6 @@
     "de": "Burnham ist „offen“ für Forderungen nach einer Entschuldigung für die Sklaverei, aber nicht nach Wiedergutmachung",
     "zh": "伯纳姆“开放”呼吁就奴隶制道歉但不赔偿",
     "ru": "Бёрнем «открыт» для призывов к извинениям за рабство, но не к возмещению ущерба"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "'It's a miracle' — Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
-   "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
-   "ts": 1793451844,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "«Це диво» — жителі Олешків дісталися підконтрольної Україні території, врятувавшись від російської окупації",
-    "fr": "\"C'est un miracle\" — Les habitants d'Olechky atteignent le territoire sous contrôle ukrainien après avoir échappé à l'occupation russe",
-    "de": "„Es ist ein Wunder“ – Bewohner von Oleshky erreichen ukrainisch kontrolliertes Gebiet, nachdem sie der russischen Besatzung entkommen sind",
-    "zh": "“这是一个奇迹”——奥列什基居民逃离俄罗斯占领后到达乌克兰控制的领土",
-    "ru": "«Это чудо» — жители Олешек, спасаясь от российской оккупации, добрались до территории, контролируемой Украиной"
    },
    "lang": "en"
   },
@@ -2737,12 +2721,10 @@
    ],
    "t": {
     "ru": "Комиссия ЕС создает основу для одобрения стран ЕС оставшегося кредита Украине к 2027 году",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Комісія ЄС встановлює рамки для того, щоб країни ЄС схвалили решту позики Україні до 2027 року",
+    "fr": "La Commission européenne met en place un cadre permettant aux pays de l'UE d'approuver le prêt restant à l'Ukraine d'ici 2027",
+    "de": "Die EU-Kommission legt einen Rahmen für die Genehmigung der verbleibenden Ukraine-Kredite durch die EU-Länder bis 2027 fest",
+    "zh": "欧盟委员会为欧盟国家制定框架，以在 2027 年之前批准剩余的乌克兰贷款"
    },
    "lang": "en"
   },
@@ -2776,12 +2758,10 @@
    ],
    "t": {
     "ru": "Украинский производитель оружия Fire Point заявляет, что его системы могут выполнять миссии без SpaceX",
-    "_miss": [
-     "uk",
-     "fr",
-     "de",
-     "zh"
-    ]
+    "uk": "Український виробник зброї Fire Point каже, що його системи можуть виконувати місії без SpaceX",
+    "fr": "Le fabricant d'armes ukrainien Fire Point affirme que ses systèmes peuvent accomplir des missions sans SpaceX",
+    "de": "Der ukrainische Waffenhersteller Fire Point gibt an, dass seine Systeme Missionen ohne SpaceX durchführen können",
+    "zh": "乌克兰武器制造商 Fire Point 表示其系统无需 SpaceX 即可完成任务"
    },
    "lang": "en"
   },
@@ -2856,7 +2836,7 @@
   {
    "source": "guardian_business",
    "ok": true,
-   "items": 40
+   "items": 37
   },
   {
    "source": "dw_business",
@@ -2871,7 +2851,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 10
+   "items": 7
   },
   {
    "source": "reuters_business",
@@ -2956,7 +2936,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
@@ -2985,12 +2965,11 @@
   },
   {
    "source": "translate",
-   "ok": false,
-   "requests": 6,
-   "translated": 33,
-   "failed": 67,
+   "ok": true,
+   "requests": 8,
+   "translated": 100,
    "method": {
-    "dict": 6
+    "dict": 8
    }
   },
   {
