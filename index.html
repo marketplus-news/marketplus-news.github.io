@@ -33,6 +33,9 @@
 <link rel="alternate" hreflang="ru" href="https://marketplus-news.github.io/?lang=ru">
 <link rel="alternate" hreflang="x-default" href="https://marketplus-news.github.io/">
 <link rel="stylesheet" href="style.css?v=8">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=1">
+<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
 <script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
 (function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
 try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
@@ -40,27 +43,30 @@ if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
 if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
 document.documentElement.lang=L[c]||"en";})();</script>
 </head>
-<body>
+<body data-nav="home">
 <header class="top"><div class="wrap">
   <div class="brand">
-    <a class="logo" href="./#top"><img src="favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <a class="logo" href="/"><img src="/favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
     <div class="lang-dd" id="langDD">
       <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
       <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
     </div>
   </div>
-  <nav class="main" aria-label="Main" data-i18n-aria="nav.aria">
-    <a class="hide-xs" href="#news" data-i18n="nav.news">News</a>
-    <a class="hide-sm" href="#products" data-i18n="nav.products">Products</a>
-    <a class="hide-sm" href="#about" data-i18n="nav.about">About</a>
-    <a class="hide-xs" href="guides/" data-i18n="nav.guides">Guides</a>
+  <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">Menu</span></button>
+  <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
+    <a href="/news/" data-nav="news" data-i18n="nav.news">News</a>
+    <a href="/analysis/" data-nav="analysis" data-i18n="nav.analysis">Analysis</a>
+    <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
+    <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
+    <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
     <a class="pbtn" href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener" lang="en" translate="no">Patreon</a>
     <a class="xbtn" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2.3h3.4l-7.4 8.4 8.7 11.5h-6.8l-5.3-7-6.1 7H1.3l7.9-9L.9 2.3h7l4.8 6.4 5.5-6.4Zm-1.2 17.9h1.9L7 4.2H5Z"/></svg></a>
   </nav>
 </div></header>
 
 <main id="top">
-<section class="hero"><div class="wrap">
+<section class="hero"><canvas class="hero-fx" aria-hidden="true"></canvas><div class="wrap">
   <div class="badge" data-i18n="hero.badge">● Market Plus · live news from X</div>
   <h1><span class="g" lang="en" translate="no">Market Plus</span> — <span data-i18n="hero.h1">market and world news</span></h1>
   <p class="lead" data-i18n="hero.lead">Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.</p>
@@ -83,6 +89,8 @@ document.documentElement.lang=L[c]||"en";})();</script>
   <p class="qnote" id="qNote"></p>
 </div></section>
 
+<!--mp:latest--><section id="latest" class="latest"><div class="wrap"><div class="shead"><div><h2 data-i18n="home.lat.h">Latest articles</h2><p class="sub" data-i18n="home.lat.sub">Explainers and practical guides on markets, money and planning.</p></div><a class="more" href="/analysis/" data-i18n="art.all">All articles →</a></div><div class="agrid feature2"><article class="acard" lang="en"><a class="acard-link" href="/analysis/what-moves-gold-prices.html"><div class="acard-img cover cover-gold" aria-hidden="true"><span lang="en" translate="no">XAU</span></div><div class="acard-body"><span class="kicker">Gold · XAU/USD</span><h3>What Moves the Gold Price? A Plain-English Guide to XAU/USD</h3><p>Real yields, the dollar, safe-haven demand and central bank buying: the forces behind XAU/USD.</p><span class="ameta">November 1, 2026 · 3 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/guides/how-to-plan-christmas-budget-2026.html"><div class="acard-img"><img src="/assets/christmas-budget-2026.webp" alt="" loading="lazy" decoding="async" width="800" height="450"></div><div class="acard-body"><span class="kicker">Guide · Budgeting</span><h3>How to Plan a Christmas Budget in 2026 (Step by Step)</h3><p>Set a total, gift limits per person, cover hidden costs and track spending, with an example $800 budget.</p><span class="ameta">October 25, 2026 · 5 min read</span></div></a></article></div><div class="agrid "><article class="acard" lang="en"><a class="acard-link" href="/analysis/how-forex-quotes-work.html"><div class="acard-img cover cover-fx" aria-hidden="true"><span lang="en" translate="no">FX</span></div><div class="acard-body"><span class="kicker">Forex</span><h3>How Forex Quotes Work: Currency Pairs, Pips and Spreads</h3><p>Base and quote currencies, bid and ask, pips and lots, and what moves exchange rates.</p><span class="ameta">November 1, 2026 · 3 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/analysis/crypto-market-basics.html"><div class="acard-img cover cover-crypto" aria-hidden="true"><span lang="en" translate="no">BTC</span></div><div class="acard-body"><span class="kicker">Crypto</span><h3>Crypto Market Basics: Bitcoin, Altcoins, Stablecoins and Market Cap</h3><p>Bitcoin, altcoins and stablecoins, what market cap really measures and the main risks.</p><span class="ameta">November 1, 2026 · 2 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/analysis/how-stock-indices-work.html"><div class="acard-img cover cover-stocks" aria-hidden="true"><span lang="en" translate="no">SPX</span></div><div class="acard-body"><span class="kicker">Stocks</span><h3>How Stock Market Indices Work: S&amp;P 500, Nasdaq and the Dow</h3><p>How the S&amp;P 500, Nasdaq and Dow are built, why weighting matters, and what moves an index.</p><span class="ameta">November 1, 2026 · 2 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/guides/savings-challenges-2027.html"><div class="acard-img"><img src="/assets/savings-challenge-2027.webp" alt="" loading="lazy" decoding="async" width="800" height="450"></div><div class="acard-body"><span class="kicker">Guide · Saving</span><h3>16 Savings Challenges for 2027: How Each Works and the Real Totals</h3><p>52-week, 100 envelope, 26-week, penny and 12 more challenges, with exact totals and a summary table.</p><span class="ameta">October 25, 2026 · 6 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/guides/how-to-set-goals-2027.html"><div class="acard-img"><img src="/assets/goal-planner-2027-pro.webp" alt="" loading="lazy" decoding="async" width="800" height="450"></div><div class="acard-body"><span class="kicker">Guide · Planning</span><h3>How to Set Goals for 2027 That You Actually Keep</h3><p>Yearly vision, 3 to 5 goals, quarterly OKRs with a worked example, weekly actions and a monthly review.</p><span class="ameta">October 25, 2026 · 5 min read</span></div></a></article><article class="acard" lang="en"><a class="acard-link" href="/guides/how-to-keep-a-trading-journal.html"><div class="acard-img"><img src="/assets/trading-journal.webp" alt="" loading="lazy" decoding="async" width="800" height="450"></div><div class="acard-body"><span class="kicker">Guide · Trading</span><h3>How to Keep a Trading Journal: What to Log and Why</h3><p>The fields to log for every trade, how to calculate R, and the review metrics that matter. Educational only.</p><span class="ameta">October 25, 2026 · 5 min read</span></div></a></article></div></div></section><!--/mp:latest-->
+
 <section id="news"><div class="wrap">
   <h2 data-i18n="news.h">Latest news</h2>
   <p class="sub" data-i18n="news.sub">Headlines on markets, world, politics and Ukraine from open news sources, plus our posts on X. Updated automatically every 30 minutes.</p>
@@ -95,6 +103,8 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <small data-i18n="news.hint">Tap a headline to open the original in a new tab. Headlines are machine-translated into the site language.</small>
   </div>
 </div></section>
+
+<!--mp:sections--><section id="sections" class="sections"><div class="wrap"><h2 data-i18n="home.sec.h">Sections</h2><p class="sub" data-i18n="home.sec.sub">Everything on Market Plus, in one place.</p><div class="sgrid"><a class="scard" href="/news/"><span class="sicon" aria-hidden="true">N</span><h3 data-i18n="nav.news">News</h3><p data-i18n="sec.news.d">Live headlines on markets, world, politics and Ukraine, updated every 30 minutes.</p><span class="mlink" data-i18n="sec.open">Open section →</span></a><a class="scard" href="/analysis/"><span class="sicon" aria-hidden="true">A</span><h3 data-i18n="nav.analysis">Analysis</h3><p data-i18n="sec.analysis.d">Evergreen explainers: what moves gold, how forex quotes work, crypto and stock index basics.</p><span class="mlink" data-i18n="sec.open">Open section →</span></a><a class="scard" href="/markets/"><span class="sicon" aria-hidden="true">M</span><h3 data-i18n="nav.markets">Markets</h3><p data-i18n="sec.markets.d">Gold (XAU/USD), forex, crypto and stocks: quotes strip, market headlines and explainers.</p><span class="mlink" data-i18n="sec.open">Open section →</span></a><a class="scard" href="/planners/"><span class="sicon" aria-hidden="true">P</span><h3 data-i18n="nav.planners">Planners</h3><p data-i18n="sec.planners.d">Digital planners and templates on Etsy and Patreon: budgets, goals, savings and trading journals.</p><span class="mlink" data-i18n="sec.open">Open section →</span></a></div></div></section><!--/mp:sections-->
 
 <section id="products"><div class="wrap">
   <h2 data-i18n="prod.h">Products</h2>
@@ -115,11 +125,16 @@ document.documentElement.lang=L[c]||"en";})();</script>
 </main>
 
 <footer><div class="wrap">
-  <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p>
-  <div class="flinks" lang="en" translate="no"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
-  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="guides/" data-i18n="nav.guides">Guides</a> · <a href="terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="fgrid">
+    <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+      <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/about/" data-i18n="nav.about">About</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
   <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
 </div></footer>
 <script src="app.js?v=1792944444" defer></script>
+<script src="/assets/site.js?v=1" defer></script>
 </body>
 </html>

@@ -46,3 +46,9 @@ Not investment advice.
 - `tools/guides_src/build.py` builds `guides/*.html` (English) and `guides/<lang>/*.html` for ru, uk, fr, de and zh from the article bodies in `tools/guides_src/` and `tools/guides_src/<lang>/` (each with a `meta.json` holding titles, descriptions, header/footer and product-box texts), plus `sitemap.xml` with hreflang alternates. Run `python3 tools/guides_src/build.py` after editing.
 - All six versions link to each other with `hreflang` (x-default = English). A visitor whose language is not English (`?lang=`, saved choice or browser) opening an English guide is sent to the matching translated guide; picking a language in the header on a guide page opens the same guide in that language. The "Guides" links point to `/guides/<lang>/` for the current site language, or `/guides/` for English.
 - `404.html` is translated via `app.js` (`nf.*` keys).
+
+## Portal layout (v5)
+- Sections: `/news/`, `/analysis/` (+ explainer articles), `/markets/`, `/planners/` (Etsy shop + product cards), `/about/`; home keeps all its blocks and adds "Latest articles" and "Sections".
+- `tools/site_build.py` builds the section pages and articles (bodies in `tools/site_src/analysis/`), adds the home blocks, applies the shared header/footer (`tools/layout.py`) to every page, injects extra UI translations (`tools/site_src/i18n_extra.json`) into `app.js` and adds new URLs to `sitemap.xml`. Idempotent; run `python3 tools/site_build.py` after `tools/guides_src/build.py`.
+- `assets/site.css` / `assets/site.js`: premium dark/gold layer, mobile menu, scroll reveal (IntersectionObserver; only below-the-fold elements are hidden, nothing hidden without JS), hero gold/teal canvas particles (pause off-screen), reading progress; all motion off with `prefers-reduced-motion`.
+- Fonts: Inter and Playfair Display, self-hosted in `assets/fonts/` (SIL Open Font License), no third-party requests.

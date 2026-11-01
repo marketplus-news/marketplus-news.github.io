@@ -1,5 +1,7 @@
 # Builds guides/*.html and sitemap.xml from the article bodies in this folder: python3 tools/guides_src/build.py
-import json, re, html, os
+import json, re, html, os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from layout import apply_layout, EXTRA_URLS  # shared portal header/footer (tools/layout.py)
 SITE="https://marketplus-news.github.io"
 ROOT=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT=os.path.join(ROOT,"guides")
@@ -232,7 +234,7 @@ for lang in LANGS:
             "datePublished":DATE,"dateModified":DATE,"inLanguage":INFO[lang][0],"wordCount":wc,"mainEntityOfPage":{"@type":"WebPage","@id":url},
             "author":{"@type":"Organization","name":"Market Plus","url":SITE+"/"},"publisher":PUB},
             crumbs([("Market Plus",SITE+"/"),(l["glabel"],gurl(lang)),(g['h1'],url)])]}
-        open(os.path.join(OUT, l["dir"], g['slug']+".html"),"w").write(page(lang,g['title'],g['desc'],urls,img,art,ld))
+        open(os.path.join(OUT, l["dir"], g['slug']+".html"),"w").write(apply_layout(page(lang,g['title'],g['desc'],urls,img,art,ld), "guides"))
         smap.append((url,"monthly","0.7",urls))
         print(lang, g['slug'], wc, mins, len(g['title']), len(g['desc']))
     # index
@@ -249,14 +251,14 @@ for lang in LANGS:
     ld={"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":l["glabel"]+" — Market Plus","url":url,"description":ix["desc"],"inLanguage":INFO[lang][0],"publisher":PUB,
         "mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":i+1,"url":gurl(lang,g['slug']),"name":g['h1']} for i,g in enumerate(GL)]}},
         crumbs([("Market Plus",SITE+"/"),(l["glabel"],url)])]}
-    open(os.path.join(OUT, l["dir"], "index.html"),"w").write(page(lang,ix["title"],ix["desc"],urls,SITE+"/assets/budget-tracker.webp",body,ld,ogtype="website"))
+    open(os.path.join(OUT, l["dir"], "index.html"),"w").write(apply_layout(page(lang,ix["title"],ix["desc"],urls,SITE+"/assets/budget-tracker.webp",body,ld,ogtype="website"), "guides"))
     idxmap.append((url,"weekly","0.8",urls))
     print(lang,"index",len(ix["title"]),len(ix["desc"]))
 # sitemap with hreflang alternates for every language version
 def alts(a):
     if not a: return ""
     return "".join(f'\n    <xhtml:link rel="alternate" hreflang="{INFO[x][1]}" href="{a[x]}"/>' for x in LANGS)+f'\n    <xhtml:link rel="alternate" hreflang="x-default" href="{a["en"]}"/>\n  '
-urls=[(SITE+"/","daily","1.0",None)]+idxmap+smap+[(SITE+"/terms.html","yearly","0.2",None)]
+urls=[(SITE+"/","daily","1.0",None)]+idxmap+smap+[(SITE+"/terms.html","yearly","0.2",None)]+[(SITE+u,c,p,None) for u,c,p in EXTRA_URLS]
 sm=('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
     +"".join(f"  <url><loc>{u}</loc><lastmod>{DATE}</lastmod><changefreq>{c}</changefreq><priority>{p}</priority>{alts(a)}</url>\n" for u,c,p,a in urls)+"</urlset>\n")
 open(os.path.join(ROOT,"sitemap.xml"),"w").write(sm)
