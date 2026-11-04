@@ -1,5 +1,5 @@
 {
- "updated": 1793809701,
+ "updated": 1793813253,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,11 +216,65 @@
  ],
  "items": [
   {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Poundland owner in crunch talks as retailer's collapse looms",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "ts": 1793812889,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Власник Poundland веде критичні переговори на тлі загрози краху роздрібної торгівлі",
+    "fr": "Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
+    "de": "Poundland-Eigentümer führt Krisengespräche, da der Zusammenbruch des Einzelhändlers droht",
+    "zh": "随着零售商倒闭的临近，Poundland 老板正在进行紧急谈判",
+    "ru": "Владелец Poundland ведет критические переговоры на фоне надвигающегося краха ритейлера"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+   "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+   "ts": 1793812866,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Kraft Heinz продасть північноамериканський кавовий бізнес за угоду на 650 мільйонів доларів",
+    "fr": "Kraft Heinz va céder son activité café en Amérique du Nord dans le cadre d'un accord de 650 millions de dollars",
+    "de": "Kraft Heinz veräußert sein nordamerikanisches Kaffeegeschäft im Rahmen eines 650-Millionen-Dollar-Deals",
+    "zh": "卡夫亨氏将以 6.5 亿美元的交易剥离北美咖啡业务",
+    "ru": "Kraft Heinz продаст свой кофейный бизнес в Северной Америке за 650 миллионов долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+   "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+   "ts": 1793812740,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Лікарняні акції зростають, поки виробники ліків готуються до перевірки. Ось що означає демократична хвиля для охорони здоров’я.",
+    "fr": "Les actions des hôpitaux rebondissent tandis que les fabricants de médicaments se préparent à un examen minutieux. Voici ce que la vague démocrate signifie pour les soins de santé.",
+    "de": "Krankenhausaktien erholen sich, während Arzneimittelhersteller sich auf die Prüfung einstellen. Hier erfahren Sie, was die demokratische Welle für das Gesundheitswesen bedeutet.",
+    "zh": "医院股上涨，制药商准备接受审查。这就是民主党浪潮对医疗保健的意义。",
+    "ru": "Акции больниц растут, в то время как производители лекарств готовятся к пристальному вниманию. Вот что означает демократическая волна для здравоохранения."
+   },
+   "lang": "en"
+  },
+  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Midterm elections 2026 live updates: Vance blames Iran war for Republican losses",
    "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-   "ts": 1793809502,
+   "ts": 1793812700,
    "sec": [
     "market",
     "politics"
@@ -235,20 +289,693 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_markets",
-   "source": "CNBC",
-   "title": "10-year Treasury yield is little changed as traders mull over Democrats' midterm victories",
-   "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-   "ts": 1793809433,
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Timken beats Q3 2026 profit view as shares fall",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-timken-beats-q3-2026-profit-view-as-shares-fall-93CH-5000751",
+   "ts": 1793812565,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Прибутковість 10-річних казначейських облігацій незначно змінилася, оскільки трейдери обмірковують перемоги демократів у середньостроковій перспективі",
-    "fr": "Le rendement du Trésor à 10 ans a peu changé alors que les traders réfléchissent aux victoires des démocrates à mi-mandat",
-    "de": "Die Rendite 10-jähriger Staatsanleihen hat sich kaum verändert, da Händler über die Zwischensiege der Demokraten nachdenken",
-    "zh": "交易员思考民主党中期选举胜利，10年期国债收益率几乎没有变化",
-    "ru": "Доходность 10-летних казначейских облигаций практически не изменилась, поскольку трейдеры размышляют о среднесрочных победах демократов"
+    "uk": "Стенограма телефонної розмови про прибутки: компанія Timken перевершує показник прибутку за 3 квартал 2026 року через падіння акцій",
+    "fr": "Transcription de l'appel aux résultats : Timken dépasse les prévisions de bénéfices du troisième trimestre 2026 alors que les actions chutent",
+    "de": "Protokoll der Gewinnmitteilung: Timken übertrifft die Gewinnprognose für das dritte Quartal 2026, da die Aktien fallen",
+    "zh": "财报电话会议记录：随着股价下跌，铁姆肯公司 2026 年第三季度盈利超出预期",
+    "ru": "Стенограмма отчета о прибылях и убытках: Timken превзошла прогноз по прибыли за третий квартал 2026 года на фоне падения акций"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "European shares jump to 2-month highs following U.S. midterms; Novo surges",
+   "url": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
+   "ts": 1793812559,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Європейські акції підскочили до 2-місячних максимумів після проміжних ігор у США; Ново сплески",
+    "fr": "Les actions européennes atteignent un plus haut de 2 mois après les élections de mi-mandat aux États-Unis ; Novo surgit",
+    "de": "Europäische Aktien springen nach Zwischenwahlen in den USA auf 2-Monats-Höchststände; Novo steigt",
+    "zh": "美国中期选举后欧洲股市跃升至两个月高点；诺和（Novo）飙升",
+    "ru": "Европейские акции подскочили до двухмесячных максимумов после промежуточных результатов в США; Ново набирает обороты"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Macerich set to report earnings amid experiential retail pivot",
+   "url": "https://www.investing.com/news/earnings/macerich-set-to-report-earnings-amid-experiential-retail-pivot-93CH-5000748",
+   "ts": 1793812548,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Macerich збирається оприлюднити прибутки на тлі роздрібної торгівлі",
+    "fr": "Macerich s'apprête à publier ses résultats dans un contexte de pivotement du commerce de détail expérientiel",
+    "de": "Macerich wird angesichts der erfahrungsbedingten Kehrtwende im Einzelhandel voraussichtlich Gewinne ausweisen",
+    "zh": "Macerich 将在体验式零售转型中公布收益",
+    "ru": "Macerich собирается отчитаться о прибылях на фоне экспериментального поворота розничной торговли"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Middleby set to report earnings amid margin pressure",
+   "url": "https://www.investing.com/news/earnings/middleby-set-to-report-earnings-amid-margin-pressure-93CH-5000745",
+   "ts": 1793812495,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Middleby збирається звітувати про прибутки в умовах тиску маржі",
+    "fr": "Middleby s'apprête à publier ses résultats malgré la pression sur ses marges",
+    "de": "Middleby wird angesichts des Margendrucks voraussichtlich Gewinne ausweisen",
+    "zh": "米德尔比将在利润率压力下公布收益",
+    "ru": "Middleby собирается отчитаться о прибыли на фоне давления на маржу"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Modine posts mixed Q2 2026 results as shares sink 24%",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-modine-posts-mixed-q2-2026-results-as-shares-sink-24-93CH-5000744",
+   "ts": 1793812473,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Modine публікує неоднозначні результати за 2 квартал 2026 року, акції впали на 24%",
+    "fr": "Transcription de l'appel aux résultats : Modine publie des résultats mitigés au deuxième trimestre 2 alors que les actions chutent de 24 %",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Modine veröffentlicht gemischte Ergebnisse für das zweite Quartal 2026, da die Aktien um 24 % sinken",
+    "zh": "财报电话会议记录：Modine 公布 2026 年第二季度业绩喜忧参半，股价下跌 24%",
+    "ru": "Стенограмма отчета о прибылях и убытках: Modine опубликовала смешанные результаты за второй квартал 2026 года, акции упали на 24%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Victory Capital earnings up next as First Eagle deal looms",
+   "url": "https://www.investing.com/news/earnings/victory-capital-earnings-up-next-as-first-eagle-deal-looms-93CH-5000743",
+   "ts": 1793812441,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибутки Victory Capital збільшуються, оскільки наближається угода First Eagle",
+    "fr": "Victory Capital gagnera ensuite alors que l'accord First Eagle se profile",
+    "de": "Als nächstes stehen die Gewinne von Victory Capital an, da der Deal mit First Eagle bevorsteht",
+    "zh": "First Eagle 交易迫在眉睫，胜利资本 (Victory Capital) 盈利接下来将上涨",
+    "ru": "Прибыль Victory Capital будет следующей, поскольку на горизонте вырисовывается сделка First Eagle"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Why is HCA Healthcare stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-hca-healthcare-stock-surging-today-93CH-5000742",
+   "ts": 1793812440,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому акції HCA Healthcare сьогодні стрімко зростають?",
+    "fr": "Pourquoi l’action HCA Healthcare augmente-t-elle aujourd’hui ?",
+    "de": "Warum steigt die Aktie von HCA Healthcare heute?",
+    "zh": "为什么 HCA Healthcare 股票今天飙升？",
+    "ru": "Почему акции HCA Healthcare сегодня растут?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "MFA Financial Q3 2026 slides: book value drops as rates surge",
+   "url": "https://www.investing.com/news/company-news/mfa-financial-q3-2026-slides-book-value-drops-as-rates-surge-93CH-5000741",
+   "ts": 1793812436,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Фінансові слайди МЗС за третій квартал 2026 року: балансова вартість падає в міру зростання ставок",
+    "fr": "MFA Financial T3 2026 glisse : la valeur comptable baisse à mesure que les taux augmentent",
+    "de": "MFA Financial Q3 2026 rutscht ab: Buchwert sinkt bei steigenden Zinsen",
+    "zh": "MFA Financial Q3 2026 幻灯片：随着利率飙升，账面价值下降",
+    "ru": "Слайды MFA Financial за третий квартал 2026 года: балансовая стоимость падает из-за роста ставок"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "What Trump can achieve without approval from a Democratic-led Congress",
+   "url": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
+   "ts": 1793812380,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чого Трамп може досягти без схвалення очолюваного Демократичною партією Конгресу",
+    "fr": "Ce que Trump peut réaliser sans l’approbation d’un Congrès dirigé par les démocrates",
+    "de": "Was Trump ohne Zustimmung eines demokratisch geführten Kongresses erreichen kann",
+    "zh": "特朗普在没有得到民主党领导的国会批准的情况下能实现什么",
+    "ru": "Чего Трамп может добиться без одобрения Конгресса, возглавляемого демократами"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_markets",
+   "source": "CNBC",
+   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+   "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "ts": 1793812260,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибутковість 10-річних казначейських облігацій падає, оскільки трейдери обмірковують перемоги демократів у середньостроковій перспективі, ціни на нафту падають",
+    "fr": "Le rendement du Trésor à 10 ans baisse alors que les traders réfléchissent aux victoires des démocrates à mi-mandat et aux prix du pétrole en baisse",
+    "de": "Die Rendite 10-jähriger Staatsanleihen sinkt, während Händler über die Halbzeitsiege der Demokraten nachdenken, und die Ölpreise fallen",
+    "zh": "交易员考虑民主党中期胜利，十年期国债收益率下滑，油价下跌",
+    "ru": "Доходность 10-летних казначейских облигаций падает, поскольку трейдеры обдумывают среднесрочные победы демократов, а цены на нефть падают"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
+   "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+   "ts": 1793811872,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Uber перевершує доходи, генеральний директор сказав CNBC, що компанія «значно інвестує», щоб додати водіїв",
+    "fr": "Uber bat en termes de revenus, le PDG déclare à CNBC que l'entreprise « investit de manière significative » pour ajouter des chauffeurs",
+    "de": "Uber übertrifft den Umsatz, sagt der CEO gegenüber CNBC, das Unternehmen investiert „erheblich“, um Fahrer hinzuzufügen",
+    "zh": "Uber 首席执行官告诉 CNBC，该公司正在“大力投资”以增加司机，收入超过预期",
+    "ru": "Генеральный директор Uber бьет рекорды по доходам, сообщил CNBC генеральный директор, что компания «вкладывает значительные средства» в добавление водителей"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793811764,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Проміжна перспектива США приносить «перемогу» канадцям, які сподіваються на скасування мит",
+    "fr": "Aux États-Unis, à mi-mandat, c'est une « victoire » pour les Canadiens qui espèrent un allégement tarifaire",
+    "de": "Die Zwischenergebnisse der USA sind ein „Sieg“ für die Kanadier, die auf eine Zollerleichterung hoffen",
+    "zh": "美国中期选举结果对希望减免关税的加拿大人来说是“胜利”",
+    "ru": "Промежуточные результаты в США стали «победой» канадцев, надеющихся на снижение тарифов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "What Democrats’ midterm sweep means for your investments",
+   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-investments.html",
+   "ts": 1793811709,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Що означає проміжний розмах демократів для ваших інвестицій",
+    "fr": "Ce que la victoire des démocrates à mi-mandat signifie pour vos investissements",
+    "de": "Was die Halbzeitwahl der Demokraten für Ihre Investitionen bedeutet",
+    "zh": "民主党中期选举大获全胜对您的投资意味着什么",
+    "ru": "Что означает среднесрочная победа демократов для ваших инвестиций"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "ts": 1793811691,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бернем каже, що проміжні результати США створили «можливість» для світу зосередитися на вартості життя та припиненні війни з Іраном – політика Великобританії в прямому ефірі",
+    "fr": "Burnham affirme que les résultats américains à mi-mandat ont créé une « opportunité » pour le monde de se concentrer sur le coût de la vie et de mettre fin à la guerre en Iran – La politique britannique en direct",
+    "de": "Laut Burnham haben die US-Zwischenergebnisse eine „Gelegenheit“ für die Welt geschaffen, sich auf die Lebenshaltungskosten und die Beendigung des Iran-Krieges zu konzentrieren – britische Politik live",
+    "zh": "伯纳姆表示，美国中期选举结果为世界创造了“机会”，让世界关注生活成本和结束伊朗战争——英国政治直播",
+    "ru": "Бёрнем говорит, что промежуточные результаты США создали «возможность» для мира сосредоточиться на стоимости жизни и прекращении войны с Ираном – политика Великобритании в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Iran's chief negotiator says Americans voted 'no to war'",
+   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793811555,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Головний переговірник Ірану каже, що американці проголосували «ні війні»",
+    "fr": "Le négociateur en chef de l'Iran déclare que les Américains ont voté \"non à la guerre\"",
+    "de": "Irans Chefunterhändler sagt, die Amerikaner hätten mit „Nein zum Krieg“ gestimmt",
+    "zh": "伊朗首席谈判代表称美国人对战争投了“不”票",
+    "ru": "Главный переговорщик Ирана заявил, что американцы проголосовали «нет войне»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+   "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+   "ts": 1793811279,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Джим Креймер каже, що ці акції банку купують після їх спаду після виборів",
+    "fr": "Jim Cramer dit que cette action bancaire est un achat après son retrait post-électoral",
+    "de": "Jim Cramer sagt, dass diese Bankaktie nach ihrem Rückgang nach der Wahl ein Kauf ist",
+    "zh": "吉姆克莱默表示，这只银行股票在选举后回调后值得买入",
+    "ru": "Джим Крамер говорит, что акции этого банка стоит покупать после их падения после выборов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "US midterms bring a wave of historic firsts as minorities win key races",
+   "url": "https://www.france24.com/en/us-midterms-bring-a-wave-of-historic-firsts-as-minorities-win-key-races",
+   "ts": 1793811099,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Проміжні вибори в США приносять хвилю історичних результатів, оскільки меншини перемагають у ключових перегонах",
+    "fr": "Les élections de mi-mandat aux États-Unis apportent une vague de premières historiques alors que les minorités remportent des élections clés",
+    "de": "Die Zwischenwahlen in den USA bringen eine Welle historischer Premieren mit sich, da Minderheiten wichtige Wahlen gewinnen",
+    "zh": "美国中期选举带来一波历史性第一，少数族裔赢得关键选举",
+    "ru": "Промежуточные выборы в США приносят волну исторических событий: меньшинства выигрывают ключевые гонки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+   "ts": 1793811006,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Проміжні вибори в США: віце-спікер парламенту Ірану реагує на невдачу Трампа на виборах",
+    "fr": "Mi-mandat américain : le vice-président du parlement iranien réagit au revers électoral de Trump",
+    "de": "Zwischenwahlen in den USA: Irans stellvertretender Parlamentspräsident reagiert auf Trumps Wahlrückschlag",
+    "zh": "美国中期选举：伊朗议会议长对特朗普选举受挫作出反应",
+    "ru": "Промежуточные выборы в США: вице-спикер парламента Ирана реагирует на неудачу Трампа на выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+   "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+   "ts": 1793810835,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "У віці 93 років помер Тінто Брасс, режисер «Калігули» і маестро європейської еротики.",
+    "fr": "Tinto Brass, réalisateur de Caligula et maestro de l'euroérotisme, est décédé à l'âge de 93 ans",
+    "de": "Tinto Brass, Regisseur von Caligula und Maestro der Euro-Erotik, stirbt im Alter von 93 Jahren",
+    "zh": "《卡利古拉》导演、欧洲情色大师丁托·布拉斯 (Tinto Brass) 去世，享年 93 岁",
+    "ru": "Тинто Брасс, режиссер «Калигулы» и маэстро европейской эротики, умер в возрасте 93 лет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Watch: PM and Ed Miliband play steel drums in Antigua",
+   "url": "https://www.bbc.co.uk/news/videos/cm4g1vl0keljo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793810821,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Дивіться: PM і Ед Мілібенд грають на сталевих барабанах в Антигуа",
+    "fr": "Regarder : PM et Ed Miliband jouent du steel drums à Antigua",
+    "de": "Anschauen: PM und Ed Miliband spielen Steel Drums in Antigua",
+    "zh": "观看：总理和埃德·米利班德在安提瓜岛演奏钢鼓",
+    "ru": "Смотреть: Премьер-министр и Эд Милибэнд играют на стальных барабанах на Антигуа"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Zelensky lands in Spain to discuss air defense",
+   "url": "https://kyivindependent.com/zelensky-lands-in-spain-to-discuss-air-defense/",
+   "ts": 1793810773,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський приземлився в Іспанії, щоб обговорити ППО",
+    "fr": "Zelensky atterrit en Espagne pour discuter de défense aérienne",
+    "de": "Selenskyj landet in Spanien, um über Luftverteidigung zu sprechen",
+    "zh": "泽伦斯基抵达西班牙讨论防空问题",
+    "ru": "Зеленский приземлился в Испании, чтобы обсудить противовоздушную оборону"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Zelensky arrives in Spain",
+   "url": "https://www.ukrinform.net/rubric-polytics/4181489-zelensky-arrives-in-spain.html",
+   "ts": 1793810760,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський прибув до Іспанії",
+    "fr": "Zelensky arrive en Espagne",
+    "de": "Selenskyj kommt in Spanien an",
+    "zh": "泽伦斯基抵达西班牙",
+    "ru": "Зеленский прибыл в Испанию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "What Republicans' huge loss means for Trump",
+   "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+   "ts": 1793810644,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Що означає величезна втрата республіканців для Трампа",
+    "fr": "Ce que l’énorme perte des Républicains signifie pour Trump",
+    "de": "Was der große Verlust der Republikaner für Trump bedeutet",
+    "zh": "共和党的巨大损失对特朗普意味着什么",
+    "ru": "Что огромные потери республиканцев означают для Трампа"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "REPLAY: Senate Democratic leader Chuck Schumer on US midterms",
+   "url": "https://www.france24.com/en/replay-senate-democratic-leader-chuck-schumer-on-us-midterms",
+   "ts": 1793810579,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "ПОВТОР: лідер демократів у Сенаті Чак Шумер про проміжні вибори в США",
+    "fr": "REPLAY : Chuck Schumer, leader démocrate au Sénat, à propos des élections de mi-mandat aux États-Unis",
+    "de": "WIEDERHOLUNG: Chuck Schumer, Vorsitzender der Demokraten im Senat, über die Zwischenwahlen in den USA",
+    "zh": "重播：参议院民主党领袖查克·舒默谈美国中期选举",
+    "ru": "ПОВТОР: Лидер демократов в Сенате Чак Шумер на промежуточных выборах в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "'Most difficult days of my life' for keeper Owono",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793810438,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "«Найважчі дні мого життя» для воротаря Овоно",
+    "fr": "\"Les jours les plus difficiles de ma vie\" pour le gardien Owono",
+    "de": "„Die schwierigsten Tage meines Lebens“ für Torwart Owono",
+    "zh": "门将奥沃诺“一生中最艰难的日子”",
+    "ru": "«Самые трудные дни в моей жизни» для вратаря Овоно"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+   "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+   "ts": 1793810308,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції США зростають, долар падає, оскільки інвестори переварюють перемоги демократів у середньостроковій перспективі",
+    "fr": "Les actions américaines augmentent, le dollar recule alors que les investisseurs digèrent les victoires des démocrates à mi-mandat",
+    "de": "US-Aktien steigen, der Dollar fällt, während die Anleger die Halbzeitsiege der Demokraten verdauen",
+    "zh": "随着投资者消化民主党中期胜利，美国股市上涨，美元下跌",
+    "ru": "Акции США растут, доллар падает, поскольку инвесторы переваривают среднесрочные победы демократов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+   "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+   "ts": 1793810280,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Вартість ліків, що відпускаються за рецептом Medicare, зросте на 50% у 2027 році. Нічого не робити може коштувати вам.",
+    "fr": "Les coûts des médicaments sur ordonnance Medicare augmenteront de 50 % en 2027. Ne rien faire pourrait vous coûter cher.",
+    "de": "Die Kosten für verschreibungspflichtige Medicare-Medikamente werden im Jahr 2027 um 50 % steigen. Nichtstun könnte Sie teuer zu stehen kommen.",
+    "zh": "2027 年，医疗保险处方药费用将上涨 50%。不采取任何行动可能会让您付出代价。",
+    "ru": "В 2027 году стоимость рецептурных лекарств по программе Medicare вырастет на 50%. Бездействие может стоить вам дорого."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+   "ts": 1793810269,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Фотографії: Іран відзначає захоплення посольства США мітингами проти США та Ізраїлю",
+    "fr": "Photos : L’Iran marque la prise de contrôle de l’ambassade américaine par des rassemblements contre les États-Unis et Israël",
+    "de": "Fotos: Iran feiert die Übernahme der US-Botschaft mit Kundgebungen gegen die USA und Israel",
+    "zh": "照片：伊朗举行反对美国和以色列的集会，纪念美国大使馆被接管",
+    "ru": "Фото: Иран отмечает захват посольства США митингами против США и Израиля"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
+   "ts": 1793810223,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Бізнес-імперія Ілона Маска готується до демократичної хвилі, коли Техас стає синім",
+    "fr": "L'empire commercial d'Elon Musk se prépare à la vague démocrate alors que le Texas devient bleu",
+    "de": "Elon Musks Geschäftsimperium bereitet sich auf die Welle der Demokraten vor, während Texas ins Wanken gerät",
+    "zh": "德克萨斯州翻蓝，埃隆·马斯克的商业帝国迎接民主党浪潮",
+    "ru": "Бизнес-империя Илона Маска готовится к демократической волне, поскольку Техас переворачивается в синий цвет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+   "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+   "ts": 1793810150,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "CVS планує відокремити аптечний бізнес у результаті великого розпаду гіганта охорони здоров’я; акції впали на 10%",
+    "fr": "CVS va se séparer de ses activités de pharmacie dans le cadre d'un démantèlement majeur du géant de la santé ; les actions chutent de 10%",
+    "de": "CVS spaltet Drogeriegeschäft im Zuge der großen Zerschlagung des Gesundheitsriesen ab; Aktien fallen um 10 %",
+    "zh": "CVS 将在医疗保健巨头的重大分拆中剥离药店业务；股价下跌10%",
+    "ru": "CVS разделит аптечный бизнес в результате крупного распада гиганта здравоохранения; акции упали на 10%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "The young politicians with African roots making history in the US midterms",
+   "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793810072,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Молоді політики з африканським корінням творять історію на проміжних термінах США",
+    "fr": "Les jeunes hommes politiques d’origine africaine qui entrent dans l’histoire lors des élections de mi-mandat aux États-Unis",
+    "de": "Die jungen Politiker mit afrikanischen Wurzeln schreiben bei den Zwischenwahlen in den USA Geschichte",
+    "zh": "非洲裔年轻政治家在美国中期选举中创造历史",
+    "ru": "Молодые политики с африканскими корнями творят историю на промежуточных выборах в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
+   "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+   "ts": 1793809951,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Британський медичний працівник, хворий на лихоманку Ебола, буде евакуйований з ДРК до Великобританії, свідчить документ",
+    "fr": "Un professionnel de la santé britannique atteint d'Ebola sera évacué de la RDC vers le Royaume-Uni, selon un document",
+    "de": "Aus einem Dokument geht hervor, dass an Ebola erkrankter britischer Mitarbeiter des Gesundheitswesens aus der Demokratischen Republik Kongo nach Großbritannien evakuiert werden soll",
+    "zh": "文件显示，感染埃博拉病毒的英国医护人员将从刚果民主共和国撤离到英国",
+    "ru": "Британский медицинский работник, заболевший Эболой, будет эвакуирован из ДРК в Великобританию, говорится в документе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Koretskyi comments on EU enlargement report, outlines Ukraine's next goal",
+   "url": "https://www.ukrinform.net/rubric-polytics/4181482-koretskyi-comments-on-eu-enlargement-report-outlines-ukraines-next-goal.html",
+   "ts": 1793809800,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Корецький коментує звіт про розширення ЄС, окреслює наступну мету України",
+    "fr": "Koretskyi commente le rapport sur l'élargissement de l'UE et décrit le prochain objectif de l'Ukraine",
+    "de": "Koretskyi kommentiert den EU-Erweiterungsbericht und skizziert das nächste Ziel der Ukraine",
+    "zh": "科列茨基对欧盟东扩报告发表评论，概述乌克兰的下一个目标",
+    "ru": "Корецкий прокомментировал отчет о расширении ЕС и обозначил следующую цель Украины"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_markets",
+   "source": "Reuters",
+   "title": "Democratic sweep positive for US credit rating outlook, Scope Ratings says",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEctZWlCYmo1X2I5bGIwbF9HZlcweEptcnYtSEhkcnZfNHBzR2c5Q1BRLWNSeVVwOUs0X1l1ZDRBQk9oR2hUVWhfdC1JOFhWaEgzUW1rY2g4RXBDb2o4Ym93ME1oSmpnV2ZMc3NOWnRtYnZOWTlpSzVqVFduSmNySEx0aGZ0M3dKdFoyZ180UkpPYXNhS21BcE1DbVBpc201aUlscjFLb2RtTnhOMHZseHFzbGc0eDA?oc=5",
+   "ts": 1793809692,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Демократичний розмах позитивний для прогнозу кредитного рейтингу США, повідомляє Scope Ratings",
+    "fr": "La vague démocrate est positive pour les perspectives de notation de crédit des États-Unis, selon Scope Ratings",
+    "de": "Laut Scope Ratings sind die Demokraten positiv für die Bonitätsaussichten der USA",
+    "zh": "范围评级公司表示，民主党对美国信用评级前景大获好评",
+    "ru": "По мнению Scope Ratings, демократический подъем позитивен для прогноза кредитного рейтинга США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "UK government to outlaw new North Sea drilling",
+   "url": "https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&at_campaign=rss",
+   "ts": 1793809683,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Уряд Великобританії заборонить нове буріння в Північному морі",
+    "fr": "Le gouvernement britannique va interdire les nouveaux forages en mer du Nord",
+    "de": "Britische Regierung verbietet neue Bohrungen in der Nordsee",
+    "zh": "英国政府禁止新的北海钻探活动",
+    "ru": "Правительство Великобритании объявило вне закона новое бурение в Северном море"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+   "ts": 1793809575,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "На сховище крові у Франції вплинули хакерські атаки, оскільки ширяться теорії про винних",
+    "fr": "Le stockage du sang français impacté par le piratage des congélateurs alors que les théories tourbillonnent sur les coupables",
+    "de": "Französisches Blutlager von Gefrierschrank-Hacks betroffen, während Theorien über die Schuldigen im Umlauf sind",
+    "zh": "法国血液储存受到冰箱黑客攻击影响，有关罪魁祸首的理论不断涌现",
+    "ru": "Хранилище крови во Франции пострадало от взлома морозильной камеры, поскольку кружатся теории о виновниках"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "US Midterms: How will Trump manage working with Democrats?",
+   "url": "https://www.france24.com/en/us-midterms-how-will-trump-manage-working-with-democrats",
+   "ts": 1793809496,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Проміжні вибори в США: як Трамп працюватиме з демократами?",
+    "fr": "Midterms américains : comment Trump va-t-il gérer sa collaboration avec les démocrates ?",
+    "de": "US Midterms: Wie wird Trump die Zusammenarbeit mit den Demokraten schaffen?",
+    "zh": "美国中期选举：特朗普将如何与民主党合作？",
+    "ru": "Промежуточные выборы в США: как Трампу удастся работать с демократами?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+   "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+   "ts": 1793809223,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Бєлгородській області Росії українці загинули троє",
+    "fr": "Des frappes ukrainiennes font trois morts dans la région russe de Belgorod",
+    "de": "Bei ukrainischen Angriffen kommen in der russischen Region Belgorod drei Menschen ums Leben",
+    "zh": "乌克兰空袭导致俄罗斯别尔哥罗德地区三人死亡",
+    "ru": "В результате ударов украинцев в Белгородской области России погибли трое"
    },
    "lang": "en"
   },
@@ -272,6 +999,24 @@
    "lang": "en"
   },
   {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "European Commission to propose amendments on Ukrainian agriculture for Cluster 5 to Council of EU",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061270/",
+   "ts": 1793809080,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Єврокомісія запропонує Раді ЄС поправки щодо українського сільського господарства до кластеру 5",
+    "fr": "La Commission européenne proposera au Conseil de l'UE des amendements sur l'agriculture ukrainienne pour le groupe 5",
+    "de": "Europäische Kommission schlägt dem Rat der EU Änderungen zur ukrainischen Landwirtschaft für Cluster 5 vor",
+    "zh": "欧盟委员会将向欧盟理事会提出关于第 5 组乌克兰农业的修正案",
+    "ru": "Еврокомиссия предложит Совету ЕС поправки по сельскому хозяйству Украины для Кластера 5"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "dw_world",
    "source": "DW",
    "title": "Kosovo: Protests and outrage after a woman was killed despite repeatedly seeking assistance from the authorities",
@@ -290,171 +1035,9 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Hut 8 Q3 2026 misses estimates as stock sinks 21%",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hut-8-q3-2026-misses-estimates-as-stock-sinks-21-93CH-5000496",
-   "ts": 1793808968,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: Hut 8 Q3 2026 не відповідає прогнозам, оскільки акції впали на 21%",
-    "fr": "Transcription de l'appel aux résultats : Hut 8 T3 2026 manque les estimations alors que le titre chute de 21 %",
-    "de": "Protokoll der Telefonkonferenz: Hut 8 Q3 2026 verfehlt Schätzungen, da die Aktie um 21 % sinkt",
-    "zh": "财报电话会议记录：Hut 8 2026 年第三季度业绩未达预期，股价下跌 21%",
-    "ru": "Стенограмма отчета о прибылях и убытках: Hut за 8 квартал 2026 года не соответствует прогнозам, поскольку акции упали на 21%"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Harmony Biosciences misses Q3 2026 profit view",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-harmony-biosciences-misses-q3-2026-profit-view-93CH-5000495",
-   "ts": 1793808951,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма телефонної розмови про прибутки: Harmony Biosciences пропускає звіт про прибутки за 3 квартал 2026 року",
-    "fr": "Transcription de l'appel sur les résultats : Harmony Biosciences manque la vue des bénéfices du troisième trimestre 2026",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Harmony Biosciences verfehlt die Gewinnprognose für das dritte Quartal 2026",
-    "zh": "财报电话会议记录：Harmony Biosciences 错过了 2026 年第三季度利润预期",
-    "ru": "Стенограмма отчета о прибылях и убытках: Harmony Biosciences не опубликовала отчет о прибыли за третий квартал 2026 года"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "ts": 1793808948,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Бернем каже, що проміжні результати США створили «можливість» для світу зосередитися на вартості життя та припиненні війни з Іраном – політика Великобританії в прямому ефірі",
-    "fr": "Burnham affirme que les résultats américains à mi-mandat ont créé une « opportunité » pour le monde de se concentrer sur le coût de la vie et de mettre fin à la guerre en Iran – La politique britannique en direct",
-    "de": "Laut Burnham haben die US-Zwischenergebnisse eine „Gelegenheit“ für die Welt geschaffen, sich auf die Lebenshaltungskosten und die Beendigung des Iran-Krieges zu konzentrieren – britische Politik live",
-    "zh": "伯纳姆表示，美国中期选举结果为世界创造了“机会”，让世界关注生活成本和结束伊朗战争——英国政治直播",
-    "ru": "Бёрнем говорит, что промежуточные результаты США создали «возможность» для мира сосредоточиться на стоимости жизни и прекращении войны с Ираном – политика Великобритании в прямом эфире"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "LCI Industries earnings in focus as RV demand pressures mount",
-   "url": "https://www.investing.com/news/earnings/lci-industries-earnings-in-focus-as-rv-demand-pressures-mount-93CH-5000494",
-   "ts": 1793808915,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прибутки LCI Industries у центрі уваги, оскільки попит на автофургони зростає",
-    "fr": "Les bénéfices de LCI Industries sont au centre de l'attention alors que les pressions sur la demande de véhicules de loisirs s'accentuent",
-    "de": "Die Erträge von LCI Industries stehen im Fokus, da der Nachfragedruck bei Wohnmobilen zunimmt",
-    "zh": "随着房车需求压力加大，LCI Industries 盈利成为焦点",
-    "ru": "Прибыль LCI Industries в центре внимания, поскольку давление на спрос на автофургоны растет"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Limbach Q3 2026 presentation: acquisitions fuel growth, ODR recovers",
-   "url": "https://www.investing.com/news/company-news/limbach-q3-2026-presentation-acquisitions-fuel-growth-odr-recovers-93CH-5000493",
-   "ts": 1793808913,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Презентація Limbach за 3 квартал 2026 року: придбання сприяють зростанню, ODR відновлюється",
-    "fr": "Présentation Limbach T3 2026 : les acquisitions alimentent la croissance, l'ODR se redresse",
-    "de": "Limbach Q3 2026-Präsentation: Akquisitionen treiben Wachstum voran, ODR erholt sich",
-    "zh": "Limbach 2026 年第三季度演示：收购推动增长，ODR 恢复",
-    "ru": "Презентация Limbach за третий квартал 2026 года: приобретения стимулируют рост, ODR восстанавливается"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: ISA Energía Brasil posts strong Q3 2026 growth",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-isa-energia-brasil-posts-strong-q3-2026-growth-93CH-5000491",
-   "ts": 1793808908,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: ISA Energía Brasil демонструє значне зростання в третьому кварталі 2026 року",
-    "fr": "Transcription de l'appel aux résultats : ISA Energía Brasil affiche une forte croissance au troisième trimestre 2026",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: ISA Energía Brasil verzeichnet starkes Wachstum im dritten Quartal 2026",
-    "zh": "财报电话会议记录：ISA Energía Brasil 公布 2026 年第三季度强劲增长",
-    "ru": "Стенограмма отчета о прибылях и убытках: ISA Energía Brasil продемонстрировала сильный рост в третьем квартале 2026 года"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Jackson Financial beats on EPS in Q3 2026, shares slip",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jackson-financial-beats-on-eps-in-q3-2026-shares-slip-93CH-5000490",
-   "ts": 1793808904,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: Jackson Financial перевершує прибутки на акцію в 3 кварталі 2026 року, акції падають",
-    "fr": "Transcription de l'appel aux résultats : Jackson Financial bat son BPA au troisième trimestre 2026, les actions chutent",
-    "de": "Protokoll der Gewinnmitteilung: Jackson Financial übertrifft den Gewinn pro Aktie im dritten Quartal 2026, Aktien rutschen ab",
-    "zh": "财报电话会议记录：Jackson Financial 2026 年第三季度每股收益超出预期，股价下滑",
-    "ru": "Стенограмма отчета о прибылях и убытках: компания Jackson Financial опережает прибыль на акцию в третьем квартале 2026 года, акции падают"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Turkish Airlines posts strong Q3 2026 growth, shares jump 10%",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-turkish-airlines-posts-strong-q3-2026-growth-shares-jump-10-93CH-5000489",
-   "ts": 1793808870,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: авіакомпанія Turkish Airlines демонструє значне зростання в третьому кварталі 2026 року, акції зросли на 10%",
-    "fr": "Transcription de l'appel aux résultats : Turkish Airlines affiche une forte croissance au troisième trimestre 2026, les actions bondissent de 10 %",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Turkish Airlines verzeichnet starkes Wachstum im dritten Quartal 2026, Aktien steigen um 10 %",
-    "zh": "财报电话会议记录：土耳其航空 2026 年第三季度实现强劲增长，股价上涨 10%",
-    "ru": "Стенограмма отчета о прибылях и убытках: Turkish Airlines сообщила о сильном росте в третьем квартале 2026 года, акции подскочили на 10%"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Envista earnings in focus: China headwinds test dental recovery",
-   "url": "https://www.investing.com/news/earnings/envista-earnings-in-focus-china-headwinds-test-dental-recovery-93CH-5000488",
-   "ts": 1793808861,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "У центрі уваги прибутки Envista: тестування відновлення зубів у Китаї",
-    "fr": "Focus sur les résultats d'Envista : les vents contraires en Chine mettent à l'épreuve la reprise dentaire",
-    "de": "Envista-Ergebnisse im Fokus: Der Gegenwind in China stellt die wirtschaftliche Erholung auf die Probe",
-    "zh": "恩威斯塔盈利成为焦点：中国逆风考验牙科康复",
-    "ru": "Доходы Envista в центре внимания: встречные ветры в Китае проверяют восстановление зубов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
-   "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – Europe live",
+   "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
    "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
    "ts": 1793808559,
    "sec": [
@@ -462,47 +1045,29 @@
     "ukraine"
    ],
    "t": {
-    "uk": "Зеленський каже, що підтверджено 40 загиблих після «божевільного» російського нападу на школу – Європа в прямому ефірі",
-    "fr": "Zelensky déclare que 40 morts sont désormais confirmés après une attaque russe « insensée » contre une école – L’Europe en direct",
-    "de": "Selenskyj sagt, dass 40 Tote nach „wahnsinnigem“ russischen Angriff auf Schule bestätigt wurden – Europa live",
-    "zh": "泽伦斯基称，俄罗斯对学校进行“疯狂”袭击后，现已确认 40 人死亡 – Europe Live",
-    "ru": "Зеленский говорит, что теперь подтверждено, что 40 человек погибли после «безумного» нападения России на школу – Europe live"
+    "uk": "Зеленський каже, що підтверджено 40 загиблих після «божевільного» російського нападу на школу – як це сталося",
+    "fr": "Zelensky dit que 40 personnes sont désormais mortes après une attaque russe « insensée » contre une école – comme cela s’est produit",
+    "de": "Selenskyj sagt, dass 40 Tote nach einem „wahnsinnigen“ russischen Angriff auf eine Schule bestätigt wurden – wie es geschah",
+    "zh": "泽连斯基称，俄罗斯对学校进行“疯狂”袭击后，现已确认 40 人死亡",
+    "ru": "Зеленский говорит, что теперь подтверждено, что 40 человек погибли после «безумного» нападения России на школу – как это произошло"
    },
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victory",
-   "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-   "ts": 1793808492,
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Tale of 2 midterms: Republican redistricting 'backfired' while Democrats 'exceeded all expectations'",
+   "url": "https://www.france24.com/en/tale-of-2-midterms-republican-redistricting-backfired-while-democrats-exceeded-all-expectations",
+   "ts": 1793808540,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Американські фондові біржі зростають, долар падає, оскільки інвестори переживають проміжну перемогу демократів",
-    "fr": "Les actions américaines augmentent, le dollar recule alors que les investisseurs digèrent la victoire des démocrates à mi-mandat",
-    "de": "US-Aktien steigen, der Dollar fällt, während die Anleger den Zwischensieg der Demokraten verdauen",
-    "zh": "随着投资者消化民主党中期胜利，美国股市上涨，美元下跌",
-    "ru": "Акции США растут, доллар падает, поскольку инвесторы переваривают промежуточную победу демократов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Defense stocks slide on fear Democrats will curb spending. One analyst say it's a buying opportunity",
-   "url": "https://www.cnbc.com/2026/11/04/defense-stocks-slide-on-fear-democrats-will-curb-spending-one-analyst-say-its-a-buying-opportunity.html",
-   "ts": 1793808308,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції оборонного сектору падають через побоювання, що демократи обмежать витрати. Один аналітик каже, що це можливість купити",
-    "fr": "Les actions du secteur de la défense chutent en raison de la crainte que les démocrates réduisent leurs dépenses. Un analyste dit que c'est une opportunité d'achat",
-    "de": "Verteidigungsaktien fallen aufgrund der Angst, dass die Demokraten ihre Ausgaben drosseln werden. Ein Analyst sagt, es sei eine Kaufgelegenheit",
-    "zh": "由于担心民主党将抑制支出，国防股下跌。一位分析师表示这是一个买入机会",
-    "ru": "Акции оборонного сектора падают из-за опасений, что демократы будут сокращать расходы. Один аналитик говорит, что это возможность для покупки."
+    "uk": "Розповідь про 2 проміжні вибори: республіканський розподіл районів мав негативний результат, а демократи «перевершили всі очікування»",
+    "fr": "Récit de 2 mi-mandats : le redécoupage républicain s'est « retourné contre lui » tandis que les démocrates « ont dépassé toutes les attentes »",
+    "de": "Geschichte von zwei Zwischenwahlen: Die Neuverteilung der Wahlkreise der Republikaner ging „nach hinten los“, während die Demokraten „alle Erwartungen übertrafen“",
+    "zh": "两次中期选举的故事：共和党重新划分选区“适得其反”，而民主党“超出了所有预期”",
+    "ru": "История двух промежуточных выборов: перераспределение избирательных округов республиканцами «обернулось неприятными последствиями», а демократы «превзошли все ожидания»"
    },
    "lang": "en"
   },
@@ -525,24 +1090,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Dow rallies 1,300 points as political risk eases after resounding Democratic victory in U.S. midterms: Live updates",
-   "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "ts": 1793808180,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Індекс Dow зростає на 1300 пунктів, оскільки політичні ризики зменшуються після гучної перемоги демократів на проміжних виборах у США: оновлення в реальному часі",
-    "fr": "L'indice Dow Jones gagne 1 300 points alors que le risque politique s'atténue après la victoire éclatante des démocrates aux élections de mi-mandat aux États-Unis : mises à jour en direct",
-    "de": "Dow legt um 1.300 Punkte zu, da das politische Risiko nach dem überwältigenden Sieg der Demokraten bei den Zwischenwahlen in den USA nachlässt: Live-Updates",
-    "zh": "民主党在美国中期选举中取得压倒性胜利，政治风险缓解，道琼斯指数上涨 1,300 点：实时更新",
-    "ru": "Индекс Доу-Джонса вырос на 1300 пунктов на фоне снижения политических рисков после громкой победы демократов на промежуточных выборах в США: текущие обновления"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_business",
    "source": "Reuters",
    "title": "Wall Street rallies after Democrats win Congress; data center stocks slide",
@@ -561,6 +1108,43 @@
    "lang": "en"
   },
   {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Analyst: Putin manipulates Trump, who mistakenly believes he is in control of game",
+   "url": "https://www.ukrinform.net/rubric-ato/4181469-analyst-putin-manipulates-trump-who-mistakenly-believes-he-is-in-control-of-game.html",
+   "ts": 1793807940,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Аналітик: Путін маніпулює Трампом, який помилково вважає, що контролює гру",
+    "fr": "Analyste : Poutine manipule Trump, qui croit à tort qu'il contrôle le jeu",
+    "de": "Analyst: Putin manipuliert Trump, der fälschlicherweise glaubt, er habe die Kontrolle über das Spiel",
+    "zh": "分析师：普京操纵了特朗普，特朗普错误地认为自己掌控着游戏",
+    "ru": "Аналитик: Путин манипулирует Трампом, который ошибочно полагает, что контролирует игру"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+   "url": "https://www.france24.com/en/video/20261104-trump-after-the-midterms-gridlock-impeachment-and-succession",
+   "ts": 1793807698,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Трамп після проміжних виборів: безвихідь, імпічмент і правонаступництво?",
+    "fr": "Trump après les élections de mi-mandat : ​​impeachment, impeachment et succession ?",
+    "de": "Trump nach den Zwischenwahlen: Stillstand, Amtsenthebung und Nachfolge?",
+    "zh": "中期选举后的特朗普：僵局、弹劾和继任？",
+    "ru": "Трамп после промежуточных выборов: тупик, импичмент и преемственность?"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
@@ -575,6 +1159,25 @@
     "de": "Cambridge bittet den Untersuchungsanwalt des Postamtes, die Untersuchung des Todes von Jason Arday zu leiten",
     "zh": "剑桥要求邮局调查律师牵头对杰森·阿尔戴之死进行审查",
     "ru": "Кембридж просит адвоката почтового отделения провести расследование смерти Джейсона Ардея"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Ukraine's corruption police tie senior security officials to major criminal ring",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9zQS1BZmV0MzhxeXhlN0xKYllETXY0YnNaWUw2LW9DckM1UjJXejFPRi1LMXlRSVB4SWwzQWNjWXlPUkgyVGNzOEhjczhrTjhEUUpaSUMxRVU0TndFaWJKS3RRVVBWMXNtX3JNVGFoQ0VJdmJGNUNsWWVsZ0lLWFBMRlBNMzY4aUM1N0doZVFsb2dtQUtmRXAzdHZxZ0VERlQ1Vm9yd0tFa0NFYUxJ?oc=5",
+   "ts": 1793807610,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Українська корупційна поліція пов’язує вищих посадових осіб служби безпеки з великим злочинним угрупуванням",
+    "fr": "La police ukrainienne chargée de la corruption lie de hauts responsables de la sécurité à un important réseau criminel",
+    "de": "Die Korruptionspolizei der Ukraine verbindet hochrangige Sicherheitsbeamte mit einer großen Verbrecherbande",
+    "zh": "乌克兰反腐败警察将高级安全官员与重大犯罪团伙联系起来",
+    "ru": "Коррупционная полиция Украины связала высокопоставленных силовиков с крупной преступной группировкой"
    },
    "lang": "en"
   },
@@ -690,24 +1293,6 @@
   {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "UK ban on Palestine Action is challenged at top court, some protesters arrested",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUdyLW1IVU5XY2Q2NXIxOWlQNlZoanpJRHQ3bWpyYTM4Z0FNZURLeExENU5XUk5hdFhpbXVYUC1ibVp0a1JZeEVxVDdDbkNlWTdmRnFHcWcxQjl1aFZJZnhtTnhvY01BRmxNZmVkcGJpTDRYWnlFYWE4Ykw5cEdQYTVZWk9vbUhobGJIRXRuYjZIMC00cmtsS2FhMURPYTV1ckN3TWdoVWFtMW1INGY0Z1l0UXhtVzVW?oc=5",
-   "ts": 1793807241,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Заборона Великобританії на Palestine Action оскаржена у верховному суді, деякі протестувальники заарештовані",
-    "fr": "L'interdiction britannique de Palestine Action est contestée devant la plus haute juridiction et certains manifestants arrêtés",
-    "de": "Das britische Verbot einer Palästina-Aktion wird vor dem obersten Gericht angefochten, einige Demonstranten wurden festgenommen",
-    "zh": "英国对巴勒斯坦行动的禁令在最高法院受到质疑，一些抗议者被捕",
-    "ru": "Запрет Великобритании на палестинскую акцию оспаривается в Верховном суде, некоторые протестующие арестованы"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
    "title": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDhDUE4wNmt4SlJOXzNpSzZRdUZmaGsxM09sUFdndVZJbUxSaXhiRFpubE9tNWtURmZISGdneEdxaWk5a2hjREQyTVlNd0x1Q0ZXTXZMVmZrMjNzem5Pc3RycWpWNHNweDVvSWZEaU9qV1YtdEVQbm9UUEctNm5RNVVLaldmNF9fLUwteEdFTXZwYVoybFhzY254RGpsMS1fMHNQZExWd2tNS1JsZUdSTkF0azZLYmljSVJ4MXBoQQ?oc=5",
    "ts": 1793807186,
@@ -720,60 +1305,6 @@
     "de": "Laut Indien wird PepsiCo und Monster mit der Aufschrift „Energy Drink“ vermarktet, um Verbraucher zu täuschen",
     "zh": "印度称百事可乐和魔声在营销中贴上“能量饮料”标签来欺骗消费者",
     "ru": "Индия заявляет, что PepsiCo и Monster продаются под этикеткой «энергетический напиток», чтобы обмануть потребителей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-   "url": "https://www.cnbc.com/investingclub/2026/11/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-   "ts": 1793807178,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "10 найцікавіших речей Джима Крамера на фондовому ринку в середу",
-    "fr": "Le top 10 des choses à surveiller en bourse selon Jim Cramer mercredi",
-    "de": "Jim Cramers Top 10 Dinge, die man am Mittwoch an der Börse im Auge behalten sollte",
-    "zh": "吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事",
-    "ru": "10 главных вещей Джима Крамера, за которыми стоит следить на фондовом рынке в среду"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-   "url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-   "ts": 1793807151,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп кидає Fox News, звинувачуючи мережу у втратах Республіканської партії через падіння рейтингів",
-    "fr": "Trump martèle Fox News, accusant le réseau des pertes du GOP alors que les notes chutent",
-    "de": "Trump kritisiert Fox News und gibt dem Sender die Schuld an den GOP-Verlusten, da die Einschaltquoten sinken",
-    "zh": "特朗普猛烈抨击福克斯新闻，将收视率下滑归咎于共和党的损失",
-    "ru": "Трамп раскритиковал Fox News, обвиняя телеканал в потерях Республиканской партии на фоне падения рейтингов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "ts": 1793807111,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Власник Poundland веде критичні переговори на тлі загрози краху роздрібної торгівлі",
-    "fr": "Le propriétaire de Poundland en pourparlers critiques alors que l'effondrement du détaillant se profile",
-    "de": "Poundland-Eigentümer führt Krisengespräche, da der Zusammenbruch des Einzelhändlers droht",
-    "zh": "随着零售商倒闭的临近，Poundland 老板正在进行紧急谈判",
-    "ru": "Владелец Poundland ведет критические переговоры на фоне надвигающегося краха ритейлера"
    },
    "lang": "en"
   },
@@ -889,39 +1420,20 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-   "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-   "ts": 1793806523,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "US bank regulator issues first-ever AI guidance for examiners",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzJNWm5iUUp0bUVhSUJOR0FZZHVBbjJwb3BqbW5yYUJTZlpYYTNlVEU5ZXBORnhZQUpyVnNYeWlnaXFkdmZQa2h1YjVEVk92aEpkcUhueTRsTjRMU3NPekZMLWRxdGFyOUFvNWlHNmhCSFZmcTBLbVNiU1Zlb0hHeDZyLVVORnRUMDNLZ3VTZTBOd2pyajVCSnlqWXZuOEpzUkdEa01VRF9aYnpOemlz?oc=5",
+   "ts": 1793806536,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Kraft Heinz продасть північноамериканський кавовий бізнес за угоду на 650 мільйонів доларів",
-    "fr": "Kraft Heinz va céder son activité café en Amérique du Nord dans le cadre d'un accord de 650 millions de dollars",
-    "de": "Kraft Heinz veräußert sein nordamerikanisches Kaffeegeschäft im Rahmen eines 650-Millionen-Dollar-Deals",
-    "zh": "卡夫亨氏将以 6.5 亿美元的交易剥离北美咖啡业务",
-    "ru": "Kraft Heinz продаст свой кофейный бизнес в Северной Америке за 650 миллионов долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Midterm Election Day recap: Democrats flip Senate and House in stunning victory",
-   "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "ts": 1793806522,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Підсумок дня проміжних виборів: демократи перевернули Сенат і Палату представників у приголомшливій перемозі",
-    "fr": "Récapitulatif du jour des élections de mi-mandat : les démocrates renversent le Sénat et la Chambre dans une victoire éclatante",
-    "de": "Rückblick auf den Zwischenwahltag: Demokraten schlagen Senat und Repräsentantenhaus mit überwältigendem Sieg um",
-    "zh": "中期选举日回顾：民主党以惊人的胜利击败参众两院",
-    "ru": "Итоги промежуточных выборов: демократы перевернули Сенат и Палату представителей, одержав потрясающую победу"
+    "uk": "Банківський регулятор США випустив перші в історії інструкції щодо ШІ для перевіряючих",
+    "fr": "Le régulateur bancaire américain publie les toutes premières lignes directrices sur l’IA à l’intention des examinateurs",
+    "de": "Die US-Bankenaufsicht gibt erstmals KI-Leitlinien für Prüfer heraus",
+    "zh": "美国银行监管机构向审查员发布首个人工智能指南",
+    "ru": "Банковский регулятор США выпустил первое в истории руководство по искусственному интеллекту для проверяющих"
    },
    "lang": "en"
   },
@@ -940,42 +1452,6 @@
     "de": "Es sei an der Zeit, sich auf die Lebenshaltungskosten zu konzentrieren, sagt Premierminister nach den Ergebnissen der US-Wahlen",
     "zh": "美国大选结果公布后，总理表示是时候关注生活成本了",
     "ru": "Пора сосредоточиться на стоимости жизни, заявил премьер-министр после результатов выборов в США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Once it was a £1 hanger. Now it’s a £15 locker. Why do cloakrooms cost so much on a night out?",
-   "url": "https://www.theguardian.com/music/2026/nov/04/why-do-cloakrooms-now-cost-so-much-on-a-night-out",
-   "ts": 1793806411,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Колись це була вішалка за 1 фунт. Тепер це шафка за 15 фунтів. Чому гардероб коштує стільки під час вечірніх прогулянок?",
-    "fr": "Autrefois, c'était un cintre à 1 £. Maintenant, c'est un casier à 15 £. Pourquoi les vestiaires coûtent-ils si cher lors d’une soirée ?",
-    "de": "Früher war es ein 1-Pfund-Kleiderbügel. Jetzt ist es ein Schließfach für 15 £. Warum kostet die Garderobe an einem Abend so viel?",
-    "zh": "曾经是一个 1 英镑的衣架。现在它是一个 15 英镑的储物柜。为什么晚上外出时衣帽间要花这么多钱？",
-    "ru": "Когда-то это была вешалка за 1 фунт. Теперь это шкафчик за 15 фунтов. Почему гардероб на вечеринке стоит так дорого?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-   "url": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-   "ts": 1793806380,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Пригнічує, але правда: якщо ви хочете просунутися на роботі, прийміть сигнал чесноти",
-    "fr": "Déprimant, mais vrai : si vous voulez progresser au travail, adoptez les signaux de vertu",
-    "de": "Deprimierend, aber wahr: Wenn Sie bei der Arbeit vorankommen wollen, nutzen Sie Tugendsignale",
-    "zh": "令人沮丧，但却是事实：如果你想在工作中取得成功，就拥抱美德信号",
-    "ru": "Удручающе, но факт: если вы хотите добиться успеха на работе, используйте сигналы добродетели."
    },
    "lang": "en"
   },
@@ -1016,20 +1492,20 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Don’t let Poundland owner maximise its return at our expense, suppliers say",
-   "url": "https://www.theguardian.com/business/2026/nov/04/poundland-suppliers-facing-losses-gordon-brothers",
-   "ts": 1793806305,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Clashes in Kyiv Oblast's Borshchahivka: details about four injured soldiers found in house revealed",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061261/",
+   "ts": 1793806260,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Не дозволяйте власнику Poundland максимізувати віддачу за наш рахунок, кажуть постачальники",
-    "fr": "Ne laissez pas le propriétaire de Poundland maximiser son rendement à nos dépens, disent les fournisseurs",
-    "de": "Lassen Sie nicht zu, dass der Poundland-Eigentümer seine Rendite auf unsere Kosten maximiert, sagen Lieferanten",
-    "zh": "供应商表示，不要让 Poundland 所有者以我们为代价来最大化回报",
-    "ru": "Не позволяйте владельцу Poundland максимизировать прибыль за наш счет, говорят поставщики"
+    "uk": "Сутички на Борщагівці Київської області: з'явилися подробиці про чотирьох поранених бійців, знайдених у будинку",
+    "fr": "Affrontements à Borshchahivka, dans l'oblast de Kiev : révélation des détails sur quatre soldats blessés retrouvés dans leur maison",
+    "de": "Zusammenstöße im Bezirk Borshchahivka der Oblast Kiew: Details über vier verletzte Soldaten, die in einem Haus gefunden wurden, enthüllt",
+    "zh": "基辅州博尔什恰希夫卡发生冲突：房屋中发现的四名受伤士兵的详细信息被披露",
+    "ru": "Столкновения на Борщаговке Киевской области: раскрыты подробности о четырех раненых солдатах, найденных в доме"
    },
    "lang": "en"
   },
@@ -1052,201 +1528,21 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Secret police files released in Hungary, 47 years after fall of communism",
-   "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-   "ts": 1793806098,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "В Угорщині оприлюднили документи секретної поліції через 47 років після падіння комунізму",
-    "fr": "Les dossiers secrets de la police dévoilés en Hongrie, 47 ans après la chute du communisme",
-    "de": "Geheimpolizeiakten in Ungarn veröffentlicht, 47 Jahre nach dem Fall des Kommunismus",
-    "zh": "共产主义垮台 47 年后匈牙利公布秘密警察档案",
-    "ru": "Файлы тайной полиции опубликованы в Венгрии спустя 47 лет после падения коммунизма"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-   "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-   "ts": 1793806080,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Не шкодую: Трамп каже, що війна в Ірані виправдана, незважаючи на падіння опитувань",
-    "fr": "Pas de regrets : Trump affirme que la guerre en Iran est justifiée malgré des sondages décevants",
-    "de": "Kein Bedauern: Trump hält den Iran-Krieg trotz negativer Umfragewerte für gerechtfertigt",
-    "zh": "不后悔：尽管民调惨败，特朗普仍称伊朗战争合理",
-    "ru": "Никаких сожалений: Трамп считает войну с Ираном оправданной, несмотря на поражение по опросам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
-   "ts": 1793805948,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Бізнес-імперія Ілона Маска готується до демократичної хвилі, коли Техас стає синім",
-    "fr": "L'empire commercial d'Elon Musk se prépare à la vague démocrate alors que le Texas devient bleu",
-    "de": "Elon Musks Geschäftsimperium bereitet sich auf die Welle der Demokraten vor, während Texas ins Wanken gerät",
-    "zh": "德克萨斯州翻蓝，埃隆·马斯克的商业帝国迎接民主党浪潮",
-    "ru": "Бизнес-империя Илона Маска готовится к демократической волне, поскольку Техас переворачивается в синий цвет"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "HP names former GSK chief Emma Walmsley as CEO",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqYWVjWk1RLUI2U0Y1RE8zNV9lRDljSXBUaS1SYjVlQmVxUXBLS0ljTVJrc1ZtQTBYdFU3emEwNWc4RW1HM1dzWV9wMnFNM3FtY3ZuaDlPR0RYTE94VDdiZ0ZNeHJMRVRZbTJWcjJ3UWJRUmlZSURqZUwzVQ?oc=5",
-   "ts": 1793805757,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "HP призначає колишнього керівника GSK Емму Волмслі генеральним директором",
-    "fr": "HP nomme Emma Walmsley, ancienne patronne de GSK, au poste de PDG",
-    "de": "HP ernennt die frühere GSK-Chefin Emma Walmsley zur CEO",
-    "zh": "惠普任命前葛兰素史克 (GSK) 首席执行官艾玛·沃尔姆斯利 (Emma Walmsley) 为首席执行官",
-    "ru": "HP назначила генеральным директором бывшего руководителя GSK Эмму Уолмсли"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "CVS Health to split pharmacy chain from health insurance",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
-   "ts": 1793805624,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "CVS Health планує відокремити мережу аптек від медичного страхування",
-    "fr": "CVS Health va séparer la chaîne de pharmacies de l'assurance maladie",
-    "de": "CVS Health trennt Apothekenkette von Krankenversicherung",
-    "zh": "CVS Health 将药店连锁店与健康保险分开",
-    "ru": "CVS Health отделит аптечную сеть от медицинского страхования"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Trump's midterm drubbing could give trade partners room to resist",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
-   "ts": 1793805545,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Проміжне скорочення Трампа може дати торговим партнерам простір для опору",
-    "fr": "Les coups durs de Trump à mi-mandat pourraient donner aux partenaires commerciaux une marge de résistance",
-    "de": "Trumps mittelfristige Niederlage könnte den Handelspartnern Raum zum Widerstand geben",
-    "zh": "特朗普的中期惨败可能会给贸易伙伴提供抵抗的空间",
-    "ru": "Разгром Трампа на промежуточных выборах может дать торговым партнерам пространство для сопротивления"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "From Iran to trade: how the US midterms impact the rest of the world",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
-   "ts": 1793805497,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Від Ірану до торгівлі: як проміжні терміни США впливають на решту світу",
-    "fr": "De l’Iran au commerce : l’impact des élections de mi-mandat américaines sur le reste du monde",
-    "de": "Vom Iran zum Handel: Wie sich die Zwischenwahlen in den USA auf den Rest der Welt auswirken",
-    "zh": "从伊朗到贸易：美国中期选举如何影响世界其他地区",
-    "ru": "От Ирана к торговле: как промежуточные выборы в США повлияют на остальной мир"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-   "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-   "ts": 1793805483,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Мати вбитого в США хлопчика з Гани «хоче справедливості», коли летіла на похорон",
-    "fr": "La mère d'un garçon ghanéen tué aux États-Unis « veut justice » alors qu'elle prend l'avion pour ses funérailles",
-    "de": "Die Mutter eines in den USA getöteten ghanaischen Jungen „will Gerechtigkeit“, während sie zur Beerdigung fliegt",
-    "zh": "在美国被杀的加纳男孩的母亲在飞往葬礼时“想要正义”",
-    "ru": "Мать убитого в США мальчика из Ганы «хочет справедливости», летя на похороны"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Africa's shifting role in the global drug trade",
-   "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-world-4025-rdf",
-   "ts": 1793805480,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Зміна ролі Африки у світовій торгівлі наркотиками",
-    "fr": "Le rôle changeant de l’Afrique dans le commerce mondial de la drogue",
-    "de": "Afrikas sich verändernde Rolle im globalen Drogenhandel",
-    "zh": "非洲在全球毒品贸易中的角色转变",
-    "ru": "Меняющаяся роль Африки в мировой торговле наркотиками"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
-   "url": "https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
-   "ts": 1793805373,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "US stocks rally toward their best day in 3 months, and the Dow soars more than 1,000 points",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+   "ts": 1793805900,
    "sec": [
     "world",
-    "politics"
+    "market"
    ],
    "t": {
-    "uk": "«Чи зможе Республіканська партія відійти від руху MAGA, чи буде висуватись вперед без лідера?»",
-    "fr": "« Le Parti républicain est-il capable de s'éloigner du mouvement MAGA, ou va-t-il avancer sans leader ?",
-    "de": "„Ist die Republikanische Partei in der Lage, sich von der MAGA-Bewegung abzuwenden, oder wird sie führerlos vorwärtsstürmen?“",
-    "zh": "“共和党是否能够摆脱 MAGA 运动，还是会群龙无首？”",
-    "ru": "«Сможет ли Республиканская партия отойти от движения MAGA или она пойдет вперед без лидера?»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-   "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-   "ts": 1793805180,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Іранські лідери вітають проміжні терміни США, але Трамп все ще може атакувати",
-    "fr": "Les dirigeants iraniens accueillent favorablement les élections de mi-mandat des États-Unis, mais Trump pourrait encore attaquer",
-    "de": "Die iranische Führung begrüßt die Zwischenwahlen der USA, aber Trump könnte dennoch angreifen",
-    "zh": "伊朗领导人欢迎美国中期选举，但特朗普仍可能发起攻击",
-    "ru": "Иранские лидеры приветствуют промежуточные выборы в США, но Трамп все еще может атаковать"
+    "uk": "Американські фондові біржі підвищуються до свого найкращого дня за 3 місяці, а Dow злітає більш ніж на 1000 пунктів",
+    "fr": "Les actions américaines progressent vers leur meilleure journée en 3 mois et le Dow Jones s'envole de plus de 1 000 points",
+    "de": "US-Aktien erholen sich auf ihren besten Tag seit drei Monaten und der Dow steigt um mehr als 1.000 Punkte",
+    "zh": "美股创3个月来最佳单日 道指大涨逾千点",
+    "ru": "Акции США приближаются к своему лучшему дню за 3 месяца, а индекс Доу-Джонса взлетает более чем на 1000 пунктов"
    },
    "lang": "en"
   },
@@ -1265,61 +1561,6 @@
     "de": "Moldawien überholt die Ukraine auf dem Weg zum EU-Beitritt, wie aus den Fahrplänen hervorgeht",
     "zh": "路线图显示摩尔多瓦在加入欧盟的道路上超越乌克兰",
     "ru": "Молдова обгоняет Украину на пути вступления в ЕС, свидетельствуют дорожные карты"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "French blood banks foil new cyberattack targeting refrigerators",
-   "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
-   "ts": 1793805017,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Французькі банки крові запобігли новій кібератаці на холодильники",
-    "fr": "Les banques de sang françaises déjouent une nouvelle cyberattaque ciblant les réfrigérateurs",
-    "de": "Französische Blutbanken vereiteln neuen Cyberangriff auf Kühlschränke",
-    "zh": "法国血库挫败针对冰箱的新网络攻击",
-    "ru": "Французские банки крови предотвратили новую кибератаку, нацеленную на холодильники"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "US midterm elections: Gen Z gives Democrats their strongest support",
-   "url": "https://www.france24.com/en/video/20261104-us-midterm-elections-gen-z-gives-democrats-their-strongest-support",
-   "ts": 1793805013,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Проміжні вибори в США: покоління Z надає демократам найсильнішу підтримку",
-    "fr": "Élections de mi-mandat aux États-Unis : la génération Z apporte son plus grand soutien aux démocrates",
-    "de": "Zwischenwahlen in den USA: Die Generation Z gibt den Demokraten ihre stärkste Unterstützung",
-    "zh": "美国中期选举：Z世代给予民主党最强支持",
-    "ru": "Промежуточные выборы в США: поколение Z оказывает демократам самую решительную поддержку"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "South Africa says US midterm results usher in new era",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYldVVWZMVFEwSkw0RXVnZFhkTGpRUl9rNVpMR25KUW5kaTJLZlVjUjgyZURaUW9XMzdxaVRLNmRsbV9VeERTcjJ6MmhwMDVRdGsxZW9mSnRWNk9DRVYyWVN1Yi1qTVNlTW90M3ZmWi1nQi1KVHBtRmV6QVRmeUNOUmVVNXA0aHRlX0k2anZNX2dGYXBuZjMw?oc=5",
-   "ts": 1793804861,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Південна Африка каже, що середньострокові результати США відкривають нову еру",
-    "fr": "L'Afrique du Sud affirme que les résultats américains à mi-mandat ouvrent la voie à une nouvelle ère",
-    "de": "Südafrika sagt, die Zwischenergebnisse der USA läuten eine neue Ära ein",
-    "zh": "南非称美国中期结果迎来新时代",
-    "ru": "ЮАР заявляет, что промежуточные результаты США открывают новую эру"
    },
    "lang": "en"
   },
@@ -1343,39 +1584,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-   "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-   "ts": 1793804674,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Clashes in Kyiv Oblast's Borshchahivka sparked by attempt to get mobilised soldier out for US$7,000 bribe, commander says",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061257/",
+   "ts": 1793804820,
    "sec": [
-    "world"
+    "ukraine"
    ],
    "t": {
-    "uk": "Федерація хокею знову виступає проти відновлення Росії",
-    "fr": "La Fédération de hockey sur glace réitère son opposition à la réintégration de la Russie",
-    "de": "Der Eishockeyverband bekräftigt seinen Widerstand gegen die Wiedereinsetzung Russlands",
-    "zh": "冰球联合会重申反对俄罗斯恢复参赛资格",
-    "ru": "Федерация хоккея вновь выступает против восстановления России в правах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-   "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-   "ts": 1793804648,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Чи справді Трамп «кульгава качка» після втрати обох палат Конгресу США?",
-    "fr": "Trump est-il vraiment un « canard boiteux » après avoir perdu les deux chambres du Congrès américain ?",
-    "de": "Ist Trump wirklich eine „lahme Ente“, nachdem er beide Kammern des US-Kongresses verloren hat?",
-    "zh": "失去美国参众两院的特朗普真的是“跛脚鸭”吗？",
-    "ru": "Действительно ли Трамп является «хромой уткой» после потери обеих палат Конгресса США?"
+    "uk": "Сутички на Борщагівці Київської області спровоковані спробою витягти мобілізованого за хабар у 7 тисяч доларів, – командир",
+    "fr": "Des affrontements à Borshchahivka, dans l'oblast de Kiev, ont été déclenchés par une tentative de faire sortir un soldat mobilisé contre un pot-de-vin de 7 000 dollars, selon le commandant",
+    "de": "Zusammenstöße im Bezirk Borshchahivka der Oblast Kiew wurden durch den Versuch ausgelöst, einen mobilisierten Soldaten gegen ein Bestechungsgeld in Höhe von 7.000 US-Dollar abzuziehen, sagt der Kommandant",
+    "zh": "指挥官称，基辅州博尔什恰希夫卡的冲突是由于试图以 7,000 美元贿赂将动员的士兵赶走而引发的",
+    "ru": "Столкновения на Борщаговке Киевской области начались из-за попытки вывести мобилизованного солдата за взятку в 7 тысяч долларов, - командующий"
    },
    "lang": "en"
   },
@@ -1432,25 +1654,6 @@
     "de": "Experte: Die Weigerung, die Grenze abzugrenzen, ist eine große russische Spezialoperation",
     "zh": "专家：拒绝划定边界是俄罗斯重大特种行动",
     "ru": "Эксперт: Отказ от демаркации границы — крупная российская спецоперация"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "ANC faces anger over poor services as South Africans vote in local elections",
-   "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-   "ts": 1793803847,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "ANC стикається з гнівом через погані послуги під час голосування південноафриканців на місцевих виборах",
-    "fr": "L'ANC fait face à la colère face à la médiocrité des services alors que les Sud-Africains votent aux élections locales",
-    "de": "ANC ist wütend über schlechte Dienstleistungen, während Südafrikaner bei Kommunalwahlen wählen",
-    "zh": "南非人在地方选举中投票，非国大面临着对糟糕服务的愤怒",
-    "ru": "АНК сталкивается с гневом по поводу плохих услуг, поскольку южноафриканцы голосуют на местных выборах"
    },
    "lang": "en"
   },
@@ -1673,6 +1876,25 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjMwSG5rWWpTb3hLVHAyU2JRLXplaDlTaFlLVHBMTG5MOS00VzZ5Ni14clRRMlU2eWZ1dTlFeHJFNHlaTjYxTzNQVVFTNkRaVG5VX0JMTU14NHpINEFyMzhvZndNMHV1WWdSS29HYlotcmJOOF9laXlpMkMwUWcwTG1xLTdFVnFHRHk3V3JKd1l5ZzlWbElqZzNNM0M3cE9Vd2ZJa2VYNm9tcldkN0Fv?oc=5",
+   "ts": 1793799863,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Український безпілотник підпалив центр інтернет-магазину Ozon на півдні Росії",
+    "fr": "Une frappe de drone ukrainien met le feu au centre du détaillant en ligne Ozon dans le sud de la Russie",
+    "de": "Ukrainischer Drohnenangriff setzt Zentrum des E-Einzelhändlers Ozon in Südrussland in Brand",
+    "zh": "乌克兰无人机袭击导致俄罗斯南部电子零售商 Ozon 中心着火",
+    "ru": "Удар украинского беспилотника поджег центр интернет-магазина Ozon на юге России"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Want to know what all your co-workers earn? Be careful what you wish for | André Spicer",
@@ -1687,24 +1909,6 @@
     "de": "Möchten Sie wissen, was alle Ihre Kollegen verdienen? Seien Sie vorsichtig, was Sie sich wünschen | André Spicer",
     "zh": "想知道您所有同事的收入吗？小心你的愿望 |安德烈·斯派塞",
     "ru": "Хотите знать, сколько зарабатывают все ваши коллеги? Будьте осторожны со своими желаниями | Андре Спайсер"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Ukrainian anti-corruption agencies expose new criminal organisation as part of Operation Carthage",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061245/",
-   "ts": 1793799480,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українські антикорупційні відомства викрили нову злочинну організацію в рамках операції «Карфаген».",
-    "fr": "Les agences ukrainiennes de lutte contre la corruption dénoncent une nouvelle organisation criminelle dans le cadre de l'opération Carthage",
-    "de": "Ukrainische Antikorruptionsbehörden enthüllen im Rahmen der Operation Karthago eine neue kriminelle Organisation",
-    "zh": "乌克兰反腐败机构揭露新犯罪组织是迦太基行动的一部分",
-    "ru": "Украинские антикоррупционные ведомства разоблачили новую преступную организацию в рамках операции \"Карфаген\""
    },
    "lang": "en"
   },
@@ -1839,42 +2043,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Stable water supply restored in Kyiv",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061237/",
-   "ts": 1793795880,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "У Києві відновлено стабільне водопостачання",
-    "fr": "Un approvisionnement en eau stable rétabli à Kyiv",
-    "de": "Stabile Wasserversorgung in Kiew wiederhergestellt",
-    "zh": "基辅恢复稳定供水",
-    "ru": "В Киеве восстановлено стабильное водоснабжение"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "NATO prepares new defence plan foreseeing strikes deep inside Russian territory – WSJ",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061236/",
-   "ts": 1793795400,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "НАТО готує новий оборонний план, який передбачає удари вглиб території Росії – WSJ",
-    "fr": "L’OTAN prépare un nouveau plan de défense prévoyant des frappes en profondeur sur le territoire russe – WSJ",
-    "de": "Die NATO bereitet einen neuen Verteidigungsplan vor, der Angriffe tief im russischen Territorium vorsieht – WSJ",
-    "zh": "北约准备新的防御计划，预计将深入俄罗斯领土发动袭击 – 华尔街日报",
-    "ru": "НАТО готовит новый план обороны, предусматривающий удары вглубь территории России – WSJ"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Ukrainian Caucus co-chair in U.S. Congress Marcy Kaptur reelected to another term",
@@ -1907,6 +2075,26 @@
     "de": "„Wahnsinniger Angriff“ – Die Zahl der Todesopfer durch den russischen Angriff auf Komyshuvakha steigt auf 40, da die Suchaktion am dritten Tag beginnt",
     "zh": "“疯狂的袭击”——俄罗斯对 Komyshuvakha 的袭击造成的死亡人数上升至 40 人，搜索行动进入第三天",
     "ru": "«Безумная атака» — Число погибших в результате нападения России на Комышуваху возросло до 40, поисковая операция начинается третий день"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+   "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+   "ts": 1793794028,
+   "sec": [
+    "market",
+    "ukraine",
+    "politics"
+   ],
+   "t": {
+    "uk": "Що означає втрата Трампом влади над Конгресом для Ірану, України та зовнішньої політики",
+    "fr": "Ce que la perte du pouvoir de Trump sur le Congrès signifie pour l’Iran, l’Ukraine et la politique étrangère",
+    "de": "Was Trumps Machtverlust über den Kongress für Iran, die Ukraine und die Außenpolitik bedeutet",
+    "zh": "特朗普失去国会权力对伊朗、乌克兰和外交政策意味着什么",
+    "ru": "Что означает потеря Трампом власти над Конгрессом для Ирана, Украины и внешней политики"
    },
    "lang": "en"
   },
@@ -2073,24 +2261,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Ukrainian forces strike two Russian Pantsir air defense systems in Crimea",
-   "url": "https://www.ukrinform.net/rubric-ato/4181338-ukrainian-forces-strike-two-russian-pantsir-air-defense-systems-in-crimea.html",
-   "ts": 1793792040,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українські війська завдали ударів по двох російських ЗРК \"Панцир\" у Криму",
-    "fr": "Les forces ukrainiennes frappent deux systèmes de défense aérienne russes Pantsir en Crimée",
-    "de": "Ukrainische Streitkräfte greifen auf der Krim zwei russische Pantsir-Luftverteidigungssysteme an",
-    "zh": "乌克兰军队袭击了克里米亚的两套俄罗斯铠甲防空系统",
-    "ru": "Украинские военные нанесли удар по двум российским системам ПВО «Панцирь» в Крыму"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Children spending too long on maths app TT Rockstars, MP warns",
@@ -2105,42 +2275,6 @@
     "de": "Kinder verbringen zu viel Zeit mit der Mathe-App TT Rockstars, warnt MP",
     "zh": "国会议员警告说，孩子们在数学应用 TT Rockstars 上花费的时间过长",
     "ru": "Депутат предупреждает, что дети тратят слишком много времени на математическое приложение TT Rockstars"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Nuclear power plants forced to reduce output after Russian attacks – Energy Ministry",
-   "url": "https://www.ukrinform.net/rubric-economy/4181328-nuclear-power-plants-forced-to-reduce-output-after-russian-attacks-energy-ministry.html",
-   "ts": 1793790720,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "АЕС змушені скоротити виробіток після нападів Росії – Міненерго",
-    "fr": "Les centrales nucléaires contraintes de réduire leur production après les attaques russes – Ministère de l’Energie",
-    "de": "Atomkraftwerke müssen nach russischen Angriffen ihre Leistung drosseln – Energieministerium",
-    "zh": "俄罗斯袭击后核电站被迫减产——能源部",
-    "ru": "Атомные электростанции вынуждены сократить мощность из-за атак России – Минэнерго"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "NABU and SAPO complete pre-trial investigation in Midas case",
-   "url": "https://www.ukrinform.net/rubric-crime/4181327-nabu-and-sapo-complete-pretrial-investigation-in-midas-case.html",
-   "ts": 1793790300,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "НАБУ та САП завершили досудове розслідування у справі Мідаса",
-    "fr": "NABU et SAPO achèvent l'enquête préliminaire dans l'affaire Midas",
-    "de": "NABU und SAPO schließen Voruntersuchung im Fall Midas ab",
-    "zh": "NABU 和 SAPO 完成 Midas 案的审前调查",
-    "ru": "НАБУ и САП завершили досудебное расследование по делу Мидаса"
    },
    "lang": "en"
   },
@@ -2160,44 +2294,6 @@
     "de": "Quellen zufolge legt der chinesische Chiphersteller YMTC den Börsengang aufgrund schwächerer Märkte auf Eis",
     "zh": "消息人士称，由于市场疲软，中国芯片制造商长江存储暂停IPO",
     "ru": "Китайский производитель чипов YMTC откладывает IPO из-за ослабления рынков, сообщают источники"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Ukraine's anti-graft police target senior officials in major fraud probe",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9zQS1BZmV0MzhxeXhlN0xKYllETXY0YnNaWUw2LW9DckM1UjJXejFPRi1LMXlRSVB4SWwzQWNjWXlPUkgyVGNzOEhjczhrTjhEUUpaSUMxRVU0TndFaWJKS3RRVVBWMXNtX3JNVGFoQ0VJdmJGNUNsWWVsZ0lLWFBMRlBNMzY4aUM1N0doZVFsb2dtQUtmRXAzdHZxZ0VERlQ1Vm9yd0tFa0NFYUxJ?oc=5",
-   "ts": 1793789664,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українська поліція по боротьбі з корупцією переслідує високопосадовців у масштабному розслідуванні шахрайства",
-    "fr": "La police ukrainienne anti-corruption cible de hauts responsables dans le cadre d'une importante enquête pour fraude",
-    "de": "Die Anti-Korruptions-Polizei der Ukraine nimmt hochrangige Beamte in einer großen Betrugsermittlung ins Visier",
-    "zh": "乌克兰反贪警察在重大欺诈调查中针对高级官员",
-    "ru": "Украинская антикоррупционная полиция преследует высокопоставленных чиновников по делу о крупном мошенничестве"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Markets react with caution to Democrats' victory in US midterms",
-   "url": "https://www.france24.com/en/tv-shows/business/20261104-markets-react-with-caution-to-democrats-victory-in-us-midterms",
-   "ts": 1793788831,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Ринки обережно реагують на перемогу демократів на проміжних виборах у США",
-    "fr": "Les marchés réagissent avec prudence à la victoire des démocrates aux élections de mi-mandat aux États-Unis",
-    "de": "Die Märkte reagieren mit Vorsicht auf den Sieg der Demokraten bei den Zwischenwahlen in den USA",
-    "zh": "市场对民主党在美国中期选举中获胜反应谨慎",
-    "ru": "Рынки с осторожностью реагируют на победу демократов на промежуточных выборах в США"
    },
    "lang": "en"
   },
@@ -2238,24 +2334,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "And still, they plant: Ukraine's front-line farmers rebuild their businesses against all odds",
-   "url": "https://kyivindependent.com/and-still-they-plant-front-line-farmers-rebuild-their-businesses-against-all-odds-2/",
-   "ts": 1793786385,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "І все одно садять: передові українські фермери відновлюють свій бізнес, незважаючи ні на що",
-    "fr": "Et pourtant, ils plantent : les agriculteurs ukrainiens de première ligne reconstruisent leurs entreprises contre vents et marées",
-    "de": "Und trotzdem säen sie: Die Landwirte an vorderster Front der Ukraine bauen ihre Betriebe allen Widrigkeiten zum Trotz wieder auf",
-    "zh": "尽管如此，他们还是种植了：乌克兰的前线农民克服重重困难重建了他们的生意",
-    "ru": "И все же сажают: украинские аграрии-фронтовики вопреки всему восстанавливают свой бизнес"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Ukraine's Zelenskiy awards Melania Trump state honour",
@@ -2275,26 +2353,6 @@
    "lang": "en"
   },
   {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-   "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-rdf",
-   "ts": 1793782320,
-   "sec": [
-    "world",
-    "ukraine",
-    "politics"
-   ],
-   "t": {
-    "uk": "Що означають проміжні вибори в США для України, Ірану та інших країн",
-    "fr": "Ce que signifient les élections américaines de mi-mandat pour l’Ukraine, l’Iran et ailleurs",
-    "de": "Was die Zwischenwahlen in den USA für die Ukraine, den Iran und anderswo bedeuten",
-    "zh": "美国中期选举对乌克兰、伊朗和其他国家意味着什么",
-    "ru": "Что означают промежуточные выборы в США для Украины, Ирана и других стран"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "These cruel new plans to ‘stop the boats’ show the government completely misunderstands refugees like me | Anonymous",
@@ -2309,25 +2367,6 @@
     "de": "Diese grausamen neuen Pläne, „die Boote anzuhalten“, zeigen, dass die Regierung Flüchtlinge wie mich völlig missversteht | Anonym",
     "zh": "这些残酷的“拦船”新计划表明政府完全误解了像我这样的难民 |匿名的",
     "ru": "Эти жестокие новые планы «остановить лодки» показывают, что правительство совершенно неправильно понимает беженцев вроде меня | Анонимный"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "BMW takes second profit warning in stride as it ramps up cuts",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXlGRjMxNHF4V2dKdm9ZZFJHbXpmZ0ZDVm1MZDJUOHNXTng1YzFOOEtDM0hlN3A2WXpObUhDMnlWT3ZfZXozQXZiQXZvazRNUEFQSFQ4NkNDWlQ2SHBsTk9XLUQ4TjVWYUZDZTVZNklTM2R0NXZ2aHZVRnZETVFmVVROVTItdWNTVWF5NnM4eTNyVnBDTFZKUUpETQ?oc=5",
-   "ts": 1793776860,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "BMW спокійно приймає друге попередження про прибуток, оскільки нарощує скорочення",
-    "fr": "BMW prend son deuxième avertissement sur résultats sans hésiter alors qu'il accélère ses réductions",
-    "de": "BMW nimmt die zweite Gewinnwarnung gelassen und verstärkt die Kürzungen",
-    "zh": "随着削减力度加大，宝马泰然自若地发出第二次盈利预警",
-    "ru": "BMW спокойно отнеслась ко второму предупреждению о прибыли, наращивая сокращения"
    },
    "lang": "en"
   },
@@ -2512,25 +2551,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-   "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-   "ts": 1793721279,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Для Херсонської області короткочасне припинення вогню означало миттєве повернення до нормального життя",
-    "fr": "Pour la région ukrainienne de Kherson, un court cessez-le-feu signifiait un retour momentané à la vie normale",
-    "de": "Für die ukrainische Region Cherson bedeutete ein kurzer Waffenstillstand eine vorübergehende Rückkehr zum normalen Leben",
-    "zh": "对于乌克兰赫尔松地区来说，短暂停火意味着暂时恢复正常生活",
-    "ru": "Для Херсонской области Украины кратковременное прекращение огня означало мгновенное возвращение к нормальной жизни."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "British people don’t need to apologise for slavery – but the government does | Olivette Otele",
@@ -2585,94 +2605,38 @@
    "lang": "en"
   },
   {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-   "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-   "ts": 1793703674,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Кількість загиблих сягнула 29 осіб у результаті російського удару по українському центру надання допомоги, 48 вважаються зниклими безвісти",
-    "fr": "Le bilan s'élève à 29 morts après une frappe russe sur un site d'aide ukrainien, et 48 sont toujours portés disparus",
-    "de": "Nach russischem Angriff auf ukrainisches Hilfswerk steigt die Zahl der Todesopfer auf 29, 48 werden noch immer vermisst",
-    "zh": "俄罗斯袭击乌克兰援助地点造成29人死亡，仍有48人失踪",
-    "ru": "Число погибших в результате удара России по украинскому объекту помощи достигло 29, 48 пропали без вести"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Labour MPs pull their punches on immigration changes",
-   "url": "https://www.bbc.co.uk/news/articles/ck0e0jpww9wro?at_medium=RSS&at_campaign=rss",
-   "ts": 1793697396,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Депутати від Лейбористської партії наполягають на імміграційних змінах",
-    "fr": "Les députés travaillistes s’attaquent aux changements en matière d’immigration",
-    "de": "Labour-Abgeordnete setzen sich vehement gegen Einwanderungsänderungen durch",
-    "zh": "工党议员对移民改革持保留态度",
-    "ru": "Депутаты от лейбористской партии критикуют иммиграционные изменения"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "MP Carla Lockhart quits DUP in Drumcree row",
-   "url": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793643451,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Депутат Карла Локхарт виходить з DUP у рядку Drumcree",
-    "fr": "La députée Carla Lockhart quitte le DUP dans le conflit avec Drumcree",
-    "de": "Die Abgeordnete Carla Lockhart verlässt die DUP im Drumcree-Streit",
-    "zh": "卡拉·洛克哈特 (Carla Lockhart) 议员在德拉姆克里 (Drumcree) 事件中退出民主统一党 (DUP)",
-    "ru": "Депутат Карла Локхарт покидает DUP из-за скандала в Драмкри"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Reform council leader quits after staff comments leaked",
-   "url": "https://www.bbc.co.uk/news/articles/c6n4en89nd2xo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793642691,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Лідер ради реформ пішов у відставку після витоку коментарів персоналу",
-    "fr": "Le chef du Conseil de réforme démissionne après la fuite des commentaires du personnel",
-    "de": "Der Vorsitzende des Reformrates tritt zurück, nachdem Kommentare des Personals durchgesickert sind",
-    "zh": "工作人员言论泄露后改革委员会领导人辞职",
-    "ru": "Лидер Совета по реформе ушел в отставку после утечки комментариев персонала"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
+   "feed": "guardian_politics",
    "source": "The Guardian",
-   "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-   "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-   "ts": 1793639663,
+   "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
+   "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
+   "ts": 1793689241,
    "sec": [
-    "world",
-    "market"
+    "politics"
    ],
    "t": {
-    "uk": "Ціна на нафту падає на тлі надії на прорив у завершенні війни з Іраном",
-    "fr": "Le prix du pétrole chute dans l’espoir d’une avancée décisive pour mettre fin à la guerre en Iran",
-    "de": "Der Ölpreis fällt angesichts der Hoffnung auf einen Durchbruch zur Beendigung des Iran-Krieges",
-    "zh": "结束伊朗战争有望取得突破，油价下跌",
-    "ru": "Цена на нефть падает на фоне надежды на прорыв, который положит конец войне с Ираном"
+    "uk": "«Це прямо»: перші позитивні відгуки від пілотного громадського центру психічного здоров’я в Камбрії",
+    "fr": "« C'est direct » : premiers commentaires positifs du centre pilote de santé mentale communautaire de Cumbria",
+    "de": "„Das ist direkt“: Positives frühes Feedback vom Pilotzentrum für psychische Gesundheit in Cumbria",
+    "zh": "“这是直接的”：坎布里亚郡试点社区心理健康中心的积极早期反馈",
+    "ru": "«Это прямо»: положительные первые отзывы пилотного общественного центра психического здоровья в Камбрии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+   "ts": 1793651992,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Для Бернема міграція є моральним питанням, але чи намагається він догодити всім?",
+    "fr": "La migration est une question morale pour Burnham – mais essaie-t-il de plaire à tout le monde ?",
+    "de": "Migration ist für Burnham ein moralisches Thema – aber versucht er, es allen recht zu machen?",
+    "zh": "对于伯纳姆来说，移民是一个道德问题——但他是否想取悦所有人？",
+    "ru": "Миграция является моральной проблемой для Бёрнема, но пытается ли он всем угодить?"
    },
    "lang": "en"
   }
@@ -2776,7 +2740,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 16
+   "items": 18
   },
   {
    "source": "guardian_politics",
@@ -2806,7 +2770,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 14
+   "items": 13
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2842,7 +2806,7 @@
    "source": "translate",
    "ok": true,
    "requests": 15,
-   "translated": 285,
+   "translated": 255,
    "method": {
     "dict": 15
    }
