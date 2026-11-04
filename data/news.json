@@ -1,5 +1,5 @@
 {
- "updated": 1793771912,
+ "updated": 1793776363,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,74 +216,493 @@
  ],
  "items": [
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Diamond Power posts first INR 1,000 crore quarter in Q2 FY 2027",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-diamond-power-posts-first-inr-1000-crore-quarter-in-q2-fy-2027-93CH-4997406",
-   "ts": 1793771674,
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures mixed as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
+   "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "ts": 1793776341,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Стенограма телефонної розмови про прибутки: Diamond Power публікує перший квартал у розмірі 1000 крор INR у другому кварталі 2027 фінансового року",
-    "fr": "Transcription de l'appel aux résultats : Diamond Power publie son premier trimestre de 1 000 crores INR au deuxième trimestre de l'exercice 2027",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Diamond Power meldet das erste Quartal in Höhe von 1.000 Crore INR im zweiten Quartal des Geschäftsjahres 2027",
-    "zh": "财报电话会议记录：Diamond Power 在 2027 财年第二季度首次实现 100 亿印度卢比季度营收",
-    "ru": "Стенограмма отчета о прибылях и убытках: Diamond Power сообщила о первом квартале в 1000 крор индийских рупий во втором квартале 2027 финансового года."
+    "uk": "Ф’ючерси на акції неоднозначні, оскільки демократи виграють на проміжних термінах, трейдери роблять ставку на сповільнення будівництва центру обробки даних: оновлення в реальному часі",
+    "fr": "Les contrats à terme sur actions sont mitigés alors que les démocrates gagnent gros à mi-mandat, les traders parient qu'ils ralentiront la construction des centres de données : mises à jour en direct",
+    "de": "Die Aktien-Futures sind gemischt, da die Demokraten bei den Zwischenwahlen einen großen Sieg erringen. Händler wetten, dass sie den Ausbau von Rechenzentren verlangsamen werden: Live-Updates",
+    "zh": "随着民主党在中期选举中大获全胜，股票期货涨跌互现，交易员押注他们将放缓数据中心建设：实时更新",
+    "ru": "Фьючерсы на акции смешанные, поскольку демократы выигрывают на промежуточных выборах, трейдеры делают ставку на то, что они замедлят строительство центров обработки данных: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Florida Republicans fend off Democrats as state elects first black governor",
+   "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793776341,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Республіканці Флориди протистоять демократам, коли штат обирає першого чорношкірого губернатора",
+    "fr": "Les républicains de Floride repoussent les démocrates alors que l'État élit son premier gouverneur noir",
+    "de": "Die Republikaner in Florida wehren die Demokraten ab, während der Bundesstaat den ersten schwarzen Gouverneur wählt",
+    "zh": "佛罗里达州选举第一位黑人州长，共和党人击退民主党人",
+    "ru": "Республиканцы Флориды отбиваются от демократов, поскольку штат выбирает первого чернокожего губернатора"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+   "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "ts": 1793776219,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Проміжні вибори 2026 року в реальному часі: демократи змінили Сенат після перемоги в Палаті представників",
+    "fr": "Élections de mi-mandat 2026 : mises à jour en direct : les démocrates renversent le Sénat après avoir remporté la Chambre",
+    "de": "Live-Updates zu den Zwischenwahlen 2026: Demokraten wechseln den Senat, nachdem sie das Repräsentantenhaus gewonnen haben",
+    "zh": "2026 年中期选举实时更新：民主党赢得众议院后推翻参议院",
+    "ru": "Прямые обновления промежуточных выборов 2026 года: демократы перевернули Сенат после победы в Палате представителей"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Democrats win US House, taking full control of Congress in strong rebuke to Trump and Republicans",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+   "ts": 1793775840,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократи перемогли в Палаті представників США, отримавши повний контроль над Конгресом, різко засудивши Трампа та республіканців",
+    "fr": "Les démocrates remportent la Chambre des représentants et prennent le contrôle total du Congrès, ce qui constitue une réprimande sévère à l'égard de Trump et des républicains.",
+    "de": "Die Demokraten gewinnen das US-Repräsentantenhaus und übernehmen die volle Kontrolle über den Kongress – ein scharfer Tadel für Trump und die Republikaner",
+    "zh": "民主党赢得美国众议院，完全控制国会，强烈谴责特朗普和共和党",
+    "ru": "Демократы побеждают в Палате представителей США, взяв полный контроль над Конгрессом в знак резкого упрека Трампу и республиканцам"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793775825,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Колишній політичний помічник Великої Британії Стів Хілтон програв кандидатуру на посаду губернатора Каліфорнії демократу",
+    "fr": "L'ancien conseiller politique du Royaume-Uni, Steve Hilton, perd sa candidature au poste de gouverneur de Californie au profit des démocrates",
+    "de": "Der ehemalige britische politische Berater Steve Hilton verliert die Kandidatur für den Gouverneursposten von Kalifornien an die Demokraten",
+    "zh": "前英国政治助手史蒂夫·希尔顿在加州州长竞选中输给民主党",
+    "ru": "Бывший политический помощник Великобритании Стив Хилтон проиграл кандидатуру демократа на пост губернатора Калифорнии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
+   "url": "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
+   "ts": 1793775733,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Проміжні вибори 2026 року: демократ Кейша Ленс Ботомс творить історію в Джорджії",
+    "fr": "Midterms 2026 : la démocrate Keisha Lance Bottoms entre dans l’histoire en Géorgie",
+    "de": "Midterms 2026: Die Demokratin Keisha Lance Bottoms schreibt in Georgia Geschichte",
+    "zh": "2026 年中期选举：民主党人 Keisha Lance Bottoms 在佐治亚州创造历史",
+    "ru": "Промежуточные выборы 2026 года: демократ Кейша Лэнс Боттомс творит историю в Джорджии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Election Day unfolded with relatively few problems, despite worries over Trump election interference",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
+   "ts": 1793775660,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "День виборів пройшов з відносно невеликими проблемами, незважаючи на побоювання щодо втручання Трампа у вибори",
+    "fr": "Le jour du scrutin s'est déroulé avec relativement peu de problèmes, malgré les inquiétudes concernant l'ingérence de Trump dans les élections.",
+    "de": "Der Wahltag verlief relativ problemlos, trotz der Befürchtungen, dass Trump sich in die Wahl einmischen könnte",
+    "zh": "尽管担心特朗普干预选举，但选举日的问题相对较少",
+    "ru": "День выборов прошел с относительно небольшим количеством проблем, несмотря на опасения по поводу вмешательства Трампа в выборы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Our house purchase is at risk from a frozen Revolut account",
+   "url": "https://www.theguardian.com/money/2026/nov/04/our-house-purchase-is-at-risk-from-a-frozen-revolut-account",
+   "ts": 1793775628,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Наша покупка будинку під загрозою через заморожений рахунок Revolut",
+    "fr": "Notre achat de maison est menacé par un compte Revolut gelé",
+    "de": "Unser Hauskauf ist durch ein gesperrtes Revolut-Konto gefährdet",
+    "zh": "我们的购房因 Revolut 账户被冻结而面临风险",
+    "ru": "Наша покупка дома находится под угрозой из-за замороженного аккаунта Revolut."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "South Africans vote in local elections seen as test for embattled ANC",
+   "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+   "ts": 1793775426,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Голосування південноафриканців на місцевих виборах розглядається як випробування для АНК, що опинився в бойових умовах",
+    "fr": "Les Sud-Africains votent aux élections locales considérées comme un test pour l'ANC en difficulté",
+    "de": "Südafrikaner nehmen an Kommunalwahlen teil, die als Test für den umkämpften ANC gelten",
+    "zh": "南非人在地方选举中投票被视为对陷入困境的非国大的考验",
+    "ru": "Голосование южноафриканцев на местных выборах рассматривается как испытание для находящегося в боевой готовности АНК"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Novo raises full-year outlook as Wegovy pill sales impress",
+   "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+   "ts": 1793775308,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Novo покращує прогноз на весь рік, оскільки продажі таблеток Wegovy вражають",
+    "fr": "Novo relève ses perspectives pour l'année entière alors que les ventes de pilules Wegovy impressionnent",
+    "de": "Novo erhöht den Ausblick für das Gesamtjahr, da die Verkäufe der Wegovy-Pillen beeindruckend sind",
+    "zh": "由于 Wegovy 药丸销售令人印象深刻，Novo 上调全年预期",
+    "ru": "Novo повышает прогноз на весь год на фоне впечатляющих продаж таблеток Wegovy"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Firsts for women and minorities in US midterm elections",
+   "url": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
+   "ts": 1793775263,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Перше для жінок і меншин на проміжних виборах у США",
+    "fr": "Des premières pour les femmes et les minorités lors des élections de mi-mandat aux États-Unis",
+    "de": "Erstmals für Frauen und Minderheiten bei den Zwischenwahlen in den USA",
+    "zh": "美国中期选举中女性和少数族裔的第一次",
+    "ru": "Впервые среди женщин и меньшинств на промежуточных выборах в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793775236,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Ентоні Зурчер: демократи рвуть політичну карту Трампа в історичну ніч",
+    "fr": "Anthony Zurcher : les démocrates déchirent la carte politique de Trump lors d'une soirée historique",
+    "de": "Anthony Zurcher: Demokraten zerreißen Trumps politische Landkarte in historischer Nacht",
+    "zh": "安东尼·祖彻：民主党在历史性的夜晚撕毁了特朗普的政治地图",
+    "ru": "Энтони Цурчер: Демократы порвали политическую карту Трампа в историческую ночь"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Earnings call transcript: NTT posts record Q2 revenue in 2026 but profit slips",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ntt-posts-record-q2-revenue-in-2026-but-profit-slips-93CH-4997401",
-   "ts": 1793771569,
+   "title": "Earnings call transcript: Zaptec posts record Q3 2026 revenue as margins improve",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zaptec-posts-record-q3-2026-revenue-as-margins-improve-93CH-4997511",
+   "ts": 1793775227,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Стенограма розмови про прибутки: NTT опублікував рекордний дохід у 2 кварталі 2026 року, але прибуток падає",
-    "fr": "Transcription de l'appel sur les résultats : NTT publie un chiffre d'affaires record au deuxième trimestre 2026 mais des bénéfices chutent",
-    "de": "Protokoll der Telefonkonferenz zu den Gewinnen: NTT meldet Rekordumsatz im zweiten Quartal 2026, aber der Gewinn sinkt",
-    "zh": "财报电话会议记录：NTT 公布 2026 年第二季度收入创纪录，但利润下滑",
-    "ru": "Стенограмма отчета о прибылях и убытках: NTT сообщает о рекордной выручке за второй квартал 2026 года, но прибыль снижается"
+    "uk": "Стенограма розмови про прибутки: Zaptec опублікував рекордний дохід у третьому кварталі 2026 року, оскільки маржа покращилася",
+    "fr": "Transcription de l'appel sur les résultats : Zaptec publie un chiffre d'affaires record au troisième trimestre 2026 alors que les marges s'améliorent",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Zaptec meldet Rekordumsatz im dritten Quartal 2026, da sich die Margen verbessern",
+    "zh": "财报电话会议记录：随着利润率提高，Zaptec 2026 年第三季度收入创历史新高",
+    "ru": "Стенограмма отчета о прибылях и убытках: Zaptec сообщает о рекордной выручке за третий квартал 2026 года на фоне улучшения рентабельности"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "EloElo raises $80 million with NBCUniversal backing",
-   "url": "https://www.investing.com/news/stock-market-news/eloelo-raises-80-million-with-nbcuniversal-backing-93CH-4997400",
-   "ts": 1793771563,
+   "title": "Earnings call transcript: Fraport’s q3 2026 results show stronger cash flow",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fraports-q3-2026-results-show-stronger-cash-flow-93CH-4997510",
+   "ts": 1793775218,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "EloElo збирає 80 мільйонів доларів за підтримки NBCUniversal",
-    "fr": "EloElo lève 80 millions de dollars avec le soutien de NBCUniversal",
-    "de": "EloElo sammelt 80 Millionen US-Dollar mit Unterstützung von NBCUniversal",
-    "zh": "EloElo 在 NBCUniversal 的支持下筹集了 8000 万美元",
-    "ru": "EloElo привлекает 80 миллионов долларов при поддержке NBCUniversal"
+    "uk": "Стенограма телефонної розмови про прибутки: результати Fraport за 3 квартал 2026 року показують сильніший грошовий потік",
+    "fr": "Transcription de l'appel aux résultats : les résultats de Fraport pour le troisième trimestre 2026 montrent un flux de trésorerie plus solide",
+    "de": "Protokoll der Telefonkonferenz: Fraports Ergebnisse für das dritte Quartal 2026 zeigen einen stärkeren Cashflow",
+    "zh": "财报电话会议记录：法兰克福机场服务全球公司 2026 年第三季度业绩显示现金流强劲",
+    "ru": "Стенограмма отчета о прибылях и убытках: результаты Fraport за третий квартал 2026 года показывают более сильный денежный поток"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Earnings call transcript: Chambal Fertilisers posts steady Q2 2026 results",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-chambal-fertilisers-posts-steady-q2-2026-results-93CH-4997399",
-   "ts": 1793771555,
+   "title": "JPMorgan downgrades Ball stock rating to neutral on valuation",
+   "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-ball-stock-rating-to-neutral-on-valuation-93CH-4997505",
+   "ts": 1793775173,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Стенограма розмови про прибутки: Chambal Fertilizers публікує стабільні результати за другий квартал 2026 року",
-    "fr": "Transcription de l'appel aux résultats : Chambal Fertilizers publie des résultats stables pour le deuxième trimestre 2026",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Chambal Fertilizers meldet stabile Ergebnisse für das zweite Quartal 2026",
-    "zh": "财报电话会议记录：Chambal Fertilizers 公布 2026 年第二季度业绩稳定",
-    "ru": "Стенограмма отчета о прибылях и убытках: Chambal Fertilizers опубликовала стабильные результаты за второй квартал 2026 года"
+    "uk": "JPMorgan знизив рейтинг акцій Ball до нейтрального щодо оцінки",
+    "fr": "JPMorgan abaisse la note de l'action Ball à neutre en termes de valorisation",
+    "de": "JPMorgan stuft das Rating der Ball-Aktie aufgrund der Bewertung auf neutral herab",
+    "zh": "摩根大通将鲍尔股票评级下调至中性",
+    "ru": "JPMorgan понизил рейтинг акций Ball до нейтрального по оценке"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "JPMorgan downgrades Crown Holdings stock rating on valuation",
+   "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-downgrades-crown-holdings-stock-rating-on-valuation-93CH-4997506",
+   "ts": 1793775173,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "JPMorgan знизив рейтинг акцій Crown Holdings через оцінку",
+    "fr": "JPMorgan abaisse la note de l'action Crown Holdings en raison de sa valorisation",
+    "de": "JPMorgan stuft das Aktienrating von Crown Holdings aufgrund der Bewertung herab",
+    "zh": "摩根大通因估值下调皇冠控股股票评级",
+    "ru": "JPMorgan понизил рейтинг акций Crown Holdings из-за переоценки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Oppenheimer downgrades Amdocs stock rating on weak guidance",
+   "url": "https://www.investing.com/news/analyst-ratings/oppenheimer-downgrades-amdocs-stock-rating-on-weak-guidance-93CH-4997504",
+   "ts": 1793775172,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оппенгеймер знизив рейтинг акцій Amdocs через слабкі прогнози",
+    "fr": "Oppenheimer abaisse la note de l'action Amdocs en raison de prévisions faibles",
+    "de": "Oppenheimer stuft die Aktienbewertung von Amdocs aufgrund schwacher Prognosen herab",
+    "zh": "奥本海默因指引疲弱而下调 Amdocs 股票评级",
+    "ru": "Оппенгеймер понизил рейтинг акций Amdocs из-за слабых прогнозов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Solvay reports third quarter results in line with guidance",
+   "url": "https://www.investing.com/news/stock-market-news/solvay-reports-third-quarter-results-in-line-with-guidance-93CH-4997503",
+   "ts": 1793775072,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Solvay звітує про результати третього кварталу відповідно до вказівок",
+    "fr": "Solvay publie des résultats du troisième trimestre conformes aux prévisions",
+    "de": "Solvay meldet Ergebnisse für das dritte Quartal, die den Prognosen entsprechen",
+    "zh": "索尔维报告第三季度业绩符合指引",
+    "ru": "Solvay сообщает о результатах третьего квартала в соответствии с прогнозом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Novo Nordisk raises 2026 outlook as Q3 obesity sales jump 22%",
+   "url": "https://www.investing.com/news/earnings/novo-nordisk-raises-2026-outlook-as-q3-obesity-sales-jump-22-4997502",
+   "ts": 1793775039,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Novo Nordisk підвищує прогноз на 2026 рік, оскільки продажі препаратів для лікування ожиріння в третьому кварталі зросли на 22%",
+    "fr": "Novo Nordisk relève ses perspectives pour 2026 alors que les ventes d'obésité au troisième trimestre bondissent de 22 %",
+    "de": "Novo Nordisk hebt Ausblick für 2026 an, da der Umsatz im Bereich Fettleibigkeit im dritten Quartal um 22 % steigt",
+    "zh": "诺和诺德上调 2026 年展望，第三季度肥胖症销售额增长 22%",
+    "ru": "Novo Nordisk повышает прогноз на 2026 год: продажи продуктов для лечения ожирения в третьем квартале выросли на 22%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+   "ts": 1793775029,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Якість повітря в Делі погіршується напередодні Дівалі, оскільки набувають чинності обмеження на феєрверки",
+    "fr": "La qualité de l'air à Delhi se détériore avant Diwali alors que les restrictions sur les feux d'artifice entrent en vigueur",
+    "de": "Die Luftqualität in Delhi verschlechtert sich vor Diwali, da Feuerwerksbeschränkungen in Kraft treten",
+    "zh": "由于烟花限制生效，德里空气质量在排灯节前恶化",
+    "ru": "Качество воздуха в Дели ухудшается в преддверии Дивали, поскольку вступают в силу ограничения на фейерверки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+   "url": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+   "ts": 1793775028,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Лідер демократів у Палаті представників Хакім Джеффріс заявляє, що \"Америка повернулася\"",
+    "fr": "Le leader démocrate à la Chambre des représentants, Hakeem Jeffries, déclare que « l'Amérique est de retour »",
+    "de": "Hakeem Jeffries, Vorsitzender der Demokraten im Repräsentantenhaus, erklärt: „Amerika ist zurück“",
+    "zh": "众议院民主党领袖哈基姆·杰弗里斯宣称“美国回来了”",
+    "ru": "Лидер Демократической партии Палаты представителей Хаким Джеффрис заявил, что «Америка вернулась»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_markets",
+   "source": "CNBC",
+   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+   "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "ts": 1793775022,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибутковість казначейських облігацій падає, оскільки інвестори скупчуються в облігації для безпеки на тлі розпродажу акцій на виборах",
+    "fr": "Les rendements du Trésor chutent alors que les investisseurs se précipitent vers les obligations pour plus de sécurité dans un contexte de vente d'actions électorales",
+    "de": "Die Renditen von Staatsanleihen sinken, da Anleger angesichts des Aktienausverkaufs im Wahlkampf aus Sicherheitsgründen in Anleihen drängen",
+    "zh": "由于选举股票抛售，投资者涌入债券以求安全，国债收益率下跌",
+    "ru": "Доходность казначейских облигаций падает, поскольку инвесторы в поисках безопасности вкладывают деньги в облигации на фоне предвыборной распродажи акций"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Nephrocare Health Services posts strong Q2 2027 growth",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nephrocare-health-services-posts-strong-q2-2027-growth-93CH-4997499",
+   "ts": 1793774973,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Nephrocare Health Services демонструє значне зростання у другому кварталі 2027 року",
+    "fr": "Transcription de l'appel aux résultats : Nephrocare Health Services affiche une forte croissance au deuxième trimestre 2027",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Nephrocare Health Services verzeichnet starkes Wachstum im zweiten Quartal 2027",
+    "zh": "财报电话会议记录：Nephrocare Health Services 公布 2027 年第二季度强劲增长",
+    "ru": "Стенограмма отчета о прибылях и убытках: Nephrocare Health Services демонстрирует уверенный рост во втором квартале 2027 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Democrat Amy Acton makes history in Ohio",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss",
+   "ts": 1793774963,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Демократ Емі Ектон творить історію в Огайо",
+    "fr": "La démocrate Amy Acton entre dans l’histoire de l’Ohio",
+    "de": "Die Demokratin Amy Acton schreibt in Ohio Geschichte",
+    "zh": "民主党人艾米·阿克顿在俄亥俄州创造历史",
+    "ru": "Демократ Эми Эктон творит историю в Огайо"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "REPLAY - US midterms: \"Today begins the Great American comeback\" (Hakeem Jeffries)",
+   "url": "https://www.france24.com/en/video/20261104-replay-us-midterms-today-begins-the-great-american-comeback-hakeem-jeffries",
+   "ts": 1793774687,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "ПОВТОР – проміжні імени США: «Сьогодні починається велике повернення Америки» (Гакім Джеффріс)",
+    "fr": "REPLAY - Midterms US : \"Aujourd'hui commence le grand retour américain\" (Hakeem Jeffries)",
+    "de": "REPLAY – US-Zwischenwahlen: „Heute beginnt das große amerikanische Comeback“ (Hakeem Jeffries)",
+    "zh": "重播 - 美国中期选举：“今天开始伟大的美国复兴”（哈基姆·杰弗里斯）",
+    "ru": "ПОВТОР - Промежуточные выборы в США: «Сегодня начинается великое возвращение Америки» (Хаким Джеффрис)"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
+   "ts": 1793774460,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Висновки: виборці карають Трампа, а Республіканська партія зазнає історичних втрат",
+    "fr": "À retenir : les électeurs punissent Trump et le GOP subit des pertes historiques",
+    "de": "Fazit: Die Wähler bestrafen Trump und die GOP erleidet historische Verluste",
+    "zh": "要点：选民惩罚特朗普，共和党遭受历史性损失",
+    "ru": "Выводы: избиратели наказывают Трампа, а Республиканская партия терпит исторические потери"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russia loses another 2,180 troops in war against Ukraine in past 24 hours",
+   "url": "https://www.ukrinform.net/rubric-ato/4181187-russia-loses-another-2180-troops-in-war-against-ukraine-in-past-24-hours.html",
+   "ts": 1793774400,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія втратила ще 2180 військових у війні проти України за останню добу",
+    "fr": "La Russie a perdu 2 180 soldats supplémentaires dans la guerre contre l'Ukraine au cours des dernières 24 heures",
+    "de": "Russland hat in den letzten 24 Stunden weitere 2.180 Soldaten im Krieg gegen die Ukraine verloren",
+    "zh": "过去24小时俄罗斯在与乌克兰的战争中又损失了2180名士兵",
+    "ru": "Россия потеряла еще 2180 военнослужащих в войне против Украины за последние 24 часа"
    },
    "lang": "en"
   },
@@ -292,7 +711,7 @@
    "source": "AP News",
    "title": "Midterms bringing in wave of historic firsts for some states — and for the nation",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE1lVWRlWlptbUNFLUoxdUxhVDBGQXJaalludXNlLWhxQ05GSlhkaUxSRlZ1OVVHN3Zuam5wNWxZdmFqbjQ5cTlQNllScnpmSDkwVTNkc2NkczBFcnphSTl5MmJsZEV6LS1zeVZyYzVLRHl2SmNlMkc5MWxYSksyWVV2b0NXeGRlWUF4ZTNqa0JMUWhSejk5YkFodmFEdlIwV295NU9PQkdkcnpGbEc3SC0yV1ZldlQ3SXpVd3dB?oc=5",
-   "ts": 1793771460,
+   "ts": 1793774220,
    "sec": [
     "world"
    ],
@@ -306,38 +725,402 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Estee Lauder sets growth targets through 2030 amid China recovery",
-   "url": "https://www.investing.com/news/stock-market-news/estee-lauder-sets-growth-targets-through-2030-amid-china-recovery-93CH-4997398",
-   "ts": 1793771437,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Democratic Party gains US House majority in 2026 midterm elections",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
+   "ts": 1793774086,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Estee Lauder встановлює цілі зростання до 2030 року на тлі відновлення Китаю",
-    "fr": "Estée Lauder fixe des objectifs de croissance jusqu'en 2030 dans un contexte de reprise chinoise",
-    "de": "Estee Lauder legt angesichts der Erholung Chinas Wachstumsziele bis 2030 fest",
-    "zh": "雅诗兰黛在中国经济复苏之际制定到2030年的增长目标",
-    "ru": "Estee Lauder ставит цели роста до 2030 года на фоне восстановления Китая"
+    "uk": "Демократична партія отримує більшість у Палаті представників США на проміжних виборах у 2026 році",
+    "fr": "Le Parti démocrate obtient la majorité à la Chambre des représentants aux élections de mi-mandat de 2026",
+    "de": "Die Demokratische Partei erlangt bei den Zwischenwahlen 2026 die Mehrheit im US-Repräsentantenhaus",
+    "zh": "民主党在 2026 年中期选举中获得美国众议院多数席位",
+    "ru": "Демократическая партия получила большинство в Палате представителей США на промежуточных выборах 2026 года"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Hasbro EVP & CFO Gina Goetter sells $864,083 of company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/hasbro-evp--cfo-gina-goetter-sells-864083-of-company-stock-93CH-4997392",
-   "ts": 1793771389,
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Midterms 2026: Democrats win control of House and Senate as Republican strongholds fall",
+   "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+   "ts": 1793773674,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Проміжні вибори 2026: демократи виграють контроль над Палатою представників і Сенатом, оскільки опорні пункти республіканців падають",
+    "fr": "Mi-mandat 2026 : les démocrates prennent le contrôle de la Chambre et du Sénat alors que les bastions républicains tombent",
+    "de": "Midterms 2026: Demokraten gewinnen die Kontrolle über Repräsentantenhaus und Senat, während republikanische Hochburgen fallen",
+    "zh": "2026 年中期选举：共和党据点沦陷，民主党赢得参众两院控制权",
+    "ru": "Промежуточные выборы 2026 года: демократы получают контроль над Палатой представителей и Сенатом, а оплоты республиканцев падают"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+   "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+   "ts": 1793773620,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Виконавчий віце-президент і фінансовий директор Hasbro Джина Геттер продає акції компанії на суму 864 083 дол",
-    "fr": "Hasbro EVP et CFO Gina Goetter vend 864 083 $ d'actions de la société",
-    "de": "Gina Goetter, EVP und CFO von Hasbro, verkauft Unternehmensaktien im Wert von 864.083 US-Dollar",
-    "zh": "孩之宝执行副总裁兼首席财务官 Gina Goetter 出售价值 864,083 美元的公司股票",
-    "ru": "Исполнительный вице-президент и финансовый директор Hasbro Джина Геттер продает акции компании на сумму $864 083"
+    "uk": "Демократи перемагають у Палаті представників і Сенаті. Ось що це означає для ваших фінансів.",
+    "fr": "Les démocrates remportent la Chambre et le Sénat. Voici ce que cela signifie pour vos finances.",
+    "de": "Die Demokraten gewinnen das Repräsentantenhaus und den Senat. Hier erfahren Sie, was es für Ihre Finanzen bedeutet.",
+    "zh": "民主党赢得众议院和参议院。这对您的财务意味着什么。",
+    "ru": "Демократы побеждают в Палате представителей и Сенате. Вот что это значит для ваших финансов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRnVE8wNVB6dmFhLWpYUkstZHdzeTlIeE1YUnA3ODlJN0tfb04xV1lDZkQyakhUUS0wS0gtLW91SlJJNXBCMUs1OWJKclRsWHk3b0JQSkRINlF2WTVWR2xFYXdiekIzUk1mVGZ1ZlV0R281R1FMQlRGYXJxZUJ4U0Fac3lBNG1DLWtQbjVkWkViazlLak1mUmJTaUdBWFRHczdXZGRwV0hkMGFN?oc=5",
+   "ts": 1793773620,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Демократ Емі Ектон перемагає Вівека Рамасвамі на виборах губернатора Огайо",
+    "fr": "La démocrate Amy Acton bat Vivek Ramaswamy dans la course au gouverneur de l'Ohio",
+    "de": "Die Demokratin Amy Acton besiegt Vivek Ramaswamy im Rennen um die Gouverneurin von Ohio",
+    "zh": "民主党人艾米·阿克顿在俄亥俄州州长竞选中击败维韦克·拉马斯瓦米",
+    "ru": "Демократ Эми Эктон побеждает Вивека Рамасвами на выборах губернатора Огайо"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+   "ts": 1793773579,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Лідер демократів у Палаті представників Хакім Джеффріс вітає проміжну перемогу",
+    "fr": "Le leader démocrate à la Chambre des représentants, Hakeem Jeffries, salue la victoire à mi-mandat",
+    "de": "Der Vorsitzende der Demokraten im Repräsentantenhaus, Hakeem Jeffries, begrüßt den Halbzeitsieg",
+    "zh": "众议院民主党领袖哈基姆·杰弗里斯欢呼中期胜利",
+    "ru": "Лидер Демократической партии Палаты представителей Хаким Джеффрис приветствует победу на промежуточных выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
+   "ts": 1793773420,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Кейт МакКлімонт допитали про «цвях у труні» та тексти емодзі-какашок на суді над Аланом Джонсом",
+    "fr": "Kate McClymont interrogée sur les textes emoji « clou dans le cercueil » et caca lors du procès d'Alan Jones",
+    "de": "Kate McClymont wurde im Prozess gegen Alan Jones wegen „Nagel im Sarg“- und Kot-Emoji-Texten befragt",
+    "zh": "凯特·麦克莱蒙特 (Kate McClymont) 在艾伦·琼斯 (Alan Jones) 审判中因“棺材里的钉子”和便便表情符号文本而受到质疑",
+    "ru": "Кейт МакКлимонт допросили по поводу «гвоздя в гробу» и смайликов с какашками на суде над Аланом Джонсом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Drone attack debris falls near private home in Kyiv’s Desnianskyi district",
+   "url": "https://www.ukrinform.net/rubric-ato/4181182-drone-attack-debris-falls-near-private-home-in-kyivs-desnianskyi-district.html",
+   "ts": 1793773260,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Деснянському районі Києва біля приватного будинку впали уламки безпілотника",
+    "fr": "Les débris d'une attaque de drone tombent près d'une maison privée dans le district de Desnianskyi à Kiev",
+    "de": "Trümmer eines Drohnenangriffs fallen in der Nähe eines Privathauses im Kiewer Bezirk Desnianskyi",
+    "zh": "无人机袭击碎片落在基辅德斯尼安斯基区私人住宅附近",
+    "ru": "Обломки атаки дрона упали возле частного дома в Деснянском районе Киева"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Democrats poised to sweep US Congress, delivering setback to Trump",
+   "url": "https://kyivindependent.com/democrats-poised-to-sweep-us-congress-in-midterms-delivering-setback-to-trump/",
+   "ts": 1793773166,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Демократи готові змести Конгрес США, завдавши невдачі Трампу",
+    "fr": "Les démocrates s'apprêtent à balayer le Congrès américain, ce qui causera un revers à Trump",
+    "de": "Die Demokraten sind bereit, den US-Kongress zu erobern und damit Trump einen Rückschlag zu bereiten",
+    "zh": "民主党准备横扫美国国会，给特朗普带来挫折",
+    "ru": "Демократы готовы победить Конгресс США, нанеся удар Трампу"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Leisure centre price hikes on the way",
+   "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793772799,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Попереду подорожчання центрів відпочинку",
+    "fr": "Hausse des prix des centres de loisirs à venir",
+    "de": "Preiserhöhungen für Freizeitzentren stehen bevor",
+    "zh": "休闲中心价格上涨",
+    "ru": "В развлекательно-развлекательных центрах ожидается повышение цен"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+   "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+   "ts": 1793772789,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Екстатичні сцени та історичні моменти: що сталося до цього часу під час проміжних семестрів",
+    "fr": "Scènes extatiques et moments historiques : ce qui s'est passé jusqu'à présent à mi-parcours",
+    "de": "Ekstatische Szenen und historische Momente: Was bisher in den Midterms passiert ist",
+    "zh": "欣喜若狂的场景和历史性的时刻：中期选举到目前为止发生了什么",
+    "ru": "Экстатические сцены и исторические моменты: что произошло на промежуточных выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3pvbFRkRkFLRjQweTZLZVVyaVpsV2R5YmhPdl9hTWhhV2U2TzJGMXQ0UGtEMEtjcDN4RWtwUnBQVC1qRnZMaDFiSFgzT2YzUFdMRTJvWks2U09jS3ZNWjVOLWhaOEVlZzRmTUc0V0xNVVpsMHBrMEh3V3pmUWdPd3luVEt4Mlh1dHNmWklPMUpkcFlWZ283UXY0WWtsSmsy?oc=5",
+   "ts": 1793772780,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Демократ Джина Хіноджоса обрана першим латиноамериканським губернатором Техасу, потіснивши чинного республіканця Грега Еббота",
+    "fr": "La démocrate Gina Hinojosa élue premier gouverneur latino du Texas et évince le président sortant républicain Greg Abbott",
+    "de": "Die Demokratin Gina Hinojosa wurde zur ersten Latina-Gouverneurin von Texas gewählt und verdrängt den republikanischen Amtsinhaber Greg Abbott",
+    "zh": "民主党人吉娜·伊诺霍萨当选德克萨斯州首位拉丁裔州长，罢免共和党现任州长格雷格·阿博特",
+    "ru": "Демократ Джина Инохоса избрана первым латиноамериканским губернатором Техаса, свергнув действующего президента-республиканца Грега Эбботта"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Lula’s victory is a stress test for the Global South",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+   "ts": 1793772779,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Перемога Лули є стрес-тестом для глобального Півдня",
+    "fr": "La victoire de Lula est un test de résistance pour les pays du Sud",
+    "de": "Lulas Sieg ist ein Stresstest für den globalen Süden",
+    "zh": "卢拉的胜利是对南半球国家的压力测试",
+    "ru": "Победа Лулы — стресс-тест для глобального Юга"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russia attacks Ukraine with more than 300 drones overnight",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061162/",
+   "ts": 1793772720,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "За ніч Росія атакувала Україну понад 300 безпілотниками",
+    "fr": "La Russie attaque l'Ukraine avec plus de 300 drones dans la nuit",
+    "de": "Russland greift über Nacht die Ukraine mit mehr als 300 Drohnen an",
+    "zh": "俄罗斯连夜出动300多架无人机袭击乌克兰",
+    "ru": "Россия атаковала Украину более чем 300 дронами за ночь"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "David Jones expected to fall into administration after failed 11th hour talks with biggest landlord",
+   "url": "https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent",
+   "ts": 1793772482,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Очікувалося, що Девід Джонс потрапить в адміністрацію після невдалих 11-годинних переговорів з найбільшим орендодавцем",
+    "fr": "David Jones devrait tomber sous l'administration après l'échec des négociations de 11 heures avec le plus grand propriétaire",
+    "de": "David Jones wird nach gescheiterten Gesprächen mit dem größten Vermieter voraussichtlich in die Verwaltung fallen",
+    "zh": "与最大房东的 11 小时谈判失败后，大卫琼斯预计将进入政府",
+    "ru": "Ожидается, что Дэвид Джонс попадет в администрацию после неудачных 11-часовых переговоров с крупнейшим арендодателем"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+   "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793772444,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Американський підрядник передав секрети Ефіопії, щоб допомогти вбити бійців Тиграя",
+    "fr": "Un entrepreneur américain a donné des secrets à l’Éthiopie pour l’aider à tuer les combattants du Tigré",
+    "de": "US-Auftragnehmer gab Äthiopien Geheimnisse weiter, um bei der Tötung von Tigray-Kämpfern zu helfen",
+    "zh": "美国承包商向埃塞俄比亚提供秘密以帮助杀死提格雷战士",
+    "ru": "Американский подрядчик раскрыл секреты Эфиопии, чтобы помочь уничтожить боевиков Тыграя"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+   "url": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+   "ts": 1793772151,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Трой Джексон виграє гонку до Сенату штату Мен над Сьюзен Коллінз, у результаті великого перевороту для демократів",
+    "fr": "Troy Jackson remporte la course au Sénat du Maine contre Susan Collins, un coup d'État majeur pour les démocrates",
+    "de": "Troy Jackson gewinnt das Rennen im Senat von Maine vor Susan Collins, ein großer Coup für die Demokraten",
+    "zh": "特洛伊·杰克逊击败苏珊·柯林斯赢得缅因州参议员竞选，这是民主党的重大政变",
+    "ru": "Трой Джексон выигрывает гонку в Сенате штата Мэн над Сьюзан Коллинз, что является крупным переворотом для демократов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejRPUzhXYVlVbzRXNlRBT09vTmpsVmRjZGFRSmFlcWEwbTJRMm5DbEUwWU0zX2pYUHN4STJyY1hTR0dQVU16OUxXNjJtRWFKRGhMd3N1MTNic2ZVZmZaeVlnMk41UGc5cjA1eWJOQUcwcjhHUC0taFF2ZEdtTDlPeDFrV05uWDBKakFBdnh2NGNMbU4xd2VTWlRvWkZoeVpHZ0VMY01pc3Y?oc=5",
+   "ts": 1793772120,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократ Джеймс Таларіко перевертає місце в Сенаті США в Техасі та викликає шок у Республіканської партії",
+    "fr": "Le démocrate James Talarico renverse un siège au Sénat américain au Texas et envoie un choc au sein du GOP",
+    "de": "Der Demokrat James Talarico vertauscht einen Sitz im US-Senat in Texas und versetzt die Republikaner in Aufruhr",
+    "zh": "民主党人詹姆斯·塔拉里科 (James Talarico) 推翻了德克萨斯州的美国参议院席位，震惊了共和党",
+    "ru": "Демократ Джеймс Таларико меняет место в Сенате США в Техасе и шокирует Республиканскую партию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian attack on business in Dnipro injures two people",
+   "url": "https://www.ukrinform.net/rubric-ato/4181181-russian-attack-on-business-in-dnipro-injures-two-people.html",
+   "ts": 1793772060,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Напад росіян на бізнес у Дніпрі, двоє поранених",
+    "fr": "Une attaque russe contre une entreprise à Dnipro fait deux blessés",
+    "de": "Bei einem russischen Angriff auf ein Geschäft in Dnipro werden zwei Menschen verletzt",
+    "zh": "俄罗斯对第聂伯罗企业的袭击造成两人受伤",
+    "ru": "Нападение России на бизнес в Днепре ранило двух человек"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+   "url": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+   "ts": 1793772027,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Злочинні британські енергетичні боси та брокери зіткнулися з репресіями за незаконний продаж",
+    "fr": "Les patrons et courtiers du secteur de l'énergie britanniques voyous font face à des mesures de répression contre les ventes abusives",
+    "de": "Betrügerische britische Energiebosse und -makler müssen wegen Fehlverkäufen hart vorgehen",
+    "zh": "英国流氓能源老板和经纪人面临不当销售打击",
+    "ru": "Мошеннические британские энергетические боссы и брокеры сталкиваются с суровыми мерами из-за неправильных продаж"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+   "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
+   "ts": 1793772027,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому фармацевтичні фірми вирушають на орбіту Землі в пошуках нових ліків від раку",
+    "fr": "Pourquoi les sociétés pharmaceutiques se rendent sur l’orbite terrestre à la recherche de nouveaux médicaments contre le cancer",
+    "de": "Warum Pharmaunternehmen auf der Suche nach neuen Krebsmedikamenten in die Erdumlaufbahn fliegen",
+    "zh": "为什么制药公司要前往地球轨道寻找新的抗癌药物",
+    "ru": "Почему фармацевтические компании отправляются на орбиту Земли в поисках новых лекарств от рака"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+   "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+   "ts": 1793771610,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Фото проміжних виборів у США: переконливі перемоги демократів викликають докір Трампу",
+    "fr": "Élections américaines de mi-mandat en images : les victoires éclatantes des démocrates reprochent à Trump",
+    "de": "US-Zwischenwahlen in Bildern: Die überwältigenden Siege der Demokraten sind ein Tadel für Trump",
+    "zh": "美国中期选举图片：民主党大获全胜，斥责特朗普",
+    "ru": "Промежуточные выборы в США в фотографиях: ошеломительные победы демократов стали упреком Трампу"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
+   "ts": 1793771460,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Північна Корея запускає ракети в бік моря, оскільки Пхеньян протестує проти претензій США щодо злому Binance",
+    "fr": "La Corée du Nord lance des missiles vers la mer alors que Pyongyang proteste contre les affirmations américaines sur le piratage de Binance",
+    "de": "Nordkorea schießt Raketen in Richtung Meer, während Pjöngjang gegen US-Behauptungen wegen Binance-Hack protestiert",
+    "zh": "平壤抗议美国对币安黑客攻击事件的指控，朝鲜向海上发射导弹",
+    "ru": "Северная Корея запускает ракеты в сторону моря, поскольку Пхеньян протестует против заявлений США о взломе Binance"
    },
    "lang": "en"
   },
@@ -356,24 +1139,6 @@
     "de": "Fotos: Champions-League- und Teneriffa-Fans würdigen De Miguel",
     "zh": "照片：欧冠和特内里费球迷向德米格尔致敬",
     "ru": "Фото: Фанаты Лиги чемпионов и Тенерифе отдают дань уважения Де Мигелю"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
-   "url": "https://www.investing.com/news/stock-market-news/exclusiveambanis-jio-explores-techforequity-talks-with-comcast-and-charter-sources-say-4996271",
-   "ts": 1793771300,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Джерела повідомляють, що Джіо з Амбані вивчає переговори про технологію для акцій із Comcast і Charter",
-    "fr": "Jio d'Ambani explore les discussions sur la technologie contre l'équité avec Comcast et Charter, selon des sources",
-    "de": "Laut Quellen erkundet Jio von Ambani Gespräche mit Comcast und Charter über Tech-for-Equity",
-    "zh": "消息人士称，安巴尼的 Jio 正在探索与康卡斯特和 Charter 进行技术换股权谈判",
-    "ru": "Джио из Амбани изучает переговоры с Comcast и Charter о технологиях в обмен на акции, сообщают источники"
    },
    "lang": "en"
   },
@@ -397,24 +1162,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Saba Capital Management sells PIMCO PDX shares for $866,523",
-   "url": "https://www.investing.com/news/insider-trading-news/saba-capital-management-sells-pimco-pdx-shares-for-866523-93CH-4997385",
-   "ts": 1793771175,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Saba Capital Management продає акції PIMCO PDX за $866 523",
-    "fr": "Saba Capital Management vend les actions PIMCO PDX pour 866 523 $",
-    "de": "Saba Capital Management verkauft PIMCO PDX-Aktien für 866.523 US-Dollar",
-    "zh": "Saba Capital Management 以 866,523 美元出售 PIMCO PDX 股票",
-    "ru": "Saba Capital Management продает акции PIMCO PDX за $866 523"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Here's how some key demographic groups voted in the midterms",
@@ -433,77 +1180,40 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Democrats win US Senate, ending Republican dominance by harnessing voters' frustration with Trump",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-   "ts": 1793770980,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Morning Bid: Markets fret blue wave will drown data centres",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5",
+   "ts": 1793770860,
    "sec": [
     "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократи перемагають у Сенаті США, поклавши край домінуванню республіканців, використавши розчарування виборців Трампом",
-    "fr": "Les démocrates remportent le Sénat américain, mettant fin à la domination républicaine en exploitant la frustration des électeurs à l'égard de Trump",
-    "de": "Die Demokraten gewinnen den US-Senat und beenden die Dominanz der Republikaner, indem sie die Frustration der Wähler über Trump ausnutzen",
-    "zh": "民主党赢得美国参议院，利用选民对特朗普的挫败感结束共和党的统治地位",
-    "ru": "Демократы побеждают в Сенате США, положив конец доминированию республиканцев, используя недовольство избирателей Трампом"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
-   "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "ts": 1793770962,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Проміжні вибори 2026 року в реальному часі: демократи змінили Сенат після перемоги в Палаті представників",
-    "fr": "Élections de mi-mandat 2026 : mises à jour en direct : les démocrates renversent le Sénat après avoir remporté la Chambre",
-    "de": "Live-Updates zu den Zwischenwahlen 2026: Demokraten wechseln den Senat, nachdem sie das Repräsentantenhaus gewonnen haben",
-    "zh": "2026 年中期选举实时更新：民主党赢得众议院后推翻参议院",
-    "ru": "Прямые обновления промежуточных выборов 2026 года: демократы перевернули Сенат после победы в Палате представителей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejRPUzhXYVlVbzRXNlRBT09vTmpsVmRjZGFRSmFlcWEwbTJRMm5DbEUwWU0zX2pYUHN4STJyY1hTR0dQVU16OUxXNjJtRWFKRGhMd3N1MTNic2ZVZmZaeVlnMk41UGc5cjA1eWJOQUcwcjhHUC0taFF2ZEdtTDlPeDFrV05uWDBKakFBdnh2NGNMbU4xd2VTWlRvWkZoeVpHZ0VMY01pc3Y?oc=5",
-   "ts": 1793770800,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократ Джеймс Таларіко перевертає місце в Сенаті США в Техасі та викликає шок у Республіканської партії",
-    "fr": "Le démocrate James Talarico renverse un siège au Sénat américain au Texas et envoie un choc au sein du GOP",
-    "de": "Der Demokrat James Talarico vertauscht einen Sitz im US-Senat in Texas und versetzt die Republikaner in Aufruhr",
-    "zh": "民主党人詹姆斯·塔拉里科 (James Talarico) 推翻了德克萨斯州的美国参议院席位，震惊了共和党",
-    "ru": "Демократ Джеймс Таларико меняет место в Сенате США в Техасе и шокирует Республиканскую партию"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
-   "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "ts": 1793770734,
-   "sec": [
     "market"
    ],
    "t": {
-    "uk": "Ф'ючерси на акції падають, оскільки демократи виграють на проміжних термінах, а трейдери роблять ставку на те, що вони уповільнюють будівництво центру обробки даних: оновлення в реальному часі",
-    "fr": "Les contrats à terme sur actions chutent alors que les démocrates gagnent gros à mi-mandat, les traders pariant qu'ils ralentiront la construction des centres de données : mises à jour en direct",
-    "de": "Aktien-Futures fallen, da die Demokraten mittelfristig einen großen Sieg erringen und Händler wetten, dass sie den Ausbau von Rechenzentren verlangsamen: Live-Updates",
-    "zh": "随着民主党在中期选举中大获全胜，交易员押注他们会减缓数据中心建设，股票期货下跌：实时更新",
-    "ru": "Фьючерсы на акции падают, поскольку демократы выигрывают на промежуточных выборах, а трейдеры делают ставку на то, что они замедлят строительство центров обработки данных: текущие обновления"
+    "uk": "Ранкова ставка: ринки стурбовані синьою хвилею, яка потопить центри обробки даних",
+    "fr": "Morning Bid : les marchés craignent que la vague bleue ne noie les centres de données",
+    "de": "Morgengebot: Die Märkte befürchten, dass die blaue Welle die Rechenzentren überfluten wird",
+    "zh": "早盘竞价：市场担心蓝色浪潮将淹没数据中心",
+    "ru": "Утренняя ставка: рынки обеспокоены тем, что голубая волна затопит центры обработки данных"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793770776,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Джеймс Таларіко став першим демократом, який отримав місце в сенаті Техасу з 1988 року",
+    "fr": "James Talarico devient le premier démocrate à remporter un siège au Sénat du Texas depuis 1988",
+    "de": "James Talarico ist der erste Demokrat, der seit 1988 einen Sitz im texanischen Senat gewonnen hat",
+    "zh": "詹姆斯·塔拉里科 (James Talarico) 成为自 1988 年以来首位赢得德克萨斯州参议院席位的民主党人",
+    "ru": "Джеймс Таларико становится первым демократом, получившим место в Сенате Техаса с 1988 года."
    },
    "lang": "en"
   },
@@ -544,60 +1254,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Democrat Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRnVE8wNVB6dmFhLWpYUkstZHdzeTlIeE1YUnA3ODlJN0tfb04xV1lDZkQyakhUUS0wS0gtLW91SlJJNXBCMUs1OWJKclRsWHk3b0JQSkRINlF2WTVWR2xFYXdiekIzUk1mVGZ1ZlV0R281R1FMQlRGYXJxZUJ4U0Fac3lBNG1DLWtQbjVkWkViazlLak1mUmJTaUdBWFRHczdXZGRwV0hkMGFN?oc=5",
-   "ts": 1793770200,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Демократ Емі Ектон перемагає Вівека Рамасвамі на виборах губернатора Огайо",
-    "fr": "La démocrate Amy Acton bat Vivek Ramaswamy dans la course au gouverneur de l'Ohio",
-    "de": "Die Demokratin Amy Acton besiegt Vivek Ramaswamy im Rennen um die Gouverneurin von Ohio",
-    "zh": "民主党人艾米·阿克顿在俄亥俄州州长竞选中击败维韦克·拉马斯瓦米",
-    "ru": "Демократ Эми Эктон побеждает Вивека Рамасвами на выборах губернатора Огайо"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Takeaways: Voters punish Trump, and the GOP pays across the country",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
-   "ts": 1793770080,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Висновки: виборці карають Трампа, а Республіканська партія платить по всій країні",
-    "fr": "À retenir : les électeurs punissent Trump et le Parti républicain paie dans tout le pays",
-    "de": "Fazit: Die Wähler bestrafen Trump und die GOP zahlt im ganzen Land",
-    "zh": "要点：选民惩罚特朗普，共和党在全国范围内付出代价",
-    "ru": "Вывод: избиратели наказывают Трампа, а Республиканская партия платит по всей стране"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Democrat Gina Hinojosa elected Texas' first Latina governor, ousts Republican incumbent Greg Abbott",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3pvbFRkRkFLRjQweTZLZVVyaVpsV2R5YmhPdl9hTWhhV2U2TzJGMXQ0UGtEMEtjcDN4RWtwUnBQVC1qRnZMaDFiSFgzT2YzUFdMRTJvWks2U09jS3ZNWjVOLWhaOEVlZzRmTUc0V0xNVVpsMHBrMEh3V3pmUWdPd3luVEt4Mlh1dHNmWklPMUpkcFlWZ283UXY0WWtsSmsy?oc=5",
-   "ts": 1793770080,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Демократ Джина Хіноджоса обрана першим латиноамериканським губернатором Техасу, потіснивши чинного республіканця Грега Еббота",
-    "fr": "La démocrate Gina Hinojosa élue premier gouverneur latino du Texas et évince le président sortant républicain Greg Abbott",
-    "de": "Die Demokratin Gina Hinojosa wurde zur ersten Latina-Gouverneurin von Texas gewählt und verdrängt den republikanischen Amtsinhaber Greg Abbott",
-    "zh": "民主党人吉娜·伊诺霍萨当选德克萨斯州首位拉丁裔州长，罢免共和党现任州长格雷格·阿博特",
-    "ru": "Демократ Джина Инохоса избрана первым латиноамериканским губернатором Техаса, свергнув действующего президента-республиканца Грега Эбботта"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
@@ -616,57 +1272,20 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Midterms: Why is California slower at counting its votes?",
-   "url": "https://www.france24.com/en/video/20261104-midterms-why-is-california-slower-at-counting-its-votes",
-   "ts": 1793769617,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Проміжні вибори: чому Каліфорнія повільніше підраховує свої голоси?",
-    "fr": "Midterms : Pourquoi la Californie est-elle plus lente à compter ses votes ?",
-    "de": "Midterms: Warum zählt Kalifornien seine Stimmen langsamer?",
-    "zh": "中期选举：为什么加州计票速度较慢？",
-    "ru": "Промежуточные выборы: почему Калифорния медленнее подсчитывает голоса?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "Trump acknowledges Iran role in Democratic sweep",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekxLRjk1cjhWRGpWMThYYTlLVXFRZDRBLWZqTVFtZHVIejNuRnZ0TE9CVzUwcFN0VmdaMjRIYlQ0Vmt0RjV1aUp3YUx5RzBCbDVKcUprZGE0S3JxOWhNbEVTTGhWOVFkc0NQN0RqZE56UXBqai1Bc3NaOWJmaHhSQzhVSzJYaXZSQ21ZUHZqaTlXczlETEhoelhpRno4Vmp0eGdJLWNBSEZFUQ?oc=5",
-   "ts": 1793769420,
+   "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdG0ybGo0Uk5jbjBxSEtwVGVBcVBCZWJEc0xRb09Nby1KRFl3N0ozLVB2VVMtNXF2RXpmdVFWS2luZGtBcm9ibHN1NW52MXZ2ell3NWp0MDVNeUlUWmlIMGdGQ1lfWTdaYkhfUzVnZFRlQ01UUWRnU0ZOTVVIeExvZzFQTHJOY2d5YU9oS0M0bUlmNHBpaXRwcnk4cE9WR3hPcVd4QWZqVThxS1VLNExXcw?oc=5",
+   "ts": 1793770020,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Трамп визнає роль Ірану в демократії",
-    "fr": "Trump reconnaît le rôle de l'Iran dans la victoire démocrate",
-    "de": "Trump erkennt die Rolle Irans bei der Wahl der Demokraten an",
-    "zh": "特朗普承认伊朗在民主党大获全胜中的作用",
-    "ru": "Трамп признал роль Ирана в борьбе за демократию"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
-   "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
-   "ts": 1793769346,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Проміжні вибори в США: «Тримаємо кулаки» (Лейла Мересман)",
-    "fr": "Examens de mi-mandat aux États-Unis : « Croisons les doigts » (Leila Meresman)",
-    "de": "US-Zwischenwahlen: „Wir drücken die Daumen“ (Leila Meresman)",
-    "zh": "美国中期选举：“祈祷吧”（莱拉·梅雷斯曼）",
-    "ru": "Промежуточные экзамены в США: «Держим кулачки» (Лейла Мересман)"
+    "uk": "Демократ Трой Джексон скидає сенатора-республіканця Сьюзан Коллінз у штаті Мен",
+    "fr": "Le démocrate Troy Jackson évince la sénatrice républicaine Susan Collins dans le Maine",
+    "de": "Der Demokrat Troy Jackson verdrängt die republikanische Senatorin Susan Collins in Maine",
+    "zh": "民主党人特洛伊·杰克逊在缅因州罢免共和党参议员苏珊·柯林斯",
+    "ru": "Демократ Трой Джексон свергает сенатора-республиканца Сьюзан Коллинз в штате Мэн"
    },
    "lang": "en"
   },
@@ -684,88 +1303,7 @@
     "de": "Ehemaliger Gouverneur von Arkansas sagt, die Zuwächse der Demokraten seien „bedeutsamer als je erwartet“",
     "zh": "前阿肯色州州长表示民主党的胜利“比以往预期的更重要”",
     "ru": "Бывший губернатор Арканзаса говорит, что успехи демократов «более значительны, чем когда-либо ожидалось»",
-    "_miss": [
-     "uk"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "US midterms: Democrats celebrate early victories at a watch party in Los Angeles",
-   "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-celebrate-early-victories-at-a-watch-party-in-los-angeles",
-   "ts": 1793769157,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "fr": "Mi-mandat aux États-Unis : les démocrates célèbrent leurs premières victoires lors d'une soirée horlogère à Los Angeles",
-    "de": "US-Zwischenwahlen: Demokraten feiern frühe Siege bei einer Wahlparty in Los Angeles",
-    "zh": "美国中期选举：民主党在洛杉矶举行的观看派对上庆祝早期胜利",
-    "ru": "Промежуточные выборы в США: демократы празднуют досрочные победы на вечеринке в Лос-Анджелесе",
-    "_miss": [
-     "uk"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Georgia Democrat Keisha Lance Bottoms makes history as the 1st Black woman ever elected governor",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNODRQMXp4ZUlkMExxZHc2SnRZS0JjUEo0N1Q2U0RSTTd4SDNGSnlCRVZDVHJJa3JaY2plWGgyQmFIdFNOUjZweUxLdWhCcmpFaVJEcE42RVhpWDVSRk5UdXhVSVJYUDVGOE95Q3dTQkJ4cVU1M01vNTU0Rk5FcG1OU2RoVGZfNVhoSkRjelNVclZVVEcyZjd6Q3NyR1YtMlVzU0tsZDdsMTRBM2xIZXp6ZVpSakI?oc=5",
-   "ts": 1793769060,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Демократ із Джорджії Кейша Ленс Ботомс увійшла в історію як перша темношкіра жінка, обрана губернатором",
-    "fr": "La démocrate géorgienne Keisha Lance Bottoms entre dans l’histoire en tant que première femme noire jamais élue gouverneur",
-    "de": "Die georgische Demokratin Keisha Lance Bottoms schreibt Geschichte als erste schwarze Frau, die jemals zur Gouverneurin gewählt wurde",
-    "zh": "佐治亚州民主党人凯莎·兰斯·博特姆斯 (Keisha Lance Bottoms) 创造历史，成为第一位当选州长的黑人女性",
-    "ru": "Демократ от Джорджии Кейша Лэнс Боттомс вошла в историю как первая чернокожая женщина, когда-либо избранная губернатором"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-   "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-   "ts": 1793769060,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "fr": "La Corée du Nord tire plusieurs missiles et nie les allégations américaines sur le piratage de Binance",
-    "de": "Nordkorea feuert mehrere Raketen ab und bestreitet US-Behauptungen zum Binance-Hack",
-    "zh": "朝鲜发射多枚导弹，否认美国对币安黑客攻击的指控",
-    "ru": "Северная Корея запустила несколько ракет и отрицает обвинения США в взломе Binance",
-    "_miss": [
-     "uk"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-   "ts": 1793768820,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "fr": "Keisha Lance Bottoms devient le premier gouverneur noir de Géorgie",
-    "de": "Keisha Lance Bottoms wird Georgias erste schwarze Gouverneurin",
-    "zh": "凯莎·兰斯·博顿斯 (Keisha Lance Bottoms) 成为佐治亚州首位黑人州长",
-    "ru": "Кейша Лэнс Боттомс стала первым чернокожим губернатором Джорджии",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Колишній губернатор Арканзасу каже, що успіхи демократів «більш значні, ніж будь-коли очікувалося»"
    },
    "lang": "en"
   },
@@ -783,9 +1321,25 @@
     "de": "Ukrainische Truppen greifen im Oktober 30 strategische Ziele in Russland an – Verteidigungsministerium",
     "zh": "乌克兰军队10月袭击俄罗斯30个战略目标 - 国防部",
     "ru": "В октябре украинские войска нанесли удары по 30 стратегическим объектам в России - Минобороны",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Українські війська у жовтні завдали ударів по 30 стратегічним об’єктам у Росії – Міноборони"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Britain’s housing market unlikely to recover until 2028, says Savills",
+   "url": "https://www.theguardian.com/business/2026/nov/04/britains-housing-market-unlikely-to-recover-until-2028-says-savills",
+   "ts": 1793768426,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Севіллс вважає, що британський ринок житла навряд чи відновиться до 2028 року",
+    "fr": "Il est peu probable que le marché immobilier britannique se redresse avant 2028, selon Savills",
+    "de": "Es ist unwahrscheinlich, dass sich der britische Immobilienmarkt vor 2028 erholt, sagt Savills",
+    "zh": "第一太平戴维斯 (Savills) 表示，英国房地产市场在 2028 年之前不太可能复苏",
+    "ru": "Британский рынок жилья вряд ли восстановится до 2028 года, говорит Сэвиллс"
    },
    "lang": "en"
   },
@@ -804,9 +1358,7 @@
     "de": "Großbritannien entschuldigt sich bei ukrainischen Flüchtlingskindern, denen gesagt wurde, sie sollten Russisch lernen",
     "zh": "英国向被告知学习俄语的乌克兰儿童难民道歉",
     "ru": "Великобритания извинилась перед украинскими детьми-беженцами, которым велели изучать русский язык",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Великобританія вибачилася перед українськими дітьми-біженцями, яким наказали вивчати російську мову"
    },
    "lang": "en"
   },
@@ -847,94 +1399,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Democrat Josh Turek flips Iowa Senate seat",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-   "ts": 1793768110,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократ Джош Турек перевернув місце в сенаті штату Айова",
-    "fr": "Le démocrate Josh Turek renverse son siège au Sénat de l'Iowa",
-    "de": "Der Demokrat Josh Turek wechselt den Sitz im Senat von Iowa",
-    "zh": "民主党人乔什·图雷克 (Josh Turek) 翻转爱荷华州参议院席位",
-    "ru": "Демократ Джош Турек отказался от места в Сенате штата Айова"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Trump and Republicans trampled in the midterms",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-   "ts": 1793767675,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп і республіканці розтопталися на проміжних виборах",
-    "fr": "Trump et les Républicains piétinés à mi-mandat",
-    "de": "Trump und die Republikaner wurden bei den Zwischenwahlen niedergetrampelt",
-    "zh": "特朗普和共和党在中期选举中惨遭践踏",
-    "ru": "Трамп и республиканцы потерпели поражение на промежуточных выборах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances.",
-   "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-   "ts": 1793767560,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Демократи перемагають у Сенаті, але контроль над Палатою все ще висить у повітрі. Ось що це означає для ваших фінансів.",
-    "fr": "Les démocrates remportent le Sénat, mais le contrôle de la Chambre reste incertain. Voici ce que cela signifie pour vos finances.",
-    "de": "Die Demokraten gewinnen den Senat, aber die Kontrolle über das Repräsentantenhaus ist noch ungewiss. Hier erfahren Sie, was es für Ihre Finanzen bedeutet.",
-    "zh": "民主党赢得了参议院，但众议院的控制权仍悬而未决。这对您的财务意味着什么。",
-    "ru": "Демократы побеждают в Сенате, но контроль над Палатой представителей все еще под вопросом. Вот что это значит для ваших финансов."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
-   "title": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
+   "title": "Democrats win full control of Congress, ushering in a new era of divided government",
    "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
    "ts": 1793767495,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Демократи перемагають у Сенаті, створюючи розділений уряд на решту терміну Трампа",
-    "fr": "Les démocrates remportent le Sénat et mettent en place un gouvernement divisé pour le reste du mandat de Trump",
-    "de": "Die Demokraten gewinnen den Senat und bilden eine geteilte Regierung für den Rest von Trumps Amtszeit",
-    "zh": "民主党赢得参议院，在特朗普剩余任期内建立分裂政府",
-    "ru": "Демократы побеждают в Сенате, создавая разделенное правительство на оставшуюся часть срока Трампа"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
-   "ts": 1793767260,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "День виборів проходить з відносно невеликими проблемами. Деяким виборцям завадила погода, проблеми з технікою",
-    "fr": "Le jour du scrutin se déroule avec relativement peu de problèmes. Certains électeurs perturbés par la météo et des problèmes de machines",
-    "de": "Der Wahltag verläuft relativ problemlos. Einige Wähler waren durch Wetter und Maschinenprobleme gestört",
-    "zh": "选举日的到来相对较少出现问题。一些选民因天气、机器问题而受到干扰",
-    "ru": "День выборов проходит с относительно небольшим количеством проблем. Некоторым избирателям мешают погода и проблемы с машинами"
+    "uk": "Демократи отримують повний контроль над Конгресом, відкриваючи нову еру розділеного уряду",
+    "fr": "Les démocrates obtiennent le contrôle total du Congrès, ouvrant la voie à une nouvelle ère de gouvernement divisé",
+    "de": "Die Demokraten gewinnen die volle Kontrolle über den Kongress und läuten damit eine neue Ära der geteilten Regierung ein",
+    "zh": "民主党完全控制国会，开启分裂政府的新时代",
+    "ru": "Демократы получают полный контроль над Конгрессом, открывая новую эру разделенного правительства"
    },
    "lang": "en"
   },
@@ -957,38 +1435,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-   "ts": 1793767171,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Toyota second-quarter profit seen climbing 18%, first increase in six quarters",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2U2TVd4aFM1NlB2cXdiSmdsWDhUQjlFRWNCa2toLWxTaVRlT083aVV0YWVzWC1hT0xva09JU1hEY0ZBTTRXSEVhX3REYmhzUWZUZHk5NlBUTWEtRkxtZlI5ZUlYVmZNSzAyV0lyZ2VBeWg5Nm5VNExlbF9qeTZ6VHliUC0yVVA2MHdWQjdfd1BlMmJkNHlURE9NZ2RBVTQ4Rjd1QVJiNTdPMUZCYWQ5ZlVsZWY4Xzd5cXRqdHBsVmVMNG9mSDJFQ2ptdVR0Q1VzTXNzQ05R?oc=5",
+   "ts": 1793767080,
    "sec": [
-    "world"
+    "market"
    ],
    "t": {
-    "uk": "Іран вважає відповідь США на план Ормуз «непереконливою»; Трамп підтверджує удари",
-    "fr": "L’Iran juge la réponse américaine au plan d’Ormuz « peu convaincante » ; Trump confirme les frappes",
-    "de": "Iran sagt, US-Antwort auf Hormus-Plan sei „nicht überzeugend“; Trump bestätigt Streiks",
-    "zh": "伊朗称美国对霍尔木兹计划的答复“不令人信服”；特朗普确认罢工",
-    "ru": "Иран называет ответ США на план Ормуза «неубедительным»; Трамп подтверждает удары"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
-   "ts": 1793767119,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Aukus є «найгіршим, найризикованішим і найдорожчим» оборонним рішенням Австралії за всю історію, повідомляє громадське розслідування угоди щодо підводних човнів",
-    "fr": "Aukus est la décision de défense australienne « la pire, la plus risquée et la plus coûteuse » jamais prise, selon une enquête publique sur l’accord sur les sous-marins",
-    "de": "Laut öffentlicher Untersuchung zum U-Boot-Deal ist Aukus die „schlechteste, riskanteste und kostspieligste“ australische Verteidigungsentscheidung aller Zeiten",
-    "zh": "对潜艇交易的公开调查称，Aukus是澳大利亚有史以来“最糟糕、风险最大、成本最高”的国防决定",
-    "ru": "Aukus — «худшее, самое рискованное и самое дорогостоящее» решение австралийской обороны за всю историю, говорится в общественном расследовании сделки по подводным лодкам"
+    "uk": "Прибуток Toyota у другому кварталі зріс на 18%, вперше за шість кварталів",
+    "fr": "Le bénéfice de Toyota au deuxième trimestre devrait grimper de 18 %, première hausse en six trimestres",
+    "de": "Der Gewinn von Toyota stieg im zweiten Quartal um 18 %, der erste Anstieg seit sechs Quartalen",
+    "zh": "丰田第二季度利润攀升 18%，为六个季度以来首次增长",
+    "ru": "Прибыль Toyota во втором квартале выросла на 18%, впервые за шесть кварталов"
    },
    "lang": "en"
   },
@@ -1025,62 +1485,6 @@
     "de": "An einem historischen Abend für demokratische Sozialisten sagt Mamdani, dass die Zwischenwahlen die Macht der Wähler aus der Arbeiterklasse zeigen",
     "zh": "马姆达尼表示，在民主社会主义者历史性的夜晚，中期选举显示了工人阶级选民的力量",
     "ru": "В историческую ночь для демократических социалистов Мамдани говорит, что промежуточные выборы демонстрируют силу избирателей из рабочего класса"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "🔴 Midterms live : Democrats take control of Senate, ending Republican dominance in Washington",
-   "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-   "ts": 1793767059,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "🔴 Проміжні вибори в прямому ефірі: демократи беруть під контроль Сенат, поклавши край домінуванню республіканців у Вашингтоні",
-    "fr": "🔴 Midterms live : Les démocrates prennent le contrôle du Sénat, mettant fin à la domination républicaine à Washington",
-    "de": "🔴 Midterms live: Demokraten übernehmen die Kontrolle über den Senat und beenden die republikanische Dominanz in Washington",
-    "zh": "🔴中期选举直播：民主党控制参议院，结束共和党在华盛顿的统治地位",
-    "ru": "🔴 Промежуточные выборы в прямом эфире: демократы берут под свой контроль Сенат, положив конец доминированию республиканцев в Вашингтоне"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Kansas elects first Democratic senator in almost a century",
-   "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-   "ts": 1793767032,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Канзас обирає першого сенатора-демократа майже за століття",
-    "fr": "Le Kansas élit le premier sénateur démocrate depuis près d'un siècle",
-    "de": "Kansas wählt den ersten demokratischen Senator seit fast einem Jahrhundert",
-    "zh": "堪萨斯州选出近一个世纪以来第一位民主党参议员",
-    "ru": "Канзас избирает первого сенатора-демократа почти за столетие"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Democratic Party flips US Senate in 2026 midterm elections",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-   "ts": 1793767025,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократична партія перевернула Сенат США на проміжних виборах у 2026 році",
-    "fr": "Le Parti démocrate renverse le Sénat américain lors des élections de mi-mandat de 2026",
-    "de": "Die Demokratische Partei entscheidet bei den Zwischenwahlen 2026 über den Sieg im US-Senat",
-    "zh": "民主党在 2026 年中期选举中推翻美国参议院",
-    "ru": "Демократическая партия перевернула Сенат США на промежуточных выборах 2026 года"
    },
    "lang": "en"
   },
@@ -1139,63 +1543,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Adam Hamilton becomes first Democrat elected to the US Senate from Kansas in 94 years",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHVVb3F0TE9uYjVlOFhaV21Xc1hqQVNVY1MwS09qM1BrTEFSUzRma2oteUIxT2x4TTRKMG1jVW5nT0VpNjFNUW1BZ2VReTRJYmtDUHFmcmFPS2VqeEVLbmFaQWFoMnQ1V3l4WkxWQm11b2JvVkg4WWZ3d3F2SFZrcDNvRTh5VHhhRU8xOFZ6SWQ5YS1tY0lGRDlEc0hDTzBrcnNkRG1xSS12UnhaZU01M1B2VVM3QQ?oc=5",
-   "ts": 1793766240,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "fr": "Adam Hamilton devient le premier démocrate élu au Sénat américain depuis le Kansas en 94 ans",
-    "de": "Adam Hamilton wird als erster Demokrat seit 94 Jahren aus Kansas in den US-Senat gewählt",
-    "zh": "亚当·汉密尔顿 (Adam Hamilton) 成为 94 年来第一位从堪萨斯州当选美国参议院的民主党人",
-    "ru": "Адам Гамильтон стал первым демократом, избранным в Сенат США от Канзаса за 94 года",
-    "_miss": [
-     "uk"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott",
-   "url": "https://www.npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott",
-   "ts": 1793765952,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократ Джина Хіноджоса виграє гонку на посаду губернатора Техасу, витіснивши Грега Еббота",
-    "fr": "La démocrate Gina Hinojosa remporte la course au poste de gouverneur du Texas, évinçant Greg Abbott",
-    "de": "Die Demokratin Gina Hinojosa gewinnt das Rennen um den Gouverneursposten von Texas und verdrängt Greg Abbott",
-    "zh": "民主党人吉娜·伊诺霍萨 (Gina Hinojosa) 赢得德克萨斯州州长竞选，罢免格雷格·阿博特 (Greg Abbott)",
-    "ru": "Демократ Джина Инохоса выиграла гонку на пост губернатора Техаса, сместив Грега Эбботта"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Democrat Rob Sand wins Iowa governor's race, ending GOP control of the office",
-   "url": "https://www.npr.org/2026/11/03/g-s1-151136/democrat-rob-sand-wins-iowa-governors-race-ending-gop-control-of-the-office",
-   "ts": 1793765819,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократ Роб Сенд перемагає на виборах губернатора штату Айова, поклавши край контролю Республіканської партії над офісом",
-    "fr": "Le démocrate Rob Sand remporte la course au poste de gouverneur de l'Iowa, mettant ainsi fin au contrôle du Parti républicain sur le bureau",
-    "de": "Der Demokrat Rob Sand gewinnt das Rennen um den Gouverneur von Iowa und beendet damit die Kontrolle der GOP über das Amt",
-    "zh": "民主党人罗布·桑德赢得爱荷华州州长竞选，结束共和党对该办公室的控制",
-    "ru": "Демократ Роб Сэнд побеждает на выборах губернатора Айовы, положив конец контролю Республиканской партии над офисом"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Ukrainian-born US lawmaker Victoria Spartz loses congressional seat to Democrat",
@@ -1210,120 +1557,6 @@
     "de": "Die in der Ukraine geborene US-Abgeordnete Victoria Spartz verliert ihren Kongresssitz an die Demokratin",
     "zh": "乌克兰出生的美国议员维多利亚·斯帕茨失去国会席位给民主党",
     "ru": "Американский депутат украинского происхождения Виктория Спарц уступает место в Конгрессе демократу"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-   "ts": 1793765403,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "За словами поліції Вікторії, напад на прибічника One Nation не вважається політично мотивованим",
-    "fr": "L'attaque présumée contre un partisan de One Nation ne serait pas politiquement motivée, selon la police de Victoria",
-    "de": "Angeblicher Angriff auf One-Nation-Anhänger nicht politisch motiviert, sagt die Polizei von Victoria",
-    "zh": "维州警方称，针对一国党支持者的涉嫌袭击事件不存在政治动机",
-    "ru": "Предполагаемое нападение на сторонника «Единой нации» не считается политически мотивированным, заявляет полиция Виктории"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "James Talarico becomes first Democrat to win statewide in Texas since 1994",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPam9BUEZ0RU1UVHpvSWpkM0oyc2hkM1U2M2lBX1QwQVIwYXJ3Sko0WVNCclRJY2NhWEJ0cTdya2trZWNySk5nRmxuSi1YVFBWdnZPUzBkVEt1M3JVZERHTGFFNVNUcGdzaDQzenE2TnFpZkZ1LW03LXFFb2xVNmRZUmI2RDhJX21PT216akhvS0JMYzVFY2YySWs2c2NQYjBvbTREZlhuam5oWWZHRTlGNTFVRQ?oc=5",
-   "ts": 1793765040,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "fr": "James Talarico devient le premier démocrate à remporter la victoire dans tout l'État du Texas depuis 1994",
-    "de": "James Talarico ist der erste Demokrat seit 1994, der landesweit in Texas gewinnt",
-    "zh": "詹姆斯·塔拉里科 (James Talarico) 成为自 1994 年以来第一位在德克萨斯州全州获胜的民主党人",
-    "ru": "Джеймс Таларико становится первым демократом, победившим в штате Техас с 1994 года.",
-    "_miss": [
-     "uk"
-    ]
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Trump says he is willing to accept midterm election results, NYT reports",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzI1NGhBZUdGVDJZTEtsdTk1UlN6ZzZ6SXl4N3MyRF8zTGF4QmtWbDM4LVlyLW5wQWFlV3NseTZUcGNSMFZlMlpqdUxnOUYxa19QQjV3bzBwbWxuaWFYYl82UEUyTGxjaXByR0Z5S3RNM2xXX3dwSzRVV2NNcUJ3bFVzNnNoNGxxLXA3dXRZcm5sdW1IYW9DOUY4cjctYU1OcVhpZTh4LWtTRTczNlQ3TkVXaw?oc=5",
-   "ts": 1793764920,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Трамп заявив, що готовий прийняти результати проміжних виборів, повідомляє NYT",
-    "fr": "Trump se dit prêt à accepter les résultats des élections de mi-mandat, rapporte le New York Times",
-    "de": "Trump sagt, er sei bereit, die Ergebnisse der Zwischenwahlen zu akzeptieren, berichtet NYT",
-    "zh": "据《纽约时报》报道，特朗普表示他愿意接受中期选举结果",
-    "ru": "Трамп заявил, что готов принять результаты промежуточных выборов, сообщает NYT"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "ANC faces anger over poor services as South Africans vote in local elections",
-   "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-   "ts": 1793764823,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "ANC стикається з гнівом через погані послуги під час голосування жителів Південної Африки на місцевих виборах",
-    "fr": "L'ANC fait face à la colère face à la médiocrité des services alors que les Sud-Africains votent aux élections locales",
-    "de": "ANC ist wütend über schlechte Dienstleistungen, während Südafrikaner bei Kommunalwahlen wählen",
-    "zh": "南非人在地方选举中投票，非国大面临着对糟糕服务的愤怒",
-    "ru": "АНК сталкивается с гневом по поводу плохих услуг, поскольку южноафриканцы голосуют на местных выборах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Key US Senate results: Democrats win upper chamber with victories in Texas and Iowa",
-   "url": "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
-   "ts": 1793764339,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Ключові результати Сенату США: демократи виграли верхню палату завдяки перемогам у Техасі та Айові",
-    "fr": "Résultats clés du Sénat américain : les démocrates remportent la Chambre haute avec des victoires au Texas et en Iowa",
-    "de": "Wichtige Ergebnisse des US-Senats: Demokraten gewinnen Oberkammer mit Siegen in Texas und Iowa",
-    "zh": "美国参议院关键结果：民主党在德克萨斯州和爱荷华州取得胜利赢得上议院",
-    "ru": "Ключевые результаты в Сенате США: демократы одержали победу в верхней палате, одержав победу в Техасе и Айове"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "US midterms: \"Voters have become increasingly frustrated with President Trump\"",
-   "url": "https://www.france24.com/en/video/20261104-us-midterms-voters-have-become-increasingly-frustrated-with-president-trump",
-   "ts": 1793764201,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Проміжні вибори в США: «Виборці дедалі більше розчаровуються президентом Трампом»",
-    "fr": "Mi-mandat aux États-Unis : « Les électeurs sont de plus en plus frustrés face au président Trump »",
-    "de": "US-Zwischenwahlen: „Die Wähler sind zunehmend frustriert über Präsident Trump“",
-    "zh": "美国中期选举：“选民对特朗普总统越来越失望”",
-    "ru": "Промежуточные выборы в США: «Избиратели все больше разочаровываются в президенте Трампе»"
    },
    "lang": "en"
   },
@@ -1347,24 +1580,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_markets",
-   "source": "CNBC",
-   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-   "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-   "ts": 1793762643,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прибутковість казначейських облігацій падає, оскільки інвестори скупчуються в облігації для безпеки на тлі розпродажу акцій на виборах",
-    "fr": "Les rendements du Trésor chutent alors que les investisseurs se précipitent vers les obligations pour plus de sécurité dans un contexte de vente d'actions électorales",
-    "de": "Die Renditen von Staatsanleihen sinken, da Anleger angesichts des Aktienausverkaufs im Wahlkampf aus Sicherheitsgründen in Anleihen drängen",
-    "zh": "由于选举股票抛售，投资者涌入债券以求安全，国债收益率下跌",
-    "ru": "Доходность казначейских облигаций падает, поскольку инвесторы в поисках безопасности вкладывают деньги в облигации на фоне предвыборной распродажи акций"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_business",
    "source": "The Guardian",
    "title": "Kim Jong-un, crypto bros and a $6.3bn heist – podcast",
@@ -1379,6 +1594,44 @@
     "de": "Kim Jong-un, Krypto-Brüder und ein 6,3-Milliarden-Dollar-Raub – Podcast",
     "zh": "金正恩、加密兄弟和 63 亿美元的抢劫 – 播客",
     "ru": "Ким Чен Ын, братья-криптовалюты и ограбление на 6,3 миллиарда долларов – подкаст"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Market analysts react to US midterm election results",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalZOQ2dwZlhyRUNiYXBvNzREaUZMUnZlSkZMVDNtLUo2bFI5cTFiZkY1R3BlZXdLVjFselI2WVUxaGJOXzFCUjAzeWNOSW1wVHpaOHZZQ2l4el9ia2VXUE9kaE5NNS1TZ0xpQzdSUnBlWmdBS1ZBaEZNYWRxZjhpRUYwcGFWbUhkMHlDY1dkcks?oc=5",
+   "ts": 1793761020,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ринкові аналітики відреагували на результати проміжних виборів у США",
+    "fr": "Les analystes de marché réagissent aux résultats des élections américaines de mi-mandat",
+    "de": "Marktanalysten reagieren auf die Ergebnisse der Zwischenwahlen in den USA",
+    "zh": "市场分析师对美国中期选举结果的反应",
+    "ru": "Аналитики рынка реагируют на результаты промежуточных выборов в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Indian stocks inch higher as investors assess foreign fund flows, US election results",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
+   "ts": 1793759940,
+   "sec": [
+    "world",
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Індійські акції підвищилися, оскільки інвестори оцінюють потоки іноземних коштів і результати виборів у США",
+    "fr": "Les actions indiennes progressent alors que les investisseurs évaluent les flux de fonds étrangers et les résultats des élections américaines",
+    "de": "Indische Aktien steigen leicht, da Anleger ausländische Kapitalströme und US-Wahlen bewerten",
+    "zh": "随着投资者评估外国资金流向和美国大选结果，印度股市小幅上涨",
+    "ru": "Индийские акции растут, поскольку инвесторы оценивают потоки иностранных фондов и результаты выборов в США"
    },
    "lang": "en"
   },
@@ -1450,9 +1703,7 @@
     "de": "Der Ölpreis steigt aufgrund der Unsicherheit über den Iran-Krieg, nachdem Trumps Republikaner vor einer Wahlniederlage stehen",
     "zh": "特朗普的共和党面临选举溃败后，伊朗战争的不确定性导致油价上涨",
     "ru": "Нефть растет из-за неопределенности в отношении войны с Ираном после того, как республиканцы Трампа столкнулись с поражением на выборах",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Нафта зростає через невизначеність війни в Ірані після того, як республіканці Трампа зіткнулися з поразкою на виборах"
    },
    "lang": "en"
   },
@@ -1490,9 +1741,7 @@
     "de": "Der Dollar fällt stark aufgrund der frühen Gewinne der Demokraten bei den US-Zwischenwahlen",
     "zh": "民主党在美国中期选举中早盘获胜，美元大幅下跌",
     "ru": "Доллар резко упал на фоне первых успехов демократов на промежуточных выборах в США",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Долар різко падає через перші перемоги демократів на проміжних виборах у США"
    },
    "lang": "en"
   },
@@ -1644,26 +1893,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-   "ts": 1793753880,
-   "sec": [
-    "world",
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Золото зростає, оскільки долар слабшає; Democrats score early wins in US midterm elections",
-    "fr": "L'or augmente à mesure que le dollar s'affaiblit ; Les démocrates remportent rapidement les élections de mi-mandat aux États-Unis",
-    "de": "Gold steigt, während der Dollar schwächer wird; Demokraten erringen frühe Siege bei den Zwischenwahlen in den USA",
-    "zh": "美元走弱，金价上涨；民主党在美国中期选举中提前获胜",
-    "ru": "Золото растет по мере ослабления доллара; Демократы одержали досрочную победу на промежуточных выборах в США"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Drone strikes warehouse in southern Russia, online retailer Ozon claims",
@@ -1700,6 +1929,24 @@
    "lang": "en"
   },
   {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russian forces strike private business in Poltava",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061144/",
+   "ts": 1793751840,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російські війська завдали удару по приватному бізнесу в Полтаві",
+    "fr": "Les forces russes frappent une entreprise privée à Poltava",
+    "de": "Russische Streitkräfte greifen Privatunternehmen in Poltawa an",
+    "zh": "俄罗斯军队袭击波尔塔瓦的私营企业",
+    "ru": "Российские военные нанесли удар по частному бизнесу в Полтаве"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
@@ -1718,146 +1965,20 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Canva announces major job cuts after 'our hardest year yet'",
-   "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793750975,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Zelenskyy in Berlin: Russia has decided that a peaceful and united Europe is its enemy",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061143/",
+   "ts": 1793748720,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Canva оголошує про значне скорочення робочих місць після «нашого найважчого року».",
-    "fr": "Canva annonce d'importantes suppressions d'emplois après « notre année la plus difficile à ce jour »",
-    "de": "Canva kündigt großen Stellenabbau nach „unserem bisher schwersten Jahr“ an",
-    "zh": "Canva 在“我们最艰难的一年”之后宣布大幅裁员",
-    "ru": "Canva объявляет о крупных сокращениях рабочих мест после «нашего самого тяжелого года»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Top takeaways from the US midterm elections",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5",
-   "ts": 1793750820,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Головні висновки проміжних виборів у США",
-    "fr": "Ce qu’il faut retenir des élections de mi-mandat aux États-Unis",
-    "de": "Die wichtigsten Erkenntnisse aus den Zwischenwahlen in den USA",
-    "zh": "美国中期选举的主要收获",
-    "ru": "Главные итоги промежуточных выборов в США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Graduates are managing AI - but are they learning much else?",
-   "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793750675,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Випускники керують ШІ, але чи навчаються вони чогось іншого?",
-    "fr": "Les diplômés gèrent l’IA – mais apprennent-ils autre chose ?",
-    "de": "Absolventen verwalten KI – aber lernen sie noch viel mehr?",
-    "zh": "毕业生正在管理人工智能——但他们还学到了很多其他东西吗？",
-    "ru": "Выпускники управляют искусственным интеллектом, но учатся ли они чему-то еще?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Poundland supplier 'will lose millions' if retailer collapses",
-   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "ts": 1793750597,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Постачальник Poundland «втратить мільйони», якщо рітейлер розвалиться",
-    "fr": "Le fournisseur de Poundland « perdra des millions » si le détaillant s'effondre",
-    "de": "Poundland-Zulieferer „wird Millionen verlieren“, wenn Einzelhändler zusammenbricht",
-    "zh": "如果零售商倒闭，Poundland 供应商“将损失数百万美元”",
-    "ru": "Поставщик Poundland «потеряет миллионы», если ритейлер обанкротится"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHFtVW90SEVfXzZpTkdUYVU0WENhU1BnZ3I4QW1sUUJjcGxqVHlpZzA4ODAyRF9LUmdRbnpCSjRPdUd2YjVTaktzZnJHeWx4WWxNMDhnaWVoS3c3djAyeEpMUWlaVVZwVE5BYUxnemhmbXlSRzBWdU41c0lRMGQwclZIbTVITE1iQWVhbzNsdjFySF9raFl0aDNHV0JLRjBqMU8xNmxBVmUxNUVpck1XcUlITmNqUFRMUWhHOEJmUzc1cTVMbUxjbVM2c2J0TGRHVG5PV1JNc2ZRSU5OV3c?oc=5",
-   "ts": 1793750580,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "ЕКСКЛЮЗИВ: Tesla ввела південнокорейських клієнтів в оману щодо технологій автоматизованого водіння, стверджує група споживачів",
-    "fr": "EXCLUSIF : Tesla a induit les clients sud-coréens en erreur au sujet de la technologie de conduite automatisée, selon un groupe de consommateurs",
-    "de": "EXKLUSIV: Verbrauchergruppe behauptet, Tesla habe südkoreanische Kunden über automatisierte Fahrtechnologie in die Irre geführt",
-    "zh": "独家：消费者团体指控特斯拉在自动驾驶技术方面误导韩国客户",
-    "ru": "ЭКСКЛЮЗИВ: Tesla ввела южнокорейских клиентов в заблуждение относительно технологии автоматического вождения, утверждает группа потребителей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-   "url": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
-   "ts": 1793750289,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Джим Крамер бачить ознаки життя в акціях технологічних компаній, але не від звичайних переможців",
-    "fr": "Jim Cramer voit des signes de vie dans les valeurs technologiques – mais pas chez les gagnants habituels",
-    "de": "Jim Cramer sieht Lebenszeichen bei Technologieaktien – allerdings nicht bei den üblichen Gewinnern",
-    "zh": "吉姆·克莱默 (Jim Cramer) 看到科技股出现复苏迹象，但并非来自通常的赢家",
-    "ru": "Джим Крамер видит признаки жизни в акциях технологических компаний, но не в обычных прибыльных акциях"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Suncor Energy tops profit estimates on higher oil prices, margins",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmtnVk9JWDNFVTk4R0hJSUdXZ1pwMlR3YVRmYWt4YXZzeGk5Z21RaGRUQjN0aUxJTFNzZFdZYVFNVzJVT2JDdDcyQ0xXSVlSV3N3bzM4Vm9Vc0diOG5GUGhZTl9qamdjN1pVWUJVWjZvZEtIQklJREEyWTFzOFRaa0cxVnZBZVRLQ29wSlZJWWVieDY2NzN3eExtY0NvMXZES0R5Ty1CbDk?oc=5",
-   "ts": 1793749545,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Suncor Energy перевершує оцінки прибутку завдяки вищим цінам на нафту та маржі",
-    "fr": "Suncor Énergie dépasse ses estimations de bénéfices en raison de la hausse des prix du pétrole et de ses marges",
-    "de": "Suncor Energy übertrifft Gewinnschätzungen aufgrund höherer Ölpreise und Margen",
-    "zh": "森科尔能源公司因油价和利润率上升而盈利预期超出预期",
-    "ru": "Suncor Energy превзошла оценки прибыли на фоне роста цен на нефть и рентабельности"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-   "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
-   "ts": 1793749027,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "За словами генерального директора, новий перемикач CrowdStrike може зупинити нечесних агентів ШІ",
-    "fr": "Le nouveau kill switch de CrowdStrike peut arrêter les agents d'IA malveillants dans leur élan, déclare le PDG",
-    "de": "Laut CEO kann der neue Kill-Schalter von CrowdStrike betrügerische KI-Agenten aufhalten",
-    "zh": "首席执行官表示，CrowdStrike 的新终止开关可以阻止流氓人工智能代理的行为",
-    "ru": "Новый аварийный выключатель CrowdStrike может остановить мошеннических агентов ИИ, говорит генеральный директор"
+    "uk": "Зеленський у Берліні: Росія вирішила, що мирна та об’єднана Європа є її ворогом",
+    "fr": "Zelensky à Berlin : la Russie a décidé qu'une Europe pacifique et unie est son ennemie",
+    "de": "Selenskyj in Berlin: Russland hat entschieden, dass ein friedliches und geeintes Europa sein Feind ist",
+    "zh": "泽连斯基在柏林：俄罗斯认定和平、统一的欧洲是其敌人",
+    "ru": "Зеленский в Берлине: Россия решила, что мирная и единая Европа — ее враг"
    },
    "lang": "en"
   },
@@ -1880,6 +2001,24 @@
    "lang": "en"
   },
   {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Drones attack Ozon logistics centre in Russia's Adygeysk",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061142/",
+   "ts": 1793748240,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Безпілотники атакували логістичний центр \"Озон\" в російському Адигейську",
+    "fr": "Des drones attaquent le centre logistique d'Ozon à Adygeïsk en Russie",
+    "de": "Drohnen greifen Ozon-Logistikzentrum im russischen Adygeisk an",
+    "zh": "无人机袭击俄罗斯阿德盖斯克 Ozon 物流中心",
+    "ru": "Дроны атаковали логистический центр Ozon в Адыгейске"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "New Jersey governor warns importing Russian diesel 'will be met with harsh penalties' amid Trump deal",
@@ -1894,24 +2033,6 @@
     "de": "Der Gouverneur von New Jersey warnt davor, dass der Import von russischem Diesel im Rahmen des Trump-Deals mit „harten Strafen“ geahndet wird",
     "zh": "新泽西州州长警告称，在特朗普协议中进口俄罗斯柴油“将受到严厉处罚”",
     "ru": "Губернатор Нью-Джерси предупреждает, что импорт российского дизельного топлива «будет встречен суровыми штрафами» на фоне сделки Трампа"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-   "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-   "ts": 1793746080,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Що говорять нам аналітики, коли акції Apple падають після звіту про прибутки",
-    "fr": "Ce que nous disent les analystes alors que l’action Apple chute après le rapport sur les résultats",
-    "de": "Was uns Analysten sagen, während die Apple-Aktie nach dem Gewinnbericht fällt",
-    "zh": "苹果股价在财报发布后下跌，分析师告诉我们什么",
-    "ru": "Что говорят нам аналитики, в то время как акции Apple падают после отчета о прибылях и убытках"
    },
    "lang": "en"
   },
@@ -1971,24 +2092,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "War update: 201 clashes on front lines, Ukrainian forces repel 24 Russian attacks in Kostiantynivka sector",
-   "url": "https://www.ukrinform.net/rubric-ato/4181141-war-update-201-clashes-on-front-lines-ukrainian-forces-repel-24-russian-attacks-in-kostiantynivka-sector.html",
-   "ts": 1793742180,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Актуальна інформація: 201 бойове зіткнення на передовій, українські війська відбили 24 російські атаки на Костянтинівському напрямку",
-    "fr": "Le point sur la guerre : 201 affrontements sur la ligne de front, les forces ukrainiennes repoussent 24 attaques russes dans le secteur de Kostiantynivka",
-    "de": "Kriegsaktualisierung: 201 Zusammenstöße an der Front, ukrainische Streitkräfte wehren 24 russische Angriffe im Sektor Kostjantyniwka ab",
-    "zh": "战争更新：前线发生201次冲突，乌克兰军队击退俄罗斯在科斯蒂亚尼夫卡地区的24次袭击",
-    "ru": "Новости о войне: 201 столкновение на линии фронта, украинские силы отразили 24 российские атаки на Константиновском участке"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Norway deploys additional air defense sensors, troops near Russia border",
@@ -2003,24 +2106,6 @@
     "de": "Norwegen stationiert zusätzliche Luftverteidigungssensoren und Truppen in der Nähe der russischen Grenze",
     "zh": "挪威在俄罗斯边境附近部署更多防空传感器和部队",
     "ru": "Норвегия размещает дополнительные датчики ПВО и войска у границы с Россией"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Expert: Medinsky's participation in Abu Dhabi talks signals return to Istanbul agreements",
-   "url": "https://www.ukrinform.net/rubric-polytics/4181140-expert-medinskys-participation-in-abu-dhabi-talks-signals-return-to-istanbul-agreements.html",
-   "ts": 1793740860,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Експерт: участь Мединського в переговорах в Абу-Дабі сигналізує про повернення до стамбульських домовленостей",
-    "fr": "Expert : la participation de Medinsky aux négociations d'Abou Dhabi marque le retour aux accords d'Istanbul",
-    "de": "Experte: Medinskys Teilnahme an den Gesprächen in Abu Dhabi signalisiert eine Rückkehr zu den Istanbuler Vereinbarungen",
-    "zh": "专家：梅丁斯基参加阿布扎比会谈标志着重返伊斯坦布尔协议",
-    "ru": "Эксперт: участие Мединского в переговорах в Абу-Даби сигнализирует о возвращении к стамбульским соглашениям"
    },
    "lang": "en"
   },
@@ -2043,24 +2128,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russia sending migrants, asylum seekers, convicts to fight in Ukraine – UN expert",
-   "url": "https://www.ukrinform.net/rubric-ato/4181136-russia-sending-migrants-asylum-seekers-convicts-to-fight-in-ukraine-un-expert.html",
-   "ts": 1793739600,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія відправляє мігрантів, шукачів притулку, засуджених воювати в Україну – експерт ООН",
-    "fr": "La Russie envoie des migrants, des demandeurs d'asile et des condamnés combattre en Ukraine, selon un expert de l'ONU",
-    "de": "Russland schickt Migranten, Asylsuchende und Sträflinge zum Kampf in die Ukraine – UN-Experte",
-    "zh": "俄罗斯派遣移民、寻求庇护者和囚犯前往乌克兰作战——联合国专家",
-    "ru": "Россия отправляет мигрантов, просителей убежища и осужденных воевать в Украину – эксперт ООН"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russians attack energy infrastructure facilities in Zhytomyr Oblast, leaving Zhytomyr without power",
@@ -2074,9 +2141,25 @@
     "de": "Russen greifen Energieinfrastrukturanlagen im Oblast Schytomyr an, wodurch Schytomyr ohne Strom bleibt",
     "zh": "俄罗斯袭击日托米尔州的能源基础设施，导致日托米尔断电",
     "ru": "Россияне атаковали объекты энергетической инфраструктуры в Житомирской области, оставив Житомир без электричества",
-    "_miss": [
-     "uk"
-    ]
+    "uk": "Росіяни атакують об’єкти енергетичної інфраструктури в Житомирській області, в результаті чого Житомир залишився без світла"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Welsh government mini-budget passes after Plaid-Labour deal",
+   "url": "https://www.bbc.co.uk/news/articles/cmqlnxxe71ydo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793738321,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Урядовий міні-бюджет Уельсу приймається після угоди плейд-лейбористів",
+    "fr": "Le mini-budget du gouvernement gallois est adopté après l’accord Plaid-Labour",
+    "de": "Der Minihaushalt der walisischen Regierung wird nach dem Plaid-Labour-Deal verabschiedet",
+    "zh": "威尔士政府在格子工党协议后通过迷你预算",
+    "ru": "Мини-бюджет правительства Уэльса принят после соглашения с Plaid-Labour"
    },
    "lang": "en"
   },
@@ -2095,24 +2178,6 @@
     "de": "King bezeichnet den Sklavenhandel in seiner Commonwealth-Rede als „beschämendes Kapitel“.",
     "zh": "金在英联邦讲话中称奴隶贸易是“可耻的一章”",
     "ru": "Кинг назвал работорговлю «позорной главой» во время выступления перед Содружеством"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-   "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
-   "ts": 1793736013,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Енді Бернем оприлюднить торгові угоди з ЄС на мільярди фунтів стерлінгів",
-    "fr": "Andy Burnham dévoilera des accords commerciaux avec l'UE d'une valeur de plusieurs milliards de livres",
-    "de": "Andy Burnham stellt EU-Handelsabkommen im Wert von mehreren Milliarden Pfund vor",
-    "zh": "安迪·伯纳姆将公布价值数十亿英镑的欧盟贸易协议",
-    "ru": "Энди Бёрнем обнародует торговые соглашения ЕС на миллиарды фунтов"
    },
    "lang": "en"
   },
@@ -2171,42 +2236,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Ukraine war latest: Russia launches biggest mass attack on Ukraine's energy infrastructure this year",
-   "url": "https://kyivindependent.com/ukraine-war-latest-russia-launches-biggest-mass-attack-on-ukraines-energy-infrastructure-this-year/",
-   "ts": 1793732309,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Остання війна в Україні: Росія здійснила найбільшу цього року масову атаку на енергетичну інфраструктуру України",
-    "fr": "Dernière guerre en Ukraine : la Russie lance cette année la plus grande attaque massive contre les infrastructures énergétiques ukrainiennes",
-    "de": "Neuester Krieg in der Ukraine: Russland startet in diesem Jahr den größten Massenangriff auf die Energieinfrastruktur der Ukraine",
-    "zh": "乌克兰战争最新消息：俄罗斯对乌克兰能源基础设施发动今年最大规模袭击",
-    "ru": "Последняя война на Украине: Россия начала самую массовую атаку на энергетическую инфраструктуру Украины в этом году"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "\"Threat to nuclear safety across Europe\": Russia attacks substation critical to Khmelnytskyi Nuclear Power Plant",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061116/",
-   "ts": 1793731620,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "«Загроза ядерній безпеці по всій Європі»: Росія атакувала критичну для Хмельницької АЕС підстанцію",
-    "fr": "« Menace pour la sécurité nucléaire en Europe » : la Russie attaque une sous-station essentielle à la centrale nucléaire de Khmelnytskyi",
-    "de": "„Bedrohung für die nukleare Sicherheit in ganz Europa“: Russland greift eine für das Kernkraftwerk Khmelnytskyi wichtige Umspannstation an",
-    "zh": "“对整个欧洲核安全的威胁”：俄罗斯袭击对赫梅利尼茨基核电站至关重要的变电站",
-    "ru": "«Угроза ядерной безопасности всей Европы»: Россия атакует критически важную для Хмельницкой АЭС подстанцию"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Ella Baron on the future of care workers in Britain – cartoon",
@@ -2239,42 +2268,6 @@
     "de": "Die Ansicht des Guardian zur Entschuldigung für die Sklaverei: Ein notwendiger Prozess hat endlich begonnen | Leitartikel",
     "zh": "《卫报》对奴隶制道歉的看法：一个必要的过程终于开始了 |社论",
     "ru": "Мнение The Guardian об извинениях за рабство: необходимый процесс наконец начался | Редакционный"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Media outlet reveals who will represent Ukraine and Russia at meeting with Melania Trump",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061104/",
-   "ts": 1793729340,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Видання розповіло, хто представлятиме Україну та Росію на зустрічі з Меланією Трамп",
-    "fr": "Un média révèle qui représentera l'Ukraine et la Russie lors de sa rencontre avec Melania Trump",
-    "de": "Medien enthüllen, wer die Ukraine und Russland beim Treffen mit Melania Trump vertreten wird",
-    "zh": "媒体透露谁将代表乌克兰和俄罗斯与梅拉尼娅·特朗普会面",
-    "ru": "СМИ рассказали, кто будет представлять Украину и Россию на встрече с Меланией Трамп"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Latvia convenes emergency UN Security Council meeting over Russian attack on Komyshuvakha",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061103/",
-   "ts": 1793729040,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Латвія скликає екстрене засідання Ради безпеки ООН через напад Росії на Комишуваху",
-    "fr": "La Lettonie convoque une réunion d'urgence du Conseil de sécurité de l'ONU suite à l'attaque russe contre Komyshuvakha",
-    "de": "Lettland beruft eine Notfallsitzung des UN-Sicherheitsrates wegen des russischen Angriffs auf Komyshuvakha ein",
-    "zh": "拉脱维亚就俄罗斯袭击科梅舒瓦卡事件召开联合国安理会紧急会议",
-    "ru": "Латвия созывает экстренное заседание Совета Безопасности ООН из-за нападения России на Комышуваху"
    },
    "lang": "en"
   },
@@ -2315,24 +2308,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Ukrainian air defence downs 62 Russian attack drones during the day",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061098/",
-   "ts": 1793728020,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українська ППО за добу збила 62 російські ударні безпілотники",
-    "fr": "La défense aérienne ukrainienne abat 62 drones d'attaque russes dans la journée",
-    "de": "Die ukrainische Luftverteidigung schießt im Laufe des Tages 62 russische Angriffsdrohnen ab",
-    "zh": "乌克兰防空部队白天击落 62 架俄罗斯攻击无人机",
-    "ru": "ПВО Украины за сутки сбили 62 российских ударных дрона"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
@@ -2366,63 +2341,6 @@
     "de": "Russland bombardiert das Stromnetz der Ukraine vor den Gesprächen in Abu Dhabi; Merz fordert Moskau zum Engagement auf",
     "zh": "阿布扎比会谈前俄罗斯轰炸乌克兰电网；梅尔茨敦促莫斯科参与",
     "ru": "Россия бомбардирует энергосистему Украины перед переговорами в Абу-Даби; Мерц призывает Москву вмешаться"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Russian households face increasing financial strain as war in Ukraine drags on",
-   "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-   "ts": 1793725554,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські домогосподарства стикаються зі зростаючим фінансовим тиском, оскільки війна в Україні затягується",
-    "fr": "Les ménages russes sont confrontés à des difficultés financières croissantes alors que la guerre en Ukraine se prolonge",
-    "de": "Russische Haushalte sind mit zunehmendem finanziellen Druck konfrontiert, da sich der Krieg in der Ukraine hinzieht",
-    "zh": "随着乌克兰战争的持续，俄罗斯家庭面临越来越大的财务压力",
-    "ru": "Российские домохозяйства сталкиваются с растущим финансовым напряжением, поскольку война в Украине затягивается"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793725061,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "В Україні зросла кількість загиблих після нападу Росії на центр допомоги, хоспіс і лікарню",
-    "fr": "Le bilan des morts s'alourdit en Ukraine après l'attaque par la Russie d'un centre humanitaire, d'un hospice et d'un hôpital",
-    "de": "In der Ukraine steigt die Zahl der Todesopfer, nachdem Russland ein Hilfszentrum, ein Hospiz und ein Krankenhaus angegriffen hat",
-    "zh": "俄罗斯袭击援助中心、临终关怀中心和医院后乌克兰死亡人数上升",
-    "ru": "В Украине растет число погибших после нападения России на центр помощи, хоспис и больницу"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-   "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
-   "ts": 1793724733,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна та Росія переводять війну в підпілля, оскільки безпілотники насичують поле бою",
-    "fr": "L’Ukraine et la Russie mènent la guerre dans la clandestinité alors que les drones saturent le champ de bataille",
-    "de": "Die Ukraine und Russland führen den Krieg im Untergrund, während Drohnen das Schlachtfeld überschwemmen",
-    "zh": "随着无人机充斥战场，乌克兰和俄罗斯正在将战争转入地下",
-    "ru": "Украина и Россия уводят войну в подполье, поскольку дроны насыщают поле боя"
    },
    "lang": "en"
   },
@@ -2539,25 +2457,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793712379,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "31 людина загинула в результаті російського бомбардування центру допомоги Україні, повідомляє Київ",
-    "fr": "Un bombardement russe tue 31 personnes dans un centre d'aide en Ukraine, selon Kiev",
-    "de": "Laut Kiew kommen bei einem russischen Bombenanschlag 31 Menschen in einem Hilfszentrum für die Ukraine ums Leben",
-    "zh": "基辅称，俄罗斯轰炸导致乌克兰援助中心31人死亡",
-    "ru": "В результате взрыва российской бомбы в украинском центре помощи погиб 31 человек, сообщает Киев"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "What are the planned changes to immigration rules?",
@@ -2572,6 +2471,25 @@
     "de": "Welche Änderungen an den Einwanderungsbestimmungen sind geplant?",
     "zh": "移民规则计划发生哪些变化？",
     "ru": "Какие планируются изменения в иммиграционных правилах?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMG9iZjVzNW1Ldy1oNjVtNEcyb0xNOFR0Z3FQWGxUR3M1Zm5ITE12VFRJajQ4eWxQMjJXZ1U0Y0p1SnhMb09yVjhZUXc4X0xfMjBZN2hfVnJILXBwS1FSWFRoUWVkSDJMMVotVEIwTGZya19SZ3o5UURKZUp5VlMtREZhNmRNb3pvT0FmNWlaOEdyR1dsNl80UWFrTWE5ZDRqNVNqWGViLTlkWFhTRGMwQy16YnFncF9kT1lBZGFEWlhfbHpj?oc=5",
+   "ts": 1793707155,
+   "sec": [
+    "market",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російські удари позбавляють влади певні частини України; Київ вдарив по російським НПЗ",
+    "fr": "Les frappes russes coupent le courant dans de grandes parties de l’Ukraine ; Kyiv frappe une raffinerie russe",
+    "de": "Russische Angriffe unterbrechen die Stromversorgung in Teilen der Ukraine; Kiew greift russische Raffinerie an",
+    "zh": "俄罗斯的空袭导致乌克兰大片地区断电；基辅袭击俄罗斯炼油厂",
+    "ru": "Российские удары лишают власти некоторые части Украины; Киев нападает на российский НПЗ"
    },
    "lang": "en"
   },
@@ -2612,20 +2530,21 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "Burnham denies proposing return to free movement in talks with EU",
-   "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-labour-free-movement-eu-europe",
-   "ts": 1793700579,
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+   "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+   "ts": 1793703674,
    "sec": [
-    "politics"
+    "world",
+    "ukraine"
    ],
    "t": {
-    "uk": "Бернем заперечує пропозицію повернутися до вільного пересування в переговорах з ЄС",
-    "fr": "Burnham nie avoir proposé le retour à la libre circulation lors des négociations avec l'UE",
-    "de": "Burnham bestreitet, in Gesprächen mit der EU eine Rückkehr zur Freizügigkeit vorgeschlagen zu haben",
-    "zh": "伯纳姆否认在与欧盟的谈判中提议恢复自由流动",
-    "ru": "Бёрнем отрицает, что предлагал вернуться к свободному передвижению на переговорах с ЕС"
+    "uk": "Кількість загиблих сягнула 29 осіб у результаті російського удару по українському центру надання допомоги, 48 вважаються зниклими безвісти",
+    "fr": "Le bilan s'élève à 29 morts après une frappe russe sur un site d'aide ukrainien, et 48 sont toujours portés disparus",
+    "de": "Nach russischem Angriff auf ukrainisches Hilfswerk steigt die Zahl der Todesopfer auf 29, 48 werden noch immer vermisst",
+    "zh": "俄罗斯袭击乌克兰援助地点造成29人死亡，仍有48人失踪",
+    "ru": "Число погибших в результате удара России по украинскому объекту помощи достигло 29, 48 пропали без вести"
    },
    "lang": "en"
   },
@@ -2666,6 +2585,43 @@
    "lang": "en"
   },
   {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
+   "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
+   "ts": 1793689241,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "«Це прямо»: перші позитивні відгуки від пілотного громадського центру психічного здоров’я в Камбрії",
+    "fr": "« C'est direct » : premiers commentaires positifs du centre pilote de santé mentale communautaire de Cumbria",
+    "de": "„Das ist direkt“: Positives frühes Feedback vom Pilotzentrum für psychische Gesundheit in Cumbria",
+    "zh": "“这是直接的”：坎布里亚郡试点社区心理健康中心的积极早期反馈",
+    "ru": "«Это прямо»: положительные первые отзывы пилотного общественного центра психического здоровья в Камбрии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
+   "ts": 1793663520,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія розбомбила центр допомоги та притулок на півдні України, убивши 26 осіб, кажуть чиновники",
+    "fr": "La Russie bombarde un centre humanitaire et un abri dans le sud de l'Ukraine, tuant 26 personnes, selon des responsables",
+    "de": "Nach Angaben von Beamten bombardiert Russland ein Hilfszentrum und eine Unterkunft in der Südukraine und tötet dabei 26 Menschen",
+    "zh": "官员称，俄罗斯轰炸了乌克兰南部的援助中心和避难所，造成26人死亡",
+    "ru": "Россия взорвала центр помощи и убежище на юге Украины, погибли 26 человек, заявляют официальные лица"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ap",
    "source": "AP News",
    "title": "More drops for AI and tech stocks overshadow gains for most of Wall Street",
@@ -2681,6 +2637,24 @@
     "de": "Weitere Rückgänge bei KI- und Technologieaktien überschatten die Gewinne für den Großteil der Wall Street",
     "zh": "人工智能和科技股的进一步下跌掩盖了华尔街大部分股票的涨幅",
     "ru": "Дальнейшее падение акций компаний искусственного интеллекта и технологических компаний затмевает рост большинства участников Уолл-стрит."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+   "ts": 1793651992,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Для Бернема міграція є моральним питанням, але чи намагається він догодити всім?",
+    "fr": "La migration est une question morale pour Burnham – mais essaie-t-il de plaire à tout le monde ?",
+    "de": "Migration ist für Burnham ein moralisches Thema – aber versucht er, es allen recht zu machen?",
+    "zh": "对于伯纳姆来说，移民是一个道德问题——但他是否想取悦所有人？",
+    "ru": "Миграция является моральной проблемой для Бёрнема, но пытается ли он всем угодить?"
    },
    "lang": "en"
   },
@@ -2703,24 +2677,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Reform council leader quits after staff comments leaked",
-   "url": "https://www.bbc.co.uk/news/articles/c6n4en89nd2xo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793642691,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Лідер ради реформ пішов у відставку після витоку коментарів персоналу",
-    "fr": "Le chef du Conseil de réforme démissionne après la fuite des commentaires du personnel",
-    "de": "Der Vorsitzende des Reformrates tritt zurück, nachdem Kommentare des Personals durchgesickert sind",
-    "zh": "工作人员言论泄露后改革委员会领导人辞职",
-    "ru": "Лидер Совета по реформе ушел в отставку после утечки комментариев персонала"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Oil price falls amid hope of a breakthrough to end Iran war",
@@ -2736,6 +2692,25 @@
     "de": "Der Ölpreis fällt angesichts der Hoffnung auf einen Durchbruch zur Beendigung des Iran-Krieges",
     "zh": "结束伊朗战争有望取得突破，油价下跌",
     "ru": "Цена на нефть падает на фоне надежды на прорыв, который положит конец войне с Ираном"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "What we know about the alert app hack in Ukraine and Russia",
+   "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793629465,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Що ми знаємо про злом додатків сповіщень в Україні та Росії",
+    "fr": "Ce que nous savons du piratage de l'application d'alerte en Ukraine et en Russie",
+    "de": "Was wir über den Alarm-App-Hack in der Ukraine und Russland wissen",
+    "zh": "我们对乌克兰和俄罗斯的警报应用程序黑客攻击了解多少",
+    "ru": "Что мы знаем о взломе приложения Alert в Украине и России"
    },
    "lang": "en"
   }
@@ -2774,7 +2749,7 @@
   {
    "source": "guardian_business",
    "ok": true,
-   "items": 37
+   "items": 39
   },
   {
    "source": "dw_business",
@@ -2789,7 +2764,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 13
+   "items": 7
   },
   {
    "source": "reuters_business",
@@ -2809,7 +2784,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 32
+   "items": 25
   },
   {
    "source": "aljazeera",
@@ -2839,7 +2814,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 17
+   "items": 18
   },
   {
    "source": "guardian_politics",
@@ -2903,12 +2878,11 @@
   },
   {
    "source": "translate",
-   "ok": false,
-   "requests": 11,
-   "translated": 179,
-   "failed": 11,
+   "ok": true,
+   "requests": 20,
+   "translated": 316,
    "method": {
-    "dict": 11
+    "dict": 20
    }
   },
   {
