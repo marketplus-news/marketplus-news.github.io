@@ -1,5 +1,5 @@
 {
- "updated": 1793918958,
+ "updated": 1793922347,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,56 +216,562 @@
  ],
  "items": [
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Why is DraftKings stock plunging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-plunging-today-93CH-5006013",
-   "ts": 1793918496,
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures fall after Nasdaq slips into correction; traders await big payrolls report: Live updates",
+   "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+   "ts": 1793922159,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Чому акції DraftKings сьогодні падають?",
-    "fr": "Pourquoi l’action DraftKings plonge-t-elle aujourd’hui ?",
-    "de": "Warum stürzt die DraftKings-Aktie heute ab?",
-    "zh": "为什么 DraftKings 的股价今天暴跌？",
-    "ru": "Почему акции DraftKings сегодня падают?"
+    "uk": "Ф'ючерси на акції падають після корекції Nasdaq; трейдери очікують великого звіту про заробітну плату: оновлення в реальному часі",
+    "fr": "Les contrats à terme sur actions chutent après que le Nasdaq entre en correction ; les traders attendent un gros rapport sur la masse salariale : mises à jour en direct",
+    "de": "Aktien-Futures fallen, nachdem Nasdaq in eine Korrektur rutscht; Händler warten auf großen Gehaltsbericht: Live-Updates",
+    "zh": "纳斯达克陷入调整后，股指期货下跌；交易员等待大量就业报告：实时更新",
+    "ru": "Фьючерсы на акции падают после того, как Nasdaq вступает в коррекцию; Трейдеры ждут большого отчета по заработной плате: постоянные обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+   "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+   "ts": 1793922000,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Вибори в Сенат штату Міссісіпі: демократ Скотт Колом незначно лідирує перед республіканкою Сінді Хайд-Сміт",
+    "fr": "Élections sénatoriales du Mississippi : le démocrate Scott Colom mène de peu la républicaine Cindy Hyde-Smith",
+    "de": "Senatswahl in Mississippi: Der Demokrat Scott Colom liegt knapp vor der Republikanerin Cindy Hyde-Smith",
+    "zh": "密西西比州参议院选举：民主党人斯科特·科洛姆以微弱优势领先共和党人辛迪·海德·史密斯",
+    "ru": "Выборы в Сенат Миссисипи: демократ Скотт Колом с небольшим перевесом опережает республиканку Синди Хайд-Смит"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+   "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+   "ts": 1793921972,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чудова 7 втратила 1 трильйон доларів. Найбільш приголомшливі статистичні дані про падіння акцій технологічних компаній у четвер",
+    "fr": "Le Magnifique 7 perd 1 000 milliards de dollars. Les statistiques les plus époustouflantes de la chute des valeurs technologiques de jeudi",
+    "de": "Magnificent 7 verliert 1 Billion Dollar. Die aufsehenerregendsten Statistiken zum Absturz der Technologieaktien am Donnerstag",
+    "zh": "华丽七号损失1万亿美元。周四科技股暴跌中最令人瞠目结舌的数据",
+    "ru": "«Великолепная семерка» теряет 1 триллион долларов. Самая сногсшибательная статистика падения акций технологических компаний в четверг"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "'Not my job to set a budget,' says secretary of state",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy9zp3e44po?at_medium=RSS&at_campaign=rss",
+   "ts": 1793921971,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "«Не моя робота встановлювати бюджет», — каже держсекретар",
+    "de": "„Es ist nicht meine Aufgabe, einen Haushalt festzulegen“, sagt der Außenminister",
+    "zh": "国务卿表示：“制定预算不是我的工作”",
+    "ru": "«Не моя работа составлять бюджет», — говорит госсекретарь",
+    "fr": "\"Ce n'est pas à moi d'établir un budget\", déclare le secrétaire d'État"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+   "ts": 1793921676,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Як демократи Північної Кароліни змінили кілька місць у Палаті представників в історично округах Республіканської партії",
+    "fr": "Comment les démocrates de Caroline du Nord ont renversé plusieurs sièges à la Chambre dans des districts historiquement républicains",
+    "de": "Wie die Demokraten von North Carolina mehrere Sitze im Repräsentantenhaus in historisch republikanischen Bezirken vertauschten",
+    "zh": "北卡罗来纳州民主党人如何翻转历史上共和党选区的多个众议院席位",
+    "ru": "Как демократы Северной Каролины поменяли несколько мест в Палате представителей в исторически сложившихся республиканских округах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Three in four displaced people live in climate danger zones, UN says",
+   "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+   "ts": 1793921648,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "За даними ООН, троє з чотирьох переміщених осіб живуть у кліматично небезпечних зонах",
+    "fr": "Trois personnes déplacées sur quatre vivent dans des zones à risque climatique, selon l'ONU",
+    "de": "Laut UN leben drei von vier Vertriebenen in klimagefährdeten Gebieten",
+    "zh": "联合国表示，四分之三的流离失所者生活在气候危险地区",
+    "ru": "По данным ООН, трое из четырех вынужденных переселенцев живут в зонах климатической опасности"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Why is Airbnb stock surging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-airbnb-stock-surging-today-93CH-5006012",
-   "ts": 1793918436,
+   "title": "TKO prices $1 billion senior secured notes offering at 6.5%",
+   "url": "https://www.investing.com/news/company-news/tko-prices-1-billion-senior-secured-notes-offering-at-65-93CH-5006098",
+   "ts": 1793921571,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Чому акції Airbnb сьогодні стрімко зростають?",
-    "fr": "Pourquoi l’action Airbnb monte-t-elle en flèche aujourd’hui ?",
-    "de": "Warum steigt die Airbnb-Aktie heute stark an?",
-    "zh": "为什么 Airbnb 的股价今天飙升？",
-    "ru": "Почему акции Airbnb сегодня растут?"
+    "uk": "TKO оцінює старші забезпечені облігації на 1 мільярд доларів, пропонуючи 6,5%",
+    "fr": "TKO évalue le prix d'une offre de billets garantis de premier rang d'un milliard de dollars à 6,5 %",
+    "de": "TKO bewertet vorrangig besicherte Schuldverschreibungen im Wert von 1 Milliarde US-Dollar mit 6,5 %",
+    "zh": "TKO 以 6.5% 的利率发行 10 亿美元高级担保票据",
+    "ru": "TKO оценил предложение старших обеспеченных облигаций на сумму $1 млрд под ставку 6,5%"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Five9 falls 22% on disappointing fourth quarter EPS outlook",
-   "url": "https://www.investing.com/news/earnings/five9-falls-22-on-disappointing-fourth-quarter-eps-outlook-5006011",
-   "ts": 1793918432,
+   "title": "Reddit director Mary Porter Gale sells $588,000 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/reddit-director-mary-porter-gale-sells-588000-in-shares-93CH-5006097",
+   "ts": 1793921520,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Five9 впав на 22% через невтішний прогноз EPS за четвертий квартал",
-    "fr": "Five9 chute de 22 % en raison de perspectives décevantes pour le BPA du quatrième trimestre",
-    "de": "Five9 fällt aufgrund enttäuschender EPS-Aussichten für das vierte Quartal um 22 %",
-    "zh": "由于第四季度每股收益前景令人失望，Five9 股价下跌 22%",
-    "ru": "Акции Five9 упали на 22% из-за разочаровывающих прогнозов по прибыли на акцию в четвертом квартале."
+    "uk": "Директор Reddit Мері Портер Гейл продає акції на 588 000 доларів",
+    "fr": "La directrice de Reddit, Mary Porter Gale, vend 588 000 $ d'actions",
+    "de": "Reddit-Direktorin Mary Porter Gale verkauft Aktien im Wert von 588.000 US-Dollar",
+    "zh": "Reddit 董事 Mary Porter Gale 出售价值 588,000 美元的股票",
+    "ru": "Директор Reddit Мэри Портер Гейл продает акции на сумму $588 000"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Snowflake director Benoit Dageville sells $14.6 million in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-146-million-in-stock-93CH-5006096",
+   "ts": 1793921501,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Режисер «Сніжинки» Бенуа Дагевіль продає акції за 14,6 мільйона доларів",
+    "fr": "Le directeur de Snowflake, Benoit Dageville, vend 14,6 millions de dollars d'actions",
+    "de": "Snowflake-Regisseur Benoit Dageville verkauft Aktien im Wert von 14,6 Millionen US-Dollar",
+    "zh": "Snowflake 董事 Benoit Dageville 出售价值 1,460 万美元的股票",
+    "ru": "Режиссер «Снежинки» Бенуа Дагевилль продает акции на 14,6 миллиона долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Carvana Co. director Ira Platt sells $2.25 million in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/carvana-co-director-ira-platt-sells-225-million-in-shares-93CH-5006095",
+   "ts": 1793921493,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Carvana Co. Айра Платт продає акції на суму 2,25 мільйона доларів",
+    "fr": "Le directeur de Carvana Co., Ira Platt, vend 2,25 millions de dollars d'actions",
+    "de": "Der Direktor von Carvana Co., Ira Platt, verkauft Aktien im Wert von 2,25 Millionen US-Dollar",
+    "zh": "Carvana Co. 董事 Ira Platt 出售价值 225 万美元的股票",
+    "ru": "Директор Carvana Co. Айра Платт продает акции на сумму 2,25 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Boundless Bio director Kevin Tang buys $26,788 in company shares",
+   "url": "https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-26788-in-company-shares-93CH-5006093",
+   "ts": 1793921459,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Boundless Bio Кевін Танг купує акції компанії на суму 26 788 доларів",
+    "fr": "Le directeur de Boundless Bio, Kevin Tang, achète pour 26 788 $ d'actions de la société",
+    "de": "Boundless Bio-Direktor Kevin Tang kauft Unternehmensaktien im Wert von 26.788 US-Dollar",
+    "zh": "Boundless Bio 董事 Kevin Tang 购买了 26,788 美元的公司股票",
+    "ru": "Директор Boundless Bio Кевин Танг покупает акции компании на сумму 26 788 долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+   "ts": 1793921453,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Оновлення процесу над Бо Ламарром-Кондоном: колишній поліцейський продовжує давати свідчення у справі про подвійне вбивство",
+    "fr": "Mises à jour en direct du procès Beau Lamarre-Condon : un ancien policier poursuit sa preuve dans le procès pour double meurtre",
+    "de": "Live-Updates zum Prozess gegen Beau Lamarre-Condon: Ehemaliger Polizist setzt Beweise im Doppelmordprozess fort",
+    "zh": "博拉马尔-康登审判实时更新：前警官在双重谋杀案审判中继续提供证据",
+    "ru": "Обновления по делу Бо Ламарра-Кондона: бывший полицейский продолжает давать показания по делу о двойном убийстве"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Mattel cuts annual forecasts as challenges pile up for new CEO",
+   "url": "https://www.investing.com/news/stock-market-news/mattel-cuts-annual-forecasts-as-new-ceo-takes-charge-5005607",
+   "ts": 1793921434,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Mattel скорочує річні прогнози, оскільки перед новим генеральним директором нагромаджуються виклики",
+    "fr": "Mattel réduit ses prévisions annuelles alors que les défis s'accumulent pour le nouveau PDG",
+    "de": "Mattel kürzt Jahresprognosen, da sich die Herausforderungen für den neuen CEO häufen",
+    "zh": "由于新任首席执行官面临的挑战不断增多，美泰下调了年度预测",
+    "ru": "Mattel снижает годовые прогнозы, поскольку перед новым генеральным директором накапливаются проблемы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "SINTX Technologies earnings beat by $0.10, revenue topped estimates",
+   "url": "https://www.investing.com/news/earnings/sintx-technologies-earnings-beat-by-010-revenue-topped-estimates-5006086",
+   "ts": 1793921401,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибутки SINTX Technologies перевищили оцінки на 0,10 дол. США",
+    "fr": "Bénéfice de SINTX Technologies dépassé de 0,10 $, revenus supérieurs aux estimations",
+    "de": "Der Gewinn von SINTX Technologies stieg um 0,10 US-Dollar, der Umsatz übertraf die Schätzungen",
+    "zh": "SINTX Technologies 盈利超出预期 0.10 美元，营收超出预期",
+    "ru": "Прибыль SINTX Technologies выросла на $0,10, выручка превысила прогнозы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Anthropic faces valuation pushback on $1.5T IPO following market rout, WSJ reports",
+   "url": "https://www.investing.com/news/stock-market-news/anthropic-faces-valuation-pushback-on-15t-ipo-following-market-rout-wsj-reports-5006085",
+   "ts": 1793921357,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Anthropic зіткнувся з відмовою від оцінки IPO на суму 1,5 тис. дол. після розгрому ринку, повідомляє WSJ",
+    "fr": "Anthropic fait face à une baisse de valorisation lors de son introduction en bourse de 1,5 milliard de dollars suite à la déroute du marché, rapporte le WSJ",
+    "de": "Laut WSJ-Berichten sieht sich Anthropic beim Börsengang im Wert von 1,5 Billionen US-Dollar mit einem Bewertungsrückgang konfrontiert, nachdem der Markt eingebrochen ist",
+    "zh": "据《华尔街日报》报道，市场暴跌后，Anthropic 面临 1.5 吨 IPO 估值下调",
+    "ru": "Anthropic сталкивается с понижением оценки IPO на сумму $1,5 трлн из-за краха рынка, сообщает WSJ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+   "ts": 1793921220,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Губернатор Каліфорнії Ньюсом каже, що він замінить усі смертні вироки в штаті на довічне без умовно-дострокового звільнення",
+    "fr": "Le gouverneur de Californie Newsom déclare qu'il commuera toutes les peines de mort prononcées dans l'État en perpétuité sans possibilité de libération conditionnelle",
+    "de": "Der Gouverneur von Kalifornien, Newsom, sagt, er werde alle Todesurteile im Bundesstaat in lebenslange Haftstrafen ohne Bewährung umwandeln",
+    "zh": "加州州长纽瑟姆表示，他将把该州所有死刑减刑为终身监禁，不得假释",
+    "ru": "Губернатор Калифорнии Ньюсом заявил, что заменит все смертные приговоры в штате пожизненными без права досрочного освобождения"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+   "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+   "ts": 1793921102,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Neocloud IREN каже, що 4 мільярди доларів річного доходу затримуються через запит клієнтів",
+    "fr": "Neocloud IREN déclare que 4 milliards de dollars de revenus annualisés sont retardés en raison de la demande des clients",
+    "de": "Laut Neocloud IREN verzögert sich der Jahresumsatz von 4 Milliarden US-Dollar aufgrund von Kundenanfragen",
+    "zh": "Neocloud IREN 表示，由于客户要求，40 亿美元的年化收入被推迟",
+    "ru": "Neocloud IREN сообщает, что годовой доход в размере 4 миллиардов долларов задерживается из-за запроса клиентов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793920894,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Основні акції технологічних компаній падають, оскільки середньострокові звіти США посилюють побоювання щодо уповільнення розвитку штучного інтелекту",
+    "fr": "Les principales valeurs technologiques chutent alors que les élections de mi-mandat aux États-Unis renforcent les craintes d'un ralentissement de l'IA",
+    "de": "Wichtige Technologieaktien stürzen ab, da die Zwischenwahlen in den USA die Befürchtungen einer Verlangsamung der KI verstärken",
+    "zh": "美国中期选举加剧人们对人工智能放缓的担忧，主要科技股暴跌",
+    "ru": "Акции основных технологических компаний падают, поскольку промежуточные выборы в США усиливают опасения по поводу замедления темпов развития искусственного интеллекта"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "What the blue wave looked like in North Carolina",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina",
+   "ts": 1793920672,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Як виглядала блакитна хвиля в Північній Кароліні",
+    "fr": "À quoi ressemblait la vague bleue en Caroline du Nord",
+    "de": "Wie die blaue Welle in North Carolina aussah",
+    "zh": "北卡罗来纳州的蓝浪是什么样子",
+    "ru": "Как выглядела голубая волна в Северной Каролине"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+   "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793920613,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "У Делі повернулося токсичне зимове повітря – чи готова індійська столиця до забруднення?",
+    "fr": "L'air hivernal toxique de Delhi est de retour : la capitale indienne est-elle prête à affronter la pollution ?",
+    "de": "Delhis giftige Winterluft ist zurück – ist die indische Hauptstadt auf Verschmutzung vorbereitet?",
+    "zh": "德里的冬季有毒空气又回来了——印度首都准备好应对污染了吗？",
+    "ru": "Токсичный зимний воздух Дели вернулся – готова ли индийская столица к загрязнению?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Newsom announces he will commute sentences of inmates on California's death row",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+   "ts": 1793920303,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Ньюсом оголосив, що пом'якшить вироки ув'язненим у камері смертників у Каліфорнії",
+    "fr": "Newsom annonce qu'il commuera les peines des condamnés à mort en Californie",
+    "de": "Newsom kündigt an, dass er die Strafen von Häftlingen in der Todeszelle Kaliforniens umwandeln wird",
+    "zh": "纽森宣布将为加州死囚减刑",
+    "ru": "Ньюсом объявляет, что смягчит приговоры заключенным, приговоренным к смертной казни в Калифорнии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "California governor commutes sentences for state's 548 death row inmates",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793920173,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Губернатор штату Каліфорнія пом'якшив вироки 548 засудженим до смертної кари",
+    "fr": "Le gouverneur de Californie commue les peines des 548 condamnés à mort de l'État",
+    "de": "Der Gouverneur von Kalifornien wandelt die Strafen für die 548 Todeskandidaten des Bundesstaates um",
+    "zh": "加州州长为该州 548 名死囚减刑",
+    "ru": "Губернатор Калифорнии смягчил приговоры 548 заключенным штата, приговоренным к смертной казни"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Midterms upended Congress but Trump still commands foreign policy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5",
+   "ts": 1793920062,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Проміжні вибори перевернули Конгрес, але Трамп все ще керує зовнішньою політикою",
+    "fr": "Les élections de mi-mandat ont bouleversé le Congrès, mais Trump reste maître de la politique étrangère",
+    "de": "Die Zwischenwahlen haben den Kongress auf den Kopf gestellt, aber Trump bestimmt immer noch die Außenpolitik",
+    "zh": "中期选举颠覆了国会，但特朗普仍然掌控着外交政策",
+    "ru": "Промежуточные выборы перевернули Конгресс, но Трамп по-прежнему командует внешней политикой"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+   "ts": 1793919845,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Телефони «вибухають» на Уолл-стріт, коли з’являється «паровий каток» для торгівлі ШІ",
+    "fr": "Les téléphones « explosent » à Wall Street alors qu’un « rouleau compresseur » apparaît pour le commerce de l’IA",
+    "de": "Telefone „explodieren“ an der Wall Street, während die „Dampfwalze“ für den KI-Handel auftaucht",
+    "zh": "随着人工智能行业出现“压路机”，手机在华尔街“爆炸”",
+    "ru": "Телефоны «взрываются» на Уолл-стрит, когда на сделке с искусственным интеллектом появляется «паровой каток»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
+   "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+   "ts": 1793919734,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Blue Origin переносить запуск на січень 2027 року, оскільки намагається відновити пошкоджену панель запуску",
+    "fr": "Blue Origin repousse le lancement à janvier 2027 alors qu'il s'efforce de reconstruire la rampe de lancement endommagée",
+    "de": "Blue Origin verschiebt den Start auf Januar 2027, da es darum geht, die beschädigte Startrampe wieder aufzubauen",
+    "zh": "蓝色起源将发射推迟到 2027 年 1 月，因为它正在努力重建受损的发射台",
+    "ru": "Blue Origin переносит запуск на январь 2027 года, поскольку пытается восстановить поврежденную стартовую площадку"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_business",
+   "source": "NPR",
+   "title": "Pasture mealybugs have killed off huge swaths of grasses in the Southeast",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6018539/pasture-mealybugs-have-killed-off-huge-swaths-of-grasses-in-the-southeast",
+   "ts": 1793919637,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Пасовищні борошнисті червці знищили величезні смуги трав на південному сході",
+    "fr": "Les cochenilles des pâturages ont tué d'immenses bandes de graminées dans le sud-est",
+    "de": "Weideschmierläuse haben im Südosten riesige Grasflächen abgetötet",
+    "zh": "牧场粉虱杀死了东南部大片草地",
+    "ru": "Пастбищные мучнистые червецы уничтожили огромные участки травы на юго-востоке страны."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+   "url": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+   "ts": 1793919636,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Powerhouse Parramatta відкривається цими вихідними – і він сліпучий як зовні, так і зсередини",
+    "fr": "Powerhouse Parramatta ouvre ses portes ce week-end – et c'est éblouissant à l'intérieur comme à l'extérieur",
+    "de": "Das Powerhouse Parramatta wird dieses Wochenende eröffnet – und es ist von innen und außen umwerfend",
+    "zh": "Powerhouse Parramatta 本周末开业 - 里里外外都令人眼花缭乱",
+    "ru": "В эти выходные откроется электростанция Парраматта – и она великолепна внутри и снаружи"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "New wave of bomb hoaxes hits dozens of flights across Europe",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+   "ts": 1793919517,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Нова хвиля містифікацій щодо бомб охопила десятки авіарейсів по всій Європі",
+    "fr": "Une nouvelle vague d'attentats à la bombe frappe des dizaines de vols à travers l'Europe",
+    "de": "Eine neue Welle von Bombenfälschungen trifft Dutzende Flüge in ganz Europa",
+    "zh": "新一波炸弹恶作剧袭击了欧洲数十个航班",
+    "ru": "Новая волна мистификаций о бомбах поразила десятки самолетов по всей Европе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "California governor to grant clemency to all 548 death row inmates in state",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpTdTN5c1lMaW81c2hwQkJjQ2E3U1hWWGVTUjlraUJoLVNxdGcybWNVY1FXMm03MXZkeWEwVWpabEcwdW9qRkxBeXhZRGlJRUp2NVl0T1pjWFBNRE9hX21ySTVraGxaTm54OS1TXzB6NXJLY2NkQ3JURnluWWpEM0g0VmRGMm1XczdBR1ZTVjZFRkxzejg3UjJ5eTNCZmxlbXVmczZ6bmZYd3Q0aE82LQ?oc=5",
+   "ts": 1793919468,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Губернатор Каліфорнії помилує всіх 548 засуджених до смертної кари штату",
+    "fr": "Le gouverneur de Californie accordera la grâce aux 548 condamnés à mort de l'État",
+    "de": "Der Gouverneur von Kalifornien gewährt allen 548 zum Tode verurteilten Häftlingen im Bundesstaat Gnade",
+    "zh": "加州州长赦免该州所有 548 名死囚",
+    "ru": "Губернатор Калифорнии помилует всех 548 приговоренных к смертной казни в штате"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
+   "ts": 1793919300,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Соціаліст-демократ Нітія Раман скидає мера Лос-Анджелеса Карен Басс.",
+    "fr": "La socialiste démocrate Nithya Raman renverse la maire de Los Angeles, Karen Bass.",
+    "de": "Die demokratische Sozialistin Nithya Raman verdrängt die umkämpfte Bürgermeisterin von Los Angeles, Karen Bass",
+    "zh": "民主社会主义者 Nithya Raman 罢免陷入困境的洛杉矶市长 Karen Bass",
+    "ru": "Социалистка-демократ Нитья Раман свергла мэра Лос-Анджелеса Карен Басс"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+   "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+   "ts": 1793918880,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції технічних компаній стали найгіршим днем ​​з 2020 року, оскільки в торгівлі штучним інтелектом сталася бійня",
+    "fr": "Les actions technologiques enregistrent leur pire journée depuis 2020 alors que le carnage s'abat sur le commerce de l'IA",
+    "de": "Tech-Aktien verzeichnen den schlechtesten Tag seit 2020, da es im KI-Handel zu einem Blutbad kommt",
+    "zh": "人工智能行业惨遭屠杀，科技股遭遇 2020 年以来最糟糕的一天",
+    "ru": "Акции технологических компаний пережили худший день с 2020 года, поскольку в торговле искусственным интеллектом наступает бойня"
    },
    "lang": "en"
   },
@@ -288,92 +794,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Oil rebounds a day after sliding more than 8% following Democratic midterms sweep",
-   "url": "https://www.investing.com/news/commodities-news/oil-holds-steep-losses-after-us-election-fuels-iran-peace-hopes-5001939",
-   "ts": 1793918224,
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Kyiv plans to connect all residential buildings to heating by November 12",
+   "url": "https://www.ukrinform.net/rubric-society/4181724-kyiv-plans-to-connect-all-residential-buildings-to-heating-by-november-12.html",
+   "ts": 1793918340,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Ціна нафти відновлюється через день після падіння більш ніж на 8% після проміжного підйому демократів",
-    "fr": "Le pétrole rebondit un jour après avoir chuté de plus de 8 % suite à la victoire des démocrates à mi-mandat",
-    "de": "Der Ölpreis erholt sich einen Tag, nachdem er nach der Zwischenwahl der Demokraten um mehr als 8 % gefallen war",
-    "zh": "民主党中期选举大获全胜后油价下跌逾 8%，一天后反弹",
-    "ru": "Нефть восстанавливается через день после падения более чем на 8% после победы демократов на промежуточных выборах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Algorhythm Holdings appoints Gregory D. Smith as CEO and chairman",
-   "url": "https://www.investing.com/news/sec-filings/algorhythm-holdings-appoints-gregory-d-smith-as-ceo-and-chairman-93CH-5006008",
-   "ts": 1793918194,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Algorhythm Holdings призначає Грегорі Д. Сміта генеральним директором і головою правління",
-    "fr": "Algorhythm Holdings nomme Gregory D. Smith au poste de PDG et président",
-    "de": "Algorhythm Holdings ernennt Gregory D. Smith zum CEO und Vorsitzenden",
-    "zh": "Algorhythm Holdings 任命 Gregory D. Smith 为首席执行官兼董事长",
-    "ru": "Algorhythm Holdings назначает Грегори Д. Смита генеральным директором и председателем правления"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Pine Cliff Energy reports Q3 results, cuts net debt 14%",
-   "url": "https://www.investing.com/news/company-news/pine-cliff-energy-reports-q3-results-cuts-net-debt-14-93CH-5006007",
-   "ts": 1793918191,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Pine Cliff Energy звітує про результати за 3 квартал, скорочує чистий борг на 14%",
-    "fr": "Pine Cliff Energy publie ses résultats du troisième trimestre et réduit sa dette nette de 14 %",
-    "de": "Pine Cliff Energy gibt Ergebnisse für das dritte Quartal bekannt und senkt die Nettoverschuldung um 14 %",
-    "zh": "Pine Cliff Energy 报告第三季度业绩，净债务削减 14%",
-    "ru": "Pine Cliff Energy сообщает о результатах за третий квартал и сокращает чистый долг на 14%"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Audi may boost size of new US auto plant by $3 billion, add 3,000 jobs",
-   "url": "https://www.investing.com/news/stock-market-news/audi-may-boost-size-of-new-us-auto-plant-by-3-billion-add-3000-jobs-5005725",
-   "ts": 1793918180,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Audi може збільшити розмір нового автозаводу в США на 3 мільярди доларів і створити 3000 робочих місць",
-    "fr": "Audi pourrait augmenter la taille de sa nouvelle usine automobile américaine de 3 milliards de dollars et créer 3 000 emplois",
-    "de": "Audi könnte das neue US-Automobilwerk um 3 Milliarden US-Dollar vergrößern und 3.000 Arbeitsplätze schaffen",
-    "zh": "奥迪或将美国新汽车工厂规模扩大30亿美元，增加3000个就业岗位",
-    "ru": "Audi может увеличить размер нового автомобильного завода в США на 3 миллиарда долларов и создать 3000 рабочих мест"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Eton Pharmaceuticals earnings beat by $0.19, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/eton-pharmaceuticals-earnings-beat-by-019-revenue-topped-estimates-5006006",
-   "ts": 1793918142,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прибутки Eton Pharmaceuticals перевищили оцінки на 0,19 долара США",
-    "fr": "Les bénéfices d'Eton Pharmaceuticals dépassent de 0,19 $, les revenus dépassent les estimations",
-    "de": "Der Gewinn von Eton Pharmaceuticals stieg um 0,19 US-Dollar, der Umsatz übertraf die Schätzungen",
-    "zh": "伊顿制药 (Eton Pharmaceuticals) 盈利超出预期 0.19 美元，营收超出预期",
-    "ru": "Прибыль Eton Pharmaceuticals выросла на $0,19, выручка превысила прогнозы"
+    "uk": "Київ планує підключити до опалення всі житлові будинки до 12 листопада",
+    "fr": "Kyiv prévoit de raccorder tous les bâtiments résidentiels au chauffage d'ici le 12 novembre",
+    "de": "Kiew plant, bis zum 12. November alle Wohngebäude an die Heizung anzuschließen",
+    "zh": "基辅计划在 11 月 12 日之前为所有住宅楼接通供暖系统",
+    "ru": "Киев планирует подключить все жилые дома к отоплению к 12 ноября"
    },
    "lang": "en"
   },
@@ -392,24 +826,6 @@
     "de": "Unternehmen werden aufgefordert, vor dem neuen Gesetz Gehälter in Stellenanzeigen zu veröffentlichen",
     "zh": "公司被告知在新法律出台之前在招聘广告中公布工资",
     "ru": "Фирмам приказали публиковать зарплаты в объявлениях о вакансиях в преддверии принятия нового закона"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "California governor commutes sentences for state's 548 death row inmates",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793917900,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Губернатор штату Каліфорнія пом'якшив вироки 548 засудженим до смертної кари",
-    "fr": "Le gouverneur de Californie commue les peines des 548 condamnés à mort de l'État",
-    "de": "Der Gouverneur von Kalifornien wandelt die Strafen für die 548 Todeskandidaten des Bundesstaates um",
-    "zh": "加州州长为该州 548 名死囚减刑",
-    "ru": "Губернатор Калифорнии смягчил приговоры 548 заключенным штата, приговоренным к смертной казни"
    },
    "lang": "en"
   },
@@ -468,78 +884,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Here's where we stand on Kimberly-Clark shares after a better-than-feared quarter",
-   "url": "https://www.cnbc.com/investingclub/2026/11/05/heres-where-we-stand-on-kimberly-clark-shares-after-a-better-than-feared-quarter.html",
-   "ts": 1793917863,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ось де ми знаходимося на акціях Kimberly-Clark після кращого кварталу, ніж ми очікували",
-    "fr": "Voici où nous en sommes sur les actions Kimberly-Clark après un trimestre meilleur que prévu",
-    "de": "So stehen wir zu Kimberly-Clark-Aktien nach einem besser als befürchteten Quartal",
-    "zh": "这是我们在经历好于预期的季度后对金佰利股票的看法",
-    "ru": "Вот наше положение в отношении акций Kimberly-Clark после квартала, который оказался лучше, чем ожидалось."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
-   "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
-   "ts": 1793917843,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Чудова 7 втратила 1 трильйон доларів. Найбільш приголомшливі статистичні дані про падіння акцій технологічних компаній у четвер",
-    "fr": "Le Magnifique 7 perd 1 000 milliards de dollars. Les statistiques les plus époustouflantes de la chute des valeurs technologiques de jeudi",
-    "de": "Magnificent 7 verliert 1 Billion Dollar. Die aufsehenerregendsten Statistiken zum Absturz der Technologieaktien am Donnerstag",
-    "zh": "华丽七号损失1万亿美元。周四科技股暴跌中最令人瞠目结舌的数据",
-    "ru": "«Великолепная семерка» теряет 1 триллион долларов. Самая сногсшибательная статистика падения акций технологических компаний в четверг"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-   "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
-   "ts": 1793917787,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Neocloud IREN каже, що 4 мільярди доларів річного доходу затримуються через запит клієнтів",
-    "fr": "Neocloud IREN déclare que 4 milliards de dollars de revenus annualisés sont retardés en raison de la demande des clients",
-    "de": "Laut Neocloud IREN verzögert sich der Jahresumsatz von 4 Milliarden US-Dollar aufgrund von Kundenanfragen",
-    "zh": "Neocloud IREN 表示，由于客户要求，40 亿美元的年化收入被推迟",
-    "ru": "Neocloud IREN сообщает, что годовой доход в размере 4 миллиардов долларов задерживается из-за запроса клиентов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "The reason why Tehran is paying attention to Republican midterm losses",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6028853/the-reason-why-tehran-is-paying-attention-to-republican-midterm-losses",
-   "ts": 1793917766,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Причина, чому Тегеран звертає увагу на проміжні втрати республіканців",
-    "fr": "La raison pour laquelle Téhéran prête attention aux pertes républicaines à mi-mandat",
-    "de": "Der Grund, warum Teheran auf die mittelfristigen Niederlagen der Republikaner achtet",
-    "zh": "德黑兰关注共和党中期选举失利的原因",
-    "ru": "Причина, по которой Тегеран обращает внимание на промежуточные потери республиканцев"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "How Democrats plan to investigate the Trump administration after their midterm wins",
@@ -554,6 +898,42 @@
     "de": "Wie die Demokraten planen, die Trump-Regierung nach ihren Zwischensiegen zu untersuchen",
     "zh": "民主党计划在中期选举获胜后如何调查特朗普政府",
     "ru": "Как демократы планируют расследовать деятельность администрации Трампа после победы на промежуточных выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Instant View: Tech-stock rout accelerates retreat from the AI trade",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmtpeU9iX1pPYnctTUY4ZHVMRzJxcGlwV2VlaVFmSEExTWljLU9RVnZHRGhjR2tzZXZUYXV3dFJOc3hsNDVCNGZqcmxhUmlSblhJdWNxZWhQd1Z1ZXZyMFZuemNJYUVrRGZtMTlaVFhHUHdFamlweDN4SkRtclB5WW9vdjduOWhKVkRWRV9qUExHM29IM2xpcFJ3?oc=5",
+   "ts": 1793917599,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Миттєвий перегляд: крах технічних акцій прискорює відхід від торгівлі ШІ",
+    "fr": "Vue instantanée : la déroute des actions technologiques accélère le retrait du commerce de l'IA",
+    "de": "Sofortansicht: Der Rückgang der Tech-Aktien beschleunigt den Rückzug aus dem KI-Handel",
+    "zh": "即时观点：科技股暴跌加速人工智能行业撤退",
+    "ru": "Мгновенный просмотр: крах акций технологических компаний ускоряет отход от торговли ИИ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "US warns of 'ongoing cyber threat' to industrial refrigeration systems",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2s2bmFfRVpxV19jRHlKYkY2NXlKbDhkbF9vVi1seHE2cDJRbi15Z0NEOEV2MjlYb1F0emRmdG9xZmRRcVY1R3VsWnRjZW9iNGlqbFQwMm1XUlRfUTVSQ3ZEbGdIRmtQQ1NrN3IzYVNiaXZ6XzJGbDUyODJzNGo1OGVSMHRqU3lfb3djN0dfY093dmYwcm5EV05wd2x4bUtJeXUxWFctcHdsM25wb0JYcS0yMGQxYllCOUczOEVKTWc?oc=5",
+   "ts": 1793917507,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "США попереджають про «постійну кіберзагрозу» промисловим холодильним системам",
+    "fr": "Les États-Unis mettent en garde contre une « cybermenace continue » pour les systèmes de réfrigération industrielle",
+    "de": "Die USA warnen vor einer „anhaltenden Cyber-Bedrohung“ für industrielle Kühlsysteme",
+    "zh": "美国警告工业制冷系统面临“持续的网络威胁”",
+    "ru": "США предупреждают о «постоянной киберугрозе» для промышленных холодильных систем"
    },
    "lang": "en"
   },
@@ -631,24 +1011,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793916818,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Основні акції технологічних компаній падають, оскільки середньострокові звіти США посилюють побоювання щодо уповільнення розвитку штучного інтелекту",
-    "fr": "Les principales valeurs technologiques chutent alors que les élections de mi-mandat aux États-Unis renforcent les craintes d'un ralentissement de l'IA",
-    "de": "Wichtige Technologieaktien stürzen ab, da die Zwischenwahlen in den USA die Befürchtungen einer Verlangsamung der KI verstärken",
-    "zh": "美国中期选举加剧人们对人工智能放缓的担忧，主要科技股暴跌",
-    "ru": "Акции основных технологических компаний падают, поскольку промежуточные выборы в США усиливают опасения по поводу замедления темпов развития искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse",
@@ -664,6 +1026,42 @@
     "de": "Paraguays Staatsanwaltschaft wird nach dem Bankzusammenbruch Anklage gegen den umkämpften Präsidenten Peña erheben",
     "zh": "巴拉圭检察官将在银行倒闭后对陷入困境的总统佩尼亚提出指控",
     "ru": "Прокурор Парагвая будет добиваться обвинений против президента Пенья, находящегося в боевой готовности после краха банка"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "AP Exclusive: Trump administration held talks with Iran on deporting Iranians during the war",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmU3cVBtWk1qRjJuVzQzSVFHM190eGl4U1JjOUNZSVpibWNxcVRqallhSVVXLXRnQkxuNzVqWDZMYkpRR2hFd0ltSTNoSlFjMy1uQTlFaE14SGo5cUUtNjV4dXlDUWVBRllwX25sQlFwamh6aGl6Y0tvSm9PWWVvRG5sVG5wQjVWdm1McHhwUlR4bmlmQ0xBZGROSGdyc05wZUlqWURn?oc=5",
+   "ts": 1793916540,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Ексклюзив AP: адміністрація Трампа вела переговори з Іраном про депортацію іранців під час війни",
+    "fr": "Exclusivité AP : l'administration Trump a eu des pourparlers avec l'Iran sur l'expulsion des Iraniens pendant la guerre",
+    "de": "Exklusiv bei AP: Die Trump-Regierung führte Gespräche mit dem Iran über die Abschiebung von Iranern während des Krieges",
+    "zh": "美联社独家报道：特朗普政府与伊朗就战争期间驱逐伊朗人举行会谈",
+    "ru": "Эксклюзив AP: Администрация Трампа провела переговоры с Ираном о депортации иранцев во время войны"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Florida set to carry out 19th execution this year, tying a record in the state",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU9RMHg3N1FVX05NZG5acGlZRGc4STlmXzZtbUg3Y1VLWTFTQTFmcEdRbDlEelRDSnA3SFVvbHNZSW9yaHNHcHNBSkxGa2FvVnhsMzRPWHd5eGwwN1N0QkU4LWZZUU5aQU54Z1JRcWsxSHduWDIxbEJrRDN3UjM4MG5OZ1F1N2hFaElKTlA2WnZBdy1yZi1ONEhR?oc=5",
+   "ts": 1793916420,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Цього року у Флориді планується провести 19-ту страту, встановивши рекорд штату",
+    "fr": "La Floride s'apprête à procéder à sa 19e exécution cette année, égalant ainsi un record dans l'État",
+    "de": "Florida plant, in diesem Jahr die 19. Hinrichtung durchzuführen und damit einen Rekord im Bundesstaat aufzustellen",
+    "zh": "佛罗里达州今年将执行第 19 起死刑，追平该州纪录",
+    "ru": "Во Флориде в этом году состоится 19-я казнь, установив рекорд штата."
    },
    "lang": "en"
   },
@@ -705,20 +1103,38 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-   "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-   "ts": 1793916000,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
+   "ts": 1793916069,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Акції технічних компаній стали найгіршим днем ​​з 2020 року, оскільки в торгівлі штучним інтелектом сталася бійня",
-    "fr": "Les actions technologiques enregistrent leur pire journée depuis 2020 alors que le carnage s'abat sur le commerce de l'IA",
-    "de": "Tech-Aktien verzeichnen den schlechtesten Tag seit 2020, da es im KI-Handel zu einem Blutbad kommt",
-    "zh": "人工智能行业惨遭屠杀，科技股遭遇 2020 年以来最糟糕的一天",
-    "ru": "Акции технологических компаний пережили худший день с 2020 года, поскольку в торговле искусственным интеллектом наступает бойня"
+    "uk": "Microsoft посилює нагляд за проектами центрів обробки даних Neocloud, повідомляє Bloomberg News",
+    "fr": "Microsoft renforce la surveillance des projets de centres de données NeoCloud, rapporte Bloomberg News",
+    "de": "Laut Bloomberg News verschärft Microsoft die Aufsicht über Neocloud-Rechenzentrumsprojekte",
+    "zh": "据彭博社报道，微软加强了对 neocloud 数据中心项目的监管",
+    "ru": "Microsoft ужесточает надзор за проектами центров обработки данных neocloud, сообщает Bloomberg News"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Online magazine Salon, an early staple of internet discourse, announces it will shut down",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU90VTdWdjY3Zk40Rlp1VTRvTzJ6b21PRjEtWlJYcnlRMG1rcW9kczFLd2J5T0VoRlRxSDBFMFZVOFlaakVsZVpkaWFSZWV2bjYtZTloMlBoeFR5dWUyV0ZjbWJwems1VXp3LVp2QjBEOEFmSHpDS2lZYjJFZ1RqaElQeFhWdHlSVldEd0U4UEdjbF8yNjRV?oc=5",
+   "ts": 1793915820,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Інтернет-журнал Salon, одна з перших сторінок інтернет-дискурсу, оголошує про закриття",
+    "fr": "Le magazine en ligne Salon, l'un des premiers piliers du discours sur Internet, annonce sa fermeture",
+    "de": "Das Online-Magazin Salon, ein früher Fixpunkt im Internet-Diskurs, kündigt seine Schließung an",
+    "zh": "网络杂志《沙龙》是互联网话语的早期主要内容，宣布将关闭",
+    "ru": "Интернет-журнал Salon, один из первых источников интернет-дискурса, объявляет о своем закрытии."
    },
    "lang": "en"
   },
@@ -737,6 +1153,24 @@
     "de": "Selenskyj: Die Ukraine muss um 16 Milliarden US-Dollar an ausgesetzter US-Hilfe kämpfen",
     "zh": "泽连斯基：乌克兰必须在美国暂停援助中争取 16B 美元",
     "ru": "Зеленский: Украина должна бороться за $16 млрд приостановленной помощи США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "UK doctor with Ebola returns from Congo to London for treatment",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDZXbHFZcURmNWNld3RGMjBhWG04cWMzR1pYRlFRcHJuZUNMdEFTd1Y4ZlhKZG5VWHJjU2cwazRkWFBEYjlER1FSMHhTYVNmNlU4blJ2QUdBVlJhYWtrS2NpX0NZVTgzeENYYjNlb0tPWlo2ZU9McUFmRjhuNzVBVDlSeGRHWkR3eldtNWJ6dWhJdm5nSmJLTTZ4Z25uVE9mcHpsMXVySHpiVXJ6VlFod1I2Q0pwOXVDS2ZpUGhmRWp0V0U?oc=5",
+   "ts": 1793915556,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Британський лікар із лихоманкою Ебола повернувся з Конго до Лондона для лікування",
+    "fr": "Un médecin britannique atteint d'Ebola revient du Congo à Londres pour se faire soigner",
+    "de": "Ein an Ebola erkrankter britischer Arzt kehrt zur Behandlung aus dem Kongo nach London zurück",
+    "zh": "患有埃博拉病毒的英国医生从刚果返回伦敦接受治疗",
+    "ru": "Британский врач, заболевший Эболой, возвращается из Конго в Лондон для лечения"
    },
    "lang": "en"
   },
@@ -761,19 +1195,18 @@
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Generation Z and diversity redefine US politics in groundbreaking election",
+   "title": "Generation Z and young voters help redefine US politics after midterms",
    "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
    "ts": 1793915371,
    "sec": [
-    "world",
-    "politics"
+    "world"
    ],
    "t": {
-    "uk": "Покоління Z і різноманітність переосмислюють політику США під час революційних виборів",
-    "fr": "La génération Z et la diversité redéfinissent la politique américaine lors d’élections révolutionnaires",
-    "de": "Generation Z und Vielfalt definieren die US-Politik in bahnbrechenden Wahlen neu",
-    "zh": "Z世代和多样性在开创性的选举中重新定义了美国政治",
-    "ru": "Поколение Z и разнообразие меняют политику США на революционных выборах"
+    "uk": "Покоління Z і молоді виборці допомагають змінити політику США після проміжних виборів",
+    "fr": "La génération Z et les jeunes électeurs contribuent à redéfinir la politique américaine après les élections de mi-mandat",
+    "de": "Die Generation Z und junge Wähler tragen dazu bei, die US-Politik nach den Zwischenwahlen neu zu definieren",
+    "zh": "Z世代和年轻选民帮助重新定义中期选举后的美国政治",
+    "ru": "Поколение Z и молодые избиратели помогают пересмотреть политику США после промежуточных выборов"
    },
    "lang": "en"
   },
@@ -796,24 +1229,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "IRS unveils higher capital gains tax brackets for 2027",
-   "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
-   "ts": 1793915183,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Податкове управління США оприлюднює більш високі розміри податку на приріст капіталу на 2027 рік",
-    "fr": "L'IRS dévoile des tranches d'imposition des plus-values ​​​​plus élevées pour 2027",
-    "de": "IRS stellt höhere Steuerklassen für Kapitalerträge für 2027 vor",
-    "zh": "IRS 公布 2027 年更高的资本利得税级",
-    "ru": "IRS обнародовало более высокие ставки налога на прирост капитала на 2027 год"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
@@ -828,24 +1243,6 @@
     "de": "Den Dip kaufen oder abwarten? Junge Anleger reagieren, als der Verkauf von Einzelhandelsaktien einen der höchsten Werte seit dem COVID-Crash erreicht.",
     "zh": "逢低买入还是观望？随着零售股票抛售达到新冠疫情崩盘以来的最高水平之一，年轻投资者做出了反应。",
     "ru": "Купить дип или подождать? Молодые инвесторы отреагировали на то, что розничные продажи акций достигли одного из самых высоких уровней после краха COVID."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-   "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-   "ts": 1793914980,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Розпродаж Маска» поглиблюється, оскільки Tesla та SpaceX об’єднуються для знищення 456 мільярдів доларів за два дні",
-    "fr": "La « vente de Musk » s’intensifie alors que Tesla et SpaceX s’associent pour un effacement de 456 milliards de dollars en deux jours",
-    "de": "Der „Musk-Ausverkauf“ verschärft sich, als Tesla und SpaceX sich für einen zweitägigen Ausverkauf von 456 Milliarden US-Dollar zusammenschließen",
-    "zh": "特斯拉和 SpaceX 合并两天暴跌 4560 亿美元，“马斯克抛售”加剧",
-    "ru": "«Распродажа Маска» углубляется, поскольку Tesla и SpaceX объединяются для двухдневного уничтожения на сумму 456 миллиардов долларов."
    },
    "lang": "en"
   },
@@ -868,42 +1265,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-   "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-   "ts": 1793914740,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Після краху технічних акцій жовтневий звіт про робочі місця може принести полегшення — або більше болю",
-    "de": "Nach dem Absturz der Tech-Aktien könnte der Stellenbericht vom Oktober Erleichterung – oder mehr Schmerz – bringen",
-    "zh": "科技股暴跌后，十月份就业报告可能会带来缓解，但也可能会带来更多痛苦",
-    "fr": "Après la déroute des valeurs technologiques, le rapport sur l'emploi d'octobre pourrait apporter un soulagement – ​​ou encore plus de douleur",
-    "ru": "После падения акций технологических компаний октябрьский отчет о занятости может принести облегчение — или еще большую боль"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-   "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-   "ts": 1793914620,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Це «великий» для фондового ринку? Уолл-стріт звучить невтішно, коли технологічні падають.",
-    "fr": "Est-ce « le grand moment » pour le marché boursier ? Wall Street sonne mal alors que la technologie plonge.",
-    "de": "Ist das „das Große“ für den Aktienmarkt? Die Wall Street hört sich schlecht an, als die Tech-Branche einbricht.",
-    "zh": "这是股市的“大事件”吗？随着科技股暴跌，华尔街发出了声音。",
-    "ru": "Является ли это «большим событием» для фондового рынка? Уолл-стрит шумит, когда технологии падают."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
@@ -918,24 +1279,6 @@
     "de": "Durch israelische Zerstörungen werden mehr als 100 Palästinenser in Biddu vertrieben",
     "zh": "以色列的强拆行动导致 Biddu 100 多名巴勒斯坦人流离失所",
     "ru": "Израильские сносчики привели к перемещению более 100 палестинцев в Бидду"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
-   "ts": 1793914209,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nasdaq повідомляє про найбільше щоденне падіння за 19 місяців через побоювання щодо правил штучного інтелекту",
-    "fr": "Le Nasdaq enregistre la plus forte baisse quotidienne en 19 mois en raison des craintes liées à la réglementation de l'IA",
-    "de": "Nasdaq verzeichnet den größten täglichen Rückgang seit 19 Monaten aufgrund von Ängsten vor KI-Regulierungen",
-    "zh": "由于担心人工智能监管，纳斯达克指数创 19 个月来最大单日跌幅",
-    "ru": "Nasdaq сообщает о самом большом дневном падении за 19 месяцев из-за опасений по поводу регулирования ИИ"
    },
    "lang": "en"
   },
@@ -972,24 +1315,6 @@
     "de": "Falsche Bombendrohungen erzwingen Notlandungen und Evakuierungen in ganz Europa",
     "zh": "恶作剧炸弹威胁迫使欧洲各地紧急着陆和疏散",
     "ru": "Мистические угрозы о взрыве вынуждают совершать экстренные посадки и эвакуацию по всей Европе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-   "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-   "ts": 1793913798,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nasdaq бачить найгірший день за 18 місяців, оскільки інвестори роблять ставку на уповільнення ШІ після перемоги демократів на виборах",
-    "fr": "Le Nasdaq connaît sa pire journée en 18 mois alors que les investisseurs parient sur le ralentissement de l’IA après le triomphe électoral des démocrates",
-    "de": "Nasdaq erlebt den schlimmsten Tag seit 18 Monaten, da die Anleger nach dem Wahlsieg der Demokraten auf eine Verlangsamung der KI setzen",
-    "zh": "民主党大选获胜后，投资者押注人工智能将放缓，纳斯达克指数迎来 18 个月来最糟糕的一天",
-    "ru": "Nasdaq видит худший день за 18 месяцев, поскольку инвесторы делают ставку на замедление темпов развития искусственного интеллекта после победы демократов на выборах"
    },
    "lang": "en"
   },
@@ -1049,24 +1374,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Explainer: What is ueno bank and how did it trigger Paraguay's political crisis?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXhGQVB4TkhRLUdwZWF3MlJxV0k3VmpHNlRGQ0NpZEpDU2NsZFdpTnF5LVFZZFlYUkFSQU1BWThoSmsxVVV6MFV1RGxpRGwzR3Z2US04MDd4b05zaC1FMG9fcVUzREl1TXVZY2NSNjRCdklramgyaXhhZnJXYXctWXpWb21MNzdQUTlpWVh3N3dzdTF4TWRhUVhwWV8xamxEMkM5aThVaW5XdDZyMG4xZ3JkRVlhMWs?oc=5",
-   "ts": 1793913611,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Пояснення: що таке ueno bank і як він спровокував політичну кризу в Парагваї?",
-    "fr": "Explication : Qu'est-ce que la banque ueno et comment a-t-elle déclenché la crise politique au Paraguay ?",
-    "de": "Erklärer: Was ist die Ueno-Bank und wie hat sie die politische Krise in Paraguay ausgelöst?",
-    "zh": "解说：上野银行是什么？它是如何引发巴拉圭政治危机的？",
-    "ru": "Объяснитель: Что такое банк Уэно и как он спровоцировал политический кризис в Парагвае?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Canadian service member faces court-martial for sharing sensitive information with Ukraine",
@@ -1081,24 +1388,6 @@
     "de": "Ein kanadischer Militärangehöriger steht vor einem Kriegsgericht, weil er sensible Informationen an die Ukraine weitergegeben hat",
     "zh": "加拿大军人因与乌克兰分享敏感信息而面临军事法庭",
     "ru": "Канадский военнослужащий предстанет перед военным трибуналом за обмен конфиденциальной информацией с Украиной"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0F0S042MGswT2lfTFJQd3hZTmdoU1hPZWhuSUVDNUhBdjRQTnRBWjJFRVdVaGNJeHVRNWN4M0hVUGVaNTVtNkU0ZFVOb2RQR2s4WkcwLWNFWXpIUEp4VWx3cTZIWFhWdWtIaUxlUlBoajhxSnZVU1VyWmJCYWItaG4wNENHMFdUTHpuS3NFcW5UUFVqczRxQk45Umh2Z2t0U25URUlMVUVjTGJ6Q1RidlFTbFlwbjlkT1Z0eEl6M3A?oc=5",
-   "ts": 1793912964,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Google зіткнувся з заявами про те, що учень використовував чат ШІ на шкільному ноутбуці в США, щоб спланувати спробу самогубства",
-    "fr": "Google fait face à des allégations selon lesquelles un étudiant aurait utilisé le chat IA sur l'ordinateur portable d'une école américaine pour planifier une tentative de suicide",
-    "de": "Google wird beschuldigt, ein Schüler habe den KI-Chat auf einem US-Schullaptop genutzt, um einen Selbstmordversuch zu planen",
-    "zh": "谷歌面临指控学生在美国学校笔记本电脑上使用人工智能聊天来计划自杀",
-    "ru": "Google обвиняет студента в использовании чата с искусственным интеллектом на школьном ноутбуке в США, чтобы спланировать попытку самоубийства"
    },
    "lang": "en"
   },
@@ -1306,78 +1595,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
-   "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
-   "ts": 1793911189,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Французи протестують: «Тільки коли державний і приватний сектори діють разом, можна внести зміни»",
-    "fr": "Manifestations en France : « Ce n'est que lorsque les secteurs public et privé agissent ensemble que l'on peut apporter des changements »",
-    "de": "Französische Proteste: „Nur wenn öffentlicher und privater Sektor zusammenarbeiten, kann man Veränderungen bewirken“",
-    "zh": "法国抗议：“只有公共部门和私营部门共同行动才能做出改变”",
-    "ru": "Протесты во Франции: «Только когда государственный и частный сектор будут действовать вместе, вы сможете добиться изменений»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Los Angeles City Council member Nithya Raman ousts embattled Mayor Karen Bass",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
-   "ts": 1793910840,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Член міської ради Лос-Анджелеса Нітія Раман усунув мера Карен Басс, яка переживала бойові дії",
-    "fr": "Nithya Raman, membre du conseil municipal de Los Angeles, renverse la maire en difficulté Karen Bass",
-    "de": "Nithya Raman, Mitglied des Stadtrats von Los Angeles, verdrängt die umkämpfte Bürgermeisterin Karen Bass",
-    "zh": "洛杉矶市议会成员 Nithya Raman 罢免陷入困境的市长 Karen Bass",
-    "ru": "Член городского совета Лос-Анджелеса Нитья Раман увольняет подвергшегося критике мэра Карен Басс"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "California governor to grant clemency to all 548 death row inmates in state",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpTdTN5c1lMaW81c2hwQkJjQ2E3U1hWWGVTUjlraUJoLVNxdGcybWNVY1FXMm03MXZkeWEwVWpabEcwdW9qRkxBeXhZRGlJRUp2NVl0T1pjWFBNRE9hX21ySTVraGxaTm54OS1TXzB6NXJLY2NkQ3JURnluWWpEM0g0VmRGMm1XczdBR1ZTVjZFRkxzejg3UjJ5eTNCZmxlbXVmczZ6bmZYd3Q0aE82LQ?oc=5",
-   "ts": 1793910823,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Губернатор Каліфорнії помилує всіх 548 засуджених до смертної кари штату",
-    "fr": "Le gouverneur de Californie accordera la grâce aux 548 condamnés à mort de l'État",
-    "de": "Der Gouverneur von Kalifornien gewährt allen 548 zum Tode verurteilten Häftlingen im Bundesstaat Gnade",
-    "zh": "加州州长赦免该州所有 548 名死囚",
-    "ru": "Губернатор Калифорнии помилует всех 548 приговоренных к смертной казни в штате"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
-   "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
-   "ts": 1793910611,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Британський хворий на лихоманку Ебола, евакуйований з ДР Конго, прибув до лондонської лікарні",
-    "fr": "Un patient britannique Ebola évacué de la RD Congo arrive à l'hôpital de Londres",
-    "de": "Aus der DR Kongo evakuierter britischer Ebola-Patient kommt im Londoner Krankenhaus an",
-    "zh": "从刚果民主共和国撤离的英国埃博拉患者抵达伦敦医院",
-    "ru": "Эвакуированный из ДР Конго британский пациент с Эболой прибыл в лондонскую больницу"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "CoE commissioner calls strikes on school in Komyshuvakha war crime",
@@ -1414,42 +1631,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
-   "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
-   "ts": 1793908788,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "«Нелюдське покарання»: губернатор Гевін Ньюсом пом’якшить усі 548 смертних вироків Каліфорнії",
-    "fr": "« Châtiment inhumain » : le gouverneur Gavin Newsom commue les 548 condamnations à mort en Californie",
-    "de": "„Unmenschliche Strafe“: Gouverneur Gavin Newsom wandelt alle 548 Todesurteile in Kalifornien um",
-    "zh": "“不人道的惩罚”：州长加文·纽瑟姆对加州所有 548 名死刑犯减刑",
-    "ru": "«Бесчеловечное наказание»: губернатор Гэвин Ньюсом смягчит все 548 смертных приговоров Калифорнии"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Who could be behind hoax bomb threats to European air travel?",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793908720,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Хто міг стояти за фальшивими погрозами щодо бомб європейським авіаперельотам?",
-    "fr": "Qui pourrait être à l’origine de fausses alertes à la bombe visant les transports aériens européens ?",
-    "de": "Wer könnte hinter gefälschten Bombendrohungen gegen den europäischen Flugverkehr stecken?",
-    "zh": "谁可能是针对欧洲航空旅行的恶作剧炸弹威胁的幕后黑手？",
-    "ru": "Кто может стоять за ложными угрозами взрыва бомбы для европейских авиаперелетов?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Russia attacked Ukraine's energy infrastructure 78 times over past three days – DTEK",
@@ -1464,60 +1645,6 @@
     "de": "Russland hat in den letzten drei Tagen 78 Mal die Energieinfrastruktur der Ukraine angegriffen – DTEK",
     "zh": "俄罗斯在过去三天内对乌克兰能源基础设施进行了 78 次攻击 – DTEK",
     "ru": "Россия за последние три дня 78 раз атаковала энергетическую инфраструктуру Украины – ДТЭК"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Google, Meta, TikTok sue to block California youth social media law",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZhN0lzM1RYWDl3eXBsdjZ2NU13NjJRMjB0clhpbW9rRTAwWnJIaFNGdEdhcW1tbHdfYmVQQXhSOEJUZXd6Z2Y2WVlZVDJpN3RuY1VnTE1rOHVUZkVLRGxBbGo1OWxPZkhmMGE4dkR1YWN6WHdFcnBtZDdoOFJTYU1DbnVCM0R0THhVa19xVVhIdWxpa2dRYWx5M25kNXhWTTNQbWNVV3EtQUU?oc=5",
-   "ts": 1793908544,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Google, Meta, TikTok подали в суд, щоб заблокувати каліфорнійський закон про соціальні медіа для молоді",
-    "fr": "Google, Meta et TikTok poursuivent en justice pour bloquer la loi californienne sur les médias sociaux pour les jeunes",
-    "zh": "谷歌、Meta、TikTok 起诉阻止加州青少年社交媒体法",
-    "ru": "Google, Meta и TikTok подали в суд на блокировку закона о социальных сетях для молодежи в Калифорнии",
-    "de": "Google, Meta und TikTok verklagen, um das kalifornische Jugend-Social-Media-Gesetz zu blockieren"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Court weighs Trump’s appeal in the Stormy Daniels hush money case",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDM3M3RSNC1lZTc4Ym9aRV9PQXNRNHBSblBsMTF4QTlVaUFfejdzcHNEVV9ZN3BQWllCRnVlQkx2X21aSDU3ZlA1Znc2cG9Vd3VoUU5XUVBlcTRWMnoxSXdMbmlONWFrMXlJek1vclhnTklGc0FTbEYxZ1VCdzFJMXhrWEFnZHEwSmtjRUEzU0VUTldZTEg4UmRlNTVpV0NBUWJuaHVybEc4alpFeHc?oc=5",
-   "ts": 1793908380,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Суд розглядає апеляцію Трампа у справі про приховування грошей Стормі Деніелс",
-    "fr": "Le tribunal examine l’appel de Trump dans l’affaire Stormy Daniels",
-    "de": "Gericht prüft Trumps Berufung im Schweigegeldfall Stormy Daniels",
-    "zh": "法院权衡特朗普对斯托米·丹尼尔斯封口费案的上诉",
-    "ru": "Суд рассматривает апелляцию Трампа по делу Сторми Дэниэлс о деньгах за молчание"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
-   "ts": 1793907480,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Губернатор Каліфорнії Ньюсом каже, що він замінить усі смертні вироки в штаті на довічне без умовно-дострокового звільнення",
-    "fr": "Le gouverneur de Californie Newsom déclare qu'il commuera toutes les peines de mort prononcées dans l'État en perpétuité sans possibilité de libération conditionnelle",
-    "de": "Der Gouverneur von Kalifornien, Newsom, sagt, er werde alle Todesurteile im Bundesstaat in lebenslange Haftstrafen ohne Bewährung umwandeln",
-    "zh": "加州州长纽瑟姆表示，他将把该州所有死刑减刑为终身监禁，不得假释",
-    "ru": "Губернатор Калифорнии Ньюсом заявил, что заменит все смертные приговоры в штате пожизненными без права досрочного освобождения"
    },
    "lang": "en"
   },
@@ -1537,24 +1664,6 @@
     "zh": "中期选举后值得买入的三只消费股",
     "fr": "Trois valeurs de consommation à acheter après les élections de mi-mandat",
     "ru": "Три потребительские акции, которые стоит купить после промежуточных выборов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "'Not my job to set a budget,' says secretary of state",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy9zp3e44po?at_medium=RSS&at_campaign=rss",
-   "ts": 1793907431,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "«Не моя робота встановлювати бюджет», — каже держсекретар",
-    "de": "„Es ist nicht meine Aufgabe, einen Haushalt festzulegen“, sagt der Außenminister",
-    "zh": "国务卿表示：“制定预算不是我的工作”",
-    "ru": "«Не моя работа составлять бюджет», — говорит госсекретарь",
-    "fr": "\"Ce n'est pas à moi d'établir un budget\", déclare le secrétaire d'État"
    },
    "lang": "en"
   },
@@ -1648,25 +1757,6 @@
     "de": "Melania Trump fordert „Menschlichkeit statt Krieg“ gegenüber Vertretern der Ukraine und Russlands",
     "zh": "梅拉尼娅·特朗普敦促乌克兰和俄罗斯官员“以人道对待战争”",
     "ru": "Мелания Трамп призывает «гуманизировать войну» с Украиной и российскими чиновниками"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-   "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
-   "ts": 1793905920,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Американці проголосували проти війни Трампа з Іраном. Країни Перської затоки сподіваються, що це означає припинення конфлікту",
-    "fr": "Les Américains ont voté contre la guerre en Iran de Trump. Les pays du Golfe espèrent que cela signifiera la fin du conflit",
-    "de": "Die Amerikaner haben gegen Trumps Iran-Krieg gestimmt. Die Golfstaaten hoffen, dass dies ein Ende des Konflikts bedeutet",
-    "zh": "美国人投票反对特朗普的伊朗战争。海湾国家希望这意味着冲突的结束",
-    "ru": "Американцы проголосовали против войны Трампа с Ираном. Страны Персидского залива надеются, что это означает конец конфликта"
    },
    "lang": "en"
   },
@@ -2144,24 +2234,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Ukrainian businesses allowed to share air defence systems and protect each other's facilities",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/05/8061462/",
-   "ts": 1793901060,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Українському бізнесу дозволили ділитися системами протиповітряної оборони та охороняти об'єкти один одного",
-    "fr": "Les entreprises ukrainiennes autorisées à partager leurs systèmes de défense aérienne et à se protéger mutuellement",
-    "de": "Ukrainischen Unternehmen wurde die gemeinsame Nutzung von Luftverteidigungssystemen und der gegenseitige Schutz ihrer Einrichtungen gestattet",
-    "zh": "乌克兰企业获准共享防空系统并保护彼此的设施",
-    "ru": "Украинскому бизнесу разрешили совместно использовать системы ПВО и защищать объекты друг друга"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
@@ -2531,25 +2603,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1J2UXI1T2psd21CTE9jNjdvWmZpaktQTVh0Vzg1VGNzZndWZVNab0JhcFNkMEZSRlF1R0d1Vm9EVmZVMDhfUThrOG84Q2VQaTZocklZaEV4end3cjBUYWFTTWxWZFc4WjBLV1MtOFQ3c0d1bHRvODdrQTFTT01MLVFvTlA1eXI3T3JnMzlXNmpXcGNsWE1KQ3hQRDZCRG8xZjBZMTJSRHZqMmNuVkFWZTVXLXRqdkoxaUlvQUVmcVoxTW9FdFE?oc=5",
-   "ts": 1793878432,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Саудівська Аравія попереджає про потенційну небезпеку в нафтовому центрі Янбу, оскільки атаки хуситів тривають",
-    "fr": "L'Arabie Saoudite met en garde contre un danger potentiel dans le centre pétrolier de Yanbu alors que les attaques des Houthis se poursuivent",
-    "de": "Saudi-Arabien warnt vor potenzieller Gefahr im Ölzentrum Yanbu, da die Huthi-Angriffe andauern",
-    "zh": "沙特阿拉伯警告胡塞武装袭击延布石油中心存在潜在危险",
-    "ru": "Саудовская Аравия предупреждает о потенциальной опасности в нефтяном узле Янбу из-за продолжающихся атак хуситов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
@@ -2582,24 +2635,6 @@
     "de": "Kein noch so großer Rückgang in den Umfragen kann Kemi Badenochs Selbstvertrauen erschüttern – oder die Richtung ihrer Partei ändern | Andy Beckett",
     "zh": "民意调查再多的下滑也无法动摇凯米·巴德诺克的自信 — — 或改变她所在政党的方向 |安迪·贝克特",
     "ru": "Никакое снижение результатов опросов не сможет поколебать самоуверенность Кеми Баденох – или изменить направление ее партии | Энди Беккет"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
-   "ts": 1793872800,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Південь змінює політичну владу в проміжних термінах, визначає регіональний вплив на виборах 2028 року",
-    "fr": "Le Sud exerce son pouvoir politique à mi-mandat et définit son influence régionale lors des élections de 2028",
-    "de": "Der Süden entfaltet seine politische Macht in den Zwischenwahlen und bestimmt regionalen Einfluss bei den Wahlen 2028",
-    "zh": "南方在中期选举中展示政治权力，在 2028 年选举中确定地区影响力",
-    "ru": "Юг расширяет политическую власть на промежуточных выборах и устанавливает региональное влияние на выборах 2028 года"
    },
    "lang": "en"
   },
@@ -2678,25 +2713,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "How major US stock indexes fared Wednesday 11/4/2026",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlRNUk16b3ZTVDItbnppUW1RNGFvOHRlOXFZd1g0NFZPcG45RjlKazBqcHFhZ2JPaUc0ZzNkajR4N2w4Z1pyS2xBZE1velNTcE5lOWJodFNwMmFNenowOUpJblBOWkhiUlQxSzVXMDhJMXIzQnhnbko1aWZFU3NlaXZHODRIczN1SjZEbnN4cUQxa1U?oc=5",
-   "ts": 1793827440,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Як пройшли основні фондові індекси США в середу, 4.11.2026",
-    "fr": "Comment les principaux indices boursiers américains se sont comportés mercredi 04/11/2026",
-    "de": "Wie sich die wichtigsten US-Aktienindizes am Mittwoch, den 4.11.2026 entwickelten",
-    "zh": "美国主要股指周三表现如何 11/4/2026",
-    "ru": "Как показали себя основные фондовые индексы США в среду, 04.11.2026"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
@@ -2749,24 +2765,6 @@
     "ru": "Соглашение о власти между лейбористами и зелеными в Шеффилде"
    },
    "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Watch: PM and Ed Miliband play steel drums in Antigua",
-   "url": "https://www.bbc.co.uk/news/videos/cm4g1vl0keljo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793810821,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Дивіться: PM і Ед Мілібенд грають на сталевих барабанах в Антигуа",
-    "fr": "Regarder : PM et Ed Miliband jouent du steel drums à Antigua",
-    "de": "Anschauen: PM und Ed Miliband spielen Steel Drums in Antigua",
-    "zh": "观看：总理和埃德·米利班德在安提瓜岛演奏钢鼓",
-    "ru": "Смотреть: Премьер-министр и Эд Милибэнд играют на стальных барабанах на Антигуа"
-   },
-   "lang": "en"
   }
  ],
  "status": [
@@ -2813,7 +2811,7 @@
   {
    "source": "npr_business",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "reuters_markets",
@@ -2838,7 +2836,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 20
+   "items": 21
   },
   {
    "source": "aljazeera",
@@ -2868,7 +2866,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 27
+   "items": 28
   },
   {
    "source": "guardian_politics",
@@ -2934,7 +2932,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 195,
+   "translated": 160,
    "method": {
     "dict": 10
    }
