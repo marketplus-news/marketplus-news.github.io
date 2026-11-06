@@ -1,5 +1,5 @@
 {
- "updated": 1793946900,
+ "updated": 1793951494,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,11 +216,484 @@
  ],
  "items": [
   {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
+   "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+   "ts": 1793951328,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ф'ючерси на акції змішані після корекції Nasdaq; Японський Nikkei 225 виходить на ведмежий ринок: оновлення в реальному часі",
+    "fr": "Les contrats à terme sur actions sont mitigés après la correction du Nasdaq ; Le Nikkei 225 japonais entre sur un marché baissier : mises à jour en direct",
+    "de": "Aktien-Futures nach Nasdaq-Korrektur gemischt; Japans Nikkei 225 tritt in den Bärenmarkt ein: Live-Updates",
+    "zh": "纳斯达克调整后股指期货涨跌互现；日本日经 225 指数进入熊市：实时更新",
+    "ru": "Фьючерсы на акции разнонаправлены после коррекции Nasdaq; Японский Nikkei 225 выходит на медвежий рынок: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Firms told to publish salaries in job adverts ahead of new law",
+   "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793950601,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Компаніям наказано публікувати зарплати в оголошеннях про роботу напередодні нового закону",
+    "fr": "Les entreprises doivent publier les salaires dans les offres d'emploi avant la nouvelle loi",
+    "de": "Unternehmen werden aufgefordert, vor dem neuen Gesetz Gehälter in Stellenanzeigen zu veröffentlichen",
+    "zh": "公司被告知在新法律出台之前在招聘广告中公布薪资",
+    "ru": "Фирмам приказали публиковать зарплаты в объявлениях о вакансиях в преддверии принятия нового закона"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "ADF neutralizes 196 Russian drones used to attack Ukraine overnight",
+   "url": "https://www.ukrinform.net/rubric-ato/4181994-adf-neutralizes-196-russian-drones-used-to-attack-ukraine-overnight.html",
+   "ts": 1793950440,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "За ніч ADF знешкодила 196 російських безпілотників, які використовувалися для нападу на Україну",
+    "fr": "Les ADF neutralisent dans la nuit 196 drones russes utilisés pour attaquer l’Ukraine",
+    "de": "ADF neutralisiert über Nacht 196 russische Drohnen, mit denen die Ukraine angegriffen wurde",
+    "zh": "民主同盟军连夜消灭了 196 架用于攻击乌克兰的俄罗斯无人机",
+    "ru": "АДС за ночь обезвредила 196 российских дронов, использовавшихся для нападения на Украину"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "UK house prices fall 0.6% in October, sharpest monthly drop in a year",
+   "url": "https://www.investing.com/news/stock-market-news/uk-house-prices-fall-06-in-october-sharpest-monthly-drop-in-a-year-5006655",
+   "ts": 1793950429,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ціни на нерухомість у Великобританії впали на 0,6% у жовтні, що стало найрізкішим місячним падінням за рік",
+    "fr": "Les prix de l'immobilier au Royaume-Uni chutent de 0,6 % en octobre, la plus forte baisse mensuelle en un an",
+    "de": "Die Immobilienpreise in Großbritannien fallen im Oktober um 0,6 %, der stärkste monatliche Rückgang seit einem Jahr",
+    "zh": "英国10月房价下跌0.6%，创一年来最大单月跌幅",
+    "ru": "Цены на жилье в Великобритании упали на 0,6% в октябре, самое резкое месячное падение за год"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "ts": 1793950421,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Супутникові знімки свідчать про масштабне будівництво поблизу іранських ракетних баз",
+    "fr": "Des travaux majeurs en cours près des bases de missiles iraniennes, suggèrent des images satellite",
+    "de": "Satellitenbilder deuten darauf hin, dass in der Nähe iranischer Raketenbasen große Bauarbeiten im Gange sind",
+    "zh": "卫星图像显示，伊朗导弹基地附近正在进行重大建设",
+    "ru": "Рядом с иранскими ракетными базами идет масштабное строительство, свидетельствуют спутниковые снимки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+   "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+   "ts": 1793950363,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Глобальні акції падають, оскільки ринки охоплює паніка штучного інтелекту після проміжного успіху демократів – бізнес живе",
+    "fr": "Les actions mondiales chutent alors que la panique de l’IA s’empare des marchés après le succès des démocrates à mi-mandat – Business Live",
+    "de": "Globale Aktien fallen, da KI-Panik die Märkte nach dem mittelfristigen Erfolg der Demokraten erfasst – Geschäftsleben",
+    "zh": "民主党中期选举成功后，人工智能恐慌席卷市场，全球股市暴跌 – Business Live",
+    "ru": "Мировые акции падают, поскольку паника в области искусственного интеллекта охватывает рынки после среднесрочного успеха демократов – бизнес в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "The 'World's Best Airline' is updating its business and first-class experience",
+   "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+   "ts": 1793950346,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "«Найкраща авіакомпанія світу» оновлює свій бізнес і першокласний досвід",
+    "fr": "La « meilleure compagnie aérienne au monde » met à jour son activité et son expérience de première classe",
+    "de": "Die „beste Fluggesellschaft der Welt“ aktualisiert ihr Business- und First-Class-Erlebnis",
+    "zh": "“世界最佳航空公司”正在更新其业务和头等舱体验",
+    "ru": "«Лучшая авиакомпания в мире» обновляет свой бизнес и первоклассный опыт"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+   "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+   "ts": 1793950328,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Суд США призупинив будівництво тріумфальної арки Трампа у Вашингтоні",
+    "fr": "Un juge américain arrête la construction de l’arc de triomphe de Trump à Washington, DC",
+    "de": "US-Richter stoppt Bau von Trumps Triumphbogen in Washington, D.C",
+    "zh": "美国法官叫停在华盛顿特区修建特朗普凯旋门",
+    "ru": "Суд США остановил строительство триумфальной арки Трампа в Вашингтоне"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "XRP Falls 10% In Selloff",
+   "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5006654",
+   "ts": 1793950324,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "XRP падає на 10% через продаж",
+    "fr": "XRP chute de 10 % en liquidation",
+    "de": "XRP fällt im Ausverkauf um 10 %",
+    "zh": "XRP 在抛售中下跌 10%",
+    "ru": "Распродажа XRP упала на 10%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Cristiano Ronaldo brings his international football career to an end",
+   "url": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
+   "ts": 1793950323,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Кріштіану Роналду завершує свою міжнародну футбольну кар'єру",
+    "fr": "Cristiano Ronaldo met un terme à sa carrière de footballeur international",
+    "de": "Cristiano Ronaldo beendet seine internationale Fußballkarriere",
+    "zh": "克里斯蒂亚诺·罗纳尔多结束了他的国际足球生涯",
+    "ru": "Криштиану Роналду завершает свою международную футбольную карьеру"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Civista Bancshares director Macioce buys $6,056 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/civista-bancshares-director-macioce-buys-6056-in-stock-93CH-5006653",
+   "ts": 1793950275,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Civista Bancshares Macioce придбав акції на 6056 доларів",
+    "en": "Civista Bancshares Director Macioce bought $6,056 worth of stock",
+    "fr": "Le directeur de Civista Bancshares, Macioce, a acheté pour 6 056 $ d'actions",
+    "de": "Civista Bancshares-Direktor Macioce kaufte Aktien im Wert von 6.056 $",
+    "zh": "Civista Bancshares 董事 Macioce 购买了价值 6,056 美元的股票",
+    "ru": "Директор Civista Bancshares Масиоче купил акции на сумму $6056"
+   },
+   "lang": "ilo"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Intuitive Surgical director Gary Guthart sells $4.57M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-director-gary-guthart-sells-457m-in-stock-93CH-5006652",
+   "ts": 1793950266,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Інтуїтивно зрозумілий хірургічний директор Гарі Ґартарт продає акції на 4,57 млн ​​доларів",
+    "fr": "Le directeur d'Intuitive Surgical, Gary Guthart, vend 4,57 millions de dollars d'actions",
+    "de": "Gary Guthart, Direktor von Intuitive Surgical, verkauft Aktien im Wert von 4,57 Millionen US-Dollar",
+    "zh": "Intuitive Surgical 总监 Gary Guthart 出售价值 457 万美元的股票",
+    "ru": "Директор Intuitive Surgical Гэри Гутхарт продает акции на сумму 4,57 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "TTM Technologies director Wajid Ali buys $631,541 in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/ttm-technologies-director-wajid-ali-buys-631541-in-common-stock-93CH-5006651",
+   "ts": 1793950263,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор TTM Technologies Ваджід Алі купує звичайні акції на суму 631 541 долар",
+    "fr": "Wajid Ali, directeur de TTM Technologies, achète pour 631 541 $ d'actions ordinaires",
+    "de": "Wajid Ali, Direktor von TTM Technologies, kauft Stammaktien im Wert von 631.541 US-Dollar",
+    "zh": "TTM Technologies 董事 Wajid Ali 购买 631,541 美元的普通股",
+    "ru": "Директор TTM Technologies Ваджид Али покупает обыкновенные акции на сумму 631 541 доллар."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "European shares set to fall as global AI rout gathers pace",
+   "url": "https://www.investing.com/news/stock-market-news/european-shares-set-to-fall-as-global-ai-rout-gathers-pace-5006641",
+   "ts": 1793950221,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Європейські акції впадуть у міру того, як набирає обертів глобальний розгром штучного інтелекту",
+    "fr": "Les actions européennes devraient chuter alors que la déroute mondiale de l’IA s’accélère",
+    "de": "Europäische Aktien dürften fallen, da der weltweite KI-Einbruch an Fahrt gewinnt",
+    "zh": "随着全球人工智能溃败步伐加快，欧洲股市将下跌",
+    "ru": "Европейские акции могут упасть, поскольку глобальное разгром ИИ набирает обороты"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+   "ts": 1793950204,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Ліванці пакують валізи та запасаються через побоювання нової ескалації ізраїльської сторони",
+    "fr": "Les Libanais font leurs valises et s’approvisionnent face aux craintes d’une nouvelle escalade israélienne",
+    "de": "Libanesen packen ihre Koffer und füllen ihre Vorräte aus Angst vor einer neuen israelischen Eskalation",
+    "zh": "由于担心以色列的新一轮升级，黎巴嫩人收拾行李并囤货",
+    "ru": "Ливанцы пакуют сумки и запасаются на фоне опасений новой эскалации со стороны Израиля"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+   "ts": 1793950133,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Як Ізраїль зміцнює контроль над палестинськими школами в Східному Єрусалимі",
+    "fr": "Comment Israël renforce son emprise sur les écoles palestiniennes à Jérusalem-Est",
+    "de": "Wie Israel seinen Einfluss auf palästinensische Schulen in Ostjerusalem verschärft",
+    "zh": "以色列如何加强对东耶路撒冷巴勒斯坦学校的控制",
+    "ru": "Как Израиль ужесточает контроль над палестинскими школами в Восточном Иерусалиме"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "IAG sees 2026 capacity slightly down, keeps margin target despite fuel headwinds",
+   "url": "https://www.investing.com/news/earnings/iag-sees-2026-capacity-slightly-down-keeps-margin-target-despite-fuel-headwinds-5006648",
+   "ts": 1793950075,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "IAG прогнозує дещо зниження потужностей у 2026 році, дотримуючись цільової рентабельності, незважаючи на нестачу палива",
+    "fr": "IAG voit sa capacité en légère baisse pour 2026 et maintient son objectif de marge malgré les vents contraires liés au carburant",
+    "de": "IAG geht davon aus, dass die Kapazität im Jahr 2026 leicht zurückgeht, und hält das Margenziel trotz Treibstoffproblemen aufrecht",
+    "zh": "IAG 预计 2026 年产能略有下降，尽管面临燃料逆风，仍维持利润率目标",
+    "ru": "IAG прогнозирует незначительное снижение мощности в 2026 году и сохраняет целевую рентабельность, несмотря на препятствия в топливе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793950046,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Глобальні акції технологічних компаній різко падають, оскільки середньострокові звіти США посилюють побоювання щодо уповільнення темпів розвитку штучного інтелекту",
+    "fr": "Les valeurs technologiques mondiales chutent alors que les élections de mi-mandat aux États-Unis renforcent les craintes de ralentissement de l’IA",
+    "de": "Globale Technologieaktien stürzen ab, da die Zwischenwahlen in den USA die Befürchtungen einer KI-Verlangsamung verstärken",
+    "zh": "美国中期选举加剧了对人工智能放缓的担忧，全球科技股暴跌",
+    "ru": "Мировые акции технологических компаний падают, поскольку промежуточные выборы в США усиливают опасения о замедлении темпов развития искусственного интеллекта"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "UBS downgrades Essential Utilities stock rating on valuation",
+   "url": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-essential-utilities-stock-rating-on-valuation-93CH-5006643",
+   "ts": 1793950013,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "UBS знижує рейтинг акцій Essential Utilities через оцінку",
+    "fr": "UBS abaisse la note de l'action Essential Utilities en raison de sa valorisation",
+    "de": "UBS stuft das Aktienrating von Essential Utilities aufgrund der Bewertung herab",
+    "zh": "瑞银下调基本公用事业公司股票估值评级",
+    "ru": "UBS понизил рейтинг акций Essential Utilities из-за оценки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+   "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
+   "ts": 1793949866,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Індонезія назвала четвертого підозрюваного у прослуховуванні на тлі поглиблення політичних інтриг",
+    "fr": "L'Indonésie nomme un quatrième suspect d'écoute téléphonique alors que l'intrigue politique s'intensifie",
+    "de": "Indonesien ernennt vierten Abhörverdächtigen, während sich die politischen Intrigen verschärfen",
+    "zh": "随着政治阴谋的加深，印度尼西亚任命了第四名窃听嫌疑人",
+    "ru": "В Индонезии назван четвертый подозреваемый в прослушивании телефонных разговоров, поскольку политические интриги углубляются"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Global tech stocks plunge over fears of AI curbs in US",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+   "ts": 1793949860,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Глобальні акції технологічних компаній впали через побоювання обмеження штучного інтелекту в США",
+    "fr": "Les valeurs technologiques mondiales chutent face aux craintes de restrictions de l’IA aux États-Unis",
+    "de": "Globale Technologieaktien stürzen aufgrund der Angst vor KI-Einschränkungen in den USA ab",
+    "zh": "由于担心美国限制人工智能，全球科技股暴跌",
+    "ru": "Мировые акции технологических компаний упали из-за опасений по поводу ограничения ИИ в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "War update: 188 combat engagements on front line over past day",
+   "url": "https://www.ukrinform.net/rubric-ato/4181991-war-update-188-combat-engagements-on-front-line-over-past-day.html",
+   "ts": 1793949360,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Актуальна інформація про війну: за минулу добу 188 бойових зіткнень на передовій",
+    "fr": "Mise à jour sur la guerre : 188 engagements de combat en première ligne au cours de la dernière journée",
+    "de": "Kriegsaktualisierung: 188 Kampfeinsätze an der Front am vergangenen Tag",
+    "zh": "战争更新：过去一天前线发生 188 场战斗",
+    "ru": "Обновление войны: 188 боевых столкновений на линии фронта за прошедшие сутки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "South Africa's ANC party on track to face 'nightmare' losses in municipal elections",
+   "url": "https://www.france24.com/en/africa/20261106-south-africa-anc-party-on-track-to-face-nightmare-losses-in-municipal-elections",
+   "ts": 1793949307,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Партія АНК Південної Африки на шляху до «кошмарних» поразок на муніципальних виборах",
+    "fr": "L'ANC en Afrique du Sud est sur le point de faire face à des pertes « cauchemardesques » aux élections municipales",
+    "de": "Südafrikas ANC-Partei ist auf dem besten Weg, „alptraumhafte“ Verluste bei den Kommunalwahlen zu erleiden",
+    "zh": "南非非国大党有望在市政选举中面临“噩梦”般的失败",
+    "ru": "Южноафриканская партия АНК рискует столкнуться с «кошмарными» поражениями на муниципальных выборах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+   "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+   "ts": 1793948982,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент Ізраїлю Герцог оголосить кандидата для формування уряду в неділю",
+    "fr": "Le président israélien Herzog nommera dimanche un candidat pour former le gouvernement",
+    "de": "Israels Präsident Herzog ernennt am Sonntag einen Kandidaten für die Regierungsbildung",
+    "zh": "以色列总统赫尔佐格将于周日提名组建政府的候选人",
+    "ru": "Президент Израиля Герцог назовет кандидата на формирование правительства в воскресенье"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261106-leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+   "ts": 1793948927,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "«Лідери в усьому світі розуміють, що Трамп буде там лише на два роки, а потім його не буде»",
+    "fr": "\"Les dirigeants du monde entier comprennent que Trump n'est là que pour deux ans, puis il s'en va\"",
+    "de": "„Führer auf der ganzen Welt verstehen, dass Trump nur noch zwei Jahre dort ist und dann weg ist“",
+    "zh": "“世界各地的领导人都明白，特朗普只能再呆两年，然后他就走了”",
+    "ru": "«Лидеры всего мира понимают, что Трамп пробудет там всего два года, а потом его не станет»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "General Staff: Russia has lost 1,601,830 troops in Ukraine since Feb. 24, 2022",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-601-830-troops-in-ukraine-since-feb-24-2022/",
+   "ts": 1793948836,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Генштаб: Росія втратила в Україні 1 601 830 військових з 24 лютого 2022 року",
+    "fr": "État-major : la Russie a perdu 1 601 830 soldats en Ukraine depuis le 24 février 2022",
+    "de": "Generalstab: Russland hat seit dem 24. Februar 2022 1.601.830 Soldaten in der Ukraine verloren",
+    "zh": "总参谋部：自2022年2月24日以来，俄罗斯在乌克兰已损失1,601,830名士兵",
+    "ru": "Генштаб: Россия потеряла на Украине 1 601 830 военнослужащих с 24 февраля 2022 года"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ap",
    "source": "AP News",
    "title": "2026 U.S. House Election Results",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-   "ts": 1793946515,
+   "ts": 1793948570,
    "sec": [
     "world",
     "politics"
@@ -231,6 +704,258 @@
     "de": "Ergebnisse der US-Repräsentantenhauswahl 2026",
     "zh": "2026 年美国众议院选举结果",
     "ru": "Результаты выборов в Палату представителей США 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Man killed in morning Russian attack on Rivne Oblast",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061518/",
+   "ts": 1793948520,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Під час ранкової атаки росіян на Рівненщині загинув чоловік",
+    "fr": "Un homme tué lors d'une attaque russe matinale contre l'oblast de Rivne",
+    "de": "Mann bei morgendlichem russischen Angriff auf Oblast Riwne getötet",
+    "zh": "俄罗斯早上对罗夫诺州的袭击造成一名男子死亡",
+    "ru": "Мужчина погиб при утреннем нападении РФ на Ровенскую область"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
+   "ts": 1793948447,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "M&S бореться з Джоном Льюїсом у різдвяній рекламній битві з топлес «розрізаним Сантою»",
+    "fr": "M&S affronte John Lewis dans une bataille publicitaire de Noël avec le « Père Noël déchiqueté » seins nus",
+    "de": "M&S tritt gegen John Lewis im Weihnachtswerbekampf mit dem oben ohne „geschredderten Weihnachtsmann“ an",
+    "zh": "玛莎百货 (M&S) 与约翰·刘易斯 (John Lewis) 展开圣诞广告大战，赤裸上身的“撕碎的圣诞老人”",
+    "ru": "M&S сражается с Джоном Льюисом в рождественской рекламной битве с обнаженным до пояса «измельченным Сантой»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "‘Every day, someone loses a hand or a leg’: the brutal reality of India’s textile recycling industry",
+   "url": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
+   "ts": 1793948447,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "«Щодня хтось втрачає руку чи ногу»: жорстока реальність текстильної промисловості Індії",
+    "fr": "« Chaque jour, quelqu’un perd une main ou une jambe » : la brutale réalité de l’industrie indienne du recyclage des textiles",
+    "de": "„Jeden Tag verliert jemand eine Hand oder ein Bein“: die brutale Realität der indischen Textilrecyclingindustrie",
+    "zh": "“每天都有人失去一只手或一条腿”：印度纺织品回收行业的残酷现实",
+    "ru": "«Каждый день кто-то теряет руку или ногу»: жестокая реальность индийской индустрии переработки текстиля"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Cop31 will expose the conflicts and contradictions of the world’s fossil fuel reliance",
+   "url": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
+   "ts": 1793948446,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Cop31 розкриє конфлікти та протиріччя залежності світу від викопного палива",
+    "fr": "La Cop31 exposera les conflits et les contradictions liés à la dépendance mondiale aux combustibles fossiles",
+    "de": "Cop31 wird die Konflikte und Widersprüche der weltweiten Abhängigkeit von fossilen Brennstoffen aufdecken",
+    "zh": "第31届缔约方会议将揭露世界化石燃料依赖的冲突和矛盾",
+    "ru": "Cop31 раскроет конфликты и противоречия мировой зависимости от ископаемого топлива"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Upside-down homes for sale in England – in pictures",
+   "url": "https://www.theguardian.com/money/gallery/2026/nov/06/upside-down-homes-for-sale-in-england-in-pictures",
+   "ts": 1793948446,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Перевернуті будинки на продаж в Англії – у фото",
+    "fr": "Maisons à l’envers à vendre en Angleterre – en images",
+    "de": "Umgedrehte Häuser zum Verkauf in England – in Bildern",
+    "zh": "英格兰出售的颠倒房屋——图片",
+    "ru": "В Англии выставлены на продажу перевернутые дома – в фотографиях"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russia attacks Kyiv Oblast: three injured, energy infrastructure damaged in two districts",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061514/",
+   "ts": 1793947980,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія атакувала Київську область: троє поранених, у двох районах пошкоджена енергетична інфраструктура",
+    "fr": "La Russie attaque l'oblast de Kyiv : trois blessés et des infrastructures énergétiques endommagées dans deux districts",
+    "de": "Russland greift Oblast Kiew an: Drei Verletzte, Energieinfrastruktur in zwei Bezirken beschädigt",
+    "zh": "俄罗斯袭击基辅州：三人受伤，两个地区能源基础设施受损",
+    "ru": "Россия атаковала Киевскую область: трое ранены, энергоинфраструктура повреждена в двух районах"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+   "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
+   "ts": 1793947950,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Австралія призначила Майка Хассі консультантом чемпіонату світу з попелу та крикету",
+    "fr": "L'Australie nomme Mike Hussey comme consultant pour les Ashes et la Coupe du monde de cricket",
+    "de": "Australien ernennt Mike Hussey zum Berater für Ashes und Cricket World Cup",
+    "zh": "澳大利亚任命迈克·赫西为灰烬杯和板球世界杯顾问",
+    "ru": "Австралия назначила Майка Хасси консультантом чемпионата мира по Ashes and Cricket World Cup"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russia drones attack five districts of Dnipropetrovsk region overnight",
+   "url": "https://www.ukrinform.net/rubric-ato/4181982-russia-drones-attack-five-districts-of-dnipropetrovsk-region-overnight.html",
+   "ts": 1793947920,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "За ніч російські безпілотники атакували п'ять районів Дніпропетровської області",
+    "fr": "Des drones russes attaquent cinq districts de la région de Dnipropetrovsk dans la nuit",
+    "de": "Russische Drohnen greifen über Nacht fünf Bezirke der Region Dnipropetrowsk an",
+    "zh": "俄罗斯无人机连夜袭击第聂伯罗彼得罗夫斯克州五个地区",
+    "ru": "Российские дроны за ночь атаковали пять районов Днепропетровской области"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Macau jails pro-democracy campaigner in city's first national security case",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793947581,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "У Макао ув'язнили активіста продемократії у першій у місті справі національної безпеки",
+    "fr": "Macao emprisonne un militant pro-démocratie dans le cadre de la première affaire de sécurité nationale dans la ville",
+    "de": "Macau sperrt Pro-Demokratie-Aktivist im ersten Fall der nationalen Sicherheit der Stadt ein",
+    "zh": "澳门在该市首例国家安全案件中监禁亲民主人士",
+    "ru": "В Макао заключен в тюрьму демократический активист по первому в городе делу о национальной безопасности"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+   "url": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
+   "ts": 1793947422,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Хто такий Козо Тасіма, японський чиновник, який балотується на пост президента ФІФА?",
+    "fr": "Qui est Kozo Tashima, le responsable japonais candidat à la présidence de la FIFA ?",
+    "de": "Wer ist Kozo Tashima, der japanische Offizielle, der für die FIFA-Präsidentschaft kandidiert?",
+    "zh": "竞选国际足联主席的日本官员田岛幸三是谁？",
+    "ru": "Кто такой Кодзо Тасима, японский чиновник, баллотирующийся на пост президента ФИФА?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+   "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+   "ts": 1793947384,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "П’ятничний брифінг: ​Після тижня перебоїв, чи жити з погрозами стало нашою новою нормою?",
+    "fr": "Briefing du vendredi : ​Après une semaine de perturbations, vivre avec des menaces est-il notre nouvelle normalité ?",
+    "de": "Briefing am Freitag: Ist das Leben mit Bedrohungen nach einer Woche voller Störungen unsere neue Normalität?",
+    "zh": "周五简报：​经过一周的混乱，与威胁共存是我们的新常态吗？",
+    "ru": "Пятничный брифинг: ​После недели потрясений, жизнь с угрозами стала нашей новой нормой?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian forces attack energy infrastructure facility in Mykolaiv region",
+   "url": "https://www.ukrinform.net/rubric-ato/4181979-russian-forces-attack-energy-infrastructure-facility-in-mykolaiv-region.html",
+   "ts": 1793947080,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російські війська атакували об'єкт енергетичної інфраструктури в Миколаївській області",
+    "fr": "Les forces russes attaquent une infrastructure énergétique dans la région de Mykolaïv",
+    "de": "Russische Streitkräfte greifen Energieinfrastrukturanlage in der Region Mykolajiw an",
+    "zh": "俄罗斯军队袭击尼古拉耶夫地区的能源基础设施",
+    "ru": "Российские военные атаковали объект энергетической инфраструктуры в Николаевской области"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russians attack Kamianske: sports complex catches fire – photo",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061511/",
+   "ts": 1793946660,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росіяни атакували Кам'янське: горить спорткомплекс – фото",
+    "fr": "Les Russes attaquent Kamianske : un complexe sportif prend feu – photo",
+    "de": "Russen greifen Kamjanske an: Sportanlage brennt – Foto",
+    "zh": "俄罗斯人袭击卡缅斯科：体育中心着火 – 照片",
+    "ru": "Россияне напали на Каменское: загорелся спорткомплекс – фото"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "ts": 1793946363,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Стрілянина на пляжі Бонді: 90-річна Єва Геллер, застрелена під час бійні, померла в лікарні рік після антисемітського нападу",
+    "fr": "Fusillade sur la plage de Bondi : Eva Geller, 90 ans, abattue lors du massacre, décède à l'hôpital un an après une attaque antisémite",
+    "de": "Schießerei am Strand von Bondi: Eva Geller, 90, bei Massaker erschossen, stirbt ein Jahr nach antisemitischem Angriff im Krankenhaus",
+    "zh": "邦迪海滩枪击事件：90 岁的伊娃·盖勒 (Eva Geller) 在大屠杀中中枪，在反犹太主义袭击一年后在医院去世",
+    "ru": "Стрельба на пляже Бонди: 90-летняя Ева Геллер, застреленная во время резни, скончалась в больнице через год после антисемитского нападения"
    },
    "lang": "en"
   },
@@ -253,20 +978,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
-   "url": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
-   "ts": 1793945806,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Khimprom drug cartel planned to bribe former minister Klymenko through his associates – Ukraine's Anti-Corruption Bureau",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061509/",
+   "ts": 1793945940,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Прибутковість JGB впала до липневих мінімумів, оскільки технологічна реклама Уолл-Сент викликала бурхливий потік",
-    "fr": "Les rendements du JGB plongent aux plus bas de juillet alors que la technologie de Wall St déclenche une ruée vers le refuge",
-    "de": "Die Renditen japanischer Staatsanleihen fallen auf Juli-Tiefststände, da die Tech-Werbung an der Wall Street einen Ansturm auf sichere Häfen auslöst",
-    "zh": "华尔街科技股吹捧引发避险热潮，日本国债收益率跌至七月低点",
-    "ru": "Доходность JGB упала до июльского минимума, поскольку реклама технологий на Уолл-стрит вызвала ажиотаж в убежищах"
+    "uk": "Наркокартель «Хімпром» планував підкупити колишнього міністра Клименка через своїх соратників – АББУ",
+    "fr": "Le cartel de la drogue de Khimprom prévoit de soudoyer l'ancien ministre Klymenko par l'intermédiaire de ses associés – Bureau ukrainien de lutte contre la corruption",
+    "de": "Das Drogenkartell Khimprom plante, den ehemaligen Minister Klymenko über seine Mitarbeiter – das Antikorruptionsbüro der Ukraine – zu bestechen",
+    "zh": "Khimprom贩毒集团计划通过其同伙贿赂前部长克雷缅科——乌克兰反腐败局",
+    "ru": "Наркокартель \"Химпром\" планировал дать взятку экс-министру Клименко через его соратников - Антикоррупционное бюро Украины"
    },
    "lang": "en"
   },
@@ -289,165 +1014,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Chemed Corp president and CEO Kevin McNamara sells $1.08 million in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/chemed-corp-president-and-ceo-kevin-mcnamara-sells-108-million-in-stock-93CH-5006589",
-   "ts": 1793945767,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russia attacks Ukraine with 227 drones",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061507/",
+   "ts": 1793945640,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Президент і генеральний директор Chemed Corp Кевін Макнамара продає акції на 1,08 мільйона доларів",
-    "fr": "Le président-directeur général de Chemed Corp, Kevin McNamara, vend 1,08 million de dollars d'actions",
-    "de": "Kevin McNamara, Präsident und CEO von Chemed Corp, verkauft Aktien im Wert von 1,08 Millionen US-Dollar",
-    "zh": "Chemed Corp 总裁兼首席执行官 Kevin McNamara 出售价值 108 万美元的股票",
-    "ru": "Президент и генеральный директор Chemed Corp Кевин Макнамара продает акции на сумму 1,08 миллиона долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Stifel cuts Avalo Therapeutics stock price target on trial data",
-   "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-avalo-therapeutics-stock-price-target-on-trial-data-93CH-5006583",
-   "ts": 1793945532,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Stifel знижує цільову ціну акцій Avalo Therapeutics на основі даних випробувань",
-    "fr": "Stifel abaisse son objectif de cours de l'action Avalo Therapeutics en fonction des données des essais",
-    "de": "Stifel senkt Kursziel für Avalo Therapeutics-Aktie aufgrund von Studiendaten",
-    "zh": "Stifel 根据试验数据下调 Avalo Therapeutics 股价目标",
-    "ru": "Stifel снизил целевую цену акций Avalo Therapeutics на основании данных испытаний"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Sabesp ADR earnings missed by $0.03, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/sabesp-adr-earnings-missed-by-003-revenue-fell-short-of-estimates-5006578",
-   "ts": 1793945505,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прибуток Sabesp ADR нижчий на 0,03 дол. США, дохід не відповідає оцінкам",
-    "fr": "Les bénéfices de Sabesp ADR ont manqué de 0,03 $, les revenus sont inférieurs aux estimations",
-    "de": "Der Gewinn von Sabesp ADR verfehlte den Umsatz um 0,03 US-Dollar, der Umsatz blieb hinter den Schätzungen zurück",
-    "zh": "Sabesp ADR 收益低于预期 0.03 美元，收入低于预期",
-    "ru": "Прибыль Sabesp ADR снизилась на $0,03, выручка не оправдала оценок"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat",
-   "url": "https://www.investing.com/news/stock-market-news/japans-nikkei-nears-bear-market-as-ai-rout-batters-tech-valuations-5006297",
-   "ts": 1793945476,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Японський Nikkei виходить на ведмежий ринок, оскільки розгром штучного інтелекту призводить до різкого падіння акцій чіпів",
-    "fr": "Le Nikkei japonais entre sur un marché baissier alors que la déroute de l’IA fait reculer fortement les actions des puces",
-    "de": "Der japanische Nikkei gerät in einen Bärenmarkt, da die KI-Flut die Chip-Aktien stark fallen lässt",
-    "zh": "日本日经指数进入熊市，人工智能溃败导致芯片股大幅下跌",
-    "ru": "Японский Nikkei выходит на медвежий рынок, поскольку разгром AI приводит к резкому падению акций чипов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance",
-   "url": "https://www.investing.com/news/stock-market-news/chinas-hua-hong-defies-chip-selloff-on-strong-earnings-upbeat-guidance-5006577",
-   "ts": 1793945413,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Китайський Хуа Хонг кидає виклик розпродажу фішок завдяки високим доходам і оптимістичним прогнозам",
-    "fr": "Le chinois Hua Hong défie la vente de puces grâce à de solides bénéfices et des prévisions optimistes",
-    "de": "Das chinesische Unternehmen Hua Hong trotzt dem Chip-Ausverkauf mit starken Gewinnen und optimistischen Prognosen",
-    "zh": "中国华虹凭借强劲的盈利和乐观的指引，克服了芯片抛售的影响",
-    "ru": "Китайская компания Hua Hong бросает вызов распродаже чипов на фоне высоких доходов и оптимистичных прогнозов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1793945364,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів до Сенату США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-   "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-   "ts": 1793945184,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Чому Іран звільняє Індію, Китай, Катар, Ірак від ормузьких обмежень?",
-    "fr": "Pourquoi l’Iran exempte-t-il l’Inde, la Chine, le Qatar et l’Irak des restrictions d’Ormuz ?",
-    "de": "Warum befreit der Iran Indien, China, Katar und den Irak von den Hormus-Beschränkungen?",
-    "zh": "为什么伊朗免除印度、中国、卡塔尔、伊拉克的霍尔木兹海峡限制？",
-    "ru": "Почему Иран освобождает Индию, Китай, Катар и Ирак от ограничений Ормуза?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
-   "url": "https://www.investing.com/news/stock-market-news/ai-datacenter-stocks-slip-as-democratic-sweep-clouds-expansion-plans-5003196",
-   "ts": 1793945183,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Інвестори стирають $2,5 трильйона з Nasdaq через блакитне цунамі, яке викликає побоювання ШІ",
-    "fr": "Les investisseurs effacent 2,5 billions de dollars du Nasdaq alors que le tsunami bleu suscite des craintes en matière d’IA",
-    "de": "Anleger verlieren 2,5 Billionen US-Dollar an der Nasdaq, da der blaue Tsunami Ängste vor KI schürt",
-    "zh": "蓝色海啸引发人工智能担忧，投资者从纳斯达克蒸发 2.5 万亿美元",
-    "ru": "Инвесторы стирают с Nasdaq 2,5 триллиона долларов, поскольку голубое цунами вызывает опасения по поводу искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Krones cuts 2026 revenue growth outlook as customer costs rise",
-   "url": "https://www.investing.com/news/earnings/krones-cuts-2026-revenue-growth-outlook-as-customer-costs-rise-5006572",
-   "ts": 1793945163,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Krones скорочує прогноз зростання доходів у 2026 році через зростання витрат клієнтів",
-    "fr": "Krones réduit ses perspectives de croissance du chiffre d'affaires pour 2026 alors que les coûts pour les clients augmentent",
-    "de": "Krones senkt die Umsatzwachstumsprognose für 2026, da die Kundenkosten steigen",
-    "zh": "由于客户成本上升，克朗斯下调 2026 年收入增长预期",
-    "ru": "Krones снижает прогноз роста выручки на 2026 год из-за роста расходов клиентов"
+    "uk": "Росія атакує Україну з 227 безпілотників",
+    "fr": "La Russie attaque l'Ukraine avec 227 drones",
+    "de": "Russland greift die Ukraine mit 227 Drohnen an",
+    "zh": "俄罗斯出动227架无人机袭击乌克兰",
+    "ru": "Россия атаковала Украину 227 беспилотниками"
    },
    "lang": "en"
   },
@@ -503,24 +1083,6 @@
     "de": "Hatte ein Aufstand im Rechenzentrum die Ergebnisse der US-Zwischenwahlen beeinflusst?",
     "zh": "数据中心叛乱影响了美国中期选举结果吗？",
     "ru": "Повлиял ли бунт центров обработки данных на результаты промежуточных выборов в США?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793944859,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Глобальні акції технологічних компаній різко падають, оскільки середньострокові звіти США посилюють побоювання щодо уповільнення темпів розвитку штучного інтелекту",
-    "fr": "Les valeurs technologiques mondiales chutent alors que les élections de mi-mandat aux États-Unis renforcent les craintes de ralentissement de l’IA",
-    "de": "Globale Technologieaktien stürzen ab, da die Zwischenwahlen in den USA die Befürchtungen einer KI-Verlangsamung verstärken",
-    "zh": "美国中期选举加剧了对人工智能放缓的担忧，全球科技股暴跌",
-    "ru": "Мировые акции технологических компаний падают, поскольку промежуточные выборы в США усиливают опасения о замедлении темпов развития искусственного интеллекта"
    },
    "lang": "en"
   },
@@ -597,42 +1159,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
-   "ts": 1793944794,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "У пропалестинському центрі Афін ізраїльські покупці викликають обурення",
-    "fr": "Au cœur d’Athènes, pro-palestinien, les acheteurs israéliens suscitent le ressentiment",
-    "de": "Im pro-palästinensischen Kernland Athens lösen israelische Käufer Unmut aus",
-    "zh": "在雅典亲巴勒斯坦的中心地带，以色列买家引发不满",
-    "ru": "В пропалестинском центре Афин израильские покупатели вызывают недовольство"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "US Justice Department sues Penn State over undocumented students’ tuition",
-   "url": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
-   "ts": 1793944647,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Міністерство юстиції США подає до суду на штат Пенсільванія через незадокументовану оплату навчання студентів",
-    "fr": "Le ministère américain de la Justice poursuit Penn State pour les frais de scolarité d’étudiants sans papiers",
-    "de": "Das US-Justizministerium verklagt Penn State wegen Studiengebühren für Studenten ohne Papiere",
-    "zh": "美国司法部就无证学生学费起诉宾夕法尼亚州立大学",
-    "ru": "Министерство юстиции США подает в суд на Пенсильванский университет из-за платы за обучение студентов, не имеющих документов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky outlines main topics of negotiations between teams in Brussels",
@@ -647,6 +1173,24 @@
     "de": "Selenskyj skizziert die Hauptthemen der Verhandlungen zwischen den Teams in Brüssel",
     "zh": "泽伦斯基概述了布鲁塞尔团队之间谈判的主要议题",
     "ru": "Зеленский обозначил основные темы переговоров между командами в Брюсселе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "AI boom turns chip packaging into the next battleground for semiconductors",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
+   "ts": 1793944320,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бум штучного інтелекту перетворює упаковку мікросхем на наступне поле битви для напівпровідників",
+    "fr": "Le boom de l’IA fait du packaging des puces le prochain champ de bataille pour les semi-conducteurs",
+    "de": "Der KI-Boom macht die Chipverpackung zum nächsten Schlachtfeld für Halbleiter",
+    "zh": "AI热潮将芯片封装变成半导体的下一个战场",
+    "ru": "Бум искусственного интеллекта превращает упаковку чипов в следующее поле битвы для полупроводников"
    },
    "lang": "en"
   },
@@ -669,42 +1213,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "AI's reality check",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5",
-   "ts": 1793943420,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Перевірка реальності ШІ",
-    "fr": "Le test de la réalité de l'IA",
-    "de": "Der Realitätscheck der KI",
-    "zh": "AI的现实检验",
-    "ru": "Проверка реальности ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "The world's best airline is updating its business and first-class experience",
-   "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-   "ts": 1793943370,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Найкраща авіакомпанія світу оновлює свій бізнес і досвід першого класу",
-    "fr": "La meilleure compagnie aérienne au monde met à jour son expérience business et première classe",
-    "de": "Die weltbeste Fluggesellschaft aktualisiert ihr Business- und First-Class-Erlebnis",
-    "zh": "全球最佳航空公司正在更新其商务舱和头等舱体验",
-    "ru": "Лучшая авиакомпания мира обновляет свой бизнес и первоклассный опыт"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
@@ -723,38 +1231,20 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "India's Titan notches biggest weekly gain in 6-1/2 years; analysts bet on buyers returning",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkJlY2taN3JLOTQ1Tm1oLUhsYTFiMk42VllWS2xscUkzZG1FNmxaZXBWd1F6YWFIZTZtNXZsR2g2NVpKOWUxczlXajlHUUIxaGtVZHpEZUNQanIyWWV3UnhweVhhYlltR1k2TDI1eDc3WUZMeld1dWpuSU5TTTJHTndtWmlyME50WTlDQzBIRVpqbXd2OWtSMU9nLTN1OXZKV1ZUUllpQUVSdE4xT25UOHJZbTlDQUVGcUtiTw?oc=5",
-   "ts": 1793942700,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Індійський Titan демонструє найбільший тижневий приріст за 6-1/2 років; аналітики роблять ставку на повернення покупців",
-    "fr": "Le Titan indien enregistre le plus gros gain hebdomadaire depuis 6 ans et demi ; les analystes parient sur le retour des acheteurs",
-    "de": "Indiens Titan verzeichnet den größten Wochengewinn seit 6 1/2 Jahren; Analysten setzen auf eine Rückkehr der Käufer",
-    "zh": "印度泰坦 (Titan) 创下 6-1/2 年来最大单周涨幅；分析师押注买家回归",
-    "ru": "Индийский Titan продемонстрировал самый большой недельный прирост за последние 6,5 лет; Аналитики делают ставку на возвращение покупателей"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
-   "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+   "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
    "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
    "ts": 1793942225,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Бо Ламарр-Кондон каже, що стрілянина в Джессі Бейрда не була навмисною, але «це була моя вина»",
-    "fr": "Beau Lamarre-Condon dit que la fusillade du procès pour double meurtre de Jesse Baird n'était pas intentionnelle mais que \"c'était de ma faute\"",
-    "de": "Beau Lamarre-Condon erzählt, dass die Erschießung von Jesse Baird im Doppelmordprozess keine Absicht war, sondern „meine Schuld“ war",
-    "zh": "博·拉马尔·康登 (Beau Lamarre-Condon) 表示，杰西·贝尔德 (Jesse Baird) 的双重谋杀案审判中枪杀不是故意的，但“这是我的错”",
-    "ru": "Бо Ламарр-Кондон заявил, что расстрел Джесси Бэрда в суде по делу о двойном убийстве не был преднамеренным, но «это была моя вина»"
+    "uk": "Бо Ламарр-Кондон каже, що на суді у справі про подвійне вбивство перший постріл у плече Джессі Бейрда був «правильним кроком»",
+    "fr": "Beau Lamarre-Condon dit que le procès pour double meurtre, tirer le premier coup de feu sur l'épaule de Jesse Baird était « la bonne décision »",
+    "de": "Beau Lamarre-Condon sagt, dass der erste Schuss auf Jesse Bairds Schulter im Doppelmordprozess „der richtige Schritt“ war.",
+    "zh": "博·拉马尔·康登 (Beau Lamarre-Condon) 表示，双重谋杀案审判中向杰西·贝尔德 (Jesse Baird) 的肩膀开第一枪是“正确的举动”",
+    "ru": "Бо Ламарр-Кондон говорит, что в суде по делу о двойном убийстве первый выстрел в плечо Джесси Бэрда был «правильным шагом»"
    },
    "lang": "en"
   },
@@ -777,6 +1267,25 @@
    "lang": "en"
   },
   {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Paraguay President Peña under investigation, faces removal from office over bank collapse",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+   "ts": 1793942160,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент Парагваю Пенья під слідством, йому загрожує звільнення з посади через крах банку",
+    "fr": "Le président paraguayen Peña fait l'objet d'une enquête et risque d'être démis de ses fonctions en raison de l'effondrement d'une banque",
+    "de": "Paraguays Präsident Peña, gegen den ermittelt wird, droht wegen Bankenkollaps seines Amtes enthoben zu werden",
+    "zh": "巴拉圭总统佩尼亚接受调查，因银行倒闭面临免职",
+    "ru": "Президенту Парагвая Пенья находится под следствием и ему грозит отстранение от должности из-за краха банка"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russian forces attack energy infrastructure facilities in Kyiv Oblast with jet-powered drones",
@@ -791,6 +1300,24 @@
     "de": "Russische Streitkräfte greifen Energieinfrastrukturanlagen im Oblast Kiew mit düsengetriebenen Drohnen an",
     "zh": "俄罗斯军队用喷气式无人机攻击基辅州的能源基础设施",
     "ru": "Российские военные атаковали объекты энергетической инфраструктуры в Киевской области с помощью реактивных дронов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
+   "ts": 1793941620,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Північнокорейська армія хакерів світового рівня є секретною зброєю, яка знищила Binance",
+    "fr": "L'armée nord-coréenne de hackers de classe mondiale est l'arme secrète qui a détruit Binance",
+    "de": "Nordkoreas Armee von Weltklasse-Hackern ist die Geheimwaffe, die Binance besiegt hat",
+    "zh": "朝鲜世界级黑客大军是摧毁币安的秘密武器",
+    "ru": "Армия хакеров мирового класса Северной Кореи — секретное оружие, которое разрушило Binance"
    },
    "lang": "en"
   },
@@ -814,24 +1341,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
-   "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-   "ts": 1793941562,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ф'ючерси на акції змішані після корекції Nasdaq; Японський Nikkei 225 виходить на ведмежий ринок: оновлення в реальному часі",
-    "fr": "Les contrats à terme sur actions sont mitigés après la correction du Nasdaq ; Le Nikkei 225 japonais entre sur un marché baissier : mises à jour en direct",
-    "de": "Aktien-Futures nach Nasdaq-Korrektur gemischt; Japans Nikkei 225 tritt in den Bärenmarkt ein: Live-Updates",
-    "zh": "纳斯达克调整后股指期货涨跌互现；日本日经 225 指数进入熊市：实时更新",
-    "ru": "Фьючерсы на акции разнонаправлены после коррекции Nasdaq; Японский Nikkei 225 выходит на медвежий рынок: текущие обновления"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
@@ -846,24 +1355,6 @@
     "de": "Ein Richter blockiert den Bau von Trumps Bogen, kurz nachdem dieser die Bundesgenehmigung erhalten hat",
     "zh": "特朗普拱门获得联邦批准后不久，一名法官就阻止了该项目的建设",
     "ru": "Судья заблокировал строительство арки Трампа сразу после того, как оно получило федеральное одобрение"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
-   "url": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
-   "ts": 1793941437,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Чому один республіканець виграв перемальований округ Техасу, незважаючи на синє цунамі",
-    "fr": "Pourquoi un républicain a remporté un district redessiné du Texas malgré le tsunami bleu",
-    "de": "Warum ein Republikaner trotz des blauen Tsunamis einen neu gezeichneten Bezirk in Texas gewann",
-    "zh": "尽管蓝色海啸，为何一名共和党人仍赢得了德克萨斯州重新划定的选区",
-    "ru": "Почему один республиканец выиграл перерисованный округ Техаса, несмотря на голубое цунами"
    },
    "lang": "en"
   },
@@ -883,24 +1374,6 @@
     "de": "Tech-Aktien stürzen ab, da die Zwischenergebnisse der USA Ängste vor strengeren KI-Regeln schüren",
     "zh": "美国中期结果引发对更严格人工智能规则的担忧，科技股暴跌",
     "ru": "Акции технологических компаний падают, поскольку промежуточные результаты США усиливают опасения по поводу ужесточения правил ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-   "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
-   "ts": 1793941247,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Іракський аль-Заїді розмовляє з Трампом, оскільки Багдад намагається не брати участі у війні з Іраном",
-    "fr": "L'Irakien al-Zaidi s'entretient avec Trump alors que Bagdad cherche à rester en dehors de la guerre contre l'Iran",
-    "de": "Der irakische al-Zaidi spricht mit Trump, während Bagdad versucht, sich aus einem Krieg gegen den Iran herauszuhalten",
-    "zh": "伊拉克扎伊迪与特朗普对话，巴格达寻求避免卷入伊朗战争",
-    "ru": "Иракский аль-Заиди беседует с Трампом, поскольку Багдад стремится не вступать в войну с Ираном"
    },
    "lang": "en"
   },
@@ -937,24 +1410,6 @@
     "de": "Russland hat am vergangenen Tag 2.440 Soldaten und 54 Artilleriesysteme verloren",
     "zh": "俄罗斯在过去一天损失了2,440名士兵和54套火炮系统",
     "ru": "Россия потеряла за минувшие сутки 2440 солдат и 54 артсистемы"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Trump issues proclamation declaring Oval Office national monument",
-   "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
-   "ts": 1793940480,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп оголосив Овальний кабінет національним пам'ятником",
-    "fr": "Trump publie une proclamation déclarant le Bureau Ovale monument national",
-    "de": "Trump erlässt eine Proklamation, in der er das Oval Office zum Nationaldenkmal erklärt",
-    "zh": "特朗普发布公告宣布椭圆形办公室为国家纪念碑",
-    "ru": "Трамп выпустил прокламацию, объявляющую Овальный кабинет национальным памятником"
    },
    "lang": "en"
   },
@@ -1014,75 +1469,38 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
-   "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
-   "ts": 1793939500,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Afipsky oil refinery in Russia's Krasnodar Krai targeted in attack, fire breaks out – photos",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061498/",
+   "ts": 1793939820,
    "sec": [
-    "world"
+    "ukraine"
    ],
    "t": {
-    "uk": "«Лідери в усьому світі розуміють, що Трамп буде там лише на два роки, а потім його не буде»",
-    "fr": "\"Les dirigeants du monde entier comprennent que Trump n'est là que pour deux ans, puis il s'en va\"",
-    "de": "„Führer auf der ganzen Welt verstehen, dass Trump nur noch zwei Jahre dort ist und dann weg ist“",
-    "zh": "“世界各地的领导人都明白，特朗普只能再呆两年，然后他就走了”",
-    "ru": "«Лидеры всего мира понимают, что Трамп пробудет там всего два года, а потом его не станет»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-   "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-   "ts": 1793939426,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ізраїльські поселенці захопили 8 палестинських будинків у Єрихоні, виселивши десятки людей",
-    "fr": "Des colons israéliens s'emparent de 8 maisons palestiniennes à Jéricho, déplaçant des dizaines de personnes",
-    "de": "Israelische Siedler beschlagnahmen acht palästinensische Häuser in Jericho und vertreiben Dutzende",
-    "zh": "以色列定居者占领了杰里科的八栋巴勒斯坦房屋，导致数十人流离失所",
-    "ru": "Израильские поселенцы захватили 8 палестинских домов в Иерихоне, вытеснив десятки"
+    "uk": "Афіпський нафтопереробний завод у Краснодарському краї Росії обстріляли, спалахнула пожежа – фото",
+    "fr": "La raffinerie de pétrole Afipsky dans le kraï de Krasnodar en Russie a été la cible d'une attaque et un incendie s'est déclaré – photos",
+    "de": "Afipsky-Ölraffinerie in der russischen Region Krasnodar wird angegriffen, Feuer bricht aus – Fotos",
+    "zh": "俄罗斯克拉斯诺达尔边疆区的阿菲普斯基炼油厂遭到袭击并发生火灾——照片",
+    "ru": "Афипский НПЗ в Краснодарском крае подвергся обстрелу, возник пожар – фото"
    },
    "lang": "en"
   },
   {
    "feed": "bbc_world",
    "source": "BBC",
-   "title": "Trump signs order preventing future presidents from changing Oval Office",
+   "title": "Trump signs order to preserve Oval Office as national monument",
    "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
    "ts": 1793939365,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Трамп підписав указ, який забороняє майбутнім президентам змінювати Овальний кабінет",
-    "fr": "Trump signe un décret interdisant aux futurs présidents de changer de bureau ovale",
-    "de": "Trump unterzeichnet eine Anordnung, die zukünftige Präsidenten daran hindert, das Oval Office zu wechseln",
-    "zh": "特朗普签署命令阻止未来总统更换椭圆形办公室",
-    "ru": "Трамп подписал указ, запрещающий будущим президентам менять Овальный кабинет"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
-   "ts": 1793939344,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Соціаліст-демократ Нітія Раман перемагає на посаді мера Лос-Анджелеса",
-    "fr": "La socialiste démocrate Nithya Raman remporte la course à la mairie de Los Angeles",
-    "de": "Die demokratische Sozialistin Nithya Raman gewinnt die Bürgermeisterwahl in LA",
-    "zh": "民主社会主义者 Nithya Raman 赢得洛杉矶市长竞选",
-    "ru": "Социалистка-демократ Нитья Раман победила на выборах мэра Лос-Анджелеса"
+    "uk": "Трамп підписав указ про збереження Овального кабінету як національного пам'ятника",
+    "fr": "Trump signe un décret pour préserver le Bureau Ovale comme monument national",
+    "de": "Trump unterzeichnet Anordnung zur Erhaltung des Oval Office als Nationaldenkmal",
+    "zh": "特朗普签署命令将椭圆形办公室保留为国家纪念碑",
+    "ru": "Трамп подписал указ о сохранении Овального кабинета как национального памятника"
    },
    "lang": "en"
   },
@@ -1119,24 +1537,6 @@
     "de": "Die Verteidigungskräfte neutralisieren in einer Woche mehr als 90 % der russischen Lancet- und Molniya-Drohnen",
     "zh": "国防军一周内消灭了超过 90% 的俄罗斯“柳叶刀”和“莫尼亚”无人机",
     "ru": "Силы обороны обезвредили более 90% российских беспилотников «Ланцет» и «Молния» за неделю"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-   "ts": 1793938317,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Стрілянина на пляжі Бонді: 90-річна Єва Геллер, застрелена під час бійні, померла в лікарні рік після антисемітського нападу",
-    "fr": "Fusillade sur la plage de Bondi : Eva Geller, 90 ans, abattue lors du massacre, décède à l'hôpital un an après une attaque antisémite",
-    "de": "Schießerei am Strand von Bondi: Eva Geller, 90, bei Massaker erschossen, stirbt ein Jahr nach antisemitischem Angriff im Krankenhaus",
-    "zh": "邦迪海滩枪击事件：90 岁的伊娃·盖勒 (Eva Geller) 在大屠杀中中枪，在反犹太主义袭击一年后在医院去世",
-    "ru": "Стрельба на пляже Бонди: 90-летняя Ева Геллер, застреленная во время резни, скончалась в больнице через год после антисемитского нападения"
    },
    "lang": "en"
   },
@@ -1180,7 +1580,7 @@
   {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "Gold eases on inflation worries from higher oil; US payrolls data in focus",
+   "title": "Gold drops over 1% on higher oil prices; US payrolls data in focus",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
    "ts": 1793936760,
    "sec": [
@@ -1188,11 +1588,11 @@
     "market"
    ],
    "t": {
-    "uk": "Золото полегшує інфляційні занепокоєння через зростання нафти; У центрі уваги дані про заробітну плату в США",
-    "fr": "L'or atténue les craintes d'inflation liées à la hausse du pétrole ; Focus sur les données sur la masse salariale aux États-Unis",
-    "de": "Gold lässt nach, Inflationssorgen aufgrund höheren Ölpreises; US-Gehaltsdaten im Fokus",
-    "zh": "油价上涨引发通胀担忧，金价有所缓解；美国非农就业数据成为焦点",
-    "ru": "Золото падает на фоне опасений по поводу инфляции из-за роста цен на нефть; В центре внимания данные по занятости в США"
+    "uk": "Золото падає більш ніж на 1% через підвищення цін на нафту; У центрі уваги дані про заробітну плату в США",
+    "fr": "L'or chute de plus de 1 % en raison de la hausse des prix du pétrole ; Focus sur les données sur la masse salariale aux États-Unis",
+    "de": "Gold fällt aufgrund höherer Ölpreise um über 1 %; US-Gehaltsdaten im Fokus",
+    "zh": "油价上涨导致金价下跌超过 1%；美国非农就业数据成为焦点",
+    "ru": "Золото упало более чем на 1% на фоне роста цен на нефть; В центре внимания данные по заработной плате в США"
    },
    "lang": "en"
   },
@@ -1287,6 +1687,25 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
+   "ts": 1793934240,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Вибори мера Тайбея – це перемога демократії над Китаєм, хто б не переміг, каже кандидат",
+    "fr": "L'élection du maire de Taipei est une victoire de la démocratie sur la Chine, quel que soit le vainqueur, déclare le candidat",
+    "de": "Die Bürgermeisterwahl in Taipeh ist ein Sieg der Demokratie über China, wer auch immer gewinnt, sagt der Kandidat",
+    "zh": "候选人称台北市长选举是民主对中国的胜利",
+    "ru": "Выборы мэра Тайбэя — это победа демократии над Китаем, кто бы ни победил, говорит кандидат"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
@@ -1342,78 +1761,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "China's marriage rate in third quarter tumbles to 18-year low",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDN2Yk93ZE1nTFJadmdpaF82dEdEbElBQ0loRmp6RjNUNldObmc1b2w1SVN6VXpJbzNWUnZHb29hSDR0bUhaeUNJbzBQZFhiNUNYMWYwX3hSd1dSWXBaQlVvODJ2WE4zel9sZUNPaHFGb3B4ZTgxSmo2dlRZS29IRE1RM2xncC1iX2xjQ0gwOEJocWw1bks4V2RvTG5jY3JTSkxsNQ?oc=5",
-   "ts": 1793933520,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Рівень шлюбів у Китаї в третьому кварталі впав до 18-річного мінімуму",
-    "fr": "Le taux de nuptialité en Chine tombe à son plus bas niveau depuis 18 ans au troisième trimestre",
-    "de": "Chinas Heiratsrate sinkt im dritten Quartal auf den niedrigsten Stand seit 18 Jahren",
-    "zh": "中国第三季度结婚率跌至18年新低",
-    "ru": "Уровень браков в Китае в третьем квартале упал до 18-летнего минимума"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "China passes cross-border corruption law, expanding anti-graft drive",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeU1ROGdLUTVzWlo0Q0YtMk9Pa3VSNjZtdEViV3FEalY2Nm9VQ2hvajdSeDFXOHlnRGJVTkZhYTh6V2U4cllEdjAxNVIxZTBNWUs5SU56bldDWVBMUHJEUWJseFB5M09sYm9FZU1za0N4VWNKVkcwYzdjOUgwa0ROQVg3bXNldU10RXBIWDBLRFJfZzRvbURURWtFM1NLZ2plSWdNVnpUdVBubTZSN0dtekNTZmZZelA0LUd1dUo2bTAtWW9i?oc=5",
-   "ts": 1793933460,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Китай приймає закон про транскордонну корупцію, розширюючи антикорупційну діяльність",
-    "fr": "La Chine adopte une loi sur la corruption transfrontalière et étend sa campagne anti-corruption",
-    "de": "China verabschiedet ein Gesetz zur grenzüberschreitenden Korruption und weitet damit die Antikorruptionskampagne aus",
-    "zh": "中国通过跨境反腐败法，扩大反腐力度",
-    "ru": "Китай принимает закон о трансграничной коррупции, расширяя борьбу с коррупцией"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Row house fire in Brooklyn kills 6 people and injures 9",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkhXUmt2UmJyOG5WV2lhMl9GNTV4NzBwWHF3ajBBOHZFcUZQdVlmQnh0WTYzaHN1SEJIZ0ZERkItYldBQUdaXzlRMmc0d09xUzNLb1NMTWxMVjJnZF9RbE5BVC1RaThKUWtnVUphLWtuNmtlMUdjZDZjaTNGRlRySVl1UU40Q1h4V2VPXzVrcDM5QQ?oc=5",
-   "ts": 1793933340,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Пожежа рядового будинку в Брукліні забрала життя 6 осіб і 9 поранено",
-    "fr": "L'incendie d'une maison en rangée à Brooklyn tue 6 personnes et en blesse 9",
-    "de": "Bei einem Reihenhausbrand in Brooklyn kommen sechs Menschen ums Leben, neun werden verletzt",
-    "zh": "布鲁克林排屋火灾造成6人死亡、9人受伤",
-    "ru": "В результате пожара в доме в Бруклине шесть человек погибли и девять получили ранения"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Meloni urges EU to agree on representative for Ukraine peace talks",
-   "url": "https://www.ukrinform.net/rubric-polytics/4181846-meloni-urges-eu-to-agree-on-representative-for-ukraine-peace-talks.html",
-   "ts": 1793932920,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Мелоні закликає ЄС погодити представника України на мирних переговорах",
-    "fr": "Meloni exhorte l'UE à se mettre d'accord sur un représentant pour les pourparlers de paix en Ukraine",
-    "de": "Meloni fordert die EU nachdrücklich auf, sich auf einen Vertreter für die Friedensgespräche mit der Ukraine zu einigen",
-    "zh": "梅洛尼敦促欧盟就乌克兰和谈代表达成一致",
-    "ru": "Мелони призывает ЕС согласовать представителя для Украины на мирных переговорах"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "dw_business",
    "source": "DW",
    "title": "Asian stocks slump after US tech rout amid AI jitters",
@@ -1446,61 +1793,6 @@
     "de": "Der Nasdaq-Ausverkauf belastet asiatische Chip-Aktien, während SK Hynix, Samsung, Softbank und TSMC abstürzen",
     "zh": "SK 海力士、三星、软银、台积电暴跌，纳斯达克抛售重创亚洲芯片股",
     "ru": "Распродажа Nasdaq ударила по акциям азиатских производителей микросхем на фоне падения SK Hynix, Samsung, Softbank и TSMC"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "3 executions are carried out on the same day in the US, including Florida tying a record",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU9RMHg3N1FVX05NZG5acGlZRGc4STlmXzZtbUg3Y1VLWTFTQTFmcEdRbDlEelRDSnA3SFVvbHNZSW9yaHNHcHNBSkxGa2FvVnhsMzRPWHd5eGwwN1N0QkU4LWZZUU5aQU54Z1JRcWsxSHduWDIxbEJrRDN3UjM4MG5OZ1F1N2hFaElKTlA2WnZBdy1yZi1ONEhR?oc=5",
-   "ts": 1793932320,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "3 страти виконуються в один день у США, у тому числі у Флориді, яка встановила рекорд",
-    "fr": "3 exécutions ont lieu le même jour aux États-Unis, dont la Floride, établissant un record",
-    "de": "Drei Hinrichtungen wurden am selben Tag in den USA vollstreckt, darunter Florida, das einen Rekord aufstellt",
-    "zh": "美国同一天执行了 3 起处决，其中佛罗里达州追平纪录",
-    "ru": "В США в один и тот же день проведены 3 казни, в том числе во Флориде установлен рекорд"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "ts": 1793932200,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Суд над Бо Ламарр-Кондоном: обвинувачення починає перехресний допит обвинувачених у подвійному вбивстві – як це сталося",
-    "fr": "Procès Beau Lamarre-Condon : l’accusation entame le contre-interrogatoire de l’accusé de double meurtre – comme cela s’est produit",
-    "de": "Prozess gegen Beau Lamarre-Condon: Die Staatsanwaltschaft beginnt mit dem Kreuzverhör des Angeklagten wegen Doppelmordes – wie es geschah",
-    "zh": "博拉马尔-康登审判：检方开始对双重谋杀案被告进行盘问——事实确实如此",
-    "ru": "Суд над Бо Ламаром-Кондоном: обвинение начинает перекрестный допрос обвиняемого в двойном убийстве – как это было"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
-   "ts": 1793932082,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Ліберальний автобус врізався в тент магазину під час першої вилазки передвиборної кампанії у Вікторії",
-    "fr": "Un bus libéral s'écrase sur un auvent de magasin lors de sa première sortie de campagne électorale victorienne",
-    "de": "Bei seinem ersten Einsatz im viktorianischen Wahlkampf prallt ein liberaler Bus gegen die Ladenmarkise",
-    "zh": "自由党巴士首次参加维州竞选活动时撞上商店遮阳篷",
-    "ru": "Либеральный автобус врезался в навес магазина во время своего первого выступления в викторианскую предвыборную кампанию"
    },
    "lang": "en"
   },
@@ -1542,25 +1834,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-   "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793930937,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Білий дім відмовляє Гегсету та Рубіо в звільненні з роботи після поразки республіканців на виборах",
-    "fr": "La Maison Blanche refuse à Hegseth et Rubio de quitter leur emploi après la défaite des élections républicaines",
-    "de": "Das Weiße Haus lehnt ab, dass Hegseth und Rubio nach Wahlniederlagen der Republikaner ihre Jobs aufgeben",
-    "zh": "白宫否认赫格斯和卢比奥在共和党选举失败后离职",
-    "ru": "Белый дом запрещает Хегсету и Рубио покидать рабочие места после поражений республиканцев на выборах"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Trump's envoy Kushner: US to hold peace talks with Ukraine and Russia next week",
@@ -1579,20 +1852,21 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Ukrainian troops capture Russian soldier wearing Ukrainian military uniform",
-   "url": "https://www.ukrinform.net/rubric-ato/4181791-ukrainian-troops-capture-russian-soldier-wearing-ukrainian-military-uniform.html",
-   "ts": 1793928360,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Dollar lures bids for safety as AI rout grips Asian markets",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5",
+   "ts": 1793928240,
    "sec": [
-    "ukraine"
+    "world",
+    "market"
    ],
    "t": {
-    "uk": "Українські війська взяли в полон російського солдата в українській військовій формі",
-    "fr": "Les troupes ukrainiennes capturent un soldat russe portant l'uniforme militaire ukrainien",
-    "zh": "乌克兰军队抓获身穿乌克兰军装的俄罗斯士兵",
-    "ru": "Украинские военные захватили российского солдата в украинской военной форме",
-    "de": "Ukrainische Truppen nehmen russischen Soldaten in ukrainischer Militäruniform gefangen"
+    "uk": "Долар приваблює ставки на безпеку, оскільки штучний інтелект охоплює азіатські ринки",
+    "fr": "Le dollar attire les offres de sécurité alors que la déroute de l'IA s'empare des marchés asiatiques",
+    "de": "Der Dollar lockt Sicherheitsangebote an, während die KI-Flut die asiatischen Märkte erfasst",
+    "zh": "人工智能溃败席卷亚洲市场，美元吸引避险买盘",
+    "ru": "Доллар привлекает внимание к безопасности, поскольку разгром искусственного интеллекта захватывает азиатские рынки"
    },
    "lang": "en"
   },
@@ -1616,42 +1890,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
-   "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-   "ts": 1793927220,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ось що спонукало до росту акцій Iren після жорстокого розпродажу",
-    "fr": "Voici ce qui fait grimper les actions d’Iren après une vente brutale",
-    "zh": "这就是艾伦股价在经历残酷抛售后走高的原因",
-    "ru": "Вот что привело к росту акций Iren после жестокой распродажи",
-    "de": "Hier ist, was Irens Aktie nach einem brutalen Ausverkauf in die Höhe treibt"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-   "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-   "ts": 1793927160,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Cloudflare суттєво повертаються після найшвидшого зростання продажів за майже 4 роки",
-    "fr": "Le stock de Cloudflare fait un grand retour après la hausse des ventes la plus rapide en près de 4 ans",
-    "de": "Die Aktie von Cloudflare erlebt ein großes Comeback nach dem schnellsten Umsatzanstieg seit fast vier Jahren",
-    "zh": "Cloudflare 股价在近 4 年来最快的销售增长后大幅反弹",
-    "ru": "Акции Cloudflare стремительно растут после самого быстрого роста продаж почти за 4 года."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "South Korea stocks hit 9-month low as US midterm results spark AI selloff",
@@ -1671,38 +1909,20 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Finland sentences Fitburg captain and boatswain to prison over damage to Gulf of Finland cables",
-   "url": "https://www.ukrinform.net/rubric-crime/4181728-finland-sentences-fitburg-captain-and-boatswain-to-prison-over-damage-to-gulf-of-finland-cables.html",
-   "ts": 1793925420,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Trump calls law banning Russian fuel imports \"pretty bad\"",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061493/",
+   "ts": 1793926620,
    "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "Фінляндія засудила капітана Фітбурга та боцмана до в'язниці за пошкодження кабелів Фінської затоки",
-    "fr": "La Finlande condamne le capitaine et le maître d'équipage de Fitburg à la prison pour dommages causés aux câbles du golfe de Finlande",
-    "de": "Finnland verurteilt Fitburg-Kapitän und Bootsmann wegen Schäden an Kabeln des Finnischen Meerbusens zu Gefängnisstrafen",
-    "zh": "芬兰因破坏芬兰湾电缆而判处 Fitburg 船长和水手长入狱",
-    "ru": "Финляндия приговорила капитана и боцмана «Фитбурга» к тюремному заключению за повреждение кабелей в Финском заливе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_business",
-   "source": "NPR",
-   "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-   "ts": 1793924213,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Побоювання щодо придушення штучного інтелекту після проміжних семестрів спричиняють падіння акцій технологічних компаній на 2 трильйони доларів",
-    "fr": "Les craintes d'une répression de l'IA après les élections de mi-mandat déclenchent une déroute de 2 000 milliards de dollars dans les actions technologiques",
-    "de": "Befürchtungen vor einem Durchgreifen der KI nach den Zwischenwahlen führen zu einem Kursverlust von 2 Billionen US-Dollar bei Technologieaktien",
-    "zh": "中期选举后对人工智能打击的担忧引发科技股暴跌 2 万亿美元",
-    "ru": "Опасения по поводу подавления искусственного интеллекта после промежуточных выборов спровоцировали крах акций технологических компаний на 2 триллиона долларов"
+    "uk": "Трамп назвав закон про заборону імпорту російського палива \"досить поганим\"",
+    "fr": "Trump qualifie de « plutôt mauvaise » la loi interdisant les importations de carburant russe",
+    "de": "Trump nennt Gesetz zum Verbot russischer Treibstoffimporte „ziemlich schlecht“",
+    "zh": "特朗普称禁止俄罗斯燃料进口的法律“非常糟糕”",
+    "ru": "Трамп назвал закон о запрете импорта российского топлива «довольно плохим»"
    },
    "lang": "en"
   },
@@ -1744,24 +1964,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "The engine parts that 'fight the laws of the universe'",
-   "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793923566,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Частини двигуна, які «борються із законами Всесвіту»",
-    "fr": "Les pièces du moteur qui « combattent les lois de l'univers »",
-    "de": "Die Motorteile, die „die Gesetze des Universums bekämpfen“",
-    "zh": "“违背宇宙法则”的发动机部件",
-    "ru": "Детали двигателя, которые «борются с законами Вселенной»"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "These are the races in the House and Senate that haven't been called yet",
@@ -1776,24 +1978,6 @@
     "de": "Dies sind die Rennen im Repräsentantenhaus und im Senat, die noch nicht ausgerufen wurden",
     "zh": "这些是尚未宣布的众议院和参议院竞选",
     "ru": "Это выборы в Палате представителей и Сенате, которые еще не назначены."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-   "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-   "ts": 1793923372,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Мене запитали, чи я плаксива»: виявлено ваші найгірші співбесіди",
-    "fr": "\"On m'a demandé si j'étais un crieur\" : vos pires entretiens d'embauche révélés",
-    "de": "„Ich wurde gefragt, ob ich ein Schreier sei“: Ihre schlimmsten Vorstellungsgespräche enthüllten",
-    "zh": "“有人问我是否爱哭”：你最糟糕的工作面试揭秘",
-    "ru": "«Меня спросили, умею ли я плакать»: выяснилось ваше худшее собеседование"
    },
    "lang": "en"
   },
@@ -1813,6 +1997,24 @@
     "de": "Melania Trump wirbt für die seltene Vereinbarung, die sie zwischen Russland und der Ukraine vermittelt hat",
     "zh": "梅拉尼娅·特朗普吹捧她在俄罗斯和乌克兰之间斡旋达成的罕见协议",
     "ru": "Мелания Трамп рекламирует редкое соглашение между Россией и Украиной, которое она заключила при посредничестве"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Zelenskyy says Ukraine could consider online elections",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061492/",
+   "ts": 1793922600,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський каже, що Україна може подумати про онлайн-вибори",
+    "fr": "Zelensky dit que l'Ukraine pourrait envisager des élections en ligne",
+    "de": "Selenskyj sagt, die Ukraine könne über Online-Wahlen nachdenken",
+    "zh": "泽伦斯基表示乌克兰可以考虑在线选举",
+    "ru": "Зеленский заявил, что Украина может рассмотреть возможность проведения онлайн-выборов"
    },
    "lang": "en"
   },
@@ -1849,24 +2051,6 @@
     "de": "Wie die Demokraten von North Carolina mehrere Sitze im Repräsentantenhaus in historisch republikanischen Bezirken vertauschten",
     "zh": "北卡罗来纳州民主党人如何翻转历史上共和党选区的多个众议院席位",
     "ru": "Как демократы Северной Каролины поменяли несколько мест в Палате представителей в исторически сложившихся республиканских округах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Clashes in Petropavlivska Borshchahivka: Police and Security Service identify 130 people who may be involved",
-   "url": "https://www.ukrinform.net/rubric-crime/4181725-clashes-in-petropavlivska-borshchahivka-police-and-security-service-identify-130-people-who-may-be-involved.html",
-   "ts": 1793921100,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Сутички в Петропавлівській Борщагівці: поліція та СБУ встановили 130 осіб, які можуть бути причетними",
-    "fr": "Affrontements à Petropavlivska Borshchahivka : la police et les services de sécurité identifient 130 personnes susceptibles d'être impliquées",
-    "de": "Zusammenstöße in Petropavlivska Borshchahivka: Polizei und Sicherheitsdienst identifizieren 130 Personen, die möglicherweise beteiligt sind",
-    "zh": "Petropavlivska Borshchahivka 冲突：警方和安全部门确认 130 名可能参与其中的人员",
-    "ru": "Столкновения на Петропавловской Борщаговке: Полиция и СБУ установили 130 человек, которые могут быть причастны"
    },
    "lang": "en"
   },
@@ -1999,24 +2183,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Zelenskyy: Spain will provide Ukraine with €437 million military aid package",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/05/8061487/",
-   "ts": 1793915220,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський: Іспанія надасть Україні пакет військової допомоги на 437 млн ​​євро",
-    "fr": "Zelensky : l’Espagne fournira à l’Ukraine une aide militaire de 437 millions d’euros",
-    "de": "Selenskyj: Spanien wird der Ukraine ein Militärhilfepaket in Höhe von 437 Millionen Euro zur Verfügung stellen",
-    "zh": "泽连斯基：西班牙将向乌克兰提供4.37亿欧元军事援助",
-    "ru": "Зеленский: Испания предоставит Украине пакет военной помощи на 437 млн ​​евро"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "How major US stock indexes fared Thursday 11/5/2026",
@@ -2036,60 +2202,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Canadian service member faces court-martial for sharing sensitive information with Ukraine",
-   "url": "https://kyivindependent.com/canadian-service-member-to-face-court-martial-for-sharing-sensitive-information-with-ukraine/",
-   "ts": 1793913184,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Канадському військовослужбовцю загрожує військовий суд за передачу конфіденційної інформації Україні",
-    "fr": "Un militaire canadien fait face à une cour martiale pour avoir partagé des informations sensibles avec l'Ukraine",
-    "de": "Ein kanadischer Militärangehöriger steht vor einem Kriegsgericht, weil er sensible Informationen an die Ukraine weitergegeben hat",
-    "zh": "加拿大军人因与乌克兰分享敏感信息而面临军事法庭",
-    "ru": "Канадский военнослужащий предстанет перед военным трибуналом за обмен конфиденциальной информацией с Украиной"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_ukraine",
-   "source": "The Guardian",
-   "title": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
-   "url": "https://www.theguardian.com/world/video/2026/nov/05/russian-and-ukrainian-officials-thank-melania-trump-for-brokering-ceasefire-video",
-   "ts": 1793912693,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські та українські чиновники подякували Меланії Трамп за посередницьке припинення вогню – відео",
-    "fr": "Les responsables russes et ukrainiens remercient Melania Trump d'avoir négocié le cessez-le-feu – vidéo",
-    "de": "Russische und ukrainische Beamte danken Melania Trump für die Vermittlung eines Waffenstillstands – Video",
-    "zh": "俄罗斯和乌克兰官员感谢梅拉尼娅·特朗普斡旋停火 - 视频",
-    "ru": "Российские и украинские чиновники поблагодарили Меланию Трамп за посредничество в прекращении огня - видео"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_ukraine",
-   "source": "The Guardian",
-   "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
-   "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
-   "ts": 1793911947,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Подія в Білому домі показала, що Україна та Росія мають одну мету: лестити Меланії",
-    "fr": "Un événement à la Maison Blanche révèle que l’Ukraine et la Russie partagent un objectif : flatter Melania",
-    "de": "Die Veranstaltung im Weißen Haus zeigt, dass die Ukraine und Russland ein gemeinsames Ziel haben: Melania zu schmeicheln",
-    "zh": "白宫活动显示乌克兰和俄罗斯有一个共同目标：奉承梅拉尼娅",
-    "ru": "Мероприятие в Белом доме показало, что Украина и Россия преследуют одну цель: польстить Мелании"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "More Mandelson papers set to be published before Christmas",
@@ -2104,60 +2216,6 @@
     "de": "Noch vor Weihnachten sollen weitere Mandelson-Artikel veröffentlicht werden",
     "zh": "更多曼德尔森论文将于圣诞节前发表",
     "ru": "Еще больше статей Мандельсона будут опубликованы до Рождества"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Zelenskyy: Ukraine needs Taurus missiles from Germany, and it would benefit both sides",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/05/8061479/",
-   "ts": 1793907960,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський: Україні потрібні ракети Taurus з Німеччини, і це буде вигідно обом сторонам",
-    "fr": "Zelensky : l'Ukraine a besoin des missiles Taurus de l'Allemagne, et cela profiterait aux deux parties",
-    "de": "Selenskyj: Die Ukraine braucht Taurus-Raketen von Deutschland, und das wäre für beide Seiten von Vorteil",
-    "zh": "泽连斯基：乌克兰需要德国金牛座导弹，这对双方都有好处",
-    "ru": "Зеленский: Украине нужны ракеты «Таурус» из Германии, и это принесет пользу обеим сторонам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Czech President denies having ambitions to become European negotiator for Ukraine",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/05/8061477/",
-   "ts": 1793906820,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Президент Чехії заперечує наявність амбіцій стати європейським переговірником від України",
-    "fr": "Le président tchèque nie avoir l'ambition de devenir négociateur européen pour l'Ukraine",
-    "de": "Der tschechische Präsident bestreitet, Ambitionen zu haben, europäischer Verhandlungsführer für die Ukraine zu werden",
-    "zh": "捷克总统否认有成为乌克兰问题欧洲谈判代表的野心",
-    "ru": "Президент Чехии отрицает, что имеет амбиции стать европейским переговорщиком по Украине"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Exclusive: Trump envoy's push to reopen Lithuanian ports to Belarus exposes rift in Washington",
-   "url": "https://kyivindependent.com/exclusive-trump-envoys-push-to-reopen-lithuanian-ports-to-belarus-exposes-rift-in-washington/",
-   "ts": 1793905738,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Ексклюзив: спроба посла Трампа відкрити литовські порти для Білорусі виявила розбіжності у Вашингтоні",
-    "fr": "Exclusif : les efforts de l'envoyé de Trump pour rouvrir les ports lituaniens à la Biélorussie révèlent les divisions à Washington",
-    "de": "Exklusiv: Der Vorstoß des Trump-Gesandten, litauische Häfen für Weißrussland wieder zu öffnen, offenbart die Spaltung in Washington",
-    "zh": "独家：特朗普特使推动重新开放立陶宛通往白俄罗斯的港口暴露了华盛顿的裂痕",
-    "ru": "Эксклюзив: стремление посланника Трампа вновь открыть литовские порты для Беларуси обнажает раскол в Вашингтоне"
    },
    "lang": "en"
   },
@@ -2181,24 +2239,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks",
-   "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-water-supply-disrupted-after-power-fluctuations-due-to-russian-attacks/",
-   "ts": 1793905659,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Остання війна в Україні: водопостачання Києва перервано через перепади електроенергії через напади Росії",
-    "fr": "Dernière guerre en Ukraine : l'approvisionnement en eau de Kiev perturbé après des fluctuations d'électricité dues aux attaques russes",
-    "de": "Neuester Krieg in der Ukraine: Wasserversorgung in Kiew nach Stromschwankungen aufgrund russischer Angriffe unterbrochen",
-    "zh": "乌克兰战争最新消息：俄罗斯袭击造成电力波动，基辅供水中断",
-    "ru": "Последняя война в Украине: водоснабжение Киева прервано из-за перепадов в электроснабжении из-за атак России"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
@@ -2217,24 +2257,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Worsening power situation attributed to shifting Russian tactics",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/05/8061474/",
-   "ts": 1793904900,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Погіршення ситуації з владою пояснюється зміною російської тактики",
-    "fr": "La détérioration de la situation du pouvoir attribuée au changement de tactique russe",
-    "de": "Die sich verschlechternde Machtsituation wird auf eine veränderte russische Taktik zurückgeführt",
-    "zh": "俄罗斯策略转变导致电力形势恶化",
-    "ru": "Ухудшение ситуации с властью связано с изменением тактики России"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "The Guardian view on cocaine and domestic abuse: new links between drugs and crime need investigating | Editorial",
@@ -2249,25 +2271,6 @@
     "zh": "卫报对可卡因和家庭虐待的看法：毒品与犯罪之间的新联系需要调查|社论",
     "ru": "Мнение The Guardian о кокаине и домашнем насилии: необходимо исследовать новые связи между наркотиками и преступностью | Редакционный",
     "fr": "Le point de vue du Guardian sur la cocaïne et la violence domestique : de nouveaux liens entre drogues et criminalité doivent être étudiés | Éditorial"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-   "ts": 1793902268,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "США запровадили нові санкції проти Куби, спрямовані проти секторів кубинської економіки",
-    "fr": "Les États-Unis imposent de nouvelles sanctions à Cuba et visent certains secteurs de l'économie cubaine",
-    "de": "Die USA erlassen neue Sanktionen gegen Kuba und nehmen Sektoren der kubanischen Wirtschaft ins Visier",
-    "zh": "美国对古巴实施新制裁，瞄准古巴经济部门",
-    "ru": "США вводят новые санкции против Кубы и нацеливаются на секторы кубинской экономики"
    },
    "lang": "en"
   },
@@ -2383,6 +2386,24 @@
   {
    "feed": "guardian_politics",
    "source": "The Guardian",
+   "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+   "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+   "ts": 1793897934,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "ЄС тисне на Великобританію, щоб вона гарантувала європейським студентам знижену плату за навчання в університетах",
+    "fr": "L’UE presse le Royaume-Uni de garantir des frais de scolarité universitaires réduits aux étudiants européens",
+    "de": "EU drängt Großbritannien, ermäßigte Studiengebühren für europäische Studenten zu garantieren",
+    "zh": "欧盟敦促英国保证为欧洲学生提供大学学费折扣",
+    "ru": "ЕС требует от Великобритании гарантировать скидки на обучение в университетах для европейских студентов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
    "title": "Will the UK finally pay slavery reparations? – The Latest",
    "url": "https://www.theguardian.com/news/audio/2026/nov/05/will-the-uk-finally-pay-slavery-reparations-the-latest",
    "ts": 1793897870,
@@ -2449,44 +2470,6 @@
     "de": "Was kann Andy Burnham aus der „blauen Welle“ in den USA lernen? - Podcast",
     "zh": "安迪·伯纳姆可以从美国的“蓝色浪潮”中学到什么？ - 播客",
     "ru": "Чему Энди Бёрнем может научиться у «голубой волны» в США? – подкаст"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Republicans were punished in the midterms for Trump's economic policies, The AP Voter Poll shows",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ21uZTBtcHVVa1pjcFN6eHhxWllCcEpzV2hpTmN6SWhMY3dqY2dpOWtxd0dtdGFPRV9RSUM1SEhrSDVHUHI3YmIwZzZucVoyZDd2V1hzNGJLT2w4OG5VRGpDRkNYbmJ4V2xadVlUVldoOUJ1THc2RVA0WkFtZmpaRDdWdG9iU3pZX285WkRhRi1MUF90UF9SekFzVjMyRzZNTmZoQmlEMVdmb3lHaUV2WTBZdFU?oc=5",
-   "ts": 1793889300,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Республіканці були покарані на проміжних виборах за економічну політику Трампа, показує The AP Voter Poll",
-    "fr": "Les Républicains ont été punis à mi-mandat pour la politique économique de Trump, selon le sondage AP Voter Poll.",
-    "de": "Die AP-Wählerumfrage zeigt, dass die Republikaner bei den Zwischenwahlen für Trumps Wirtschaftspolitik abgestraft wurden",
-    "zh": "美联社选民民意调查显示，共和党人在中期选举中因特朗普的经济政策而受到惩罚",
-    "ru": "Республиканцы были наказаны в промежуточных выборах за экономическую политику Трампа, показывает опрос избирателей AP"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NDY2lDWk9qMGtnT3ZVZEhLY1RTQ1J5MFlOazFRTzk4ZVVZR3JhcDJoZ3RmNjZxZHQ2emt3M1hVdXRYS2RscjM5NFhVc3Btd25iU0htTVBLTnNLcE16aVlxVjc4Rjg3TVBrVjJOck93VV9iN19TU1gzNnJTZ1BfVlNieUJFNEpXbzdvSjkyOVM3cV9l?oc=5",
-   "ts": 1793888820,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Банк Англії підвищує ставку вперше за 3 роки; падіння цін на нафту може дати більше можливостей у майбутньому",
-    "fr": "La BoE relève ses taux pour la première fois en 3 ans ; la baisse des prix du pétrole pourrait offrir davantage d’options à l’avenir",
-    "de": "BoE erhöht Leitzins zum ersten Mal seit drei Jahren; Der Rückgang der Ölpreise könnte weitere Optionen eröffnen",
-    "zh": "英国央行三年来首次加息；油价回落可能会给未来带来更多选择",
-    "ru": "Банк Англии повысил ставку впервые за 3 года; Снижение цен на нефть может открыть перед нами больше возможностей"
    },
    "lang": "en"
   },
@@ -2599,6 +2582,24 @@
    "lang": "en"
   },
   {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
+   "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
+   "ts": 1793826178,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Кріс Мейсон: Вибори в США змінять Трампа – як відреагує Бернем?",
+    "fr": "Chris Mason : Les élections américaines vont changer Trump – comment Burnham va-t-il réagir ?",
+    "de": "Chris Mason: Die US-Wahlen werden Trump verändern – wie wird Burnham reagieren?",
+    "zh": "克里斯·梅森：美国大选将改变特朗普——伯纳姆将如何反应？",
+    "ru": "Крис Мейсон: Выборы в США изменят Трампа – как на это отреагирует Бёрнем?"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ap",
    "source": "AP News",
    "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
@@ -2616,13 +2617,31 @@
     "ru": "Российские атаки подрывают власть в Киеве, а число погибших в пострадавшем селе выросло до 40"
    },
    "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Power deal between Labour and Greens in Sheffield",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly0en8e8eeo?at_medium=RSS&at_campaign=rss",
+   "ts": 1793811673,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Силова угода між лейбористами та зеленими в Шеффілді",
+    "fr": "Accord de pouvoir entre travaillistes et verts à Sheffield",
+    "de": "Machtdeal zwischen Labour und Grünen in Sheffield",
+    "zh": "谢菲尔德工党和绿党之间的电力交易",
+    "ru": "Соглашение о власти между лейбористами и зелеными в Шеффилде"
+   },
+   "lang": "en"
   }
  ],
  "status": [
   {
    "source": "cnbc_markets",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "source": "cnbc_top",
@@ -2647,12 +2666,12 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 27
+   "items": 26
   },
   {
    "source": "guardian_business",
    "ok": true,
-   "items": 33
+   "items": 36
   },
   {
    "source": "dw_business",
@@ -2667,7 +2686,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "source": "reuters_business",
@@ -2722,7 +2741,7 @@
   {
    "source": "guardian_politics",
    "ok": true,
-   "items": 18
+   "items": 17
   },
   {
    "source": "npr_politics",
@@ -2782,10 +2801,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 10,
-   "translated": 190,
+   "requests": 16,
+   "translated": 266,
    "method": {
-    "dict": 10
+    "dict": 16
    }
   },
   {
