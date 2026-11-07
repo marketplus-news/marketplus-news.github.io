@@ -1,5 +1,5 @@
 {
- "updated": 1794087527,
+ "updated": 1794091123,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,20 +216,366 @@
  ],
  "items": [
   {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+   "url": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+   "ts": 1794090997,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент Ізраїлю залучає кандидата від опозиції Айзенкота для формування уряду, що є невдачею Нетаньяху",
+    "fr": "Le président israélien fait appel au candidat de l’opposition Eisenkot pour former un gouvernement, un revers pour Netanyahu",
+    "de": "Israels Präsident beauftragt den Oppositionskandidaten Eisenkot mit der Bildung einer Regierung – ein Rückschlag für Netanyahu",
+    "zh": "以色列总统任命反对派候选人艾森科特组建政府，内塔尼亚胡受挫",
+    "ru": "Президент Израиля привлекает кандидата от оппозиции Айзенкота для формирования правительства, что является неудачей для Нетаньяху"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "What we know so far after Krakow gun attack",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794090450,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Що ми знаємо на даний момент після нападу в Кракові",
+    "fr": "Ce que nous savons jusqu'à présent après l'attaque à Cracovie",
+    "de": "Was wir bisher nach dem Krakauer Waffenangriff wissen",
+    "zh": "克拉科夫枪击事件后我们目前所知道的",
+    "ru": "Что мы знаем на данный момент после перестрелки в Кракове"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+   "ts": 1794089872,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Ризик ескалації війни в Ірані залишається високим, незважаючи на перемогу демократів на проміжних виборах у США",
+    "fr": "Le risque d’une escalade de la guerre en Iran reste élevé malgré la victoire des démocrates aux élections de mi-mandat aux États-Unis.",
+    "de": "Das Risiko einer Eskalation des Iran-Krieges bleibt hoch, obwohl die Demokraten bei den Zwischenwahlen in den USA für sich gewonnen haben",
+    "zh": "尽管民主党在美国中期选举中大获全胜，伊朗战争升级的风险仍然很高",
+    "ru": "Риск эскалации войны с Ираном остается высоким, несмотря на победу Демократической партии на промежуточных выборах в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+   "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+   "ts": 1794089529,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент Ізраїлю запрошує лідера опозиції Нетаньяху стати посередником у створенні нового уряду",
+    "fr": "Le président israélien invite le chef de l'opposition de Netanyahu à négocier un nouveau gouvernement",
+    "de": "Der israelische Präsident lädt den Oppositionsführer Netanyahu ein, eine neue Regierung auszuhandeln",
+    "zh": "以色列总统邀请内塔尼亚胡反对派领导人斡旋新政府",
+    "ru": "Президент Израиля пригласил лидера оппозиции Нетаньяху стать посредником в новом правительстве"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+   "url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+   "ts": 1794089528,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Техаське «Блакитне цунамі» затримало колишнього конгресмена Техасу Бето О'Рурка «за місяцем»",
+    "fr": "Le « tsunami bleu » au Texas rend l'ancien membre du Congrès du Texas Beto O'Rourke « aux anges »",
+    "de": "Der „blaue Tsunami“ in Texas hat den ehemaligen texanischen Kongressabgeordneten Beto O’Rourke „überglücklich“ gemacht",
+    "zh": "德克萨斯州的“蓝色海啸”让前德克萨斯州国会议员贝托·奥罗克欣喜若狂",
+    "ru": "Техасское «Голубое цунами» привело бывшего техасского конгрессмена Бето О'Рурка «на луну»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "A correspondent finds Cuba's people struggling",
+   "url": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+   "ts": 1794089526,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Кореспондент бачить, що народ Куби бореться",
+    "fr": "Un correspondant constate que le peuple cubain est en difficulté",
+    "de": "Ein Korrespondent stellt fest, dass das kubanische Volk Probleme hat",
+    "zh": "记者发现古巴人民正在苦苦挣扎",
+    "ru": "Корреспондент констатирует, что народ Кубы испытывает трудности"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+   "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
+   "ts": 1794089523,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент The Heritage Foundation дивиться у майбутнє Республіканської партії",
+    "fr": "Le président de The Heritage Foundation se tourne vers l’avenir du GOP",
+    "de": "Der Präsident der Heritage Foundation blickt in die Zukunft der Republikanischen Partei",
+    "zh": "传统基金会主席展望共和党的未来",
+    "ru": "Президент Фонда «Наследие» смотрит в будущее Республиканской партии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump offers UFC chief Dana White press secretary job",
+   "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+   "ts": 1794088986,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп запропонував керівнику UFC Дані Вайту посаду прес-секретаря",
+    "fr": "Trump propose au chef de l'UFC, Dana White, le poste d'attachée de presse",
+    "de": "Trump bietet UFC-Chef Dana White den Job als Pressesprecherin an",
+    "zh": "特朗普向 UFC 主席达纳·怀特提供新闻秘书职位",
+    "ru": "Трамп предлагает главе UFC Дане Уайту должность пресс-секретаря"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+   "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+   "ts": 1794088750,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп націлився на Слоткіна у заклику до розслідування Міністерством юстиції щодо ймовірних погроз Демократичної партії республіканцям",
+    "fr": "Trump cible Slotkin en appelant le ministère de la Justice à enquêter sur les menaces présumées des démocrates contre les républicains",
+    "de": "Trump nimmt Slotkin ins Visier und fordert eine Untersuchung mutmaßlicher Drohungen der Demokraten gegen die Republikaner durch das DOJ",
+    "zh": "特朗普针对斯洛特金呼吁司法部调查所谓的民主党对共和党的威胁",
+    "ru": "Трамп нацелился на Слоткина, призывая к расследованию Министерства юстиции предполагаемых угроз со стороны Демократической партии республиканцам"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Trump offers UFC Chief White House press secretary job to defend against 'Lunatic Left'",
+   "url": "https://www.ukrinform.net/rubric-polytics/4182532-trump-offers-ufc-chief-white-house-press-secretary-job-to-defend-against-lunatic-left.html",
+   "ts": 1794088740,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Трамп запропонував голові UFC посаду прес-секретаря Білого дому, щоб захищати від «божевільних лівих»",
+    "fr": "Trump propose le poste d'attaché de presse en chef de l'UFC à la Maison Blanche pour se défendre contre la « gauche folle »",
+    "de": "Trump bietet UFC-Chef den Job als Pressesprecher im Weißen Haus an, um sich gegen die „Verrückte Linke“ zu verteidigen",
+    "zh": "特朗普任命 UFC 首席白宫新闻秘书一职，以抵御“疯狂左派”",
+    "ru": "Трамп предлагает должность главного пресс-секретаря UFC в Белом доме для защиты от «левых безумцев»"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
-   "title": "Belarus barred from 2027 ice hockey championships as IIHF considers Russia's return after court ruling",
+   "title": "Russia to send senior diplomats, military officials to upcoming peace talks in Abu Dhabi",
+   "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/",
+   "ts": 1794088738,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія відправить високопоставлених дипломатів і військових на майбутні мирні переговори в Абу-Дабі",
+    "fr": "La Russie va envoyer de hauts diplomates et des responsables militaires aux prochains pourparlers de paix à Abou Dhabi",
+    "de": "Russland schickt hochrangige Diplomaten und Militärs zu den bevorstehenden Friedensgesprächen in Abu Dhabi",
+    "zh": "俄罗斯将派遣高级外交官和军事官员参加即将在阿布扎比举行的和平谈判",
+    "ru": "Россия направит высокопоставленных дипломатов и военных на предстоящие мирные переговоры в Абу-Даби"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "ts": 1794088734,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Остання інформація про стрілянину в Кракові: шестеро загиблих і більше десятка поранених, повідомляє поліція",
+    "fr": "Dernières nouvelles sur la fusillade de Cracovie : six morts et plus d'une douzaine de blessés, selon la police",
+    "de": "Krakauer Schießerei, neueste Updates: Sechs Tote und mehr als ein Dutzend Verletzte, sagt die Polizei",
+    "zh": "克拉科夫枪击事件最新进展：警方称六人死亡、十几人受伤",
+    "ru": "Последние новости о стрельбе в Кракове: шестеро убиты и более десятка ранены, сообщает полиция"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+   "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+   "ts": 1794088407,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Польський стрілок, який убив 6 людей у ​​Кракові, має «ультранаціоналістичні» погляди, каже міністр",
+    "fr": "Le tireur polonais qui a tué 6 personnes à Cracovie a des opinions « ultranationalistes », selon le ministre",
+    "de": "Polnischer Schütze, der in Krakau sechs Menschen getötet hat, vertritt „ultranationalistische“ Ansichten, sagt Minister",
+    "zh": "部长称克拉科夫枪杀六人的波兰枪手持有“极端民族主义”观点",
+    "ru": "Польский боевик, убивший шесть человек в Кракове, придерживается «ультранационалистических» взглядов, заявил министр"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+   "ts": 1794087973,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор World Acceptance Бенджамін Робінсон продає акції за 14 878 доларів",
+    "fr": "Le directeur de World Acceptance, Benjamin Robinson, vend 14 878 $ d'actions",
+    "de": "Benjamin Robinson, Direktor von World Acceptance, verkauft Aktien im Wert von 14.878 US-Dollar",
+    "zh": "World Acceptance 董事 Benjamin Robinson 出售价值 14,878 美元的股票",
+    "ru": "Директор World Acceptance Бенджамин Робинсон продает акции на сумму 14 878 долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Dropbox chief accounting officer sells $74,884 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+   "ts": 1794087958,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Головний бухгалтер Dropbox продає запаси за 74 884 долари",
+    "fr": "Le chef comptable de Dropbox vend 74 884 $ de stock",
+    "de": "Der Chief Accounting Officer von Dropbox verkauft Aktien im Wert von 74.884 US-Dollar",
+    "zh": "Dropbox 首席会计官出售价值 74,884 美元的股票",
+    "ru": "Главный бухгалтер Dropbox продал акции на сумму 74 884 доллара"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+   "ts": 1794087613,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що він хоче, щоб голова UFC Дана Вайт була прес-секретарем Білого дому",
+    "fr": "Trump dit qu'il veut le chef de l'UFC, Dana White, comme attaché de presse de la Maison Blanche",
+    "de": "Trump sagt, er wolle UFC-Chefin Dana White als Pressesprecherin des Weißen Hauses",
+    "zh": "特朗普表示希望UFC主席达纳·怀特担任白宫新闻秘书",
+    "ru": "Трамп заявил, что хочет, чтобы глава UFC Дана Уайт стал пресс-секретарем Белого дома"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
+   "url": "https://www.investing.com/news/economy-news/emerging-market-central-banks-turn-hawkish-as-inflation-pressures-mount-citi-says-5010059",
+   "ts": 1794087171,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Центральні банки ринків, що розвиваються, стають яструбиними, оскільки інфляційний тиск зростає, каже Citi",
+    "fr": "Les banques centrales des marchés émergents deviennent bellicistes alors que les pressions inflationnistes augmentent, selon Citi",
+    "de": "Laut Citi werden die Zentralbanken der Schwellenländer restriktiv, da der Inflationsdruck zunimmt",
+    "zh": "花旗表示，随着通胀压力加大，新兴市场央行变得鹰派",
+    "ru": "Центральные банки развивающихся рынков становятся ястребами по мере роста инфляционного давления, сообщает Citi"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Belarus barred from 2027 ice hockey championships as IIHF weighs Russia's return after court ruling",
    "url": "https://kyivindependent.com/belarus-barred-from-2027-ice-hockey-championships-as-iihf-considers-russias-return-after-court-ruling/",
    "ts": 1794087106,
    "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "Білорусь відсторонили від чемпіонату з хокею 2027 року, оскільки IIHF розглядає можливість повернення Росії після рішення суду",
-    "fr": "La Biélorussie exclue des championnats de hockey sur glace 2027 alors que l'IIHF envisage le retour de la Russie après une décision de justice",
-    "de": "Weißrussland wurde von der Eishockeymeisterschaft 2027 ausgeschlossen, da die IIHF nach einem Gerichtsurteil die Rückkehr Russlands erwägt",
-    "zh": "白俄罗斯被禁止参加 2027 年冰球锦标赛，因为国际冰联在法院裁决后考虑俄罗斯回归",
-    "ru": "Белоруссию отстранили от чемпионата по хоккею 2027 года, поскольку ИИХФ рассматривает возможность возвращения России после решения суда"
+    "uk": "Білорусь відсторонили від чемпіонату з хокею 2027 року, оскільки IIHF зважує повернення Росії після рішення суду",
+    "fr": "La Biélorussie exclue des championnats de hockey sur glace 2027 alors que l'IIHF réfléchit au retour de la Russie après une décision de justice",
+    "de": "Weißrussland wurde von der Eishockeymeisterschaft 2027 ausgeschlossen, da die IIHF nach einem Gerichtsurteil die Rückkehr Russlands abwägt",
+    "zh": "白俄罗斯被禁止参加 2027 年冰球锦标赛，国际冰联在法院裁决后权衡俄罗斯的回归",
+    "ru": "Белоруссию отстранили от чемпионата по хоккею 2027 года, поскольку ИИХФ взвешивает возвращение России после решения суда"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Kraków terrorist attack: Foreign nationals among dead and injured",
+   "url": "https://www.ukrinform.net/rubric-crime/4182530-krakow-terrorist-attack-foreign-nationals-among-dead-and-injured.html",
+   "ts": 1794086880,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Теракт у Кракові: серед загиблих і поранених іноземці",
+    "fr": "Attentat terroriste de Cracovie : des ressortissants étrangers parmi les morts et les blessés",
+    "de": "Terroranschlag in Krakau: Ausländische Staatsangehörige unter Toten und Verletzten",
+    "zh": "克拉科夫恐怖袭击：死伤中有外国人",
+    "ru": "Теракт в Кракове: среди погибших и раненых есть иностранцы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
+   "ts": 1794086778,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прокуратура Парагваю висунула звинувачення екс-президенту Пенья та вимагає досудового ув'язнення",
+    "fr": "Les procureurs du Paraguay inculpent l'ex-président Peña et demandent la détention provisoire",
+    "de": "Paraguays Staatsanwälte klagen Ex-Präsident Peña an und beantragen Untersuchungshaft",
+    "zh": "巴拉圭检察官指控前总统佩尼亚，寻求审前拘留",
+    "ru": "Прокуратура Парагвая предъявила обвинение экс-президенту Пенья и требует предварительного заключения"
    },
    "lang": "en"
   },
@@ -271,24 +617,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "ts": 1794086579,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Остання інформація про стрілянину в Кракові: шестеро загиблих і більше десятка поранених, повідомляє поліція",
-    "fr": "Dernières nouvelles sur la fusillade de Cracovie : six morts et plus d'une douzaine de blessés, selon la police",
-    "de": "Krakauer Schießerei, neueste Updates: Sechs Tote und mehr als ein Dutzend Verletzte, sagt die Polizei",
-    "zh": "克拉科夫枪击事件最新进展：警方称六人死亡、十几人受伤",
-    "ru": "Последние новости о стрельбе в Кракове: шестеро убиты и более десятка ранены, сообщает полиция"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "investing",
    "source": "Investing.com",
    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -326,57 +654,21 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump offers UFC chief Dana White press secretary job",
-   "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-   "ts": 1794086274,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп запропонував керівнику UFC Дані Вайту посаду прес-секретаря",
-    "fr": "Trump propose au chef de l'UFC, Dana White, le poste d'attachée de presse",
-    "de": "Trump bietet UFC-Chef Dana White den Job als Pressesprecherin an",
-    "zh": "特朗普向 UFC 主席达纳·怀特提供新闻秘书职位",
-    "ru": "Трамп предлагает главе UFC Дане Уайту должность пресс-секретаря"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "What we know so far after Krakow gun attack",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794086004,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо на даний момент після нападу в Кракові",
-    "fr": "Ce que nous savons jusqu'à présent après l'attaque à Cracovie",
-    "de": "Was wir bisher nach dem Krakauer Waffenangriff wissen",
-    "zh": "克拉科夫枪击事件后我们目前所知道的",
-    "ru": "Что мы знаем на данный момент после перестрелки в Кракове"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
-   "ts": 1794085740,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "New Zealand preliminary vote leaves unclear who will govern",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5",
+   "ts": 1794085675,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Президент Ізраїлю залучає кандидата від опозиції Айзенкота для формування уряду, що є невдачею Нетаньяху",
-    "fr": "Le président israélien fait appel au candidat de l’opposition Eisenkot pour former un gouvernement, un revers pour Netanyahu",
-    "de": "Israels Präsident beauftragt den Oppositionskandidaten Eisenkot mit der Bildung einer Regierung – ein Rückschlag für Netanyahu",
-    "zh": "以色列总统任命反对派候选人艾森科特组建政府，内塔尼亚胡受挫",
-    "ru": "Президент Израиля привлекает кандидата от оппозиции Айзенкота для формирования правительства, что является неудачей для Нетаньяху"
+    "uk": "Попереднє голосування в Новій Зеландії залишає незрозумілим, хто правитиме",
+    "fr": "Le vote préliminaire en Nouvelle-Zélande laisse incertain qui gouvernera",
+    "de": "Die vorläufige Abstimmung in Neuseeland lässt unklar, wer regieren wird",
+    "zh": "新西兰初步投票尚不清楚谁将执政",
+    "ru": "Предварительное голосование в Новой Зеландии оставляет неясным, кто будет управлять страной"
    },
    "lang": "en"
   },
@@ -599,24 +891,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-   "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-   "ts": 1794083297,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп націлився на Слоткіна у заклику до розслідування Міністерством юстиції щодо ймовірних погроз Демократичної партії республіканцям",
-    "fr": "Trump cible Slotkin en appelant le ministère de la Justice à enquêter sur les menaces présumées des démocrates contre les républicains",
-    "de": "Trump nimmt Slotkin ins Visier und fordert eine Untersuchung mutmaßlicher Drohungen der Demokraten gegen die Republikaner durch das DOJ",
-    "zh": "特朗普针对斯洛特金呼吁司法部调查所谓的民主党对共和党的威胁",
-    "ru": "Трамп нацелился на Слоткина, призывая к расследованию Министерства юстиции предполагаемых угроз со стороны Демократической партии республиканцам"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Ukrainian citizens unharmed in Kraków terrorist attack – Foreign Ministry",
@@ -654,6 +928,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Explosions heard in Iran's Qeshm Island, Iranian media reports",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
+   "ts": 1794082819,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "На іранському острові Кешм пролунали вибухи, повідомляють іранські ЗМІ",
+    "fr": "Des explosions entendues sur l'île iranienne de Qeshm, rapportent les médias iraniens",
+    "de": "Iranische Medien berichten, dass auf der iranischen Insel Qeschm Explosionen zu hören waren",
+    "zh": "伊朗媒体报道伊朗格什姆岛发生爆炸",
+    "ru": "На иранском острове Кешм прозвучали взрывы, сообщают иранские СМИ"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "npr_world",
    "source": "NPR",
    "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
@@ -673,38 +965,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Amex chief legal officer Laureen Seeger sells $22.9M in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/amex-chief-legal-officer-laureen-seeger-sells-229m-in-stock-93CH-5010032",
-   "ts": 1794082584,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Trump orders DOJ to look into Democrats for 'threatening' people",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5",
+   "ts": 1794082398,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Головний юридичний директор Amex Лорін Сігер продає акції на 22,9 млн доларів",
-    "fr": "Laureen Seeger, directrice juridique d'Amex, vend 22,9 millions de dollars d'actions",
-    "de": "Laureen Seeger, Chief Legal Officer von Amex, verkauft Aktien im Wert von 22,9 Millionen US-Dollar",
-    "zh": "美国运通首席法律官 Lauren Seeger 出售价值 2290 万美元的股票",
-    "ru": "Главный юрисконсульт Amex Лорин Сигер продает акции на сумму 22,9 миллиона долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Century Casinos earnings missed, revenue fell short of estimates",
-   "url": "https://www.investing.com/news/earnings/century-casinos-earnings-missed-revenue-fell-short-of-estimates-5010028",
-   "ts": 1794082515,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прибутки Century Casinos не виправдані, дохід не відповідає оцінкам",
-    "fr": "Les bénéfices de Century Casinos manquent, les revenus sont inférieurs aux estimations",
-    "de": "Die Gewinne von Century Casinos blieben zurück, die Einnahmen blieben hinter den Schätzungen zurück",
-    "zh": "世纪赌场盈利未达预期，收入低于预期",
-    "ru": "Доходы Century Casino упущены, выручка не оправдала оценок"
+    "uk": "Трамп наказує Міністерству юстиції перевірити демократів на предмет «погроз» людям",
+    "fr": "Trump ordonne au ministère de la Justice d'enquêter sur les démocrates pour avoir « menacé » des personnes",
+    "de": "Trump befiehlt dem Justizministerium, die Demokraten wegen „bedrohlicher“ Menschen zu untersuchen",
+    "zh": "特朗普命令司法部调查民主党人“威胁”人民",
+    "ru": "Трамп приказал Министерству юстиции проверить демократов на предмет «угроз» людям"
    },
    "lang": "en"
   },
@@ -761,42 +1035,6 @@
     "de": "Paraguays gestürzter Präsident erscheint nach der Amtsenthebung vor der Staatsanwaltschaft",
     "zh": "巴拉圭被驱逐的总统在弹劾后出现在检察官面前",
     "ru": "Свергнутый президент Парагвая предстанет перед прокуратурой после импичмента"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
-   "url": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
-   "ts": 1794081726,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Чому золото втрачає свій блиск: Goldman руйнує нещодавні розпродажі",
-    "fr": "Pourquoi l’or perd de son éclat : Goldman analyse la récente vente massive",
-    "de": "Warum Gold seinen Glanz verliert: Goldman schlüsselt den jüngsten Ausverkauf auf",
-    "zh": "黄金为何失去光芒：高盛打破近期抛售潮",
-    "ru": "Почему золото теряет свой блеск: Goldman опровергает недавнюю распродажу"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Trump says he wants UFC chief Dana White for White House press secretary",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
-   "ts": 1794081605,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп каже, що він хоче, щоб голова UFC Дана Вайт була прес-секретарем Білого дому",
-    "fr": "Trump dit qu'il veut le chef de l'UFC, Dana White, comme attaché de presse de la Maison Blanche",
-    "de": "Trump sagt, er wolle UFC-Chefin Dana White als Pressesprecherin des Weißen Hauses",
-    "zh": "特朗普表示希望UFC主席达纳·怀特担任白宫新闻秘书",
-    "ru": "Трамп заявил, что хочет, чтобы глава UFC Дана Уайт стал пресс-секретарем Белого дома"
    },
    "lang": "en"
   },
@@ -890,6 +1128,24 @@
     "de": "Hier sind die Kapitalertragsteuersätze für 2027 für jede Einkommensstufe",
     "zh": "以下是 2027 年各收入水平的资本利得税率",
     "ru": "Вот ставки налога на прирост капитала в 2027 году для каждого уровня дохода."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
+   "ts": 1794080460,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Меланія Трамп і LSU оголошують стипендіальну програму для студентів, які перебували під опікою",
+    "fr": "Melania Trump et LSU annoncent un programme de bourses pour les étudiants placés en famille d'accueil",
+    "de": "Melania Trump und die LSU kündigen ein Stipendienprogramm für Studierende an, die in Pflegefamilien untergebracht waren",
+    "zh": "梅拉尼娅·特朗普和路易斯安那州立大学宣布为寄养学生提供奖学金计划",
+    "ru": "Мелания Трамп и ЛГУ объявляют стипендиальную программу для студентов, оказавшихся в приемных семьях"
    },
    "lang": "en"
   },
@@ -1018,24 +1274,6 @@
     "de": "Tesla wird Cybertruck-Verschiebung hinzufügen, um Bestellungen vor der Demontagelinie im nächsten Jahr zu klären",
     "zh": "特斯拉将在明年拆除生产线之前增加 Cyber​​truck 班次以清除订单",
     "ru": "Tesla добавит смену Cybertruck для оформления заказов перед демонтажем линии в следующем году"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-   "ts": 1794078430,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Прокуратура Парагваю висунула звинувачення екс-президенту Пенья та вимагає досудового ув'язнення",
-    "fr": "Les procureurs du Paraguay inculpent l'ex-président Peña et demandent la détention provisoire",
-    "de": "Paraguays Staatsanwälte klagen Ex-Präsident Peña an und beantragen Untersuchungshaft",
-    "zh": "巴拉圭检察官指控前总统佩尼亚，寻求审前拘留",
-    "ru": "Прокуратура Парагвая предъявила обвинение экс-президенту Пенья и требует предварительного заключения"
    },
    "lang": "en"
   },
@@ -1203,43 +1441,6 @@
    "lang": "en"
   },
   {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "South Africa's ANC facing worst-ever performance in local elections",
-   "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf",
-   "ts": 1794074820,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "АНК Південної Африки зіткнувся з найгіршим показником за всю історію місцевих виборів",
-    "fr": "L'ANC en Afrique du Sud fait face aux pires résultats de son histoire aux élections locales",
-    "de": "Südafrikas ANC steht bei Kommunalwahlen vor dem schlechtesten Ergebnis aller Zeiten",
-    "zh": "南非非国大在地方选举中面临有史以来最差表现",
-    "ru": "АНК ЮАР демонстрирует худшие результаты на местных выборах за всю историю"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3JnUjY1ZS1tNXRyb3ZGZWJnZENRSnJyUlJORE9sdFpOdTVfclFlRW1LeEFBZzJoYzNYbjN2NnQwWTNUMEFPY3BrQWdORGxBb0V0VW5DVktCQm1EUWpCdUFmUUQzRml2R1AtdTJQcjBwY3ktbktiVTF0UkhpcUw5SkhxY3llN2ZNV0dxWjdCYjE3UC1yQ3dqVmpQamFHUnM2ZEwzdkpZSEV1NmM?oc=5",
-   "ts": 1794074460,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що таке Дівалі, Фестиваль вогнів, і як його святкують?",
-    "fr": "Qu'est-ce que Diwali, la Fête des Lumières, et comment est-elle célébrée ?",
-    "de": "Was ist Diwali, das Lichterfest, und wie wird es gefeiert?",
-    "zh": "什么是排灯节（排灯节）以及如何庆祝它？",
-    "ru": "Что такое Дивали, Фестиваль огней, и как его отмечают?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky: Ukraine expects results on air defense and energy at G7, UDCG and Coalition of the Willing meetings",
@@ -1258,24 +1459,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Gaza wedding festival sees 250 couples married at the same time",
-   "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794074321,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "На весільному фестивалі в Газі одночасно одружуються 250 пар",
-    "fr": "Le festival du mariage à Gaza voit 250 couples se marier en même temps",
-    "de": "Beim Hochzeitsfest in Gaza heiraten 250 Paare gleichzeitig",
-    "zh": "加沙婚礼节有250对新人同时结婚",
-    "ru": "На свадебном фестивале в Газе одновременно поженились 250 пар"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
@@ -1290,24 +1473,6 @@
     "de": "Deutschland könne der Ukraine vorerst keine weiteren Patriot-Systeme liefern, sagt Verteidigungsminister",
     "zh": "国防部长表示，德国目前无法向乌克兰提供更多爱国者系统",
     "ru": "Германия пока не может предоставить Украине больше систем Patriot, заявил министр обороны"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-   "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-   "ts": 1794073876,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Головний стратег Meta Дейв Венер залишає посаду фінансового директора в стартап інфраструктури ШІ Fireworks.",
-    "fr": "Dave Wehner, directeur de la stratégie de Meta, quitte Fireworks pour rejoindre la start-up d'infrastructure d'IA en tant que directeur financier",
-    "de": "Dave Wehner, Chief Strategy Officer von Meta, wechselt als CFO zum KI-Infrastruktur-Startup Fireworks",
-    "zh": "Meta 首席战略官 Dave Wehner 离职，加入人工智能基础设施初创公司 Fireworks 担任首席财务官",
-    "ru": "Директор по стратегии Meta Дэйв Венер уходит, чтобы присоединиться к стартапу Fireworks, занимающемуся инфраструктурой искусственного интеллекта, в качестве финансового директора"
    },
    "lang": "en"
   },
@@ -1384,25 +1549,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-   "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-   "ts": 1794072604,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "«Ми повинні змінити все»: лідер французьких ультралівих Меланшон запускає президентську програму",
-    "fr": "\"Nous devons tout changer\" : le leader d'extrême gauche français Mélenchon lance son programme présidentiel",
-    "de": "„Wir müssen alles ändern“: Der französische Linksaußen-Chef Mélenchon startet Präsidentschaftsprogramm",
-    "zh": "“我们必须改变一切”：法国极左翼领导人梅朗雄启动总统计划",
-    "ru": "«Мы должны изменить все»: лидер крайне левых сил Меланшон запускает президентскую программу"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "First evacuees from Oleshky leave hospital to join families in Ukraine– Lubinets",
@@ -1421,25 +1567,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "Ousted Paraguayan president appears before prosecutors",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-   "ts": 1794071676,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Усунутий президент Парагваю постає перед прокурорами",
-    "fr": "Le président paraguayen déchu comparaît devant les procureurs",
-    "de": "Der gestürzte paraguayische Präsident erscheint vor Staatsanwaltschaft",
-    "zh": "被驱逐的巴拉圭总统出现在检察官面前",
-    "ru": "Свергнутый президент Парагвая предстал перед прокуратурой"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
@@ -1454,24 +1581,6 @@
     "de": "Die reichsten 10 % der Amerikaner liegen vor allen anderen. Das macht sie reicher.",
     "zh": "最富有的 10% 的美国人正在领先于其他所有人。这就是让他们变得更富有的原因。",
     "ru": "10% самых богатых американцев опережают всех остальных. Именно это делает их богаче."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Five killed, over ten injured in shooting in central Krakow",
-   "url": "https://www.ukrinform.net/rubric-emergencies/4182490-five-killed-over-ten-injured-in-shooting-in-central-krakow.html",
-   "ts": 1794070980,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "П'ятеро загиблих, понад десять поранених внаслідок стрілянини в центрі Кракова",
-    "fr": "Cinq morts et plus de dix blessés dans une fusillade dans le centre de Cracovie",
-    "de": "Fünf Tote, über zehn Verletzte bei Schießerei im Zentrum von Krakau",
-    "zh": "克拉科夫市中心发生枪击事件，五人死亡，十多人受伤",
-    "ru": "Пять человек погибли и более десяти получили ранения в результате стрельбы в центре Кракова"
    },
    "lang": "en"
   },
@@ -1508,24 +1617,6 @@
     "de": "Durch die Ausweitung der Seeblockade versucht das US-Militär, den iranischen Landhandel einzuschränken",
     "zh": "美军扩大海上封锁，寻求限制伊朗陆地贸易",
     "ru": "Расширяя военно-морскую блокаду, американские военные стремятся ограничить сухопутную торговлю с Ираном"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Zelensky: Ukraine currently generating more electricity than it consumes",
-   "url": "https://www.ukrinform.net/rubric-economy/4182486-zelensky-ukraine-currently-generating-more-electricity-than-it-consumes.html",
-   "ts": 1794069480,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський: Україна зараз виробляє більше електроенергії, ніж споживає",
-    "fr": "Zelensky : l’Ukraine produit actuellement plus d’électricité qu’elle n’en consomme",
-    "de": "Selenskyj: Die Ukraine erzeugt derzeit mehr Strom, als sie verbraucht",
-    "zh": "泽连斯基：乌克兰目前发电量多于消耗量",
-    "ru": "Зеленский: Сейчас Украина производит больше электроэнергии, чем потребляет"
    },
    "lang": "en"
   },
@@ -1639,24 +1730,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_markets",
-   "source": "CNBC",
-   "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-   "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-   "ts": 1794067353,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Чому прогноз щодо акцій охорони здоров’я є невизначеним перед новим складом Конгресу",
-    "fr": "Pourquoi le pronostic des actions du secteur de la santé est incertain avant la nouvelle composition du Congrès",
-    "de": "Warum die Prognose für Gesundheitsaktien im Vorfeld der neuen Zusammensetzung des Kongresses ungewiss ist",
-    "zh": "为什么在国会新组成之前医疗保健股的预测尚不确定",
-    "ru": "Почему прогноз по акциям компаний здравоохранения неопределенен в преддверии нового состава Конгресса"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
@@ -1671,6 +1744,25 @@
     "de": "Deutschland ist nicht mehr in der Lage, Patriot-Systeme an die Ukraine zu liefern",
     "zh": "德国耗尽了向乌克兰供应爱国者系统的能力",
     "ru": "Германия исчерпала возможности по поставкам систем Патриот в Украину"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5",
+   "ts": 1794067165,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський розкритикував СБУ через корупційний скандал",
+    "fr": "Zelenskiy critique le service de sécurité ukrainien du SBU pour un scandale de corruption",
+    "de": "Selenskyj kritisiert den ukrainischen Sicherheitsdienst SBU wegen Korruptionsskandal",
+    "zh": "泽连斯基批评乌克兰SBU安全部门腐败丑闻",
+    "ru": "Зеленский раскритиковал СБУ за коррупционный скандал"
    },
    "lang": "en"
   },
@@ -1707,24 +1799,6 @@
     "de": "Vor 100 Jahren suchten Kiews junge Schriftsteller nach künstlerischer Freiheit. Stalins Säuberungen beendeten ihr Experiment",
     "zh": "100 年前，基辅的年轻作家寻求艺术自由。斯大林的清洗缩短了他们的实验",
     "ru": "100 лет назад молодые киевские писатели искали творческую свободу. Сталинские чистки прервали эксперимент"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-   "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-   "ts": 1794065435,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "П'ять європейських лідерів закликають до зближення ЄС і Великобританії напередодні саміту в Брюсселі",
-    "fr": "Cinq dirigeants européens appellent à des relations plus étroites entre l’UE et le Royaume-Uni avant le sommet de Bruxelles",
-    "de": "Fünf europäische Staats- und Regierungschefs fordern vor dem Brüsseler Gipfel engere Beziehungen zwischen der EU und dem Vereinigten Königreich",
-    "zh": "五位欧洲领导人呼吁在布鲁塞尔峰会前加强欧盟与英国的关系",
-    "ru": "Пять европейских лидеров призывают к более тесным связям между ЕС и Великобританией в преддверии саммита в Брюсселе"
    },
    "lang": "en"
   },
@@ -1781,6 +1855,26 @@
     "de": "Russland bombardiert Kraftwerke rund um Kiew und beschädigt große Brücke",
     "zh": "俄罗斯猛烈袭击基辅周围的电力设施，损坏了主要桥梁",
     "ru": "Россия обстреливает энергообъекты вокруг Киева и повредила главный мост"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
+   "ts": 1794063741,
+   "sec": [
+    "world",
+    "ukraine",
+    "politics"
+   ],
+   "t": {
+    "uk": "Міністр закордонних справ Італії каже, що став мішенню проросійських хакерів через підтримку України",
+    "fr": "Le ministre italien des Affaires étrangères affirme avoir été ciblé par des pirates informatiques pro-russes en raison du soutien de l'Ukraine.",
+    "de": "Der italienische Außenminister sagt, er sei wegen der Unterstützung der Ukraine ins Visier prorussischer Hacker geraten",
+    "zh": "意大利外长表示，他因支持乌克兰而成为亲俄黑客的攻击目标",
+    "ru": "Министр иностранных дел Италии заявил, что стал жертвой пророссийских хакеров из-за поддержки Украины"
    },
    "lang": "en"
   },
@@ -1890,24 +1984,6 @@
     "de": "Stromausfälle und Wasserknappheit in Kiew nach Angriffen Russlands auf das ukrainische Energienetz",
     "zh": "俄罗斯袭击乌克兰电网后基辅停电和缺水",
     "ru": "Отключения электроэнергии и нехватка воды в Киеве после того, как Россия нанесла удар по энергосистеме Украины"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Russian forces attack businesses in Kremenchuk",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061721/",
-   "ts": 1794055800,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські війська атакують підприємства Кременчука",
-    "fr": "Les forces russes attaquent des entreprises à Krementchouk",
-    "de": "Russische Streitkräfte greifen Geschäfte in Krementschuk an",
-    "zh": "俄罗斯军队袭击克列缅丘克的企业",
-    "ru": "Российские военные атаковали предприятия в Кременчуге"
    },
    "lang": "en"
   },
@@ -2136,7 +2212,7 @@
    "source": "Reuters",
    "title": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
-   "ts": 1794037800,
+   "ts": 1794039275,
    "sec": [
     "world",
     "ukraine",
@@ -2166,6 +2242,25 @@
     "de": "Warum Woke 2.0 es mit Trump und der etablierten Politik aufnimmt | Nesrine Malik | Radical Thinking-Podcast",
     "zh": "为什么 Woke 2.0 正在挑战特朗普和建制派政治？内斯琳·马利克 |激进思维播客",
     "ru": "Почему Woke 2.0 бросает вызов Трампу и политике истеблишмента | Несрин Малик | Подкаст «Радикальное мышление»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
+   "ts": 1794036660,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія заявляє, що вночі вдарила по цілях у Києві та його околицях",
+    "fr": "La Russie affirme avoir touché des cibles à Kyiv et dans ses environs lors d'une frappe massive nocturne",
+    "de": "Russland gibt an, in einem massiven Nachtangriff Ziele in und um Kiew angegriffen zu haben",
+    "zh": "俄罗斯称在夜间大规模袭击中击中了基辅及其周边地区的目标",
+    "ru": "Россия заявляет, что нанесла массированный ночной удар по целям в Киеве и его окрестностях"
    },
    "lang": "en"
   },
@@ -2206,38 +2301,21 @@
    "lang": "en"
   },
   {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "American democracy was a big winner in the midterms",
-   "url": "https://www.npr.org/2026/11/06/nx-s1-6029750/american-democracy-was-a-big-winner-in-the-midterms",
-   "ts": 1794004391,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+   "ts": 1794005217,
    "sec": [
-    "politics"
+    "world",
+    "market"
    ],
    "t": {
-    "uk": "Американська демократія була великим переможцем у проміжних термінах",
-    "fr": "La démocratie américaine a été une grande gagnante à mi-mandat",
-    "de": "Die amerikanische Demokratie war bei den Zwischenwahlen ein großer Gewinner",
-    "zh": "美国民主是中期选举的大赢家",
-    "ru": "Американская демократия одержала крупную победу на промежуточных выборах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
-   "url": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
-   "ts": 1794003960,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Що потрібно знати про Джину Хінохосу, першого обраного латиноамериканського губернатора Техасу",
-    "fr": "Ce qu'il faut savoir sur Gina Hinojosa, la première gouverneure élue latino du Texas",
-    "de": "Was Sie über Gina Hinojosa wissen sollten, die erste gewählte Latina-Gouverneurin von Texas",
-    "zh": "关于德克萨斯州首位拉丁裔当选州长吉娜·伊诺霍萨 (Gina Hinojosa) 了解哪些信息",
-    "ru": "Что нужно знать о Джине Инохоса, первом избранном губернаторе Техаса латиноамериканце"
+    "uk": "Міністерство фінансів США запровадило санкції проти канадських компаній, що надають грошові послуги, через операції, пов’язані з Іраном",
+    "fr": "Le Trésor américain sanctionne les sociétés de services monétaires canadiennes pour des transactions liées à l'Iran",
+    "de": "Das US-Finanzministerium verhängt Sanktionen gegen kanadische Gelddienstleistungsunternehmen wegen Transaktionen mit Iran-Bezug",
+    "zh": "美国财政部因伊朗相关交易制裁加拿大货币服务公司",
+    "ru": "Министерство финансов США ввело санкции против канадских компаний, оказывающих денежные услуги, из-за транзакций, связанных с Ираном"
    },
    "lang": "en"
   },
@@ -2261,21 +2339,21 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOang4bWpWa1pIeDBMQlo0MzhWRVAzY0JURlFwX09PVjlBVmhEbDBLTndoWFU1NTA2MXNhT0xYdkstQ1dlMFU4Z1FBYkdhVXBRRHp0NlAxcmhyV19hQ1NkZzdoMU9NOVFCQWF5UURPUzVQWlBjYkt4T1RuRG9lRE0zbkZLX1k2RWJJQW1YM3dReEhMdUVWZ1RDeGdDY1d1NUtEbDZxMUwyenRrNE5UOVpRWkI2aVdMa1M4bEFEX2FiYnJ5dw?oc=5",
-   "ts": 1793991583,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ25SYTdOdF9LVHV6R3B4MnA4cjJycWdjQU5yX3BhR083Q1lpLTFjb1EwbENvdk15TTBEeXlpZHl3R3NEQjlNRUgxa0FZWUNlcjV0eXJDMkRjVUFGNDRRSjdDUDBuNVh0a01tejQ1UnlBbUNteDN6NjJPdEQxYjhRUkNhaW50UjJ5NTJpOVNpODRDTTJuSy1tWUNwV0xJWGpLZWM1OWZhVDB2ekpndXN0eWFB?oc=5",
+   "ts": 1793992800,
    "sec": [
-    "market",
-    "ukraine"
+    "world",
+    "market"
    ],
    "t": {
-    "uk": "Зеленський заявив, що Україна продовжує атакувати нафтопереробний сектор Росії",
-    "fr": "Zelenskiy affirme que l'Ukraine poursuit ses attaques contre le secteur russe du raffinage du pétrole",
-    "de": "Selenskyj sagte, die Ukraine führe ihre Angriffe auf den russischen Ölraffineriesektor fort",
-    "zh": "泽连斯基称乌克兰正在继续攻击俄罗斯炼油部门",
-    "ru": "Зеленский заявил, что Украина продолжает атаки на российскую нефтеперерабатывающую отрасль"
+    "uk": "Карні вітає прагнення демократів скасувати мита Трампа щодо Канади після перемоги в проміжній перспективі",
+    "fr": "Carney salue la volonté des démocrates de mettre fin aux tarifs douaniers de Trump sur le Canada après leur victoire à mi-mandat",
+    "de": "Carney begrüßt den Vorstoß der Demokraten, Trumps Zölle auf Kanada nach dem Zwischensieg zu beenden",
+    "zh": "卡尼欢迎民主党在中期选举胜利后推动结束特朗普对加拿大的关税",
+    "ru": "Карни приветствует стремление демократов отменить пошлины Трампа на Канаду после победы на промежуточных выборах"
    },
    "lang": "en"
   },
@@ -2353,25 +2431,6 @@
    "lang": "en"
   },
   {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-   "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
-   "ts": 1793973600,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Чеські виробники зброї націлилися на космічну оборону, намагаючись підтримати бум виробництва зброї в Україні",
-    "fr": "Les fabricants d’armes tchèques se tournent vers la défense spatiale pour tenter de soutenir le boom des armements provoqué par l’Ukraine",
-    "de": "Tschechische Waffenhersteller haben die Weltraumverteidigung ins Visier genommen, um den von der Ukraine vorangetriebenen Waffenboom aufrechtzuerhalten",
-    "zh": "捷克武器制造商将目光投向太空防御，以维持乌克兰推动的武器热潮",
-    "ru": "Чешские производители оружия нацелились на космическую оборону, чтобы поддержать бум вооружений, вызванный Украиной"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story | Jane Martinson",
@@ -2444,44 +2503,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Gold drops as strong US payrolls boost dollar, yields",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-   "ts": 1793936760,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Золото падає, оскільки високі зарплати в США підвищують долар і прибутковість",
-    "fr": "L'or chute alors que la forte masse salariale américaine stimule le dollar et les rendements",
-    "de": "Gold fällt, da starke US-Arbeitsmärkte den Dollar und die Renditen ankurbeln",
-    "zh": "由于美国强劲的就业数据提振美元和收益率，金价下跌",
-    "ru": "Золото падает, поскольку высокие показатели занятости в США способствуют росту доллара и доходности"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "South Korea stocks plunge as US midterm results spark AI selloff",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFPZWJ0ekg2Mnl6b3ZEMDRpRzJON3M1b3FnWlpsbVZSSlpnMDR1YXJFWG0zMmROd0NybFRLWXdtcjdQWm1hckFsTE15d2FoY0hnMGZsMjctbnc1VjFCZ09uUWhDbVpGOUtmQmU4UEhLNmtINHZjbTA4cXZPSmpqTFM3TEptUUU4clROU0xCc3QtM3NNbThZOHMxU1lqU1I4Y3EzRnRnY1hqUFpwUTJWcWcxQWhJNVh2VER2dGtzZUxxSmJSeXc?oc=5",
-   "ts": 1793926860,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Південної Кореї впали, оскільки середньострокові результати США спричинили розпродаж штучного інтелекту",
-    "fr": "Les actions sud-coréennes chutent alors que les résultats américains à mi-parcours déclenchent une liquidation de l'IA",
-    "de": "Südkoreanische Aktien stürzen ab, da die Zwischenergebnisse der USA einen KI-Ausverkauf auslösen",
-    "zh": "美国中期业绩引发人工智能抛售，韩国股市暴跌",
-    "ru": "Акции Южной Кореи упали, поскольку промежуточные результаты США спровоцировали распродажу ИИ"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?",
@@ -2520,26 +2541,6 @@
   {
    "feed": "ap",
    "source": "AP News",
-   "title": "Trump meets with top Putin envoy at the White House — but not visiting Ukrainian officials",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjNMN3IzWmgzdHJtQzktSjczNDY4QmFyWF9rT21VTnlON0ZCNHpOOXc4b290WDdndUpGR3BGY0pyQndnN3dwdENPM3ZWb3B4UUx4aVE2ZWhjcGtHV1d1clUwNXJsd243QnpJUmh1UHlCV2d6RURIQzdXNGlNMmxSMldaZUpqR1hEcDhBZ014dWhHUHBIUE40U09TUElSNk1oWE05VjhYLUViZzRUVl83bw?oc=5",
-   "ts": 1793921700,
-   "sec": [
-    "world",
-    "ukraine",
-    "politics"
-   ],
-   "t": {
-    "uk": "Трамп зустрічається з головним представником Путіна в Білому домі, але не відвідує українських офіційних осіб",
-    "fr": "Trump rencontre le principal envoyé de Poutine à la Maison Blanche – mais ne rend pas visite aux responsables ukrainiens",
-    "de": "Trump trifft sich mit dem obersten Gesandten Putins im Weißen Haus – besucht jedoch keine ukrainischen Beamten",
-    "zh": "特朗普在白宫会见普京高级特使，但没有拜访乌克兰官员",
-    "ru": "Трамп встречается с главным посланником Путина в Белом доме, но не посещает украинских чиновников"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
    "title": "How major US stock indexes fared Thursday 11/5/2026",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDJyTXgyUTZxLWRJMHhxR2tZZGJYRnBENTNsODBUSjZCNG9KWWNwUTU0Y0pvVFJMaE5QLVhpRVhsd012akNzWERXMlN0VEFYMzJWQTZpRWZnSWdoWmV4ZkZwb2NFNDJHR3VVUjVUbVdGeVJocEFHVUZvVmg3M2RKVmh1bmtscWtWYUlEdHJtN1R6eGM?oc=5",
    "ts": 1793921117,
@@ -2553,25 +2554,6 @@
     "de": "Wie sich die wichtigsten US-Aktienindizes am Donnerstag, den 05.11.2026 entwickelten",
     "zh": "美国主要股指周四表现如何 11/5/2026",
     "ru": "Как показали себя основные фондовые индексы США в четверг, 05.11.2026"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-   "ts": 1793916240,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Жорстокий розпродаж акцій штучного інтелекту сколихнув Уолл-стріт, і S&P 500 впав на 4,4%",
-    "fr": "Une vente brutale des actions de l'IA fait ébranler Wall Street et le S&P 500 chute de 4,4%",
-    "de": "Ein brutaler Ausverkauf bei KI-Aktien bringt die Wall Street ins Wanken und der S&P 500 stürzt um 4,4 % ab",
-    "zh": "人工智能股票惨遭抛售令华尔街震惊，标普 500 指数暴跌 4.4%",
-    "ru": "Жестокая распродажа акций ИИ повергла Уолл-стрит в шок, а индекс S&P 500 упал на 4,4%."
    },
    "lang": "en"
   },
@@ -2749,7 +2731,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 19
+   "items": 18
   },
   {
    "source": "guardian_business",
@@ -2769,7 +2751,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "source": "reuters_business",
@@ -2854,12 +2836,12 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "empty timeline"
   },
   {
    "source": "x:nitter.net",
    "ok": false,
-   "error": "HTTP Error 410: Gone"
+   "error": "<urlopen error timed out>"
   },
   {
    "source": "x:xcancel.com",
@@ -2884,10 +2866,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 11,
-   "translated": 141,
+   "requests": 10,
+   "translated": 115,
    "method": {
-    "dict": 11
+    "dict": 10
    }
   },
   {
