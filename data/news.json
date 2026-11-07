@@ -1,5 +1,5 @@
 {
- "updated": 1794077060,
+ "updated": 1794080544,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,6 +216,440 @@
  ],
  "items": [
   {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "What we know about Krakow mass shooting so far",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794080410,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Що ми знаємо про масову стрілянину в Кракові",
+    "fr": "Ce que nous savons jusqu’à présent sur la fusillade de Cracovie",
+    "de": "Was wir bisher über Massenerschießungen in Krakau wissen",
+    "zh": "迄今为止我们对克拉科夫大规模枪击事件的了解",
+    "ru": "Что мы знаем о массовом расстреле в Кракове на данный момент"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Fire at warehouse in Kyiv region caused by Russian attack extinguished",
+   "url": "https://www.ukrinform.net/rubric-ato/4182519-fire-at-warehouse-in-kyiv-region-caused-by-russian-attack-extinguished.html",
+   "ts": 1794080340,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Пожежу на складі в Київській області, спричинену нападом росіян, ліквідовано",
+    "fr": "L'incendie d'un entrepôt dans la région de Kyiv provoqué par une attaque russe est éteint",
+    "de": "Durch russischen Angriff verursachter Brand in Lagerhaus in der Region Kiew gelöscht",
+    "zh": "俄罗斯袭击引发的基辅地区仓库火灾已被扑灭",
+    "ru": "Пожар на складе в Киевской области, вызванный нападением России, потушен"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+   "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+   "ts": 1794080304,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "🔴 Президент Ізраїлю обирає суперника Нетаньяху Айзенкота, щоб спробувати сформувати уряд",
+    "fr": "🔴 Le président israélien choisit Eisenkot, le rival de Netanyahu, pour tenter de former le gouvernement",
+    "de": "🔴 Der israelische Präsident wählt Netanyahus Rivalen Eisenkot aus, um zu versuchen, eine Regierung zu bilden",
+    "zh": "🔴以色列总统选择内塔尼亚胡的竞争对手艾森科特试图组建政府",
+    "ru": "🔴 Президент Израиля выбирает соперника Нетаньяху Айзенкота, чтобы попытаться сформировать правительство"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump offers UFC chief Dana White press secretary job",
+   "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+   "ts": 1794080054,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп запропонував керівнику UFC Дані Вайту посаду прес-секретаря",
+    "fr": "Trump propose au chef de l'UFC, Dana White, le poste d'attachée de presse",
+    "de": "Trump bietet UFC-Chef Dana White den Job als Pressesprecherin an",
+    "zh": "特朗普向 UFC 主席达纳·怀特提供新闻秘书职位",
+    "ru": "Трамп предлагает главе UFC Дане Уайту должность пресс-секретаря"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+   "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+   "ts": 1794079461,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Король Малайзії застерігає від нехтування домашнім арештом для екс-прем'єр-міністра Наджіба",
+    "fr": "Le roi de Malaisie met en garde contre le non-respect de l'ordre d'assignation à résidence de l'ex-Premier ministre Najib",
+    "de": "Der malaysische König warnt davor, sich dem Hausarrest für Ex-Premier Najib zu widersetzen",
+    "zh": "马来西亚国王警告不要违抗前总理纳吉布的软禁令",
+    "ru": "Король Малайзии предостерегает от игнорирования постановления о домашнем аресте экс-премьера Наджиба"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+   "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+   "ts": 1794079200,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Вартість ліків, що відпускаються за рецептом Medicare, зросте на 50% у 2027 році. Нічого не робити може коштувати вам.",
+    "fr": "Les coûts des médicaments sur ordonnance Medicare augmenteront de 50 % en 2027. Ne rien faire pourrait vous coûter cher.",
+    "de": "Die Kosten für verschreibungspflichtige Medicare-Medikamente werden im Jahr 2027 um 50 % steigen. Nichtstun könnte Sie teuer zu stehen kommen.",
+    "zh": "2027 年，医疗保险处方药费用将上涨 50%。不采取任何行动可能会让您付出代价。",
+    "ru": "В 2027 году стоимость рецептурных лекарств по программе Medicare вырастет на 50%. Бездействие может стоить вам дорого."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Woman killed, others injured in Russian attacks on Kharkiv region since morning",
+   "url": "https://www.ukrinform.net/rubric-ato/4182512-woman-killed-others-injured-in-russian-attacks-on-kharkiv-region-since-morning.html",
+   "ts": 1794079140,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Внаслідок обстрілів Росії на Харківщині зранку загинула жінка, ще є поранені",
+    "fr": "Une femme tuée et d'autres blessées dans les attaques russes contre la région de Kharkiv depuis le matin",
+    "de": "Bei russischen Angriffen auf die Region Charkiw seit dem Morgen wurde eine Frau getötet und weitere verletzt",
+    "zh": "自早上起俄罗斯对哈尔科夫地区的袭击造成妇女死亡，其他人受伤",
+    "ru": "Женщина погибла, еще несколько человек получили ранения в результате нападения РФ на Харьковщину с утра"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Paraguay's former president charged after bank collapse",
+   "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794079042,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Колишньому президенту Парагваю висунули звинувачення після краху банку",
+    "fr": "L'ancien président du Paraguay inculpé après la faillite d'une banque",
+    "de": "Paraguays ehemaliger Präsident wurde nach Bankenkollaps angeklagt",
+    "zh": "巴拉圭前总统在银行倒闭后被指控",
+    "ru": "Бывшему президенту Парагвая предъявлено обвинение после краха банка"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "ts": 1794078940,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Остання інформація про стрілянину в Кракові: шестеро загиблих і більше десятка поранених, повідомляє поліція",
+    "fr": "Dernières nouvelles sur la fusillade de Cracovie : six morts et plus d'une douzaine de blessés, selon la police",
+    "de": "Krakauer Schießerei, neueste Updates: Sechs Tote und mehr als ein Dutzend Verletzte, sagt die Polizei",
+    "zh": "克拉科夫枪击事件最新进展：警方称六人死亡、十几人受伤",
+    "ru": "Последние новости о стрельбе в Кракове: шестеро убиты и более десятка ранены, сообщает полиция"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Diginex extends Resulticks acquisition deadline to Nov. 19",
+   "url": "https://www.investing.com/news/company-news/diginex-extends-resulticks-acquisition-deadline-to-nov-19-93CH-5010009",
+   "ts": 1794078755,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Diginex продовжує термін придбання Resulticks до 19 листопада",
+    "fr": "Diginex prolonge la date limite d'acquisition de Resulticks jusqu'au 19 novembre",
+    "de": "Diginex verlängert die Übernahmefrist von Resulticks bis zum 19. November",
+    "zh": "Diginex 将 Resulticks 收购截止日期延长至 11 月 19 日",
+    "ru": "Diginex продлевает срок приобретения Resulticks до 19 ноября"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+   "ts": 1794078634,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Латвійські фермери протестують проти торгівлі «кривавим зерном» з Росією",
+    "fr": "Les agriculteurs lettons protestent contre le commerce des « grains de sang » avec la Russie",
+    "de": "Lettische Bauern protestieren gegen den „Blutgetreide“-Handel mit Russland",
+    "zh": "拉脱维亚农民抗议与俄罗斯的“血粮”贸易",
+    "ru": "Латвийские фермеры протестуют против торговли «кровным зерном» с Россией"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
+   "ts": 1794078430,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прокуратура Парагваю висунула звинувачення екс-президенту Пенья та вимагає досудового ув'язнення",
+    "fr": "Les procureurs du Paraguay inculpent l'ex-président Peña et demandent la détention provisoire",
+    "de": "Paraguays Staatsanwälte klagen Ex-Präsident Peña an und beantragen Untersuchungshaft",
+    "zh": "巴拉圭检察官指控前总统佩尼亚，寻求审前拘留",
+    "ru": "Прокуратура Парагвая предъявила обвинение экс-президенту Пенья и требует предварительного заключения"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "ts": 1794078391,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Єменські урядові сили повідомляють про прогрес, оскільки хуси кажуть про смертоносні удари по Сані",
+    "fr": "Les forces gouvernementales yéménites font état de progrès alors que les Houthis affirment que des frappes meurtrières ont frappé Sanaa",
+    "de": "Jemenitische Regierungstruppen melden Vorstöße, während Houthis sagen, dass Sanaa von tödlichen Angriffen heimgesucht wurde",
+    "zh": "也门政府军报告取得进展，胡塞武装称致命袭击袭击了萨那",
+    "ru": "Правительственные силы Йемена сообщают о наступлении, а хуситы говорят, что смертельные удары по Сане"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Demonstration in Berlin calls for an end to arming Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+   "ts": 1794078244,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Демонстрація в Берліні закликає припинити озброєння Ізраїлю",
+    "fr": "Une manifestation à Berlin réclame la fin de l’armement d’Israël",
+    "de": "Demonstration in Berlin fordert ein Ende der Bewaffnung Israels",
+    "zh": "柏林示威呼吁停止武装以色列",
+    "ru": "Демонстрация в Берлине призывает прекратить вооружение Израиля"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Trump offers White House press secretary job to UFC’s Dana White",
+   "url": "https://www.investing.com/news/economy-news/trump-offers-white-house-press-secretary-job-to-ufcs-dana-white-5010006",
+   "ts": 1794078240,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп пропонує посаду прес-секретаря Білого дому Дейні Вайту з UFC",
+    "fr": "Trump offre le poste d'attaché de presse de la Maison Blanche à Dana White de l'UFC",
+    "de": "Trump bietet Dana White von der UFC den Job als Pressesprecherin im Weißen Haus an",
+    "zh": "特朗普向 UFC 选手达纳·怀特 (Dana White) 提供白宫新闻秘书职位",
+    "ru": "Трамп предложил Дане Уайту из UFC должность пресс-секретаря Белого дома"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Civeo CEO Dodson sells $865,614 in company shares",
+   "url": "https://www.investing.com/news/insider-trading-news/civeo-ceo-dodson-sells-865614-in-company-shares-93CH-5010004",
+   "ts": 1794078070,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Генеральний директор Civeo Додсон продає акції компанії на 865 614 доларів",
+    "fr": "Le PDG de Civeo, Dodson, vend 865 614 $ d'actions de la société",
+    "de": "Civeo-CEO Dodson verkauft Unternehmensaktien im Wert von 865.614 US-Dollar",
+    "zh": "Civeo 首席执行官 Dodson 出售价值 865,614 美元的公司股票",
+    "ru": "Генеральный директор Civeo Додсон продает акции компании на сумму 865 614 долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Richmond Mutual Bancorporation president buys $23,317 in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/richmond-mutual-bancorporation-president-buys-23317-in-common-stock-93CH-5010003",
+   "ts": 1794078069,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Президент Richmond Mutual Bancorporation купує звичайні акції на суму 23 317 доларів",
+    "fr": "Le président de Richmond Mutual Bancorporation achète pour 23 317 $ d'actions ordinaires",
+    "de": "Der Präsident der Richmond Mutual Bancorporation kauft Stammaktien im Wert von 23.317 US-Dollar",
+    "zh": "Richmond Mutual Bancorporation 总裁购买 23,317 美元的普通股",
+    "ru": "Президент Richmond Mutual Bancorporation покупает обыкновенные акции на сумму 23 317 долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+   "url": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+   "ts": 1794078043,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "«Дуже дивно, дуже сумно»: банкротство парагвайського банку призвело до втрати президента та розорення мільйонів",
+    "fr": "« Très étrange, très triste » : l'effondrement d'une banque au Paraguay tue une présidence et laisse des millions de personnes ruinées",
+    "de": "„Sehr seltsam, sehr traurig“: Der Bankenzusammenbruch in Paraguay stürzt eine Präsidentschaft und hinterlässt Millionen Pleite",
+    "zh": "“非常奇怪，非常悲伤”：巴拉圭银行倒闭，总统职位垮台，数百万人破产",
+    "ru": "«Очень странно, очень грустно»: крах банка Парагвая лишил президентского поста и оставил миллионы разоренными"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+   "ts": 1794078020,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Як виступати посередником у кліматичних переговорах ООН, якщо ваша країна є великим експортером вугілля та газу? Кріс Боуен збирається дізнатися",
+    "fr": "Comment négocier les négociations de l’ONU sur le climat alors que votre propre pays est un grand exportateur de charbon et de gaz ? Chris Bowen est sur le point de le découvrir",
+    "de": "Wie vermitteln Sie UN-Klimaverhandlungen, wenn Ihr eigenes Land ein großer Kohle- und Gasexporteur ist? Chris Bowen wird es gleich herausfinden",
+    "zh": "当你自己的国家是煤炭和天然气出口大国时，你如何协调联合国气候谈判？克里斯·鲍文即将找到答案",
+    "ru": "Как вы выступаете посредником в переговорах ООН по климату, если ваша страна является крупным экспортером угля и газа? Крис Боуэн собирается это выяснить"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+   "ts": 1794078019,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Королівське доручення Big Build допомогло Бену Керроллу стати прем'єр-міністром. Чи буде це його падіння?",
+    "fr": "Une commission royale Big Build a aidé Ben Carroll à devenir premier ministre. Est-ce que ce sera sa chute ?",
+    "de": "Ein königlicher Big Build-Auftrag verhalf Ben Carroll zum Premierminister. Wird es sein Untergang sein?",
+    "zh": "大建设皇家委员会帮助本·卡罗尔成为总理。这会是他的垮台吗？",
+    "ru": "Королевская комиссия Big Build помогла Бену Кэрроллу стать премьер-министром. Будет ли это его падением?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Houston mayor orders police to limit cooperation with ICE",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
+   "ts": 1794077740,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Мер Х'юстона наказав поліції обмежити співпрацю з ICE",
+    "fr": "Le maire de Houston ordonne à la police de limiter sa coopération avec l'ICE",
+    "de": "Der Bürgermeister von Houston weist die Polizei an, die Zusammenarbeit mit der ICE einzuschränken",
+    "zh": "休斯顿市长命令警方限制与 ICE 的合作",
+    "ru": "Мэр Хьюстона приказал полиции ограничить сотрудничество с ICE"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
+   "ts": 1794077580,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Меланія Трамп і LSU мають намір оголосити програму стипендій для студентів, які перебували в прийомних сім'ях",
+    "fr": "Melania Trump et LSU s'apprêtent à annoncer un programme de bourses pour les étudiants placés en famille d'accueil",
+    "de": "Melania Trump und die LSU werden ein Stipendienprogramm für Studenten bekannt geben, die in Pflegefamilien untergebracht waren",
+    "zh": "梅拉尼娅·特朗普和路易斯安那州立大学将宣布为寄养学生提供奖学金计划",
+    "ru": "Мелания Трамп и ЛГУ собираются объявить о стипендиальной программе для студентов, которые находились в приемных семьях"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "More than 60,000 consumers left without electricity in Dnipro due to Russian attacks",
+   "url": "https://www.ukrinform.net/rubric-ato/4182511-more-than-60000-consumers-left-without-electricity-in-dnipro-due-to-russian-attacks.html",
+   "ts": 1794077580,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Дніпрі через російські атаки без світла залишилися понад 60 тисяч споживачів",
+    "fr": "Plus de 60 000 consommateurs privés d'électricité à Dnipro à cause des attaques russes",
+    "de": "Mehr als 60.000 Verbraucher haben in Dnipro aufgrund russischer Angriffe keinen Strom mehr",
+    "zh": "由于俄罗斯袭击，第聂伯罗超过 60,000 名消费者断电",
+    "ru": "Из-за российских атак в Днепре без электричества остались более 60 тысяч потребителей"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Tesla to expand Cybertruck production in bid to fill orders before dismantling line next year",
+   "url": "https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+   "ts": 1794076941,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Tesla розширить виробництво Cybertruck, щоб виконати замовлення перед демонтажем лінії наступного року",
+    "fr": "Tesla va étendre la production de Cybertruck dans le but de répondre aux commandes avant de démanteler la ligne l'année prochaine",
+    "de": "Tesla wird die Produktion von Cybertrucks erweitern, um Aufträge zu erfüllen, bevor die Linie im nächsten Jahr demontiert wird",
+    "zh": "特斯拉将扩大 Cyber​​truck 产量，以在明年拆除生产线之前满足订单",
+    "ru": "Tesla расширит производство Cybertruck, чтобы выполнить заказы перед демонтажем линии в следующем году"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Russian forces attack two districts of Dnipropetrovsk region more than 10 times since morning, one injured",
@@ -230,24 +664,6 @@
     "de": "Russische Streitkräfte greifen seit dem Morgen mehr als zehn Mal zwei Bezirke der Region Dnipropetrowsk an, einer wurde verletzt",
     "zh": "自早上以来，俄罗斯军队对第聂伯罗彼得罗夫斯克州两个地区进行了10多次袭击，造成1人受伤",
     "ru": "С утра российские военные атаковали два района Днепропетровской области более 10 раз, один ранен"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "ts": 1794076770,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Остання інформація про стрілянину в Кракові: шестеро загиблих і більше десятка поранених, повідомляє поліція",
-    "fr": "Dernières nouvelles sur la fusillade de Cracovie : six morts et plus d'une douzaine de blessés, selon la police",
-    "de": "Krakauer Schießerei, neueste Updates: Sechs Tote und mehr als ein Dutzend Verletzte, sagt die Polizei",
-    "zh": "克拉科夫枪击事件最新进展：警方称六人死亡、十几人受伤",
-    "ru": "Последние новости о стрельбе в Кракове: шестеро убиты и более десятка ранены, сообщает полиция"
    },
    "lang": "en"
   },
@@ -270,6 +686,62 @@
    "lang": "en"
   },
   {
+   "feed": "dw_world",
+   "source": "DW",
+   "title": "Armenia's selective prosecution: A threat to EU relations?",
+   "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
+   "ts": 1794076560,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Вибіркове судове переслідування Вірменії: загроза відносинам з ЄС?",
+    "fr": "Les poursuites sélectives en Arménie : une menace pour les relations avec l'UE ?",
+    "de": "Armeniens selektive Strafverfolgung: Eine Bedrohung für die EU-Beziehungen?",
+    "zh": "亚美尼亚的选择性起诉：对欧盟关系的威胁？",
+    "ru": "Выборочное преследование Армении: угроза отношениям с ЕС?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Paraguay’s ousted president charged over banking scandal",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+   "ts": 1794076515,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Усуненого президента Парагваю звинувачують у банківському скандалі",
+    "fr": "Le président déchu du Paraguay inculpé pour scandale bancaire",
+    "de": "Paraguays gestürzter Präsident wird wegen Bankenskandals angeklagt",
+    "zh": "巴拉圭被罢免总统因银行丑闻被指控",
+    "ru": "Свергнутому президенту Парагвая предъявлено обвинение в банковском скандале"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+   "url": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
+   "ts": 1794076218,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Фінансовий директор Binance Кайзер йде у відставку, Джастін Єк призначений новим фінансовим директором",
+    "en": "Binance CFO Kaiser steps down, Justin Yek named new finance chief",
+    "fr": "Le directeur financier de Binance, Kaiser, démissionne et Justin Yek est nommé nouveau directeur financier",
+    "de": "Binance-CFO Kaiser tritt zurück, Justin Yek zum neuen Finanzchef ernannt",
+    "zh": "币安 CFO Kaiser 辞职，Justin Yek 被任命为新财务总监",
+    "ru": "Финансовый директор Binance Кайзер уходит в отставку, Джастин Йек назначен новым финансовым директором"
+   },
+   "lang": "tl"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Military see no Russian preparations for breakthrough toward Kharkiv",
@@ -284,24 +756,6 @@
     "de": "Das Militär sieht keine russischen Vorbereitungen für einen Durchbruch in Richtung Charkiw",
     "zh": "军方认为俄罗斯没有为突破哈尔科夫做准备",
     "ru": "Военные не видят подготовки России к прорыву к Харькову"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "What we know about Krakow mass shooting so far",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794075731,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо про масову стрілянину в Кракові",
-    "fr": "Ce que nous savons jusqu’à présent sur la fusillade de Cracovie",
-    "de": "Was wir bisher über Massenerschießungen in Krakau wissen",
-    "zh": "迄今为止我们对克拉科夫大规模枪击事件的了解",
-    "ru": "Что мы знаем о массовом расстреле в Кракове на данный момент"
    },
    "lang": "en"
   },
@@ -379,24 +833,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Kirby CEO David Grzebinski sells $2.59 million in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
-   "ts": 1794074466,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Генеральний директор Kirby Девід Гжебінські продає акції на 2,59 мільйона доларів",
-    "fr": "Le PDG de Kirby, David Grzebinski, vend 2,59 millions de dollars d'actions",
-    "de": "David Grzebinski, CEO von Kirby, verkauft Aktien im Wert von 2,59 Millionen US-Dollar",
-    "zh": "Kirby 首席执行官 David Grzebinski 出售价值 259 万美元的股票",
-    "ru": "Генеральный директор Kirby Дэвид Гжебински продает акции на сумму 2,59 миллиона долларов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky: Ukraine expects results on air defense and energy at G7, UDCG and Coalition of the Willing meetings",
@@ -451,6 +887,24 @@
    "lang": "en"
   },
   {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
+   "url": "https://kyivindependent.com/germany-cannot-provide-ukraine-with-more-patriot-systems-for-now-defense-minister-says/",
+   "ts": 1794074100,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Німеччина поки не може надати Україні більше систем Patriot, заявив міністр оборони",
+    "fr": "L'Allemagne ne peut pas fournir davantage de systèmes Patriot à l'Ukraine pour l'instant, selon le ministre de la Défense",
+    "de": "Deutschland könne der Ukraine vorerst keine weiteren Patriot-Systeme liefern, sagt Verteidigungsminister",
+    "zh": "国防部长表示，德国目前无法向乌克兰提供更多爱国者系统",
+    "ru": "Германия пока не может предоставить Украине больше систем Patriot, заявил министр обороны"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
@@ -465,24 +919,6 @@
     "de": "Dave Wehner, Chief Strategy Officer von Meta, wechselt als CFO zum KI-Infrastruktur-Startup Fireworks",
     "zh": "Meta 首席战略官 Dave Wehner 离职，加入人工智能基础设施初创公司 Fireworks 担任首席财务官",
     "ru": "Директор по стратегии Meta Дэйв Венер уходит, чтобы присоединиться к стартапу Fireworks, занимающемуся инфраструктурой искусственного интеллекта, в качестве финансового директора"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Sierra Bancorp director Lynda Scearcy sells $337,604 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-337604-in-stock-93CH-5009981",
-   "ts": 1794073573,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Sierra Bancorp Лінда Скерсі продає акції на суму 337 ​​604 дол",
-    "fr": "Lynda Scearcy, directrice de Sierra Bancorp, vend 337 604 $ d'actions",
-    "de": "Lynda Scearcy, Direktorin von Sierra Bancorp, verkauft Aktien im Wert von 337.604 US-Dollar",
-    "zh": "Sierra Bancorp 董事 Lynda Scearcy 出售价值 337,604 美元的股票",
-    "ru": "Директор Sierra Bancorp Линда Скерси продает акции на сумму 337 ​​604 доллара"
    },
    "lang": "en"
   },
@@ -559,25 +995,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-   "url": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
-   "ts": 1794072984,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Фінансовий директор Binance Кайзер йде у відставку, Джастін Єк призначений новим фінансовим директором",
-    "en": "Binance CFO Kaiser steps down, Justin Yek named new finance chief",
-    "fr": "Le directeur financier de Binance, Kaiser, démissionne et Justin Yek est nommé nouveau directeur financier",
-    "de": "Binance-CFO Kaiser tritt zurück, Justin Yek zum neuen Finanzchef ernannt",
-    "zh": "币安 CFO Kaiser 辞职，Justin Yek 被任命为新财务总监",
-    "ru": "Финансовый директор Binance Кайзер уходит в отставку, Джастин Йек назначен новым финансовым директором"
-   },
-   "lang": "tl"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Six people killed by Polish gunman in Krakow's main square",
@@ -610,24 +1027,6 @@
     "de": "Ich bin 65 und mehr als 5,6 Millionen Dollar wert. Kann ich mir ein Wohnmobil für 200.000 US-Dollar leisten?",
     "zh": "我今年 65 岁，身家超过 560 万美元。我能买得起 20 万美元的露营车吗？",
     "ru": "Мне 65 лет, и мое состояние превышает 5,6 миллиона долларов. Могу ли я позволить себе кемпер за 200 000 долларов?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Clough Global Opportunities Fund director buys $1,996 in GLO shares",
-   "url": "https://www.investing.com/news/insider-trading-news/clough-global-opportunities-fund-director-buys-1996-in-glo-shares-93CH-5009976",
-   "ts": 1794072651,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Clough Global Opportunities Fund купує акції GLO на суму 1996 доларів",
-    "fr": "Le directeur du Clough Global Opportunities Fund achète pour 1 996 $ d'actions GLO",
-    "de": "Der Direktor des Clough Global Opportunities Fund kauft GLO-Aktien im Wert von 1.996 US-Dollar",
-    "zh": "Clough Global Opportunities 基金董事购买 1,996 美元的 GLO 股票",
-    "ru": "Директор Clough Global Opportunities Fund покупает акции GLO на сумму 1996 долларов"
    },
    "lang": "en"
   },
@@ -669,24 +1068,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Seaport offers preliminary thoughts on Anthropic stock",
-   "url": "https://www.investing.com/news/stock-market-news/seaport-offers-preliminary-thoughts-on-anthropic-stock-5009973",
-   "ts": 1794072473,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Морський порт пропонує попередні думки щодо антропного запасу",
-    "fr": "Seaport propose des réflexions préliminaires sur le stock anthropique",
-    "de": "Seaport bietet vorläufige Gedanken zur Anthropic-Aktie",
-    "zh": "Seaport 提供对 Anthropic 股票的初步想法",
-    "ru": "Морской порт высказывает предварительные соображения по поводу антропных запасов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
@@ -706,42 +1087,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-   "ts": 1794071810,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ліванський футболіст відмовляється здаватися після травм ізраїльського удару",
-    "fr": "Un footballeur libanais refuse d'abandonner après avoir été blessé par une frappe israélienne",
-    "de": "Libanesischer Fußballspieler weigert sich, nach Verletzungen durch israelischen Angriff aufzugeben",
-    "zh": "黎巴嫩足球运动员在以色列罢工中受伤后拒绝放弃",
-    "ru": "Ливанский футболист отказывается сдаваться после травм в результате удара Израиля"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Coca-Cola evp Perez sells $6.4 million in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/cocacola-evp-perez-sells-64-million-in-shares-93CH-5009971",
-   "ts": 1794071756,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Coca-Cola evp Perez продає акції на суму 6,4 мільйона доларів",
-    "fr": "Perez, vice-président de Coca-Cola, vend 6,4 millions de dollars d'actions",
-    "de": "Coca-Cola-Geschäftsführer Perez verkauft Aktien im Wert von 6,4 Millionen US-Dollar",
-    "zh": "可口可乐执行副总裁佩雷斯出售价值 640 万美元的股票",
-    "ru": "Исполнительный вице-президент Coca-Cola Перес продает акции на 6,4 миллиона долларов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_world",
    "source": "NPR",
    "title": "Ousted Paraguayan president appears before prosecutors",
@@ -757,24 +1102,6 @@
     "de": "Der gestürzte paraguayische Präsident erscheint vor Staatsanwaltschaft",
     "zh": "被驱逐的巴拉圭总统出现在检察官面前",
     "ru": "Свергнутый президент Парагвая предстал перед прокуратурой"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Heavy rains flood Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-   "ts": 1794071489,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Jerusalem Daily: сильні дощі затопили Газу",
-    "fr": "Jerusalem Daily : De fortes pluies inondent Gaza",
-    "de": "Jerusalem Daily: Heftige Regenfälle überschwemmen Gaza",
-    "zh": "耶路撒冷日报：大雨淹没加沙",
-    "ru": "«Джерузалем Дейли»: Проливные дожди затопили сектор Газа"
    },
    "lang": "en"
   },
@@ -867,24 +1194,6 @@
     "ru": "Эксперты говорят, что рост числа закрытий родильных домов Национальной службы здравоохранения «шокирует» отрицание прав женщин"
    },
    "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Valencia vs Real Madrid LIVE: La Liga",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-   "ts": 1794070812,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Валенсія – Реал Мадрид НАЖИВО: Ла Ліга",
-    "fr": "Valence vs Real Madrid EN DIRECT : La Liga",
-    "de": "Valencia gegen Real Madrid LIVE: La Liga",
-    "zh": "瓦伦西亚 vs 皇家马德里直播：西甲",
-    "ru": "Валенсия против Реал Мадрид в прямом эфире: Ла Лига"
-   },
-   "lang": "es"
   },
   {
    "feed": "reuters_world",
@@ -1051,24 +1360,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Israel builds 90km network of military roads across southern Lebanon",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-   "ts": 1794069033,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ізраїль будує 90-кілометрову мережу військових доріг на півдні Лівану",
-    "fr": "Israël construit un réseau de 90 km de routes militaires à travers le sud du Liban",
-    "de": "Israel baut ein 90 Kilometer langes Netz von Militärstraßen durch den Südlibanon",
-    "zh": "以色列在黎巴嫩南部建设长达 90 公里的军事公路网",
-    "ru": "Израиль строит 90-километровую сеть военных дорог на юге Ливана"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
@@ -1083,24 +1374,6 @@
     "de": "Die Steuerklassen für 2027 sind da. Sehen Sie sich an, wie hoch der Standardabzug und die SALT-Steuererleichterungen sein werden.",
     "zh": "2027 年税级已出。查看标准扣除额和 SALT 税收减免是多少。",
     "ru": "Налоговые рамки на 2027 год отсутствуют. Посмотрите, какими будут стандартные налоговые вычеты и налоговые льготы по ОСВ."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
-   "url": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-   "ts": 1794069000,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Я відвідую безкоштовні обіди, які влаштовують люди, які пропагують ануїтети. Я не маю наміру купувати. Чи повинен я перестати йти?",
-    "fr": "Je participe à des repas gratuits organisés par des personnes faisant la promotion des rentes. Je n’ai pas l’intention d’en acheter. Dois-je arrêter d'y aller ?",
-    "de": "Ich nehme an kostenlosen Mahlzeiten teil, die von Leuten veranstaltet werden, die Renten fördern. Ich habe nicht die Absicht, welche zu kaufen. Soll ich aufhören zu gehen?",
-    "zh": "我参加由推广年金的人举办的免费餐食。我无意购买任何东西。我应该停下来吗？",
-    "ru": "Я посещаю бесплатные обеды, организованные людьми, продвигающими аннуитеты. Я не собираюсь ничего покупать. Стоит ли мне перестать ходить?"
    },
    "lang": "en"
   },
@@ -1210,24 +1483,6 @@
     "de": "Selenskyj kündigt nach dem Karthago-Fall weitere personelle Veränderungen bei der SSU an",
     "zh": "泽连斯基在迦太基案后宣布 SSU 进一步人事变动",
     "ru": "Зеленский заявил о дальнейших кадровых изменениях в СБУ после дела Карфагена"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Hundreds march in Pau, France against high living costs",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-   "ts": 1794067751,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Сотні людей вийшли на марш у По, Франція, проти високих цін на життя",
-    "fr": "Des centaines de personnes manifestent à Pau, en France, contre le coût de la vie élevé",
-    "de": "Hunderte demonstrieren in Pau, Frankreich, gegen hohe Lebenshaltungskosten",
-    "zh": "法国波城数百人游行抗议高昂的生活成本",
-    "ru": "Сотни людей маршируют в По, Франция, против высоких цен на жизнь"
    },
    "lang": "en"
   },
@@ -1342,24 +1597,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
-   "ts": 1794066480,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Меланія Трамп і LSU мають намір оголосити програму стипендій для студентів, які перебували в прийомних сім'ях",
-    "fr": "Melania Trump et LSU s'apprêtent à annoncer un programme de bourses pour les étudiants placés en famille d'accueil",
-    "de": "Melania Trump und die LSU werden ein Stipendienprogramm für Studenten bekannt geben, die in Pflegefamilien untergebracht waren",
-    "zh": "梅拉尼娅·特朗普和路易斯安那州立大学将宣布为寄养学生提供奖学金计划",
-    "ru": "Мелания Трамп и ЛГУ собираются объявить о стипендиальной программе для студентов, которые находились в приемных семьях"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky approves draft law to reinstate asset declarations for all SSU employees",
@@ -1410,43 +1647,6 @@
     "de": "Fünf europäische Staats- und Regierungschefs fordern vor dem Brüsseler Gipfel engere Beziehungen zwischen der EU und dem Vereinigten Königreich",
     "zh": "五位欧洲领导人呼吁在布鲁塞尔峰会前加强欧盟与英国的关系",
     "ru": "Пять европейских лидеров призывают к более тесным связям между ЕС и Великобританией в преддверии саммита в Брюсселе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-   "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-   "ts": 1794065209,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "🔴 Щонайменше п'ятеро людей загинули в результаті стрілянини в Кракові, повідомляє польська поліція ⤵️",
-    "fr": "🔴 Au moins cinq personnes tuées dans une fusillade à Cracovie, selon la police polonaise ⤵️",
-    "de": "🔴 Mindestens fünf Menschen bei Schießerei in Krakau getötet, sagt die polnische Polizei ⤵️",
-    "zh": "🔴波兰警方称克拉科夫枪击事件至少有五人死亡⤵️",
-    "ru": "🔴 По меньшей мере пять человек погибли в результате стрельбы в Кракове, сообщает польская полиция ⤵️"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Guatemalan lawmaker, three police officers killed in armed attack",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3?oc=5",
-   "ts": 1794065178,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Гватемальський законодавець, троє поліцейських загинули в результаті збройного нападу",
-    "fr": "Un député guatémaltèque et trois policiers tués dans une attaque armée",
-    "de": "Guatemaltekischer Gesetzgeber, drei Polizisten bei bewaffnetem Angriff getötet",
-    "zh": "危地马拉议员和三名警察在武装袭击中丧生",
-    "ru": "Депутат Гватемалы и трое полицейских убиты в результате вооруженного нападения"
    },
    "lang": "en"
   },
@@ -1581,24 +1781,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian forces attack Odesa, damaging residential house",
-   "url": "https://www.ukrinform.net/rubric-ato/4182456-russian-forces-attack-odesa-damaging-residential-house.html",
-   "ts": 1794063480,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські війська атакували Одесу, пошкодивши житловий будинок",
-    "fr": "Les forces russes attaquent Odessa et endommagent une maison d'habitation",
-    "de": "Russische Truppen greifen Odessa an und beschädigen Wohnhaus",
-    "zh": "俄罗斯军队袭击敖德萨，毁坏民房",
-    "ru": "Российские военные атаковали Одессу, повредив жилой дом"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "America's newest small business owners with no employees are off to a hot start in AI era",
@@ -1617,98 +1799,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
-   "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-   "ts": 1794062664,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "«Ми повинні все змінити», — каже кандидат у президенти Франції від крайніх лівих партій Меланшон",
-    "fr": "\"Nous devons tout changer\", déclare Mélenchon, candidat d'extrême gauche à la présidentielle française",
-    "de": "„Wir müssen alles ändern“, sagt der linksextreme französische Präsidentschaftskandidat Mélenchon",
-    "zh": "法国极左翼总统候选人梅朗雄表示：“我们必须改变一切”",
-    "ru": "«Мы должны изменить все», — говорит крайне левый кандидат в президенты Франции Меланшон."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Employers, watchmen at California ports extend contract talks",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEptNWRDQ2M2dVNwSjhJRnppaGh6Y1F6SThSb212dUtRcmM5RnlhR0ViZG84UjBETV9aV3lXV3k0bElSaXdRWDJSZVM4UDJHTjQ0cEpWWmRLRjRzMEItOGR2UXhtbl82MXJjbTdPSjJZQ2V0MnZJc0NmS0hmcnlRVU1hZmlEZWVWMDZoRjFYM2Y0S1czYlprZzNZY2JtTHU1UWZWcXFDcDlwdGRMbzZWb0VYaXBmT2s?oc=5",
-   "ts": 1794062263,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Роботодавці, сторожі каліфорнійських портів продовжують переговори про контракти",
-    "fr": "Les employeurs et les gardiens des ports de Californie prolongent les négociations contractuelles",
-    "de": "Arbeitgeber und Wächter in kalifornischen Häfen verlängern Vertragsverhandlungen",
-    "zh": "加州港口的雇主和看守人员延长合同谈判",
-    "ru": "Работодатели и сторожа в портах Калифорнии продлевают переговоры по контрактам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Private house damaged in Russian attack on Kyiv's Shevchenkivskyi district",
-   "url": "https://www.ukrinform.net/rubric-ato/4182452-private-house-damaged-in-russian-attack-on-kyivs-shevchenkivskyi-district.html",
-   "ts": 1794062160,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Приватний будинок постраждав під час обстрілу росіянами Шевченківського району Києва",
-    "fr": "Une maison privée endommagée lors d'une attaque russe contre le district de Shevchenkivskyi à Kyiv",
-    "de": "Privathaus bei russischem Angriff auf Kiewer Bezirk Schewtschenkiwskyi beschädigt",
-    "zh": "俄罗斯袭击基辅舍甫琴基夫斯基区私人住宅受损",
-    "ru": "Частный дом поврежден при нападении российских войск на Шевченковский район Киева"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-   "ts": 1794062130,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Екс-президент Парагваю Пенья постає перед прокуратурою після імпічменту та домашнього арешту",
-    "fr": "L'ex-président paraguayen Peña fait face aux procureurs après sa destitution et son assignation à résidence",
-    "de": "Paraguays Ex-Präsident Peña steht nach Amtsenthebung und Hausarrest vor Staatsanwälten",
-    "zh": "巴拉圭前总统佩纳在弹劾和软禁后面临检察官",
-    "ru": "Экс-президент Парагвая Пенья предстанет перед прокуратурой после импичмента и домашнего ареста"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
-   "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
-   "ts": 1794062012,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Що означають докори Трампа на проміжних виборах для відновлюваної енергії",
-    "fr": "Ce que la vague bleue de réprimande de Trump lors des élections de mi-mandat signifie pour les énergies renouvelables",
-    "de": "Was die Blue-Wave-Zurechtweisung von Trump bei den Zwischenwahlen für erneuerbare Energien bedeutet",
-    "zh": "特朗普的中期选举蓝色浪潮对可再生能源意味着什么",
-    "ru": "Что означает упрек Трампа в адрес «голубой волны» промежуточных выборов для возобновляемой энергетики"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russian UAV hits house in Kyiv amid large warehouse fire in Obolonskyi district",
@@ -1723,24 +1813,6 @@
     "de": "Russisches UAV trifft Haus in Kiew bei großem Brand in Lagerhalle im Bezirk Obolonskyi",
     "zh": "俄罗斯无人机击中基辅房屋，导致奥博隆斯基区大型仓库起火",
     "ru": "Российский БПЛА врезался в дом в Киеве во время пожара на крупном складе в Оболонском районе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russia may have used North Korean KN-23 missiles to strike Ukrainian energy facility – Zelensky",
-   "url": "https://www.ukrinform.net/rubric-ato/4182444-russia-may-have-used-north-korean-kn23-missiles-to-strike-ukrainian-energy-facility-zelensky.html",
-   "ts": 1794060720,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія могла застосувати північнокорейські ракети KN-23 для удару по українському енергооб'єкту – Зеленський",
-    "fr": "La Russie pourrait avoir utilisé des missiles nord-coréens KN-23 pour frapper une installation énergétique ukrainienne – Zelensky",
-    "de": "Russland hat möglicherweise nordkoreanische KN-23-Raketen eingesetzt, um das ukrainische Energiekraftwerk Selenskyj anzugreifen",
-    "zh": "泽连斯基：俄罗斯可能使用朝鲜 KN-23 导弹袭击乌克兰能源设施",
-    "ru": "Россия могла использовать северокорейские ракеты КН-23 для удара по украинскому энергетическому объекту – Зеленский"
    },
    "lang": "en"
   },
@@ -2018,25 +2090,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-   "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-   "ts": 1794054251,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Чому нафтотрейдери відмовляються купувати російське дизель після угоди Трампа і Путіна?",
-    "fr": "Pourquoi les négociants en pétrole refusent-ils d’acheter du diesel russe après l’accord Trump-Poutine ?",
-    "de": "Warum weigern sich Ölhändler nach dem Trump-Putin-Deal, russischen Diesel zu kaufen?",
-    "zh": "特朗普与普京达成协议后，为何石油交易商拒绝购买俄罗斯柴油？",
-    "ru": "Почему нефтетрейдеры отказываются покупать российское дизельное топливо после сделки Трампа и Путина?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "france24",
    "source": "France 24",
    "title": "Russia launches massive strike on Kyiv",
@@ -2070,24 +2123,6 @@
     "de": "Der Militärgeheimdienst identifiziert russische Soldaten, die an einem tödlichen Angriff auf das Hilfszentrum Komyshuvakha beteiligt waren",
     "zh": "军事情报机构确认俄罗斯士兵参与了对科梅舒瓦卡援助中心的致命袭击",
     "ru": "Военная разведка установила личности российских солдат, причастных к смертоносному удару по медцентру в Комышувахе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Russian attacks kill 2, injure 37 across Ukraine over past day, hit substations connecting nuclear power plants to Kyiv",
-   "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-37-across-ukraine-over-past-day-hit-substations-connecting-nuclear-power-plants-to-kyiv/",
-   "ts": 1794048606,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські атаки за минулу добу вбили 2 людей, поранили 37 по всій Україні, вдарили по підстанціях АЕС з Києвом",
-    "fr": "Les attaques russes ont fait 2 morts et 37 blessés à travers l'Ukraine au cours de la dernière journée et ont touché des sous-stations reliant les centrales nucléaires à Kiev",
-    "de": "Russische Angriffe töteten am vergangenen Tag in der gesamten Ukraine zwei Menschen, verletzten 37 und trafen Umspannwerke, die Kernkraftwerke mit Kiew verbinden",
-    "zh": "过去一天，俄罗斯袭击乌克兰各地，造成 2 人死亡、37 人受伤，袭击了连接核电站和基辅的变电站",
-    "ru": "В результате российских атак за минувшие сутки по всей Украине погибли 2 человека, 37 получили ранения, пострадали подстанции, соединяющие АЭС с Киевом"
    },
    "lang": "en"
   },
@@ -2642,24 +2677,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Swinney criticises UK move to ban new North Sea drilling",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nxvx48pjo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793897016,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Свінні критикує рішення Великої Британії щодо заборони буріння в Північному морі",
-    "fr": "Swinney critique la décision du Royaume-Uni d'interdire les nouveaux forages en mer du Nord",
-    "de": "Swinney kritisiert den Schritt Großbritanniens, neue Bohrungen in der Nordsee zu verbieten",
-    "zh": "斯温尼批评英国禁止新北海钻探的举措",
-    "ru": "Суинни раскритиковал решение Великобритании запретить новое бурение в Северном море"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "No amount of sliding in the polls can shake Kemi Badenoch’s self-belief – or alter her party’s direction | Andy Beckett",
@@ -2725,7 +2742,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 20
+   "items": 19
   },
   {
    "source": "guardian_business",
@@ -2830,7 +2847,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "empty timeline"
   },
   {
    "source": "x:nitter.net",
@@ -2860,10 +2877,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 11,
-   "translated": 151,
+   "requests": 10,
+   "translated": 120,
    "method": {
-    "dict": 11
+    "dict": 10
    }
   },
   {
