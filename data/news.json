@@ -1,5 +1,5 @@
 {
- "updated": 1794173915,
+ "updated": 1794177563,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,11 +216,373 @@
  ],
  "items": [
   {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+   "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+   "ts": 1794177051,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Лікарі загальної практики запропонують 300 000 пацієнтів додаткову підтримку, щоб полегшити навантаження на NHS взимку",
+    "fr": "Les médecins généralistes offriront à 300 000 patients un soutien supplémentaire pour alléger la pression hivernale sur le NHS",
+    "de": "Allgemeinmediziner bieten 300.000 Patienten zusätzliche Unterstützung, um die Belastung des NHS im Winter zu verringern",
+    "zh": "全科医生将为 30 万名患者提供额外支持，以缓解 NHS 冬季压力",
+    "ru": "Врачи общей практики окажут 300 000 пациентам дополнительную поддержку, чтобы облегчить зимнюю нагрузку на Национальную систему здравоохранения"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
+   "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+   "ts": 1794176599,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев прибуває до Аргентини на тлі розбіжностей щодо суворої економії Мілей",
+    "fr": "Le pape Léon arrive en Argentine au milieu des divisions sur l’austérité de Milei",
+    "de": "Papst Leo trifft in Argentinien ein, inmitten von Meinungsverschiedenheiten über Mileis Sparmaßnahmen",
+    "zh": "教皇利奥抵达阿根廷，因米莱的紧缩政策存在分歧",
+    "ru": "Папа Лев прибыл в Аргентину на фоне разногласий по поводу жесткой экономии Милея"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "ts": 1794176538,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nvidia розслідує стосунки генерального директора Дженсена Хуанга з імовірним китайським шпигуном",
+    "fr": "Nvidia enquête sur la relation du PDG Jensen Huang avec un espion chinois présumé",
+    "de": "Nvidia untersucht die Beziehung von CEO Jensen Huang zu einem mutmaßlichen chinesischen Spion",
+    "zh": "英伟达调查首席执行官黄仁勋与涉嫌中国间谍的关系",
+    "ru": "Nvidia расследует отношения генерального директора Дженсена Хуанга с предполагаемым китайским шпионом"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "investing",
    "source": "Investing.com",
+   "title": "Cryptocurrencies slide to two-month lows after US midterms",
+   "url": "https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+   "ts": 1794176302,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Криптовалюти впали до двомісячного мінімуму після проміжних термінів США",
+    "fr": "Les crypto-monnaies tombent à leur plus bas niveau depuis deux mois après les élections de mi-mandat aux États-Unis",
+    "de": "Kryptowährungen fallen nach den Zwischenwahlen in den USA auf Zweimonatstiefs",
+    "zh": "美国中期选举后加密货币跌至两个月低点",
+    "ru": "Криптовалюты упали до двухмесячного минимума после промежуточных выборов в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+   "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+   "ts": 1794176210,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Президент Мілей вітає Папу Лева під час історичного візиту до Аргентини",
+    "fr": "Le président Milei accueille le pape Léon lors d'une visite historique en Argentine",
+    "de": "Präsident Milei begrüßt Papst Leo während seines historischen Besuchs in Argentinien",
+    "zh": "米莱总统欢迎教皇利奥对阿根廷进行历史性访问",
+    "ru": "Президент Милей приветствует Папу Льва во время исторического визита в Аргентину"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+   "ts": 1794176170,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Американський виробник мікросхем Nvidia розслідує справу генерального директора Дженсена Хуанга",
+    "fr": "Le fabricant américain de puces Nvidia enquête sur son PDG Jensen Huang",
+    "de": "US-Chiphersteller Nvidia ermittelt wegen Affäre gegen CEO Jensen Huang",
+    "zh": "美国芯片制造商英伟达就其首席执行官黄仁勋的婚外情展开调查",
+    "ru": "Американский производитель чипов Nvidia расследует дело генерального директора Дженсена Хуанга"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Could HBF be the solution to the Memory bottleneck?",
+   "url": "https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334",
+   "ts": 1794175823,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чи може HBF бути рішенням вузького місця пам’яті?",
+    "fr": "HBF pourrait-il être la solution au goulot d’étranglement de la mémoire ?",
+    "de": "Könnte HBF die Lösung für den Speicherengpass sein?",
+    "zh": "HBF 能否解决内存瓶颈？",
+    "ru": "Может ли HBF стать решением узкого места памяти?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+   "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794175512,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Лікар, який лікував постраждалих під час стрілянини у Кракові, говорить BBC",
+    "fr": "Le médecin qui a soigné les victimes de la fusillade de Cracovie s'adresse à la BBC",
+    "de": "Arzt, der Opfer der Schießerei in Krakau behandelte, spricht mit der BBC",
+    "zh": "治疗克拉科夫枪击案受害者的医生接受 BBC 采访",
+    "ru": "Врач, лечивший жертв стрельбы в Кракове, рассказал BBC"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Onterris acquires EcOz Environmental Consultants in Australia",
+   "url": "https://www.investing.com/news/company-news/onterris-acquires-ecoz-environmental-consultants-in-australia-93CH-5010333",
+   "ts": 1794175475,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Onterris купує компанію EcOz Environmental Consultants в Австралії",
+    "fr": "Onterris acquiert EcOz Environmental Consultants en Australie",
+    "de": "Onterris übernimmt EcOz Environmental Consultants in Australien",
+    "zh": "Onterris 收购澳大利亚 Ecoz 环境顾问公司",
+    "ru": "Onterris приобретает компанию EcoOz Environmental Consultants в Австралии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Trump staffing changes post-midterms signal he's battle ready",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+   "ts": 1794175457,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Зміни штату Трампа після проміжних семестрів свідчать про те, що він готовий до бою",
+    "fr": "Les changements dans le personnel de Trump après la mi-mandat indiquent qu'il est prêt au combat",
+    "de": "Trumps personelle Veränderungen nach den Zwischenwahlen signalisieren, dass er kampfbereit ist",
+    "zh": "特朗普中期选举后人员配置变动表明他已做好战斗准备",
+    "ru": "Кадровые изменения Трампа после промежуточных выборов сигнализируют о том, что он готов к бою"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "How will Democrats approach foreign policy after their midterm win?",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
+   "ts": 1794175454,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Яким буде підхід демократів до зовнішньої політики після перемоги на проміжному терміні?",
+    "fr": "Comment les démocrates aborderont-ils la politique étrangère après leur victoire à mi-mandat ?",
+    "de": "Wie werden die Demokraten nach ihrem Halbzeitsieg die Außenpolitik angehen?",
+    "zh": "中期选举获胜后，民主党将如何处理外交政策？",
+    "ru": "Как демократы будут подходить к внешней политике после победы на промежуточных выборах?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+   "ts": 1794175453,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Найбільшу у світі телекомунікаційну компанію судять, і результат має глобальні наслідки",
+    "fr": "La plus grande entreprise de télécommunications du monde est jugée et l'issue a des implications mondiales",
+    "de": "Der weltgrößte Telekommunikationskonzern steht vor Gericht und das Ergebnis hat globale Auswirkungen",
+    "zh": "全球最大的电信公司正在接受审判，结果具有全球影响",
+    "ru": "Крупнейшая в мире телекоммуникационная компания находится под судом, и его исход имеет глобальные последствия"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+   "ts": 1794175449,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Намагаючись знайти справжніх власників, паризький Музей Д'Орсе виставив викрадене нацистами мистецтво",
+    "fr": "À la recherche de véritables propriétaires, le musée d'Orsay à Paris expose des œuvres d'art pillées par les nazis",
+    "de": "Auf der Suche nach wahren Besitzern zeigt das Pariser Musee D'Orsay von Nazis geplünderte Kunst",
+    "zh": "巴黎奥赛博物馆展出纳粹掠夺的艺术品，试图寻找真正的主人",
+    "ru": "Пытаясь найти истинных владельцев, парижский музей Орсе выставляет произведения искусства, разграбленные нацистами."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+   "ts": 1794175439,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Чоловіка звинуватили у вбивстві через смертельне ножове поранення кур'єра HungryPanda в Мельбурні",
+    "fr": "Un homme accusé de meurtre pour avoir poignardé mortellement le livreur HungryPanda à Melbourne",
+    "de": "Mann wegen Mordes wegen tödlicher Messerattacke auf HungryPanda-Lieferfahrer in Melbourne angeklagt",
+    "zh": "墨尔本一名男子因刺伤 HungryPanda 送货员而被控谋杀",
+    "ru": "Мужчина обвинен в убийстве из-за смертельного ножевого ранения курьера HungryPanda в Мельбурне"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+   "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+   "ts": 1794175434,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Чому Трамп хоче голову UFC Дану Уайта своїм новим прес-секретарем Білого дому",
+    "fr": "Pourquoi Trump veut que le chef de l'UFC, Dana White, soit son nouveau secrétaire de presse à la Maison Blanche",
+    "de": "Warum Trump UFC-Chef Dana White als seine neue Pressesprecherin im Weißen Haus haben will",
+    "zh": "为什么特朗普希望 UFC 主席达纳·怀特 (Dana White) 担任他的新任白宫新闻秘书",
+    "ru": "Почему Трамп хочет, чтобы руководитель UFC Дана Уайт стал его новым пресс-секретарем Белого дома"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Australian lender ANZ reports 31% rise in full-year cash profit",
+   "url": "https://www.investing.com/news/stock-market-news/australian-lender-anz-reports-31-rise-in-fullyear-cash-profit-5010331",
+   "ts": 1794175223,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Австралійський кредитор ANZ повідомляє про зростання грошового прибутку за весь рік на 31%.",
+    "fr": "Le prêteur australien ANZ annonce une hausse de 31 % de son bénéfice en espèces pour l'ensemble de l'année",
+    "de": "Der australische Kreditgeber ANZ meldet einen Anstieg des Bargewinns für das Gesamtjahr um 31 %",
+    "zh": "澳大利亚银行 ANZ 报告全年现金利润增长 31%",
+    "ru": "Австралийский кредитор ANZ сообщает о росте денежной прибыли за весь год на 31%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "EOS Falls 12% In Selloff",
+   "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-5010329",
+   "ts": 1794175020,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "EOS падає на 12% через продаж",
+    "fr": "EOS chute de 12% en liquidation",
+    "de": "EOS fällt im Ausverkauf um 12 %",
+    "zh": "EOS 在抛售中下跌 12%",
+    "ru": "Распродажа EOS упала на 12%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Production suspended at Iraq’s Khor Mor gas field after drone attack, sources say",
+   "url": "https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
+   "ts": 1794174864,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Джерела повідомляють, що видобуток на газовому родовищі Хор Мор в Іраку призупинено після атаки безпілотників",
+    "fr": "La production du champ gazier irakien de Khor Mor suspendue après une attaque de drone, selon des sources",
+    "de": "Laut Quellen wurde die Produktion im irakischen Gasfeld Khor Mor nach einem Drohnenangriff eingestellt",
+    "zh": "消息人士称，伊拉克豪尔莫尔气田因无人机袭击而暂停生产",
+    "ru": "Источники сообщают, что добыча на иракском газовом месторождении Хор Мор приостановлена ​​из-за атаки беспилотника"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+   "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+   "ts": 1794174782,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що новий удар по Ірану «дуже малоймовірний», якщо переговори прогресуватимуть, але попереджає, що він все ще може завдати удару",
+    "fr": "Trump déclare que de nouvelles frappes contre l’Iran sont « hautement improbables » si les négociations progressent, mais prévient qu’il pourrait toujours frapper",
+    "de": "Trump hält erneute Angriffe auf den Iran für „höchst unwahrscheinlich“, wenn die Gespräche voranschreiten, warnt aber davor, dass er dennoch zuschlagen könnte",
+    "zh": "特朗普表示，如果谈判取得进展，伊朗“极不可能”再次发动袭击，但警告称他仍可能发动袭击",
+    "ru": "Трамп говорит, что возобновление ударов по Ирану «крайне маловероятно», если переговоры пройдут, но предупреждает, что он все еще может нанести удар"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Air Assault Forces most in need of riflemen",
+   "url": "https://www.ukrinform.net/rubric-ato/4182756-air-assault-forces-most-in-need-of-riflemen.html",
+   "ts": 1794174780,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Десантно-штурмові війська найбільше потребують стрільців",
+    "fr": "Les forces d'assaut aérien ont le plus besoin de fusiliers",
+    "de": "Die Luftangriffsstreitkräfte benötigen am meisten Schützen",
+    "zh": "空中突击部队最需要步枪兵",
+    "ru": "Десантно-штурмовые войска больше всего нуждаются в стрелках"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
    "title": "How a digital bank’s collapse toppled Paraguay’s president",
-   "url": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
-   "ts": 1794173422,
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWlVMmg2TlFMXzFudjZfRUlFWlVkYldzRzcwY2U0NVM2VUc4YXpYWDhnbHpJTHAzd25KUG9DUmJreXlEazZsZmlkWXJJal9KYUdpYmZCVkZDaUVsY3dvLUxKUWFPZW42V21FT1NhbC1vX2owY1lyQVJUdXI4b0hwTkQ1S0ptajZjNnp4LXlxVnVKN2pOZVRpbVNEYnVGcmE3THotZGh3Mll4X1k?oc=5",
+   "ts": 1794173894,
    "sec": [
     "market"
    ],
@@ -230,6 +592,24 @@
     "de": "Wie der Zusammenbruch einer digitalen Bank den Präsidenten Paraguays stürzte",
     "zh": "一家数字银行的倒闭如何推翻了巴拉圭总统",
     "ru": "Как крах цифрового банка свергнул президента Парагвая"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Poland mourns victims of Krakow shooting amid security fears",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+   "ts": 1794173388,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Польща оплакує жертв стрілянини у Кракові через побоювання безпеки",
+    "fr": "La Pologne pleure les victimes de la fusillade de Cracovie sur fond de craintes sécuritaires",
+    "de": "Polen trauert um Opfer der Schießerei in Krakau aus Sicherheitsgründen",
+    "zh": "出于安全担忧，波兰哀悼克拉科夫枪击事件的受害者",
+    "ru": "Польша скорбит по жертвам стрельбы в Кракове из-за опасений по поводу безопасности"
    },
    "lang": "en"
   },
@@ -252,20 +632,38 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
-   "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-   "ts": 1794173292,
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "War update: 127 clashes on front line, Pokrovsk sector remains hottest",
+   "url": "https://www.ukrinform.net/rubric-ato/4182752-war-update-127-clashes-on-front-line-pokrovsk-sector-remains-hottest.html",
+   "ts": 1794173220,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Трамп каже, що новий удар по Ірану «дуже малоймовірний», якщо переговори прогресуватимуть, але попереджає, що він все ще може завдати удару",
-    "fr": "Trump déclare que de nouvelles frappes contre l’Iran sont « hautement improbables » si les négociations progressent, mais prévient qu’il pourrait toujours frapper",
-    "de": "Trump hält erneute Angriffe auf den Iran für „höchst unwahrscheinlich“, wenn die Gespräche voranschreiten, warnt aber davor, dass er dennoch zuschlagen könnte",
-    "zh": "特朗普表示，如果谈判取得进展，伊朗“极不可能”再次发动袭击，但警告称他仍可能发动袭击",
-    "ru": "Трамп говорит, что возобновление ударов по Ирану «крайне маловероятно», если переговоры пройдут, но предупреждает, что он все еще может нанести удар"
+    "uk": "Актуально: на передовій 127 бойових дій, найгарячішим залишається Покровський напрямок",
+    "fr": "Le point sur la guerre : 127 affrontements sur la ligne de front, le secteur de Pokrovsk reste le plus chaud",
+    "de": "Kriegsaktualisierung: 127 Zusammenstöße an der Front, der Pokrowsk-Sektor bleibt am heißesten",
+    "zh": "战争更新：前线发生 127 起冲突，波克罗夫斯克地区仍然最热",
+    "ru": "Новости о войне: 127 столкновений на линии фронта, Покровский сектор остается самым жарким"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+   "ts": 1794173110,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Холодний вибух приносить весняний сніг у альпійські регіони, оскільки температура різко падає на південному сході Австралії",
+    "fr": "Une vague de froid apporte de la neige printanière dans les régions alpines alors que les températures chutent dans le sud-est de l’Australie.",
+    "de": "Kältewind bringt frühlingshaften Schnee in die Alpenregionen, während die Temperaturen im Südosten Australiens sinken",
+    "zh": "随着澳大利亚东南部气温骤降，寒流给高山地区带来了春季降雪",
+    "ru": "Холодный порыв принес весенний снег в альпийские регионы, а температура резко упала на юго-востоке Австралии"
    },
    "lang": "en"
   },
@@ -306,24 +704,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-   "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-   "ts": 1794172418,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nvidia розслідує стосунки генерального директора Дженсена Хуанга з імовірним китайським шпигуном",
-    "fr": "Nvidia enquête sur la relation du PDG Jensen Huang avec un espion chinois présumé",
-    "de": "Nvidia untersucht die Beziehung von CEO Jensen Huang zu einem mutmaßlichen chinesischen Spion",
-    "zh": "英伟达调查首席执行官黄仁勋与涉嫌中国间谍的关系",
-    "ru": "Nvidia расследует отношения генерального директора Дженсена Хуанга с предполагаемым китайским шпионом"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -357,6 +737,24 @@
     "de": "Der israelische Oppositionsführer Eisenkot beginnt mit der harten Arbeit, eine Koalitionsregierung zu bilden",
     "zh": "以色列反对派领袖艾森科特开始组建联合政府的艰苦工作",
     "ru": "Лидер израильской оппозиции Айзенкот начинает тяжелую работу по созданию коалиционного правительства"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Nvidia opens probe after report of CEO Huang's relationship with alleged Chinese spy",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+   "ts": 1794172189,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Nvidia відкриває розслідування після повідомлення про стосунки генерального директора Хуанга з імовірним китайським шпигуном",
+    "fr": "Nvidia ouvre une enquête après un rapport sur la relation du PDG Huang avec un espion chinois présumé",
+    "de": "Nvidia eröffnet Untersuchung nach Bericht über die Beziehung von CEO Huang zu einem mutmaßlichen chinesischen Spion",
+    "zh": "英伟达在首席执行官黄与涉嫌中国间谍的关系被报道后展开调查",
+    "ru": "Nvidia начинает расследование после сообщения об отношениях генерального директора Хуана с предполагаемым китайским шпионом"
    },
    "lang": "en"
   },
@@ -415,24 +813,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Beacon Financial director Hughes buys $6,146 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
-   "ts": 1794171670,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Фінансовий директор Beacon Хьюз купує акції компанії на суму 6146 доларів",
-    "fr": "Le directeur financier de Beacon, Hughes, achète pour 6 146 $ d'actions de la société",
-    "de": "Hughes, Finanzdirektor von Beacon, kauft Unternehmensaktien im Wert von 6.146 US-Dollar",
-    "zh": "Beacon Financial 董事 Hughes 购买了 6,146 美元的公司股票",
-    "ru": "Финансовый директор Beacon Хьюз покупает акции компании на сумму 6146 долларов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
@@ -447,24 +827,6 @@
     "de": "Nvidia leitet Ermittlungen ein, nachdem CEO Jensen Huang Berichten zufolge Ziel ausländischer Geheimdienste war",
     "zh": "英伟达首席执行官黄仁勋成为外国情报目标后展开调查",
     "ru": "Nvidia начинает расследование после сообщения о том, что генеральный директор Дженсен Хуанг стал объектом внешней разведки"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
-   "url": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
-   "ts": 1794171645,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Турецькі селяни вимагають від лідерів COP31 побачити на власні очі руйнування, спричинене вугіллям",
-    "fr": "Les villageois turcs demandent aux dirigeants de la COP31 de constater par eux-mêmes les dégâts causés par le charbon",
-    "de": "Türkische Dorfbewohner fordern COP31-Führer, sich selbst von den durch Kohle verursachten Verwüstungen zu überzeugen",
-    "zh": "土耳其村民要求 COP31 领导人亲眼目睹煤炭造成的破坏",
-    "ru": "Жители турецкой деревни требуют, чтобы лидеры COP31 сами увидели разрушения, вызванные углем"
    },
    "lang": "en"
   },
@@ -505,24 +867,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Production suspended at Iraq’s Khor Mor gas field after drone attack, sources say",
-   "url": "https://www.investing.com/news/commodities-news/production-suspended-at-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-5010313",
-   "ts": 1794170904,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Джерела повідомляють, що видобуток на газовому родовищі Хор Мор в Іраку призупинено після атаки безпілотників",
-    "fr": "La production du champ gazier irakien de Khor Mor suspendue après une attaque de drone, selon des sources",
-    "de": "Laut Quellen wurde die Produktion im irakischen Gasfeld Khor Mor nach einem Drohnenangriff eingestellt",
-    "zh": "消息人士称，伊拉克豪尔莫尔气田因无人机袭击而暂停生产",
-    "ru": "Источники сообщают, что добыча на иракском газовом месторождении Хор Мор приостановлена ​​из-за атаки беспилотника"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "france24",
    "source": "France 24",
    "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
@@ -537,6 +881,24 @@
     "de": "Nach Angaben der Behörden sank ein Flüchtlingsboot vor Senegal und tötete mindestens 34 Menschen",
     "zh": "当局称，塞内加尔移民船沉没，造成至少34人死亡",
     "ru": "Лодка с мигрантами затонула у берегов Сенегала, погибли по меньшей мере 34 человека, сообщают власти"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+   "ts": 1794170329,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев прибув до Аргентини Мілеї, оскільки напруженість нависла через жорстку економію, Іран",
+    "fr": "Le pape Léon arrive dans l'Argentine de Milei alors que les tensions menacent sur l'austérité et l'Iran",
+    "de": "Papst Leo trifft in Mileis Argentinien ein, während Spannungen wegen Sparmaßnahmen und Iran drohen",
+    "zh": "教皇利奥抵达米莱的阿根廷，紧缩政策和伊朗的紧张局势迫在眉睫",
+    "ru": "Папа Лев прибыл в Аргентину Милея, поскольку нарастает напряженность из-за мер жесткой экономии и Ирана"
    },
    "lang": "en"
   },
@@ -559,42 +921,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-   "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
-   "ts": 1794169973,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Біткойн тримається нижче 76 тисяч доларів, оскільки закриття Binance в ЄС збільшує тиск на крипторинок",
-    "fr": "Bitcoin se maintient en dessous de 76 000 $ alors que les fermetures de Binance dans l'UE ajoutent à la pression du marché de la cryptographie",
-    "de": "Bitcoin bleibt unter 76.000 US-Dollar, da die Schließung von Binance EU den Druck auf den Kryptomarkt erhöht",
-    "zh": "由于币安欧盟关闭增加了加密货币市场压力，比特币价格维持在 7.6 万美元以下",
-    "ru": "Биткойн держится ниже 76 тысяч долларов, поскольку закрытие Binance в ЕС усиливает давление на рынок криптовалют"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
-   "ts": 1794169899,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Nvidia починає розслідування після повідомлення про те, що генеральний директор Хуан був мішенню іноземних розвідок",
-    "fr": "Nvidia ouvre une enquête après un rapport selon lequel le PDG Huang était la cible de renseignements étrangers",
-    "de": "Nvidia leitet Untersuchung ein, nachdem bekannt wurde, dass CEO Huang Ziel ausländischer Geheimdienste war",
-    "zh": "有报道称首席执行官黄是外国情报的目标后，英伟达展开调查",
-    "ru": "Nvidia начинает расследование после сообщения о том, что генеральный директор Хуан стал объектом внешней разведки"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
@@ -609,24 +935,6 @@
     "de": "Papst Leo XIV. hält Predigt vor Tausenden in Uruguay",
     "zh": "教皇利奥十四世向乌拉圭数千人讲道",
     "ru": "Папа Лев XIV произнес проповедь перед тысячами жителей Уругвая"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Poland mourns victims of Krakow shooting amid security fears",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-   "ts": 1794169756,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Польща оплакує жертв стрілянини у Кракові через побоювання безпеки",
-    "fr": "La Pologne pleure les victimes de la fusillade de Cracovie sur fond de craintes sécuritaires",
-    "de": "Polen trauert um Opfer der Schießerei in Krakau aus Sicherheitsgründen",
-    "zh": "出于安全担忧，波兰哀悼克拉科夫枪击事件的受害者",
-    "ru": "Польша скорбит по жертвам стрельбы в Кракове из-за опасений по поводу безопасности"
    },
    "lang": "en"
   },
@@ -649,20 +957,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
-   "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307",
-   "ts": 1794169105,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1hPV0p1dkZfcU92OEJVMkYtQTNHb3hKSDdGZHp5U1RkUTZlc2dzTU9oNjQ4dk5nUGZ6WVhkTlk2VTJ0cFkxOHozbE9aWUJObXFUYVBCZEwtaktnOGExQjVfUlhNdFlxRV9KeHMzS1Rsc2c3OFAxNHF6RjM2X0FRamhCalJsTk1BY1g2NFhHX2ZnUQ?oc=5",
+   "ts": 1794169380,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Nvidia розпочинає розслідування після повідомлення, що генеральний директор Хуан став мішенню іноземних розвідок",
-    "fr": "Nvidia lance une enquête après que le PDG Huang ait été la cible de renseignements étrangers",
-    "de": "Nvidia leitet Untersuchung ein, nachdem CEO Huang Berichten zufolge Ziel ausländischer Geheimdienste war",
-    "zh": "英伟达在报告首席执行官黄成为外国情报目标后启动调查",
-    "ru": "Nvidia начинает расследование после сообщения о том, что генеральный директор Хуан стал объектом внешней разведки"
+    "uk": "Саудівська Аравія перехопила ракети через пошкодження будівлі Aramco в Ер-Ріяді та інші новини Близького Сходу",
+    "fr": "L'Arabie Saoudite intercepte des missiles alors que le bâtiment d'Aramco à Riyad est endommagé, et autres nouvelles du Moyen-Orient",
+    "de": "Saudi-Arabien fängt Raketen ab, als das Aramco-Gebäude in Riad beschädigt wird, und andere Nachrichten aus dem Nahen Osten",
+    "zh": "沙特阿拉伯在利雅得的阿美石油公司大楼受损时拦截导弹，以及其他中东新闻",
+    "ru": "Саудовская Аравия перехватывает ракеты, поскольку здание Aramco в Эр-Рияде повреждено, и другие новости Ближнего Востока"
    },
    "lang": "en"
   },
@@ -681,42 +989,6 @@
     "de": "Beim Zusammenstoß zweier Züge in Ägypten kommen sieben Menschen ums Leben und mindestens 125 werden verletzt",
     "zh": "埃及两列火车相撞 造成7人死亡、至少125人受伤",
     "ru": "В результате столкновения двух поездов в Египте погибли 7 и ранены не менее 125 человек."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-   "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-   "ts": 1794168819,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Іран погрожує «пролити пекло», якщо США розгорнуть війну",
-    "fr": "L’Iran menace de « faire pleuvoir l’enfer » si les États-Unis intensifient la guerre",
-    "de": "Der Iran droht mit „Höllenregen“, wenn die USA den Krieg eskalieren",
-    "zh": "伊朗威胁称，如果美国升级战争，伊朗将“下地狱”",
-    "ru": "Иран угрожает «адским дождем», если США эскалируют войну"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-   "ts": 1794168633,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Папа Лев прибув до Аргентини Мілеї, оскільки напруженість нависла через жорстку економію, Іран",
-    "fr": "Le pape Léon arrive dans l'Argentine de Milei alors que les tensions menacent sur l'austérité et l'Iran",
-    "de": "Papst Leo trifft in Mileis Argentinien ein, während Spannungen wegen Sparmaßnahmen und Iran drohen",
-    "zh": "教皇利奥抵达米莱的阿根廷，紧缩政策和伊朗的紧张局势迫在眉睫",
-    "ru": "Папа Лев прибыл в Аргентину Милея, поскольку нарастает напряженность из-за мер жесткой экономии и Ирана"
    },
    "lang": "en"
   },
@@ -812,20 +1084,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Al Jazeera tries Baseball5 at Youth Olympics",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
-   "ts": 1794165998,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
+   "ts": 1794165969,
    "sec": [
-    "world"
+    "market"
    ],
    "t": {
-    "uk": "Аль-Джазіра пробує Baseball5 на Юнацькій Олімпіаді",
-    "fr": "Al Jazeera essaie le Baseball5 aux Jeux olympiques de la jeunesse",
-    "de": "Al Jazeera probiert Baseball5 bei den Jugendolympiaden aus",
-    "zh": "半岛电视台在青年奥运会上尝试棒球5",
-    "ru": "Аль-Джазира пробует бейсбол5 на юношеских Олимпийских играх"
+    "uk": "За словами міністра, Ірак досяг домовленостей із США щодо дозволу на експорт нафти через Ормуз",
+    "fr": "L'Irak a conclu un accord avec les États-Unis pour autoriser les exportations de pétrole via Ormuz, selon le ministre",
+    "de": "Der Irak habe mit den USA Vereinbarungen getroffen, um Ölexporte über Hormuz zu erlauben, sagt der Minister",
+    "zh": "部长表示，伊拉克已与美国达成谅解，允许通过霍尔木兹出口石油",
+    "ru": "Ирак достиг договоренности с США о разрешении экспорта нефти через Ормуз, заявил министр"
    },
    "lang": "en"
   },
@@ -906,24 +1178,6 @@
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-   "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
-   "ts": 1794165336,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ман Юнайтед здобув нічию 4-4 проти Астон Вілли, але залишився в зоні вильоту",
-    "fr": "Man United remporte un match nul 4-4 contre Aston Villa mais reste dans la zone de relégation",
-    "de": "Man United erkämpft sich ein 4:4-Unentschieden gegen Aston Villa, bleibt aber auf der Abstiegszone",
-    "zh": "曼联4-4战平阿斯顿维拉，但仍处于降级区",
-    "ru": "«Манчестер Юнайтед» заработал ничью 4–4 против «Астон Виллы», но остался в зоне вылета"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
    "title": "After the midterms, where does the Republican Party stand?",
    "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
    "ts": 1794164958,
@@ -937,42 +1191,6 @@
     "de": "Wo steht die Republikanische Partei nach den Zwischenwahlen?",
     "zh": "中期选举之后，共和党的立场如何？",
     "ru": "Какую позицию займет Республиканская партия после промежуточных выборов?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-   "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-   "ts": 1794164704,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ліза Ненді каже, що справа Рассела Бренда має стати тривожним сигналом для захисту жінок у ЗМІ",
-    "fr": "L'affaire Russell Brand doit être un signal d'alarme pour protéger les femmes dans les médias, déclare Lisa Nandy",
-    "de": "Der Fall Russell Brand muss ein Weckruf sein, um Frauen in den Medien zu schützen, sagt Lisa Nandy",
-    "zh": "丽莎·南迪表示，拉塞尔·布兰德案必须敲响保护媒体女性的警钟",
-    "ru": "Дело Рассела Брэнда должно стать тревожным сигналом для защиты женщин в СМИ, говорит Лиза Нэнди"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Trump says he is highly unlikely to order Iran strikes if talks progress",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
-   "ts": 1794164328,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп каже, що він навряд чи віддасть наказ завдати удару по Ірану, якщо переговори прогресуватимуть",
-    "fr": "Trump dit qu'il est très peu probable qu'il ordonne des frappes contre l'Iran si les négociations progressent",
-    "de": "Trump sagt, es sei höchst unwahrscheinlich, dass er Iran-Angriffe anordne, wenn die Gespräche Fortschritte machten",
-    "zh": "特朗普表示，如果谈判取得进展，他不太可能下令袭击伊朗",
-    "ru": "Трамп заявил, что вряд ли отдаст приказ нанести удар по Ирану, если переговоры пройдут успешно"
    },
    "lang": "en"
   },
@@ -992,24 +1210,6 @@
     "de": "Die Demokraten verstärken Trumps Ermittlungsdrohungen, Blanche entgegnet, er könnte den Gesetzgeber untersuchen",
     "zh": "民主党加大特朗普调查威胁，布兰奇反驳他可能调查立法者",
     "ru": "Демократы усиливают угрозы расследования Трампа, Бланш возражает, что он может расследовать законодателей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFNfMGFpaEpaOGRfS0RYa3FEOFh5OWFNaWxxbUlkcEFjNF84YWhEdHRKV283Q3loNmdQVnhUQTl6SXRzSjlIQ3pyVWhwV2JhejFpaEUyc2gtVjN1QU12NGdFNVVfU3BJektraHNJc0ZOTURqTVJyTFFpZzBKSDlwUlVWY2UwSmJ1eEFtNXJOQkpzVUl6eTdyVTFB?oc=5",
-   "ts": 1794164220,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Саудівська Аравія звертається за допомогою до Сирії через загострення бойових дій з хуситами",
-    "fr": "L’Arabie saoudite se tourne vers la Syrie pour obtenir de l’aide alors que les combats avec les Houthis s’intensifient",
-    "de": "Saudi-Arabien bittet Syrien um Hilfe, da die Kämpfe mit den Houthis eskalieren",
-    "zh": "随着与胡塞武装的战斗升级，沙特阿拉伯向叙利亚寻求帮助",
-    "ru": "Саудовская Аравия обращается к Сирии за помощью в связи с эскалацией боевых действий с хуситами"
    },
    "lang": "en"
   },
@@ -1050,24 +1250,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
-   "ts": 1794162814,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Бунт спалахує на заході з боксу, який відвідує Томмі Робінсон в Ірландії",
-    "fr": "Une émeute éclate lors d'un événement de boxe d'influence auquel participe Tommy Robinson en Irlande",
-    "de": "Bei einem Influencer-Box-Event, an dem Tommy Robinson in Irland teilnimmt, kommt es zu Aufständen",
-    "zh": "汤米·罗宾逊在爱尔兰参加的影响力拳击活动爆发骚乱",
-    "ru": "Беспорядки вспыхнули на боксерском мероприятии влиятельных лиц, на котором присутствовал Томми Робинсон в Ирландии."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Two killed, seven injured in Russian attacks on Dnipropetrovsk region",
@@ -1082,42 +1264,6 @@
     "de": "Zwei Tote und sieben Verletzte bei russischen Angriffen auf die Region Dnipropetrowsk",
     "zh": "俄罗斯第聂伯罗彼得罗夫斯克地区袭击造成两人死亡、七人受伤",
     "ru": "Два человека погибли и семь получили ранения в результате нападения РФ на Днепропетровщину"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794162173,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Стрілянина хірурга, який обідав під Краковом, безсумнівно врятувала життя офіцеру, каже колега",
-    "fr": "Un chirurgien déjeunant près de la fusillade de Cracovie a sans aucun doute sauvé la vie d'un policier, selon un collègue",
-    "de": "Ein Chirurg, der in der Nähe der Krakauer Schießerei zu Mittag aß, rettete zweifellos das Leben eines Beamten, sagt ein Kollege",
-    "zh": "同事说，在克拉科夫枪击事件附近吃午餐的外科医生无疑挽救了军官的生命",
-    "ru": "Хирург, обедавший возле Кракова, стрелявший, несомненно, спас жизнь офицеру, говорит коллега"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-   "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-   "ts": 1794162006,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ліза Ненді обережно ставиться до «кругових аргументів» про повернення до ЄС",
-    "fr": "Lisa Nandy se méfie des « arguments circulaires » sur la réadhésion à l’UE",
-    "de": "Lisa Nandy ist besorgt über „zirkuläre Argumente“ über den Wiederbeitritt zur EU",
-    "zh": "丽莎·南迪对重新加入欧盟的“循环论点”持谨慎态度",
-    "ru": "Лиза Нэнди опасается «циркулярных аргументов» о воссоединении с ЕС"
    },
    "lang": "en"
   },
@@ -1252,25 +1398,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
-   "ts": 1794159621,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Суперник Нетаньяху Айзенкот прагне до «широкого» уряду, але шлях до влади невизначений",
-    "fr": "Eisenkot, rival de Netanyahu, cherche un gouvernement « large », mais le chemin vers le pouvoir est incertain",
-    "de": "Netanjahus Rivale Eisenkot strebt eine „breite“ Regierung an, aber der Weg zur Macht ist ungewiss",
-    "zh": "内塔尼亚胡竞争对手艾森科特寻求“广泛”政府，但权力之路不确定",
-    "ru": "Соперник Нетаньяху Айзенкот ищет «широкое» правительство, но путь к власти неясен"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
@@ -1303,25 +1430,6 @@
     "de": "Laut Gouverneur haben ukrainische Drohnen wichtige Brücken und Kraftwerke im russischen Oblast Rostow getroffen",
     "zh": "州长称乌克兰无人机袭击了俄罗斯罗斯托夫州的主要桥梁和发电站",
     "ru": "Украинские дроны нанесли удар по ключевому мосту и электростанциям в Ростовской области, заявил губернатор"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "South Africa elections: ANC marks its worst-ever performance",
-   "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
-   "ts": 1794159300,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Вибори в Південній Африці: АНК показав найгірший результат за всю історію",
-    "fr": "Élections en Afrique du Sud : l’ANC enregistre sa pire performance de tous les temps",
-    "de": "Wahlen in Südafrika: ANC verzeichnet sein schlechtestes Ergebnis aller Zeiten",
-    "zh": "南非选举：非国大创下有史以来最差表现",
-    "ru": "Выборы в Южной Африке: АНК демонстрирует худшие результаты за всю историю"
    },
    "lang": "en"
   },
@@ -1417,24 +1525,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Sybiha calls for boycott of Russia's participation in 2027 World Junior Ice Hockey Championship",
-   "url": "https://www.ukrinform.net/rubric-sports/4182713-sybiha-calls-for-boycott-of-russias-participation-in-2027-world-junior-ice-hockey-championship.html",
-   "ts": 1794157140,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Сибіга закликає бойкотувати участь Росії в юніорському чемпіонаті світу з хокею 2027 року",
-    "fr": "Sybiha appelle au boycott de la participation de la Russie au Championnat du monde junior de hockey sur glace 2027",
-    "de": "Sybiha ruft zum Boykott der russischen Teilnahme an der Junioren-Eishockey-Weltmeisterschaft 2027 auf",
-    "zh": "西比哈呼吁抵制俄罗斯参加2027年世界青少年冰球锦标赛",
-    "ru": "Сибиха призывает бойкотировать участие России в юношеском чемпионате мира по хоккею 2027 года"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_business",
    "source": "The Guardian",
    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
@@ -1453,24 +1543,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russia brings additional forces into Oleshky and surrounding community under cover of humanitarian operation – Zelensky",
-   "url": "https://www.ukrinform.net/rubric-ato/4182709-russia-brings-additional-forces-into-oleshky-and-surrounding-community-under-cover-of-humanitarian-operation-zelensky.html",
-   "ts": 1794155220,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія стягує додаткові сили в Олешки та околиці під прикриттям гуманітарної операції – Зеленський",
-    "fr": "La Russie envoie des forces supplémentaires à Olechky et dans la communauté environnante sous couvert d’une opération humanitaire – Zelensky",
-    "de": "Russland bringt unter dem Deckmantel einer humanitären Operation – Selenskyj – zusätzliche Streitkräfte nach Oleschky und in die umliegende Gemeinde",
-    "zh": "泽伦斯基：俄罗斯在人道主义行动掩护下向奥列什基和周边社区增派部队",
-    "ru": "Россия вводит дополнительные силы в Олешки и окрестности под прикрытием гуманитарной операции – Зеленский"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Zelensky tasks PM with creating free transportation program in Kyiv as Russia's bridge attacks hinder travel",
@@ -1485,6 +1557,25 @@
     "de": "Selenskyj beauftragt Premierminister mit der Schaffung eines kostenlosen Transportprogramms in Kiew, da Russlands Brückenangriffe das Reisen behindern",
     "zh": "由于俄罗斯桥梁袭击阻碍旅行，泽伦斯基要求总理在基辅制定免费交通计划",
     "ru": "Зеленский поручил премьер-министру создать программу бесплатного транспорта в Киеве, поскольку российские атаки на мосты мешают передвижению"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Russia says hit power substations in Ukraine and three ships in Black Sea",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3I3aVRlN2tQellIUkRxQVR6VFhUWkRfZlJQUWsyR3g0S0w2Wlg1cUt6SW9fc081c1hfcTdPSTJwZzJIWUVtQXN1SVJiRm9zTWJKYjM2RTV3TWVBa001Y1RmeVhEOHVnb3pCSUt5T3BxU19VeDhXNGdmNkg0SlNHUWszcHI3X1hsbjJiWFN5MXlEcHdVM21wNTJrRHlVeTFQZl9CYlRwMmY?oc=5",
+   "ts": 1794153772,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія стверджує, що вдарила по електропідстанціях в Україні та по трьох кораблях у Чорному морі",
+    "fr": "La Russie affirme avoir touché des sous-stations électriques en Ukraine et trois navires en mer Noire",
+    "de": "Nach Angaben Russlands wurden Umspannwerke in der Ukraine und drei Schiffe im Schwarzen Meer getroffen",
+    "zh": "俄罗斯称袭击了乌克兰的变电站和黑海的三艘船",
+    "ru": "Россия заявляет, что пострадали подстанции на Украине и три корабля в Черном море"
    },
    "lang": "en"
   },
@@ -2013,24 +2104,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
-   "ts": 1794142841,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Розкрито: як британська фірма очолює зростання торгівлі американським фракціонованим етаном",
-    "fr": "Révélé : comment une entreprise britannique est le fer de lance de la croissance du commerce de l'éthane fracturé aux États-Unis",
-    "de": "Enthüllt: Wie ein britisches Unternehmen das Wachstum des US-amerikanischen Fracking-Ethan-Handels vorantreibt",
-    "zh": "揭秘：一家英国公司如何引领美国压裂乙烷贸易增长",
-    "ru": "Раскрыто: как британская фирма возглавляет рост торговли этаном, полученным в результате гидроразрыва в США"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
@@ -2102,24 +2175,6 @@
     "de": "Die Europäer werden sich den Ukraine-Gesprächen in Abu Dhabi anschließen, sagt der französische Außenminister",
     "zh": "法国外长表示，欧洲人将参加在阿布扎比举行的乌克兰谈判",
     "ru": "Европейцы присоединятся к переговорам по Украине в Абу-Даби, заявил министр иностранных дел Франции"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-   "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-   "ts": 1794139558,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "1-0 для людства? Проміжне голосування в США повертає штучний інтелект, центри обробки даних і бролігархію в їхні ящики | Хізер Стюарт",
-    "fr": "1-0 pour l’humanité ? Le vote américain de mi-mandat remet l’IA, les centres de données et la broligarchie dans leur boîte | Heather Stewart",
-    "de": "1:0 für die Menschheit? US-Zwischenwahl bringt KI, Rechenzentren und die Broligarchie wieder in ihre Schranken | Heather Stewart",
-    "zh": "人类1-0？美国中期选举将人工智能、数据中心和兄弟政治重新放回了他们的盒子里希瑟·斯图尔特",
-    "ru": "1:0 в пользу человечества? Промежуточные выборы в США возвращают ИИ, центры обработки данных и бролигархию в ящик | Хизер Стюарт"
    },
    "lang": "en"
   },
@@ -2269,24 +2324,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
-   "ts": 1794089523,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Президент The Heritage Foundation дивиться у майбутнє Республіканської партії",
-    "fr": "Le président de The Heritage Foundation se tourne vers l’avenir du GOP",
-    "de": "Der Präsident der Heritage Foundation blickt in die Zukunft der Republikanischen Partei",
-    "zh": "传统基金会主席展望共和党的未来",
-    "ru": "Президент Фонда «Наследие» смотрит в будущее Республиканской партии"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
@@ -2358,26 +2395,6 @@
     "de": "Das Vereinigte Königreich kann sich das EU-Binnenmarktabkommen nicht „aussuchen“, sagt Barnier gegenüber BBC",
     "zh": "巴尼耶告诉 BBC，英国不能“挑选”欧盟单一市场协议",
     "ru": "Великобритания не может «выбрать вишнёвое» соглашение о едином рынке ЕС, рассказал Барнье BBC"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
-   "ts": 1794063741,
-   "sec": [
-    "world",
-    "ukraine",
-    "politics"
-   ],
-   "t": {
-    "uk": "Міністр закордонних справ Італії каже, що став мішенню проросійських хакерів через підтримку України",
-    "fr": "Le ministre italien des Affaires étrangères affirme avoir été ciblé par des pirates informatiques pro-russes en raison du soutien de l'Ukraine.",
-    "de": "Der italienische Außenminister sagt, er sei wegen der Unterstützung der Ukraine ins Visier prorussischer Hacker geraten",
-    "zh": "意大利外长表示，他因支持乌克兰而成为亲俄黑客的攻击目标",
-    "ru": "Министр иностранных дел Италии заявил, что стал жертвой пророссийских хакеров из-за поддержки Украины"
    },
    "lang": "en"
   },
@@ -2711,7 +2728,7 @@
   {
    "source": "reuters_business",
    "ok": true,
-   "items": 33
+   "items": 30
   },
   {
    "source": "reuters_world",
@@ -2726,7 +2743,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 27
+   "items": 28
   },
   {
    "source": "aljazeera",
@@ -2791,7 +2808,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
