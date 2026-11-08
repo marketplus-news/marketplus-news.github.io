@@ -1,5 +1,5 @@
 {
- "updated": 1794110036,
+ "updated": 1794113624,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,21 +216,110 @@
  ],
  "items": [
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1794109611,
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian attack on Odesa kills one",
+   "url": "https://www.ukrinform.net/rubric-ato/4182543-russian-attack-on-odesa-kills-one.html",
+   "ts": 1794112680,
    "sec": [
-    "world",
-    "politics"
+    "ukraine"
    ],
    "t": {
-    "uk": "Результати виборів до Сенату США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
+    "uk": "Російська атака на Одесу загинула",
+    "fr": "L'attaque russe sur Odessa fait un mort",
+    "de": "Bei einem russischen Angriff auf Odessa kommt einer ums Leben",
+    "zh": "俄罗斯对敖德萨的袭击造成一人死亡",
+    "ru": "В результате нападения России на Одессу погиб один человек"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Finland studies Ukraine's experience with anti-tank fortifications along border with Russia",
+   "url": "https://www.ukrinform.net/rubric-defense/4182542-finland-studies-ukraines-experience-with-antitank-fortifications-along-border-with-russia.html",
+   "ts": 1794111660,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Фінляндія вивчає досвід України з протитанковими укріпленнями на кордоні з Росією",
+    "fr": "La Finlande étudie l'expérience ukrainienne en matière de fortifications antichar le long de la frontière avec la Russie",
+    "de": "Finnland untersucht die Erfahrungen der Ukraine mit Panzerabwehrbefestigungen entlang der Grenze zu Russland",
+    "zh": "芬兰研究乌克兰在与俄罗斯边境沿线反坦克防御工事的经验",
+    "ru": "Финляндия изучает опыт Украины по созданию противотанковых укреплений вдоль границы с Россией"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Pacira earnings missed by $0.03, revenue fell short of estimates",
+   "url": "https://www.investing.com/news/earnings/pacira-earnings-missed-by-003-revenue-fell-short-of-estimates-5010123",
+   "ts": 1794111463,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибуток Pacira знизився на 0,03 дол. США, дохід був меншим за оцінки",
+    "fr": "Les bénéfices de Pacira ont manqué de 0,03 $, les revenus sont inférieurs aux estimations",
+    "de": "Der Gewinn von Pacira verfehlte die Erwartungen um 0,03 US-Dollar, der Umsatz blieb hinter den Schätzungen zurück",
+    "zh": "Pacira 盈利低于预期 0.03 美元，收入低于预期",
+    "ru": "Прибыль Pacira снизилась на 0,03 доллара, выручка не оправдала оценок"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says",
+   "url": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says",
+   "ts": 1794111042,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Військовий брифінг в Україні: Росія посилює напади, щоб «тиснути» на Київ на тристоронніх переговорах, каже Зеленський",
+    "fr": "Briefing sur la guerre en Ukraine : la Russie intensifie ses attaques pour « faire pression » sur Kiev lors des négociations trilatérales, selon Zelensky",
+    "de": "Kriegsbesprechung in der Ukraine: Russland verstärkt Angriffe, um Kiew bei trilateralen Gesprächen „unter Druck zu setzen“, sagt Selenskyj",
+    "zh": "乌克兰战争简报：泽伦斯基表示，俄罗斯加大攻击力度，在三边会谈中向基辅“施压”",
+    "ru": "Брифинг по войне на Украине: Россия усиливает атаки, чтобы «давить» на Киев на трехсторонних переговорах, говорит Зеленский"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794110592,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Хуси кажуть, що в результаті авіаудару Саудівської Аравії загинули щонайменше 33 людини",
+    "fr": "Les Houthis disent qu'au moins 33 personnes ont été tuées dans une frappe aérienne saoudienne",
+    "de": "Nach Angaben der Huthis wurden bei einem saudischen Luftangriff mindestens 33 Menschen getötet",
+    "zh": "胡塞武装称沙特空袭造成至少33人死亡",
+    "ru": "Хуситы заявили, что в результате авиаудара Саудовской Аравии погибли по меньшей мере 33 человека"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Power outage schedules to be in effect in some regions on Sunday, covering 1.5 to 4 groups",
+   "url": "https://www.ukrinform.net/rubric-society/4182523-power-outage-schedules-to-be-in-effect-in-some-regions-on-sunday-covering-15-to-4-groups.html",
+   "ts": 1794109620,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У неділю в окремих регіонах діятимуть графіки відключень електроенергії від 1,5 до 4 груп",
+    "fr": "Des horaires de coupure de courant seront en vigueur dimanche dans certaines régions, couvrant 1,5 à 4 groupes",
+    "de": "In einigen Regionen gelten am Sonntag Stromausfallpläne für 1,5 bis 4 Gruppen",
+    "zh": "部分地区周日实施停电计划，覆盖1.5至4组",
+    "ru": "В воскресенье в некоторых регионах будут действовать графики отключения электроэнергии, охватывающие от 1,5 до 4 групп."
    },
    "lang": "en"
   },
@@ -287,6 +376,24 @@
     "de": "Trump bittet UFC-Chefin Dana White, Pressesprecherin des Weißen Hauses zu werden",
     "zh": "特朗普邀请UFC主席达纳·怀特担任白宫新闻秘书",
     "ru": "Трамп попросил главу UFC Дану Уайта стать пресс-секретарем Белого дома"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
+   "ts": 1794107460,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Цивільна оборона Саудівської Аравії дає все чітко після тривоги у Східній провінції",
+    "fr": "La défense civile saoudienne donne le feu vert après des alertes dans la province orientale",
+    "de": "Der saudische Zivilschutz gibt nach Alarmen in der Ostprovinz Entwarnung",
+    "zh": "东部省发出警报后，沙特民防部门解除警报",
+    "ru": "Гражданская оборона Саудовской Аравии дает отбой после сигналов тревоги в Восточной провинции"
    },
    "lang": "en"
   },
@@ -780,24 +887,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Southern Co comptroller Matthew Kim sells $9,339 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
-   "ts": 1794094259,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Контролер Southern Co Метью Кім продає акції на 9339 доларів",
-    "fr": "Le contrôleur de Southern Co, Matthew Kim, vend 9 339 $ d'actions",
-    "de": "Matthew Kim, Rechnungsprüfer der Southern Co., verkauft Aktien im Wert von 9.339 US-Dollar",
-    "zh": "南方公司主计长 Matthew Kim 出售价值 9,339 美元的股票",
-    "ru": "Контролер Southern Co Мэтью Ким продает акции на сумму 9 339 долларов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Trump offers UFC chief Dana White press secretary job",
@@ -924,6 +1013,25 @@
     "ru": "Депутат Гватемалы и трое полицейских убиты в результате вооруженного нападения"
    },
    "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg?oc=5",
+   "ts": 1794091530,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Фінансовий директор Binance Кайзер йде у відставку, Джастін Єк призначений новим фінансовим директором",
+    "en": "Binance CFO Kaiser steps down, Justin Yek named new finance chief",
+    "fr": "Le directeur financier de Binance, Kaiser, démissionne et Justin Yek est nommé nouveau directeur financier",
+    "de": "Binance-CFO Kaiser tritt zurück, Justin Yek zum neuen Finanzchef ernannt",
+    "zh": "币安 CFO Kaiser 辞职，Justin Yek 被任命为新财务总监",
+    "ru": "Финансовый директор Binance Кайзер уходит в отставку, Джастин Йек назначен новым финансовым директором"
+   },
+   "lang": "tl"
   },
   {
    "feed": "ukrinform",
@@ -1420,24 +1528,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Prosecutor's office building damaged in Russian attack on Kyiv",
-   "url": "https://www.ukrinform.net/rubric-ato/4182521-prosecutors-office-building-damaged-in-russian-attack-on-kyiv.html",
-   "ts": 1794081420,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Під час нападу росіян на Київ постраждала будівля прокуратури",
-    "fr": "Le bâtiment du bureau du procureur endommagé lors de l'attaque russe contre Kyiv",
-    "de": "Gebäude der Staatsanwaltschaft bei russischem Angriff auf Kiew beschädigt",
-    "zh": "俄罗斯袭击基辅检察官办公室大楼受损",
-    "ru": "Здание прокуратуры повреждено в результате нападения России на Киев"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "Here are the 2027 capital-gains tax rates for each income level",
@@ -1474,24 +1564,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Fire at warehouse in Kyiv region caused by Russian attack extinguished",
-   "url": "https://www.ukrinform.net/rubric-ato/4182519-fire-at-warehouse-in-kyiv-region-caused-by-russian-attack-extinguished.html",
-   "ts": 1794080340,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Пожежу на складі в Київській області, спричинену нападом росіян, ліквідовано",
-    "fr": "L'incendie d'un entrepôt dans la région de Kyiv provoqué par une attaque russe est éteint",
-    "de": "Durch russischen Angriff verursachter Brand in Lagerhaus in der Region Kiew gelöscht",
-    "zh": "俄罗斯袭击引发的基辅地区仓库火灾已被扑灭",
-    "ru": "Пожар на складе в Киевской области, вызванный нападением России, потушен"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
@@ -1506,24 +1578,6 @@
     "de": "Die Kosten für verschreibungspflichtige Medicare-Medikamente werden im Jahr 2027 um 50 % steigen. Nichtstun könnte Sie teuer zu stehen kommen.",
     "zh": "2027 年，医疗保险处方药费用将上涨 50%。不采取任何行动可能会让您付出代价。",
     "ru": "В 2027 году стоимость рецептурных лекарств по программе Medicare вырастет на 50%. Бездействие может стоить вам дорого."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Woman killed, others injured in Russian attacks on Kharkiv region since morning",
-   "url": "https://www.ukrinform.net/rubric-ato/4182512-woman-killed-others-injured-in-russian-attacks-on-kharkiv-region-since-morning.html",
-   "ts": 1794079140,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Внаслідок обстрілів Росії на Харківщині зранку загинула жінка, ще є поранені",
-    "fr": "Une femme tuée et d'autres blessées dans les attaques russes contre la région de Kharkiv depuis le matin",
-    "de": "Bei russischen Angriffen auf die Region Charkiw seit dem Morgen wurde eine Frau getötet und weitere verletzt",
-    "zh": "自早上起俄罗斯对哈尔科夫地区的袭击造成妇女死亡，其他人受伤",
-    "ru": "Женщина погибла, еще несколько человек получили ранения в результате нападения РФ на Харьковщину с утра"
    },
    "lang": "en"
   },
@@ -1668,43 +1722,6 @@
     "de": "„Es fühlt sich an, als würde er sich in aller Stille ein eigenes Leben aufbauen“: Mein Mann hat 500.000 Dollar geerbt, aber er weigert sich, das Geld für unser Haus auszugeben",
     "zh": "“感觉就像他正在悄悄地建立一个独立的生活”：我的丈夫继承了 50 万美元，但他拒绝把它花在我们的房子上",
     "ru": "‘Такое ощущение, что он по-тихоньку строит отдельную жизнь’: Мой муж получил в наследство $500 000, но он отказывается тратить их на наш дом"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
-   "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
-   "ts": 1794070593,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Розширюючи морську блокаду, військові США прагнуть обмежити іранську сухопутну торгівлю",
-    "fr": "En élargissant le blocus naval, l’armée américaine cherche à restreindre le commerce terrestre iranien",
-    "de": "Durch die Ausweitung der Seeblockade versucht das US-Militär, den iranischen Landhandel einzuschränken",
-    "zh": "美军扩大海上封锁，寻求限制伊朗陆地贸易",
-    "ru": "Расширяя военно-морскую блокаду, американские военные стремятся ограничить сухопутную торговлю с Ираном"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
-   "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
-   "ts": 1794069060,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Вирішальні вибори. Різкі коливання акцій. Як ми керувалися ринком минулого тижня",
-    "fr": "Élection décisive. Des fluctuations spectaculaires des actions. Comment nous avons géré le marché la semaine dernière",
-    "de": "Entscheidende Wahl. Dramatische Aktienschwankungen. Wie wir letzte Woche mit dem Markt umgegangen sind",
-    "zh": "决定性的选举。股票剧烈波动。上周我们如何应对市场",
-    "ru": "Решающие выборы. Драматические колебания акций. Как мы вели себя на рынке на прошлой неделе"
    },
    "lang": "en"
   },
@@ -1980,24 +1997,6 @@
     "de": "Selenskyj meldet, dass über Nacht vier von 36 Raketen abgeschossen wurden und dass Russland nordkoreanische Waffen eingesetzt habe",
     "zh": "泽伦斯基报告称，一夜之间击落 36 枚导弹中的 4 枚，俄罗斯使用了朝鲜武器",
     "ru": "Зеленский сообщил о четырех из 36 сбитых за ночь ракет и использовании Россией северокорейского оружия"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Heavy machinery arrives at protest against Russian grain transit in Latvia",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061723/",
-   "ts": 1794057420,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "На знак протесту проти транзиту російського зерна до Латвії прибула важка техніка",
-    "fr": "Des machines lourdes arrivent pour protester contre le transit des céréales russes en Lettonie",
-    "de": "Schwere Maschinen treffen bei einem Protest gegen den russischen Getreidetransit in Lettland ein",
-    "zh": "重型机械抵达拉脱维亚抗议俄罗斯粮食过境",
-    "ru": "Тяжелая техника прибыла на акцию протеста против транзита российского зерна в Латвию"
    },
    "lang": "en"
   },
@@ -2393,6 +2392,25 @@
   {
    "feed": "ap",
    "source": "AP News",
+   "title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
+   "ts": 1793999880,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Акції штучного інтелекту зупиняють свій жорстокий світовий розпродаж, оскільки Уолл-стріт скорочує свої втрати за тиждень",
+    "fr": "Les actions d’IA arrêtent leur vente brutale à l’échelle mondiale alors que Wall Street réduit sa perte pour la semaine",
+    "de": "KI-Aktien stoppen ihren brutalen, weltweiten Ausverkauf, während die Wall Street ihren Wochenverlust reduziert",
+    "zh": "随着华尔街减少本周的损失，人工智能股票停止了全球范围内的残酷抛售",
+    "ru": "Акции ИИ прекращают жестокую мировую распродажу, поскольку Уолл-стрит сокращает потери за неделю"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
    "title": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ25SYTdOdF9LVHV6R3B4MnA4cjJycWdjQU5yX3BhR083Q1lpLTFjb1EwbENvdk15TTBEeXlpZHl3R3NEQjlNRUgxa0FZWUNlcjV0eXJDMkRjVUFGNDRRSjdDUDBuNVh0a01tejQ1UnlBbUNteDN6NjJPdEQxYjhRUkNhaW50UjJ5NTJpOVNpODRDTTJuSy1tWUNwV0xJWGpLZWM1OWZhVDB2ekpndXN0eWFB?oc=5",
    "ts": 1793992800,
@@ -2717,20 +2735,20 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Could this be the last Bonfire Night for noisy fireworks?",
-   "url": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss",
-   "ts": 1793885066,
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "No amount of sliding in the polls can shake Kemi Badenoch’s self-belief – or alter her party’s direction | Andy Beckett",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/05/kemi-badenoch-polls-tory-party-direction",
+   "ts": 1793872804,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Чи може це остання Ніч багаття для галасливих феєрверків?",
-    "fr": "Serait-ce la dernière Bonfire Night pour des feux d'artifice bruyants ?",
-    "de": "Könnte dies die letzte Bonfire Night mit lautem Feuerwerk sein?",
-    "zh": "这会是最后一个喧闹烟花的篝火之夜吗？",
-    "ru": "Может ли это быть последняя Ночь костров для шумных фейерверков?"
+    "uk": "Ніяке падіння в опитуваннях не може похитнути самовпевненість Кемі Баденок або змінити напрямок її партії | Енді Беккет",
+    "fr": "Aucune baisse dans les sondages ne peut ébranler la confiance en soi de Kemi Badenoch – ou modifier la direction de son parti | Andy Beckett",
+    "de": "Kein noch so großer Rückgang in den Umfragen kann Kemi Badenochs Selbstvertrauen erschüttern – oder die Richtung ihrer Partei ändern | Andy Beckett",
+    "zh": "民意调查再多的下滑也无法动摇凯米·巴德诺克的自信 — — 或改变她所在政党的方向 |安迪·贝克特",
+    "ru": "Никакое снижение результатов опросов не сможет поколебать самоуверенность Кеми Баденок – или изменить направление ее партии | Энди Беккет"
    },
    "lang": "en"
   }
@@ -2764,7 +2782,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "guardian_business",
@@ -2799,7 +2817,7 @@
   {
    "source": "ap",
    "ok": true,
-   "items": 39
+   "items": 38
   },
   {
    "source": "bbc_world",
@@ -2834,7 +2852,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 19
+   "items": 18
   },
   {
    "source": "guardian_politics",
@@ -2864,7 +2882,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 10
+   "items": 11
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2899,10 +2917,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 5,
-   "translated": 50,
+   "requests": 6,
+   "translated": 51,
    "method": {
-    "dict": 5
+    "dict": 6
    }
   },
   {
