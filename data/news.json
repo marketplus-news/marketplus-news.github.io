@@ -1,5 +1,5 @@
 {
- "updated": 1794190366,
+ "updated": 1794194679,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,21 +216,165 @@
  ],
  "items": [
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
-   "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-   "ts": 1794189900,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "South Africa’s ANC suffers worst-ever local elections result",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+   "ts": 1794193791,
    "sec": [
     "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "АНК Південної Африки отримав найгірший результат на місцевих виборах за всю історію",
+    "fr": "L’ANC en Afrique du Sud subit le pire résultat des élections locales",
+    "de": "Südafrikas ANC erleidet das schlechteste Ergebnis seiner Kommunalwahlen aller Zeiten",
+    "zh": "南非非国大遭遇有史以来最差地方选举结果",
+    "ru": "АНК ЮАР потерпел худший за всю историю результат местных выборов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "China extends suspension of 24% tariff on US imports for two months",
+   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
+   "ts": 1794193614,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Китай продовжив призупинення 24% мита на імпорт із США на два місяці",
+    "fr": "La Chine prolonge de deux mois la suspension des droits de douane de 24 % sur les importations américaines",
+    "de": "China verlängert die Aussetzung der Zölle von 24 % auf US-Importe um zwei Monate",
+    "zh": "中国对美国进口产品暂停加征24%关税的期限延长两个月",
+    "ru": "Китай продлил приостановку действия 24%-ной пошлины на импорт из США на два месяца"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-falls-about-3-in-afterhours-and-perpetual-futures-trade-5010425",
+   "ts": 1794193580,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nvidia падає приблизно на 3% у торгівлі позаробочими та безстроковими ф’ючерсами",
+    "fr": "Nvidia chute d'environ 3 % dans les échanges à terme en dehors des heures d'ouverture et perpétuels",
+    "de": "Nvidia fällt im nachbörslichen und ewigen Futures-Handel um etwa 3 %",
+    "zh": "英伟达在盘后交易和永续期货交易中下跌约 3%",
+    "ru": "Акции Nvidia падают примерно на 3% в нерабочее время и в бессрочной торговле фьючерсами"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Philippine Q3 GDP grows at slowest pace since COVID recession",
+   "url": "https://www.investing.com/news/economic-indicators/philippine-q3-gdp-grows-at-slowest-pace-since-covid-recession-5010424",
+   "ts": 1794193406,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "ВВП Філіппін у третьому кварталі зростає найнижчими темпами з часів пандемії COVID-19",
+    "fr": "Le PIB des Philippines au troisième trimestre croît au rythme le plus lent depuis la récession du COVID",
+    "de": "Das philippinische BIP wächst im dritten Quartal am langsamsten seit der COVID-Rezession",
+    "zh": "菲律宾第三季度GDP增速为新冠衰退以来最慢",
+    "ru": "ВВП Филиппин в третьем квартале растет самыми медленными темпами со времен рецессии, вызванной COVID-19"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Trump thinks he will meet Xi and Putin at China APEC summit",
+   "url": "https://www.investing.com/news/economy-news/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit-5010387",
+   "ts": 1794193223,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп думає, що зустрінеться з Сі та Путіним на китайському саміті АТЕС",
+    "fr": "Trump pense qu'il rencontrera Xi et Poutine au sommet de l'APEC en Chine",
+    "de": "Trump geht davon aus, dass er Xi und Putin beim chinesischen APEC-Gipfel treffen wird",
+    "zh": "特朗普认为他将在中国APEC峰会上会见习近平和普京",
+    "ru": "Трамп думает, что встретится с Си и Путиным на китайском саммите АТЭС"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes",
+   "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+   "ts": 1794192980,
+   "sec": [
     "ukraine"
    ],
    "t": {
-    "uk": "Європа тисне на США щодо миру в Україні та Іран на переговорах міністрів G7 у Парижі",
-    "fr": "L’Europe fera pression sur les États-Unis sur la paix en Ukraine et en Iran lors des pourparlers ministériels du G7 à Paris",
-    "de": "Europa wird die USA bei den G7-Ministergesprächen in Paris zum Frieden in der Ukraine und im Iran drängen",
-    "zh": "欧洲在巴黎七国集团部长级会议上就乌克兰和平和伊朗问题向美国施压",
-    "ru": "Европа будет давить на США по вопросу мира с Украиной и Ирана на переговорах министров G7 в Париже"
+    "uk": "Після війни Україна, ймовірно, «прийме трохи іншу форму», — каже Трамп 60 Minutes",
+    "fr": "L'Ukraine \"se retrouvera probablement avec une forme un peu différente\" après la guerre, déclare Trump à 60 Minutes",
+    "de": "Die Ukraine werde nach dem Krieg wahrscheinlich „eine etwas andere Verfassung haben“, sagt Trump gegenüber 60 Minutes",
+    "zh": "特朗普在《60 分钟》节目中表示，战后乌克兰可能“最终会出现一些不同的情况”",
+    "ru": "Украина, скорее всего, «примет немного другую форму» после войны, заявил Трамп в программе «60 минут»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "ts": 1794192622,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оптова інфляція в Китаї досягла найвищого рівня за понад чотири роки через уповільнення споживчих показників",
+    "fr": "L'inflation de gros en Chine atteint son plus haut niveau depuis plus de quatre ans alors que les mesures de consommation ralentissent",
+    "de": "Die Großhandelsinflation in China erreicht den höchsten Stand seit mehr als vier Jahren, da die Verbraucherzahlen nachlassen",
+    "zh": "随着消费者指标放缓，中国批发通胀创四年多来新高",
+    "ru": "Инфляция оптовой торговли в Китае достигла самого высокого уровня за более чем четыре года, поскольку потребительский спрос замедляется"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFY4Y0d2eFRORUl6QUN3enk4b3JhdVFzWlJEbzlWN05qVFA0QXNWZzA2QmdqY1lzZ1A0d0lGalo0R0RmMTRYY0RQLV9YR3pjTDBtaDRoVlFkZGZ2ZXM5UXZScGttSG1adFR1eU9HeFpaM09PT3NhYWlDXzBrelZfU1cxanJuN0dQS1VobWRYRWJMYTh6M21hS0JZX0J0SFRpaFRhXzNETlJPTnI5UDlvX2RUclM4QUNtZ20tbWpzSnk5cXhn?oc=5",
+   "ts": 1794192180,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Генеральний директор UBS каже, що інвестори в штучний інтелект вважали «досконалість» до різкої корекції сектора",
+    "fr": "Le PDG d'UBS affirme que les investisseurs en IA tablaient sur la \"perfection\" jusqu'à la forte correction du secteur",
+    "de": "Der CEO von UBS sagt, dass KI-Investoren bis zur scharfen Korrektur des Sektors „Perfektion“ eingepreist hätten",
+    "zh": "瑞银首席执行官表示，人工智能投资者一直在定价“完美”，直到行业大幅调整",
+    "ru": "Генеральный директор UBS говорит, что инвесторы в области искусственного интеллекта рассчитывали на «совершенство» до резкой коррекции сектора"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Serbia's new parliament to hold its first session on November 17",
+   "url": "https://www.ukrinform.net/rubric-polytics/4182711-serbias-new-parliament-to-hold-its-first-session-on-november-17.html",
+   "ts": 1794191820,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Новий парламент Сербії проведе своє перше засідання 17 листопада",
+    "fr": "Le nouveau Parlement serbe tiendra sa première session le 17 novembre",
+    "de": "Serbiens neues Parlament wird am 17. November seine erste Sitzung abhalten",
+    "zh": "塞尔维亚新议会将于11月17日举行第一次会议",
+    "ru": "Новый парламент Сербии проведет свое первое заседание 17 ноября"
    },
    "lang": "en"
   },
@@ -239,7 +383,7 @@
    "source": "CNBC",
    "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
    "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "ts": 1794189447,
+   "ts": 1794191819,
    "sec": [
     "market"
    ],
@@ -249,6 +393,151 @@
     "de": "Aktien-Futures steigen leicht, da Anleger den KI-Handel im Auge behalten, bereiten Sie sich auf weitere Daten und Gewinne vor: Live-Updates",
     "zh": "随着投资者关注人工智能交易，股票期货小幅上涨，为更多数据和收益做好准备：实时更新",
     "ru": "Фьючерсы на акции немного растут, поскольку инвесторы следят за торговлей с использованием ИИ и готовятся к получению дополнительных данных и доходов: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+   "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+   "ts": 1794191715,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Молдова запускає нову лінію електропередач до Румунії, щоб зменшити залежність від Росії",
+    "fr": "La Moldavie lance une nouvelle ligne électrique vers la Roumanie pour réduire sa dépendance à la Russie",
+    "de": "Moldawien baut eine neue Stromleitung nach Rumänien, um die Abhängigkeit von Russland zu verringern",
+    "zh": "摩尔多瓦向罗马尼亚开通新电力线以减少对俄罗斯的依赖",
+    "ru": "Молдова запускает новую линию электропередачи в Румынию, чтобы снизить зависимость от России"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
+   "url": "https://www.investing.com/news/stock-market-news/mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11-bln-5010413",
+   "ts": 1794191347,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Mitsui Chemicals купує виробника чіпових матеріалів JSR за $11 млрд",
+    "fr": "Mitsui Chemicals rachète le fabricant de matériaux pour puces JSR pour 11 milliards de dollars",
+    "de": "Mitsui Chemicals kauft den Chipmaterialhersteller JSR für 11 Milliarden US-Dollar",
+    "zh": "三井化学以110亿美元收购芯片材料制造商JSR",
+    "ru": "Mitsui Chemicals купит производителя чиповых материалов JSR за 11 млрд долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+   "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
+   "ts": 1794191311,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Інфляція CPI в Китаї не відповідає прогнозам у жовтні; заводські ціни прискорюються",
+    "fr": "L'inflation de l'IPC en Chine est inférieure aux prévisions en octobre ; les prix départ usine s’accélèrent",
+    "de": "Chinas VPI-Inflation bleibt im Oktober hinter den Prognosen zurück; Die Preise ab Werk steigen",
+    "zh": "中国10月CPI通胀低于预期；出厂价格加速上涨",
+    "ru": "Инфляция ИПЦ в Китае в октябре не оправдала прогнозов; Заводские цены растут"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+   "ts": 1794190991,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Атака безпілотника на газове родовище Іракського Курдистану спричинила масове відключення світла",
+    "fr": "Une attaque de drone sur un champ gazier du Kurdistan irakien provoque une panne d’électricité massive",
+    "de": "Drohnenangriff auf Gasfeld im irakischen Kurdistan löst Massenstromausfall aus",
+    "zh": "无人机袭击伊拉克库尔德斯坦气田引发大面积停电",
+    "ru": "Атака дронов на газовое месторождение Иракского Курдистана вызвала массовое отключение электроэнергии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Greenfire Resources reports Q3 production of 27,166 bbls/d",
+   "url": "https://www.investing.com/news/company-news/greenfire-resources-reports-q3-production-of-27166-bblsd-93CH-5010412",
+   "ts": 1794190599,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Greenfire Resources повідомляє про видобуток у 3 кварталі 27 166 барелів на день",
+    "fr": "Greenfire Resources annonce une production de 27 166 b/j au troisième trimestre",
+    "de": "Greenfire Resources meldet für das dritte Quartal eine Produktion von 27.166 Barrel pro Tag",
+    "zh": "Greenfire Resources 报告第三季度产量为 27,166 桶/天",
+    "ru": "Greenfire Resources сообщает о добыче в третьем квартале 27 166 баррелей в сутки."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+   "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+   "ts": 1794190285,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев під час візиту до Аргентини різко критикує заходи економії Мілей",
+    "fr": "Le pape Léon adresse des critiques cinglantes aux mesures d’austérité de Milei lors de sa visite en Argentine",
+    "de": "Papst Leo rügt während seines Argentinien-Besuchs scharfe Kritik an Mileis Sparmaßnahmen",
+    "zh": "教皇利奥在访问阿根廷期间对米莱的紧缩措施进行了严厉谴责",
+    "ru": "Папа Лев выступил с резким осуждением мер жесткой экономии Милеи во время визита в Аргентину"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "This cancer-testing stock is BTIG’s top pick after another major earnings beat",
+   "url": "https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
+   "ts": 1794190097,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ці акції, що перевіряються на рак, є найкращим вибором BTIG після чергового значного підвищення прибутків",
+    "fr": "Ce titre de test du cancer est le premier choix de BTIG après une autre hausse importante des bénéfices",
+    "de": "Diese krebserregende Aktie ist nach einem weiteren großen Gewinnanstieg die erste Wahl von BTIG",
+    "zh": "在盈利再次超出预期后，这只癌症测试股票成为 BTIG 的首选股票",
+    "ru": "Эти акции, предназначенные для тестирования на рак, являются лучшим выбором BTIG после очередного значительного увеличения прибыли."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+   "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+   "ts": 1794189900,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Європа тисне на США щодо миру з Україною та Іраном на паризьких переговорах G7",
+    "fr": "L’Europe fera pression sur les États-Unis sur la paix en Ukraine et en Iran lors des négociations du G7 à Paris",
+    "de": "Europa drängt die USA bei den G7-Gesprächen in Paris zum Frieden in der Ukraine und im Iran",
+    "zh": "欧洲将在巴黎七国集团峰会上就乌克兰和平和伊朗问题向美国施压",
+    "ru": "Европа будет давить на США по поводу мира с Украиной и Ирана на переговорах G7 в Париже"
    },
    "lang": "en"
   },
@@ -271,74 +560,21 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Trump to meet Qatar’s prime minister as Iran diplomacy faces hurdles",
-   "url": "https://www.investing.com/news/commodities-news/trump-to-meet-qatars-prime-minister-as-iran-diplomacy-faces-hurdles-5010408",
-   "ts": 1794188969,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп зустрінеться з прем’єр-міністром Катару, оскільки іранська дипломатія стикається з перешкодами",
-    "fr": "Trump rencontrera le Premier ministre du Qatar alors que la diplomatie iranienne se heurte à des obstacles",
-    "de": "Trump trifft sich mit Katars Premierminister, während die Iran-Diplomatie vor Hürden steht",
-    "zh": "特朗普将与卡塔尔总理会面，伊朗外交面临障碍",
-    "ru": "Трамп встретится с премьер-министром Катара, поскольку иранская дипломатия сталкивается с препятствиями"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
+   "feed": "reuters_world",
+   "source": "Reuters",
    "title": "Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets",
-   "url": "https://www.investing.com/news/economy-news/asian-stocks-steady-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets-5010407",
-   "ts": 1794188908,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
+   "ts": 1794188760,
    "sec": [
+    "world",
     "market"
    ],
    "t": {
     "uk": "Азіатські акції стабільні, оскільки штучний інтелект, хвилювання на Близькому Сході спадає; долара фірми на ставки ФРС",
     "fr": "Les actions asiatiques se stabilisent alors que la nervosité de l’IA et du Moyen-Orient diminue ; le dollar ferme sur les paris de la Fed",
-    "de": "Asiatische Aktien bleiben stabil, während die Nervosität im Bereich KI und im Nahen Osten nachlässt; Dollar fest auf Fed-Wetten",
+    "de": "Asiatische Aktien bleiben stabil, während die Ängste vor KI und dem Nahen Osten nachlassen; Dollar fest auf Fed-Wetten",
     "zh": "随着人工智能和中东紧张局势的消退，亚洲股市保持稳定；美联储押注美元坚挺",
     "ru": "Азиатские фондовые индексы стабилизировались, а беспокойство по поводу AI и Ближнего Востока утихло; Долларовая фирма на ставках ФРС"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "RBA’s Hunter sees limited AI productivity gains so far",
-   "url": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
-   "ts": 1794188873,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Хантер з RBA бачить поки що обмежений приріст продуктивності ШІ",
-    "fr": "Hunter de la RBA constate jusqu'à présent des gains de productivité limités en matière d'IA",
-    "de": "Hunter von der RBA sieht bisher begrenzte KI-Produktivitätssteigerungen",
-    "zh": "澳洲联储亨特认为迄今为止人工智能生产率的提高有限",
-    "ru": "Хантер из RBA пока видит ограниченный прирост производительности ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
-   "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
-   "ts": 1794188715,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Інфляція CPI в Китаї не відповідає прогнозам у жовтні; заводські ціни прискорюються",
-    "fr": "L'inflation de l'IPC en Chine est inférieure aux prévisions en octobre ; les prix départ usine s’accélèrent",
-    "de": "Chinas VPI-Inflation bleibt im Oktober hinter den Prognosen zurück; Die Preise ab Werk steigen",
-    "zh": "中国10月CPI通胀低于预期；出厂价格加速上涨",
-    "ru": "Инфляция ИПЦ в Китае в октябре не оправдала прогнозов; Заводские цены растут"
    },
    "lang": "en"
   },
@@ -379,42 +615,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "China’s October producer inflation quickens further, consumer prices edge down",
-   "url": "https://www.investing.com/news/economy-news/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-5010403",
-   "ts": 1794188546,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Інфляція виробників у Китаї в жовтні прискорюється, споживчі ціни падають",
-    "fr": "L’inflation des prix à la production en Chine s’accélère encore en octobre et les prix à la consommation baissent légèrement",
-    "de": "Chinas Produzenteninflation im Oktober beschleunigt sich weiter, die Verbraucherpreise sinken leicht",
-    "zh": "中国10月生产者通胀进一步加快，消费者价格小幅下跌",
-    "ru": "Октябрьская производственная инфляция в Китае продолжает ускоряться, потребительские цены снижаются"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "China wholesale inflation hits over four-year high as consumer measure slows",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "ts": 1794188411,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Оптова інфляція в Китаї сягає максимуму за чотири роки через уповільнення споживчих показників",
-    "fr": "L'inflation de gros en Chine atteint son plus haut niveau depuis quatre ans alors que les mesures de consommation ralentissent",
-    "de": "Chinas Großhandelsinflation erreicht mehr als ein Vierjahreshoch, da sich die Verbraucherzahlen verlangsamen",
-    "zh": "由于消费者指标放缓，中国批发通胀触及四年来新高",
-    "ru": "Инфляция оптовой торговли в Китае достигла более чем четырехлетнего максимума, поскольку потребительский спрос замедляется"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Temperatures of up to -9°C forecast in Ukraine on Monday",
@@ -451,24 +651,6 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Bathurst Q1 FY27 slides: EBITDA surges 80% as growth projects advance",
-   "url": "https://www.investing.com/news/company-news/bathurst-q1-fy27-slides-ebitda-surges-80-as-growth-projects-advance-93CH-5010400",
-   "ts": 1794187534,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Bathurst Q1 Q27 FY слайди: EBITDA зростає на 80% у міру розвитку проектів зростання",
-    "fr": "Bathurst Q1 FY27 glisse : l'EBITDA augmente de 80 % à mesure que les projets de croissance avancent",
-    "de": "Bathurst Q1 GJ27 rutscht ab: EBITDA steigt um 80 %, da Wachstumsprojekte voranschreiten",
-    "zh": "巴瑟斯特 2027 财年第一季度下滑：随着增长项目的推进，EBITDA 飙升 80%",
-    "ru": "Батерст в первом квартале 2027 финансового года падает: EBITDA выросла на 80% по мере продвижения проектов роста"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
@@ -501,42 +683,6 @@
     "de": "Drohnenangriff unterbricht Produktion im irakischen Gasfeld Khor Mor",
     "zh": "无人机袭击导致伊拉克豪尔莫尔气田生产暂停",
     "ru": "Атака дронов остановила добычу на иракском газовом месторождении Хор Мор"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-   "url": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
-   "ts": 1794187103,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Долар США зберігає зростання зарплати, новозеландський долар зростає після виборів",
-    "fr": "Le dollar américain maintient ses gains en termes de masse salariale, le dollar néo-zélandais augmente après les élections",
-    "de": "Der US-Dollar hält an den Lohnzuwächsen fest, der neuseeländische Dollar steigt nach der Wahl",
-    "zh": "美元保持就业增长，新西兰元在大选后上涨",
-    "ru": "Доллар США удерживает рост заработной платы, новозеландский доллар вырос после выборов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Gold rebounds above $4,100 as traders await U.S. inflation data after jobs beat",
-   "url": "https://www.investing.com/news/commodities-news/gold-rebounds-above-4100-as-traders-await-us-inflation-data-after-jobs-beat-5010397",
-   "ts": 1794187004,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Золото піднімається вище 4100 доларів, оскільки трейдери очікують даних про інфляцію в США після зростання робочих місць",
-    "fr": "L'or rebondit au-dessus de 4 100 $ alors que les traders attendent les données sur l'inflation américaine après la chute de l'emploi",
-    "de": "Gold erholt sich über 4.100 $, während Händler auf US-Inflationsdaten warten, nachdem der Arbeitsmarkt zurückgegangen ist",
-    "zh": "就业好转后，交易员等待美国通胀数据，金价反弹至 4,100 美元上方",
-    "ru": "Золото подскочило выше $4100, поскольку трейдеры ждут данных по инфляции в США после падения рабочих мест"
    },
    "lang": "en"
   },
@@ -832,18 +978,18 @@
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+   "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
    "ts": 1794182434,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Війна в Ірані в прямому ефірі: Трамп говорить про «залізні ворота»; безпілотник влучив у газове родовище Іраку",
-    "fr": "La guerre en Iran est en direct : Trump déclare que la « Porte de Fer » est en vigueur ; Un drone frappe un champ gazier en Irak",
-    "de": "Iran-Krieg live: Trump sagt faktisch „Eisernes Tor“; Drohne trifft irakisches Gasfeld",
-    "zh": "伊朗战争直播：特朗普实际上说“铁门”；无人机袭击伊拉克气田",
-    "ru": "Война в Иране в прямом эфире: Трамп говорит о «Железных воротах»; Дрон врезался в газовое месторождение в Ираке"
+    "uk": "Війна в Ірані в прямому ефірі: Трамп поговорить із Сі, Путін про Тегеран, «денуклеаризацію»",
+    "fr": "La guerre en Iran en direct : Trump va parler à Xi et Poutine de Téhéran et de la « dénucléarisation »",
+    "de": "Iran-Krieg live: Trump spricht mit Xi und Putin über Teheran und „Denuklearisierung“",
+    "zh": "伊朗战争直播：特朗普将与习近平和普京谈论德黑兰和“无核化”",
+    "ru": "Война в Иране в прямом эфире: Трамп поговорит с Си Цзиньпином и Путиным о Тегеране и «денуклеаризации»"
    },
    "lang": "en"
   },
@@ -880,24 +1026,6 @@
     "de": "Die Affäre des Nvidia-Chefs löst eine chinesische Spionageuntersuchung aus",
     "zh": "英伟达首席执行官事件引发中国间谍调查",
     "ru": "Дело генерального директора Nvidia вызвало расследование китайского шпионажа"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Mexican mayor found alive after hours-long abduction",
-   "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-   "ts": 1794182137,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Мексиканського мера знайшли живим після багатогодинного викрадення",
-    "fr": "Un maire mexicain retrouvé vivant après un enlèvement de plusieurs heures",
-    "de": "Mexikanische Bürgermeisterin nach stundenlanger Entführung lebend aufgefunden",
-    "zh": "墨西哥市长被绑架数小时后被发现还活着",
-    "ru": "Мексиканский мэр найден живым после многочасового похищения"
    },
    "lang": "en"
   },
@@ -1085,20 +1213,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-   "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-   "ts": 1794177732,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
+   "ts": 1794177825,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Лопес двічі зіграв \"Барселону\", щоб перемогти в \"Атлетіко\".",
-    "fr": "Lopez double le feu à Barcelone pour gagner à l'Atletico Madrid",
-    "de": "Lopez feuert Barcelona doppelt zum Sieg bei Atlético Madrid",
-    "zh": "洛佩兹双射巴萨战胜马德里竞技",
-    "ru": "Лопес дважды обошел «Барселону» и выиграл у «Атлетико Мадрид»"
+    "uk": "Хантер з RBA каже, що штучний інтелект ще не підвищив продуктивність і не спровокував втрату робочих місць",
+    "fr": "Hunter, de la RBA, affirme que l'IA n'a pas encore apporté d'amélioration de la productivité ni déclenché des pertes d'emplois",
+    "de": "Hunter von der RBA sagt, dass KI noch keine Produktivitätssteigerung bewirken und Arbeitsplatzverluste auslösen kann",
+    "zh": "澳洲联储亨特表示人工智能尚未提高生产力并引发失业",
+    "ru": "Хантер из RBA говорит, что ИИ еще не обеспечил повышение производительности, что приводит к сокращению рабочих мест"
    },
    "lang": "en"
   },
@@ -1194,6 +1322,25 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "New Zealand's new lawmakers start to arrive at parliament as government remains in limbo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVpEajBrQzJrUnlJeDZSMWFUaF9zcWloWW1nQXV5aTdCM0M1bGRkUndVenpZUUo0U1J3NlhhbFU4R3Zydl9QUUZESXFzMWRRV0dmUWhqZzdOMzBIMy15c2ZMbTJPcXNjaGNydXRQMGJPTDhsSUxSZExMdm9YdWhfYjZ3QXdkdzduaTFUbTdGOGYyaFZCcmhWQnhwRHNGTmxZdFJ1eHpudTZ6QUlGVXNMS2VuVlg2dFJaSXBWU0pITWVMaUhPWldIbGZR?oc=5",
+   "ts": 1794175920,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Нові законодавці Нової Зеландії починають прибувати до парламенту, оскільки уряд залишається в підвішеному стані",
+    "fr": "Les nouveaux législateurs néo-zélandais commencent à arriver au Parlement alors que le gouvernement reste dans les limbes",
+    "de": "Neuseelands neue Gesetzgeber beginnen, im Parlament anzukommen, während die Regierung weiterhin in der Schwebe ist",
+    "zh": "新西兰新议员开始进入议会，政府仍处于困境",
+    "ru": "Новые законодатели Новой Зеландии начинают прибывать в парламент, поскольку правительство остается в подвешенном состоянии"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
@@ -1244,42 +1391,6 @@
     "de": "Wie werden die Demokraten nach ihrem Halbzeitsieg die Außenpolitik angehen?",
     "zh": "中期选举获胜后，民主党将如何处理外交政策？",
     "ru": "Как демократы будут подходить к внешней политике после победы на промежуточных выборах?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-   "ts": 1794175453,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Найбільшу у світі телекомунікаційну компанію судять, і результат має глобальні наслідки",
-    "fr": "La plus grande entreprise de télécommunications du monde est jugée et l'issue a des implications mondiales",
-    "de": "Der weltgrößte Telekommunikationskonzern steht vor Gericht und das Ergebnis hat globale Auswirkungen",
-    "zh": "全球最大的电信公司正在接受审判，结果具有全球影响",
-    "ru": "Крупнейшая в мире телекоммуникационная компания находится под судом, и его исход имеет глобальные последствия"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_world",
-   "source": "NPR",
-   "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-   "ts": 1794175449,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Намагаючись знайти справжніх власників, паризький Музей Д'Орсе виставив викрадене нацистами мистецтво",
-    "fr": "À la recherche de véritables propriétaires, le musée d'Orsay à Paris expose des œuvres d'art pillées par les nazis",
-    "de": "Auf der Suche nach wahren Besitzern zeigt das Pariser Musee D'Orsay von Nazis geplünderte Kunst",
-    "zh": "巴黎奥赛博物馆展出纳粹掠夺的艺术品，试图寻找真正的主人",
-    "ru": "Пытаясь найти истинных владельцев, парижский музей Орсе выставляет произведения искусства, разграбленные нацистами."
    },
    "lang": "en"
   },
@@ -1353,42 +1464,6 @@
     "de": "Die Luftangriffsstreitkräfte benötigen am meisten Schützen",
     "zh": "空中突击部队最需要步枪兵",
     "ru": "Десантно-штурмовые войска больше всего нуждаются в стрелках"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794173856,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "У центрі столиці Саудівської Аравії вдарили по вежі Aramco, коли хуси завдали нових ударів",
-    "fr": "La tour Aramco touchée au cœur de la capitale saoudienne alors que les Houthis lancent de nouvelles frappes",
-    "de": "Der Aramco Tower wurde im Herzen der saudischen Hauptstadt getroffen, als die Huthis neue Angriffe starten",
-    "zh": "胡塞武装发动新一轮袭击，沙特首都市中心遭到沙特阿美石油公司大楼的袭击",
-    "ru": "Башня Арамко пострадала в центре столицы Саудовской Аравии, когда хуситы начали новые удары"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Poland mourns victims of Krakow shooting amid security fears",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-   "ts": 1794173388,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Польща оплакує жертв стрілянини у Кракові через побоювання безпеки",
-    "fr": "La Pologne pleure les victimes de la fusillade de Cracovie sur fond de craintes sécuritaires",
-    "de": "Polen trauert um Opfer der Schießerei in Krakau aus Sicherheitsgründen",
-    "zh": "出于安全担忧，波兰哀悼克拉科夫枪击事件的受害者",
-    "ru": "Польша скорбит по жертвам стрельбы в Кракове из-за опасений по поводу безопасности"
    },
    "lang": "en"
   },
@@ -1633,24 +1708,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Two rescuers injured in Russian drone attack on Komyshuvakha",
-   "url": "https://www.ukrinform.net/rubric-ato/4182730-two-rescuers-injured-in-russian-drone-attack-on-komyshuvakha.html",
-   "ts": 1794164100,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Двоє рятувальників постраждали під час атаки російського безпілотника на Комишуваху",
-    "fr": "Deux sauveteurs blessés dans une attaque de drone russe sur Komyshuvakha",
-    "de": "Zwei Retter bei russischem Drohnenangriff auf Komyshuvakha verletzt",
-    "zh": "俄罗斯无人机袭击 Komyshuvakha 造成两名救援人员受伤",
-    "ru": "Двое спасателей пострадали при атаке российского беспилотника на Комышуваху"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Ukraine war latest: Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions",
@@ -1665,25 +1722,6 @@
     "de": "Neuester Krieg in der Ukraine: Die Ukraine stößt auf eine wichtige Brücke auf der „Autobahn des Todes“, die das russische Festland mit den besetzten Regionen verbindet",
     "zh": "乌克兰战争最新消息：乌克兰撞上了连接俄罗斯大陆和被占领地区的“死亡高速公路”上的关键桥梁",
     "ru": "Последняя война на Украине: Украина нанесла удар по ключевому мосту на «шоссе смерти», связывающем материковую Россию с оккупированными регионами"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-   "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-   "ts": 1794161547,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Айзенкот відкритий для приєднання Нетаньяху до наступного уряду Ізраїлю",
-    "fr": "Eizenkot est ouvert à ce que Netanyahu rejoigne le prochain gouvernement israélien",
-    "de": "Eisenkot ist offen dafür, dass Netanjahu der nächsten israelischen Regierung beitritt",
-    "zh": "艾森科特对内塔尼亚胡加入以色列下一届政府持开放态度",
-    "ru": "Айзенкот открыт для вступления Нетаньяху в новое правительство Израиля"
    },
    "lang": "en"
   },
@@ -1849,24 +1887,6 @@
     "de": "Nach Angaben Russlands wurden Umspannwerke in der Ukraine und drei Schiffe im Schwarzen Meer getroffen",
     "zh": "俄罗斯称袭击了乌克兰的变电站和黑海的三艘船",
     "ru": "Россия заявляет, что пострадали подстанции на Украине и три корабля в Черном море"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
-   "url": "https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html",
-   "ts": 1794153219,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Польща оплакує жертв масової стрілянини у Кракові, оскільки побоювання безпеки зростають",
-    "fr": "La Pologne pleure les victimes de la fusillade de Cracovie alors que les craintes en matière de sécurité grandissent",
-    "de": "Polen trauert um die Opfer der Massenerschießung in Krakau, während die Sicherheitsängste zunehmen",
-    "zh": "随着安全担忧加剧，波兰哀悼克拉科夫大规模枪击事件的受害者",
-    "ru": "Польша скорбит по жертвам массовой стрельбы в Кракове, поскольку опасения по поводу безопасности растут"
    },
    "lang": "en"
   },
@@ -2234,24 +2254,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Regional Security Service officers told to chip in US$1,000-3,000 for General Duka's bail – sources",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/08/8061813/",
-   "ts": 1794141240,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Співробітники облСБУ сказали внести $1000-3000 за заставу генерала Дуки – джерела",
-    "fr": "Les agents du Service régional de sécurité doivent verser entre 1 000 et 3 000 dollars pour la libération sous caution du général Duka – sources",
-    "de": "Beamte des regionalen Sicherheitsdienstes sollen 1.000 bis 3.000 US-Dollar für die Kaution von General Duka beisteuern – Quellen",
-    "zh": "地区安全局官员被要求为杜卡将军的保释提供 1,000 至 3,000 美元——消息来源",
-    "ru": "Офицерам областной службы безопасности приказали внести $1000-3000 за залог за генерала Дуку – источники"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Indian shares consolidate in Diwali session after seven-day rally",
@@ -2291,18 +2293,18 @@
   {
    "feed": "npr_politics",
    "source": "NPR",
-   "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+   "title": "Trump says he was just kidding about making UFC's Dana White his press secretary",
    "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
    "ts": 1794123329,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Дана Вайт з UFC каже, що він зустрінеться з Трампом у понеділок, щоб обговорити пропозицію стати прес-секретарем Білого дому",
-    "fr": "Dana White de l'UFC dit qu'il rencontrera Trump lundi au sujet de son offre de poste d'attaché de presse à la Maison Blanche",
-    "de": "Dana White von der UFC sagt, er werde sich am Montag mit Trump über das Angebot treffen, Pressesprecher des Weißen Hauses zu werden",
-    "zh": "UFC的达纳·怀特表示，他将于周一与特朗普会面，讨论担任白宫新闻秘书的提议",
-    "ru": "Дана Уайт из UFC заявил, что встретится с Трампом в понедельник по поводу предложения стать пресс-секретарем Белого дома"
+    "uk": "Трамп каже, що він просто пожартував, зробивши Дейну Вайта з UFC своїм прес-секретарем",
+    "fr": "Trump dit qu'il plaisantait en faisant de Dana White de l'UFC son attachée de presse",
+    "de": "Trump sagt, er habe nur Spaß gemacht, als er Dana White von der UFC zu seiner Pressesprecherin gemacht habe",
+    "zh": "特朗普称他任命 UFC 选手达纳·怀特为新闻秘书只是开玩笑",
+    "ru": "Трамп заявил, что пошутил, назначив Дэну Уайта из UFC своим пресс-секретарем"
    },
    "lang": "en"
   },
@@ -2361,22 +2363,21 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
-   "ts": 1794074499,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "ts": 1794072606,
    "sec": [
     "world",
-    "market",
-    "politics"
+    "ukraine"
    ],
    "t": {
-    "uk": "Кандидат у президенти Франції Меланшон пообіцяв стимулювати економіку та продовжив заклик до виходу з НАТО",
-    "fr": "Mélenchon, candidat à la présidence française, promet une relance économique et renouvelle son appel à la sortie de l'OTAN",
-    "de": "Der französische Präsidentschaftskandidat Mélenchon verspricht Konjunkturimpulse und erneuert den Aufruf zum Austritt aus der NATO",
-    "zh": "法国总统候选人梅朗雄承诺经济刺激，重申退出北约",
-    "ru": "Кандидат в президенты Франции Меланшон обещает экономические стимулы и возобновляет призыв к выходу из НАТО"
+    "uk": "В Україні від ударів безпілотників і ракет поранено 9 осіб, поки країна готується до переговорів з Росією та США",
+    "fr": "Des attaques de drones et de missiles font 9 blessés en Ukraine alors que le pays se prépare à des négociations avec la Russie et les États-Unis",
+    "de": "Neun Menschen wurden durch Drohnen- und Raketenangriffe in der Ukraine verletzt, während sich das Land auf Gespräche mit Russland und den USA vorbereitet",
+    "zh": "乌克兰准备与俄罗斯和美国举行会谈，无人机和导弹袭击造成 9 人受伤",
+    "ru": "Нападения дронов и ракет ранили 9 человек на Украине, поскольку страна готовится к переговорам с Россией и США"
    },
    "lang": "en"
   },
@@ -2418,25 +2419,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5",
-   "ts": 1794067165,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський розкритикував СБУ через корупційний скандал",
-    "fr": "Zelenskiy critique le service de sécurité ukrainien du SBU pour un scandale de corruption",
-    "de": "Selenskyj kritisiert den ukrainischen Sicherheitsdienst SBU wegen Korruptionsskandal",
-    "zh": "泽连斯基批评乌克兰SBU安全部门腐败丑闻",
-    "ru": "Зеленский раскритиковал СБУ за коррупционный скандал"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -2452,26 +2434,6 @@
     "de": "Das Vereinigte Königreich kann sich das EU-Binnenmarktabkommen nicht „aussuchen“, sagt Barnier gegenüber BBC",
     "zh": "巴尼耶告诉 BBC，英国不能“挑选”欧盟单一市场协议",
     "ru": "Великобритания не может «выбрать вишнёвое» соглашение о едином рынке ЕС, рассказал Барнье BBC"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
-   "ts": 1794063741,
-   "sec": [
-    "world",
-    "ukraine",
-    "politics"
-   ],
-   "t": {
-    "uk": "Міністр закордонних справ Італії каже, що став мішенню проросійських хакерів через підтримку України",
-    "fr": "Le ministre italien des Affaires étrangères affirme avoir été ciblé par des pirates informatiques pro-russes en raison du soutien de l'Ukraine.",
-    "de": "Der italienische Außenminister sagt, er sei wegen der Unterstützung der Ukraine ins Visier prorussischer Hacker geraten",
-    "zh": "意大利外长表示，他因支持乌克兰而成为亲俄黑客的攻击目标",
-    "ru": "Министр иностранных дел Италии заявил, что стал жертвой пророссийских хакеров из-за поддержки Украины"
    },
    "lang": "en"
   },
@@ -2494,21 +2456,21 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5",
-   "ts": 1794061920,
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "ts": 1794055776,
    "sec": [
     "world",
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Проміжні біржі сколихнули Уолл-стріт: від акцій штучного інтелекту, що швидко злетіли, до алкогольних компаній, що постраждали від тарифів",
-    "fr": "Des actions de haut vol de l'IA aux sociétés d'alcool frappées par les tarifs douaniers, les élections de mi-mandat ont secoué Wall Street",
-    "de": "Von aufstrebenden KI-Aktien bis hin zu Alkoholunternehmen, die von Zöllen betroffen sind – die Zwischenwahlen erschütterten die Wall Street",
-    "zh": "从飞速发展的人工智能股票到受到关税打击的酒精公司，中期选举震动了华尔街",
-    "ru": "Промежуточные выборы всколыхнули Уолл-стрит: от высокооплачиваемых акций ИИ до пострадавших от тарифов алкогольных компаний."
+    "uk": "Російські удари поранили дев'ятьох і пошкодили енергомережу України напередодні переговорів",
+    "fr": "Les frappes russes font neuf blessés et endommagent le réseau électrique ukrainien avant les négociations",
+    "de": "Russische Angriffe verletzten neun Menschen und beschädigten das Stromnetz der Ukraine im Vorfeld der Gespräche",
+    "zh": "会谈前俄罗斯的袭击造成九人受伤并破坏乌克兰的电力网络",
+    "ru": "Российские удары ранили девять человек и повредили энергосистему Украины перед переговорами"
    },
    "lang": "en"
   },
@@ -2712,7 +2674,7 @@
   {
    "source": "reuters_business",
    "ok": true,
-   "items": 22
+   "items": 24
   },
   {
    "source": "reuters_world",
@@ -2792,7 +2754,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
@@ -2823,7 +2785,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 125,
+   "translated": 115,
    "method": {
     "dict": 10
    }
