@@ -1,5 +1,5 @@
 {
- "updated": 1794221914,
+ "updated": 1794225458,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,6 +216,675 @@
  ],
  "items": [
   {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Krakow shooting suspect has died in hospital, police say",
+   "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794225385,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Краківський підозрюваний у стрілянині помер у лікарні, повідомляє поліція",
+    "fr": "Le suspect de la fusillade de Cracovie est décédé à l'hôpital, selon la police",
+    "de": "Nach Angaben der Polizei ist der Krakauer Schießverdächtige im Krankenhaus gestorben",
+    "zh": "警方称克拉科夫枪击案嫌疑人已在医院死亡",
+    "ru": "Подозреваемый в стрельбе в Кракове скончался в больнице, сообщает полиция"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "AMD shares are primed for a comeback, says Oppenheimer",
+   "url": "https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html",
+   "ts": 1794225246,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції AMD готові до повернення, каже Оппенгеймер",
+    "fr": "Les actions AMD sont prêtes pour un retour, déclare Oppenheimer",
+    "de": "AMD-Aktien seien auf ein Comeback vorbereitet, sagt Oppenheimer",
+    "zh": "奥本海默表示，AMD 股价即将卷土重来",
+    "ru": "Акции AMD готовы к возвращению, говорит Оппенгеймер"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+   "ts": 1794224887,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Міністр юстиції Польщі каже, що розслідування стрілянини у Кракові матиме на меті встановити, чи діяв 24-річний хлопець сам – Європа наживо",
+    "fr": "Le ministre polonais de la Justice affirme que l'enquête sur la fusillade de Cracovie visera à déterminer si le jeune homme de 24 ans a agi seul – L'Europe en direct",
+    "de": "Der polnische Justizminister sagt, dass die Untersuchung der Krakauer Schießerei darauf abzielt, herauszufinden, ob der 24-Jährige allein gehandelt hat – Europa live",
+    "zh": "波兰司法部长表示，对克拉科夫枪击事件的调查将确定这名24岁的男子是否单独行动 – Europe Live",
+    "ru": "Министр юстиции Польши заявил, что расследование стрельбы в Кракове будет направлено на то, чтобы установить, действовал ли 24-летний мужчина в одиночку – Europe live"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG?oc=5",
+   "ts": 1794224865,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Сервіс Apple Intelligence AI реєструється в китайському регуляторі для використання на планшетах і ноутбуках",
+    "fr": "Le service Apple Intelligence AI s'enregistre auprès du régulateur chinois pour une utilisation sur les tablettes et les ordinateurs portables",
+    "de": "Der Apple Intelligence AI-Dienst registriert sich bei der chinesischen Regulierungsbehörde für die Verwendung auf Tablets und Laptops",
+    "zh": "Apple Intelligence AI 服务已向中国监管机构注册，可用于平板电脑、笔记本电脑",
+    "ru": "Служба Apple Intelligence AI зарегистрирована китайским регулятором для использования на планшетах и ​​ноутбуках"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "AI, affair and espionage: Why is Nvidia's chief Jensen Huang under scrutiny?",
+   "url": "https://www.france24.com/en/video/20261109-ai-affair-and-espionage-why-is-nvidia-s-chief-jensen-huang-under-scrutiny",
+   "ts": 1794224731,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "ШІ, романи та шпигунство: чому керівник Nvidia Дженсен Хуанг перебуває під пильною увагою?",
+    "fr": "IA, affaire et espionnage : pourquoi le patron de Nvidia, Jensen Huang, est-il sous surveillance ?",
+    "de": "KI, Affäre und Spionage: Warum steht Nvidia-Chef Jensen Huang auf dem Prüfstand?",
+    "zh": "人工智能、婚外情和间谍活动：为何英伟达首席执行官黄仁勋受到审查？",
+    "ru": "Искусственный интеллект, интрижка и шпионаж: почему глава Nvidia Дженсен Хуанг находится под пристальным вниманием?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "After midterm losses, Trump makes changes to his inner circle",
+   "url": "https://www.npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle",
+   "ts": 1794224725,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Після проміжних поразок Трамп вносить зміни у своє найближче оточення",
+    "fr": "Après des défaites à mi-mandat, Trump modifie son entourage",
+    "de": "Nach Zwischenniederlagen nimmt Trump Veränderungen in seinem inneren Kreis vor",
+    "zh": "中期失利后，特朗普对核心圈子做出改变",
+    "ru": "После промежуточных потерь Трамп вносит изменения в свое ближайшее окружение"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+   "ts": 1794224602,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Поланскі каже, що лейбористи мають «шокуючий результат» у питаннях клімату, оскільки міністри очікують скоротити цілі щодо електромобілів для автомобільної промисловості – політика Великобританії в прямому ефірі",
+    "fr": "Polanski dit que le Parti travailliste a un « bilan choquant » sur les questions climatiques alors que les ministres s’attendent à réduire les objectifs des véhicules électriques pour l’industrie automobile – La politique britannique en direct",
+    "de": "Polanski sagt, Labour habe eine „schockierende Bilanz“ in Klimafragen, da die Minister erwarteten, die EV-Ziele für die Automobilindustrie zu senken – britische Politik live",
+    "zh": "波兰斯基表示，工党在气候问题上有着“令人震惊的记录”，部长们预计将削减汽车行业的电动汽车目标——英国政治直播",
+    "ru": "Полански говорит, что лейбористы добились «шокирующих результатов» в вопросах климата, поскольку министры ожидают сокращения целевых показателей электромобилей для автомобильной промышленности – политика Великобритании в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
+   "url": "https://www.france24.com/en/video/20261109-a-tricky-day-ahead-for-french-pm-as-he-meets-with-unions-amid-social-unrest",
+   "ts": 1794224568,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Попереду «складний день» для французького прем’єр-міністра під час його зустрічі з профспілками на тлі соціальних заворушень",
+    "fr": "\"Une journée délicate\" à venir pour le Premier ministre français alors qu'il rencontre les syndicats dans un contexte de troubles sociaux",
+    "de": "Dem französischen Premierminister steht ein „schwieriger Tag“ bevor, da er sich inmitten sozialer Unruhen mit den Gewerkschaften trifft",
+    "zh": "法国总理在社会动荡中与工会会面时面临“棘手的一天”",
+    "ru": "Премьер-министру Франции предстоит трудный день: он встретится с профсоюзами на фоне социальных волнений"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Kremlin not aware of request to seize Coca-Cola HBC's Russian assets, spokesman says",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZBaVZwcEM1UXo4OTVCdzJoN243aXBoVmllS2dMVFk0Um5QWnFyVjFHOW8zU0R2MTBmNG10NE9PVFNoLUFrcHB4R014WnJ6YllrVHdBeW5LM09EbEhJT0pPTkkyUmFxQzZTMmQ4U0xuRVMxNW5UeVJXMFNYZGhFSldXanZKS2lIT09NRnpMWkEwWjVReW16c3lPdmVhRnZtOTQ1dktHeklmNE1ScmZBZGdQeEhfaGNrdW4zenp6NTR2Uk5yNTdsOEYxTC1DS0kxY2Nv?oc=5",
+   "ts": 1794224522,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "У Кремлі не знають про запит на арешт російських активів Coca-Cola HBC, заявив речник",
+    "fr": "Le Kremlin n'est pas au courant de la demande de saisie des actifs russes de Coca-Cola HBC, selon un porte-parole",
+    "de": "Der Kreml ist sich der Anfrage zur Beschlagnahmung der russischen Vermögenswerte von Coca-Cola HBC nicht bewusst, sagt ein Sprecher",
+    "zh": "发言人称，克里姆林宫不知道扣押可口可乐 HBC 俄罗斯资产的请求",
+    "ru": "Кремль не знает о запросе на арест российских активов Coca-Cola HBC, заявил представитель"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Dow futures rally 500 points as oil prices drop; traders brace for more data and earnings: Live updates",
+   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+   "ts": 1794224478,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Зростання ф’ючерсів Dow на 500 пунктів через падіння цін на нафту; трейдери готові отримати більше даних і прибутків: оновлення в реальному часі",
+    "fr": "Les contrats à terme sur le Dow gagnent 500 points alors que les prix du pétrole baissent ; les traders se préparent à plus de données et de revenus : mises à jour en direct",
+    "de": "Dow-Futures steigen um 500 Punkte, da die Ölpreise fallen; Händler freuen sich auf mehr Daten und Einnahmen: Live-Updates",
+    "zh": "油价下跌道指期货上涨 500 点；交易员准备迎接更多数据和收益：实时更新",
+    "ru": "Фьючерсы на Dow выросли на 500 пунктов на фоне падения цен на нефть; Трейдеры готовятся к получению дополнительных данных и доходов: постоянные обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Airstrike on Komyshuvakha: 30 victims identified, 19 more people may be trapped under rubble",
+   "url": "https://www.ukrinform.net/rubric-ato/4182906-airstrike-on-komyshuvakha-30-victims-identified-19-more-people-may-be-trapped-under-rubble.html",
+   "ts": 1794224460,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Авіаудар по Комишувасі: ідентифіковано 30 жертв, ще 19 людей можуть опинитися під завалами",
+    "fr": "Frappe aérienne sur Komyshuvakha : 30 victimes identifiées, 19 autres personnes pourraient être piégées sous les décombres",
+    "de": "Luftangriff auf Komyshuvakha: 30 Opfer identifiziert, 19 weitere Menschen könnten unter Trümmern eingeschlossen sein",
+    "zh": "Komyshuvakha 空袭：已确认 30 名遇难者身份，另有 19 人可能被困在废墟下",
+    "ru": "Авиаудар по Комышувахе: идентифицированы 30 жертв, еще 19 человек могут оказаться под завалами"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
+   "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+   "ts": 1794224408,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Сьогодні Рассел Бренд буде засуджений за зґвалтування та сексуальне насильство – останні оновлення",
+    "fr": "Russell Brand sera condamné aujourd'hui pour viol et agression sexuelle – dernières mises à jour",
+    "de": "Russell Brand wird heute wegen Vergewaltigung und sexueller Nötigung verurteilt – aktuelle Updates",
+    "zh": "拉塞尔·布兰德今天因强奸和性侵犯被判刑——最新消息",
+    "ru": "Расселу Брэнду сегодня будет вынесен приговор за изнасилование и сексуальное насилие – последние новости"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "French policemen go on trial over 2020 beating of Black music producer",
+   "url": "https://www.france24.com/en/video/20261109-french-policemen-go-on-trial-over-2020-beating-of-black-music-producer",
+   "ts": 1794224300,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Французькі поліцейські постали перед судом за побиття чорношкірого музичного продюсера у 2020 році",
+    "fr": "Des policiers français sont jugés pour avoir battu un producteur de musique noir en 2020",
+    "de": "Französische Polizisten stehen wegen der Prügelstrafe gegen einen schwarzen Musikproduzenten im Jahr 2020 vor Gericht",
+    "zh": "法国警察因 2020 年殴打黑人音乐制作人而接受审判",
+    "ru": "Французские полицейские предстанут перед судом за избиение чернокожего музыкального продюсера в 2020 году"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Russell Brand faces sentencing and significant prison term for rape and sexual assaults",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5",
+   "ts": 1794223680,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Расселу Бренду загрожує вирок і значний тюремний термін за зґвалтування та сексуальне насильство",
+    "fr": "Russell Brand risque une condamnation et une lourde peine de prison pour viol et agressions sexuelles",
+    "de": "Russell Brand drohen wegen Vergewaltigung und sexueller Übergriffe eine Verurteilung und eine erhebliche Haftstrafe",
+    "zh": "拉塞尔·布兰德因强奸和性侵犯面临判决和重刑",
+    "ru": "Расселу Брэнду грозит приговор и значительный тюремный срок за изнасилование и сексуальные посягательства"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "ts": 1794223605,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Nvidia впали на 5%, оскільки перевірка звертається до стосунків Дженсена Хуанга з імовірним китайським шпигуном",
+    "fr": "L'action Nvidia chute de 5 % alors que l'examen se tourne vers la relation de Jensen Huang avec un espion chinois présumé",
+    "de": "Die Nvidia-Aktie fällt um 5 %, da sich die Untersuchungen auf die Beziehung von Jensen Huang zu einem mutmaßlichen chinesischen Spion konzentrieren",
+    "zh": "由于审查转向黄仁勋与涉嫌中国间谍的关系，英伟达股价下跌 5%",
+    "ru": "Акции Nvidia упали на 5%, поскольку внимание обращено на отношения Дженсена Хуанга с предполагаемым китайским шпионом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+   "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+   "ts": 1794223579,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Nvidia впали після початку розслідування «медової пастки», оскільки Китай заперечує звинувачення у шпигунстві – бізнес наживо",
+    "fr": "Les actions de Nvidia chutent après le lancement d’une enquête « piège à miel », alors que la Chine nie les allégations d’espionnage – Business Live",
+    "de": "Nvidia-Aktien fallen nach Einleitung einer „Honeytrap“-Untersuchung, da China Spionagevorwürfe zurückweist – Business Live",
+    "zh": "中国否认间谍指控，“蜜陷阱”调查启动后，英伟达股价下跌 – Business Live",
+    "ru": "Акции Nvidia упали после начала расследования «ловушки», поскольку Китай отрицает обвинения в шпионаже – бизнес в прямом эфире"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Until AI sentiment improves, Citi tells investors it’s better to sit out the global tech trade",
+   "url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+   "ts": 1794223500,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Поки настрої штучного інтелекту не покращаться, Citi каже інвесторам, що краще не брати участь у світовій торгівлі технологіями",
+    "fr": "En attendant que le sentiment sur l’IA s’améliore, Citi dit aux investisseurs qu’il vaut mieux se tenir à l’écart du commerce technologique mondial",
+    "de": "Bis sich die KI-Stimmung verbessert, sagt Citi den Anlegern, dass es besser sei, den globalen Technologiehandel auszusitzen",
+    "zh": "在人工智能情绪改善之前，花旗告诉投资者最好不要参与全球科技交易",
+    "ru": "Пока настроения в сфере ИИ не улучшатся, Citi говорит инвесторам, что лучше воздержаться от глобальной торговли технологиями."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Defense Forces strike plant near St. Petersburg that produces missile fuel for Iskander systems",
+   "url": "https://www.ukrinform.net/rubric-ato/4182905-defense-forces-strike-plant-near-st-petersburg-that-produces-missile-fuel-for-iskander-systems.html",
+   "ts": 1794223260,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Під Санкт-Петербургом силами оборони нанесено ударний завод з виробництва ракетного палива для комплексів «Іскандер».",
+    "fr": "Usine de frappe des Forces de défense près de Saint-Pétersbourg, qui produit du carburant pour missiles pour les systèmes Iskander",
+    "de": "Verteidigungskräfte greifen Fabrik in der Nähe von St. Petersburg an, die Raketentreibstoff für Iskander-Systeme produziert",
+    "zh": "国防军袭击了圣彼得堡附近为伊斯坎德尔系统生产导弹燃料的工厂",
+    "ru": "Ударный завод Сил обороны под Санкт-Петербургом по производству ракетного топлива для систем «Искандер»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "'Novaya Gazeta', an independent Russian newspaper critical of Putin, closes",
+   "url": "https://www.france24.com/en/video/20261109-novaya-gazeta-an-independent-russian-newspaper-critical-of-putin-closes",
+   "ts": 1794223208,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "«Новая газета», незалежна російська газета, яка критикує Путіна, закривається",
+    "fr": "\"Novaya Gazeta\", un journal russe indépendant critique de Poutine, ferme ses portes",
+    "de": "„Novaya Gazeta“, eine unabhängige russische Zeitung, die Putin kritisch gegenübersteht, wird geschlossen",
+    "zh": "批评普京的俄罗斯独立报纸《新报》关闭",
+    "ru": "«Новая газета», независимая российская газета, критикующая Путина, закрывается"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Paraguay former president’s mansion raided in ongoing investigation",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+   "ts": 1794223185,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "У ході розслідування в особняк колишнього президента Парагваю провели обшук",
+    "fr": "Le manoir de l’ancien président du Paraguay perquisitionné dans le cadre d’une enquête en cours",
+    "de": "Die Villa des ehemaligen Präsidenten von Paraguay wurde im Rahmen laufender Ermittlungen durchsucht",
+    "zh": "巴拉圭前总统官邸遭突袭调查正在进行中",
+    "ru": "Особняк бывшего президента Парагвая подвергся обыску в рамках продолжающегося расследования"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "dw_business",
+   "source": "DW",
+   "title": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+   "url": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-bus-2091-rdf",
+   "ts": 1794223080,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому роман генерального директора Nvidia з імовірним китайським шпигуном має значення",
+    "fr": "Pourquoi la liaison du PDG de Nvidia avec un prétendu espion chinois est importante",
+    "de": "Warum die Affäre des Nvidia-CEOs mit einem angeblichen chinesischen Spion von Bedeutung ist",
+    "zh": "为什么英伟达首席执行官与涉嫌中国间谍的事件很重要",
+    "ru": "Почему дело генерального директора Nvidia с предполагаемым китайским шпионом имеет значение"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+   "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+   "ts": 1794222554,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Рубіо не бачить надії на дипломатичний прорив у тупик на Близькому Сході на тлі «обурливих» вимог Ірану",
+    "fr": "Rubio voit peu d'espoir d'une issue diplomatique à l'impasse au Moyen-Orient face aux exigences iraniennes « scandaleuses »",
+    "de": "Rubio sieht angesichts der „unverschämten“ iranischen Forderungen wenig Hoffnung auf einen diplomatischen Durchbruch aus der Pattsituation im Nahen Osten",
+    "zh": "由于伊朗的要求“令人难以容忍”，卢比奥认为中东僵局的外交突破希望渺茫",
+    "ru": "Рубио не видит надежды на дипломатический прорыв в ближневосточном тупике на фоне «возмутительных» требований Ирана"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "COP31 opens with leaders under pressure to tackle climate crisis",
+   "url": "https://www.france24.com/en/video/20261109-cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis",
+   "ts": 1794222463,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "COP31 починається з лідерів, які перебувають під тиском щодо подолання кліматичної кризи",
+    "fr": "La COP31 s’ouvre sur des dirigeants sous pression pour lutter contre la crise climatique",
+    "de": "COP31 beginnt mit Staats- und Regierungschefs, die unter Druck stehen, die Klimakrise zu bewältigen",
+    "zh": "COP31开幕，领导人面临应对气候危机的压力",
+    "ru": "COP31 открывается лидерами, которые вынуждены бороться с климатическим кризисом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge",
+   "url": "https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge",
+   "ts": 1794222338,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Новий актор Джеймса Бонда очікується «протягом тижнів», оскільки з’являться «несподівані» лідери",
+    "fr": "Le nouvel acteur de James Bond est attendu « d’ici quelques semaines » alors que des favoris « inattendus » émergent",
+    "de": "Neuer James-Bond-Darsteller wird „innerhalb weniger Wochen“ erwartet, da „unerwartete“ Spitzenkandidaten auftauchen",
+    "zh": "新任詹姆斯·邦德演员预计“几周内”，因为“意外”的领跑者出现",
+    "ru": "Новый актер Джеймса Бонда ожидается «через несколько недель», поскольку появляются «неожиданные» лидеры"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Russian attacks injure 28 across Ukraine over past day, as Russia continues strikes on energy infrastructure",
+   "url": "https://kyivindependent.com/russian-attacks-injure-28-across-ukraine-over-past-day-as-russia-continues-strikes-on-energy-infrastructure/",
+   "ts": 1794222338,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російські атаки поранили 28 по всій Україні за минулу добу, оскільки Росія продовжує завдавати ударів по енергетичній інфраструктурі",
+    "fr": "Les attaques russes ont blessé 28 personnes en Ukraine au cours de la dernière journée, alors que la Russie poursuit ses frappes sur les infrastructures énergétiques",
+    "de": "Bei russischen Angriffen wurden am vergangenen Tag in der gesamten Ukraine 28 Menschen verletzt, während Russland seine Angriffe auf die Energieinfrastruktur fortsetzt",
+    "zh": "俄罗斯继续对能源基础设施发动袭击，过去一天，乌克兰境内的袭击造成 28 人受伤",
+    "ru": "За последние сутки в результате российских атак пострадали 28 человек по всей Украине, поскольку Россия продолжает наносить удары по энергетической инфраструктуре"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Tents 'entirely submerged' has heavy rains hit Gaza",
+   "url": "https://www.france24.com/en/video/20261109-tents-entirely-submerged-has-heavy-rains-hit-gaza",
+   "ts": 1794222258,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Намети «повністю затоплені» через проливні дощі, які обрушилися на Газу",
+    "fr": "Des tentes « entièrement submergées » alors que de fortes pluies frappent Gaza",
+    "de": "Heftige Regenfälle haben den Gazastreifen heimgesucht, weil Zelte „völlig unter Wasser“ standen",
+    "zh": "加沙暴雨 帐篷“完全被淹没”",
+    "ru": "Палатки «полностью затоплены» из-за проливных дождей в секторе Газа"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_markets",
+   "source": "Reuters",
+   "title": "Mapping the Market: Alphabet shares may be ready for a corrective rally",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZGlZeXZzRUlyeHhERkg4UzlnbEFhMHBoZDlLaGN1aS05cWZ5MENHV2xGREkzWjdaMDhyR3JWQTYycjhqVVI3TFkxNldsakNGYUJLNjFobWVSUWpXdzItZ2w4TDFYMVZRMzJTQlNyUF90YkJKQ2FmVzVLdkc?oc=5",
+   "ts": 1794222198,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Картування ринку: акції Alphabet можуть бути готові до коригувального зростання",
+    "fr": "Cartographie du marché : les actions d'Alphabet pourraient être prêtes pour un rallye correctif",
+    "de": "Kartierung des Marktes: Alphabet-Aktien könnten für eine Korrekturrallye bereit sein",
+    "zh": "绘制市场图：Alphabet 股价可能已准备好迎接修正性反弹",
+    "ru": "Составление карты рынка: акции Alphabet могут быть готовы к коррекционному ралли"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "The white truffles sparking bidding frenzies in northern Italy",
+   "url": "https://www.france24.com/en/video/20261109-the-white-truffles-sparking-bidding-frenzies-in-northern-italy",
+   "ts": 1794222072,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Білі трюфелі викликають шалений торг у північній Італії",
+    "fr": "Les truffes blanches suscitent une frénésie d’enchères dans le nord de l’Italie",
+    "de": "Die weißen Trüffel lösen in Norditalien einen Bieterrausch aus",
+    "zh": "白松露在意大利北部引发竞购狂潮",
+    "ru": "Белые трюфели вызвали ажиотаж на севере Италии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Anti-AI populism is the future of American politics | Garrison Lovely",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/anti-ai-populism-is-the-future-of-american-politics",
+   "ts": 1794222008,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Популізм проти ШІ – майбутнє американської політики | Гарнізон Прекрасний",
+    "fr": "Le populisme anti-IA est l’avenir de la politique américaine | Garnison Belle",
+    "de": "Anti-KI-Populismus ist die Zukunft der amerikanischen Politik | Garnison schön",
+    "zh": "反人工智能民粹主义是美国政治的未来加里森可爱",
+    "ru": "Популизм против ИИ – будущее американской политики | Гарнизон Лавли"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Economic relief is on the way, Democrats say. But what, how and when?",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
+   "ts": 1794222007,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Економічне полегшення вже на підході, кажуть демократи. Але що, як і коли?",
+    "fr": "Une aide économique est en route, affirment les démocrates. Mais quoi, comment et quand ?",
+    "de": "Wirtschaftliche Erleichterung sei auf dem Weg, sagen die Demokraten. Aber was, wie und wann?",
+    "zh": "民主党人表示，经济救济即将到来。但什么、如何以及何时？",
+    "ru": "По словам демократов, экономическая помощь уже на подходе. Но что, как и когда?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
+   "url": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
+   "ts": 1794222001,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Конгрес повертається з урядовим фінансуванням, Пітом Гегсетом і обмеженням боргу на порядку денному",
+    "fr": "Le Congrès revient avec le financement gouvernemental, Pete Hegseth et le plafond de la dette à l'ordre du jour",
+    "de": "Der Kongress kehrt mit staatlichen Mitteln, Pete Hegseth und der Schuldengrenze auf die Tagesordnung",
+    "zh": "国会带着政府资金、皮特·赫格塞斯和债务上限回到议程",
+    "ru": "Конгресс возвращается с правительственным финансированием, Питом Хегсетом и лимитом долга на повестке дня"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+   "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+   "ts": 1794221966,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Щонайменше 34 людини загинули після того, як човен з мігрантами, що прямував до Європи, затонув біля Сенегалу",
+    "fr": "Au moins 34 morts après le naufrage d'un bateau de migrants à destination de l'Europe au large du Sénégal",
+    "de": "Mindestens 34 Tote, nachdem Flüchtlingsboot auf dem Weg nach Europa vor Senegal gesunken ist",
+    "zh": "前往欧洲的移民船在塞内加尔海域沉没 至少34人死亡",
+    "ru": "По меньшей мере 34 человека погибли после того, как лодка с мигрантами, направлявшаяся в Европу, затонула у берегов Сенегала"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+   "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+   "ts": 1794221946,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Смертельні повені обрушилися на Ірак через грози, що пронеслися по всьому регіону",
+    "fr": "Des inondations meurtrières frappent l'Irak alors que des orages balayent la région",
+    "de": "Tödliche Überschwemmungen haben den Irak heimgesucht, während Gewitter über die Region hinwegfegten",
+    "zh": "雷暴席卷伊拉克，造成致命洪水袭击",
+    "ru": "Смертельные наводнения обрушились на Ирак, а грозы пронеслись по региону"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian attack on infrastructure facility in Odesa leaves three killed, one injured",
+   "url": "https://www.ukrinform.net/rubric-ato/4182896-russian-attack-on-infrastructure-facility-in-odesa-leaves-three-killed-one-injured.html",
+   "ts": 1794221940,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Напад росіян на інфраструктурний об’єкт в Одесі: троє вбитих, один поранений",
+    "fr": "L'attaque russe contre une infrastructure à Odessa fait trois morts et un blessé",
+    "de": "Bei einem russischen Angriff auf eine Infrastruktureinrichtung in Odessa werden drei Menschen getötet und einer verletzt",
+    "zh": "俄罗斯对敖德萨基础设施的袭击造成三人死亡、一人受伤",
+    "ru": "В результате нападения РФ на инфраструктурный объект в Одессе трое убиты, один ранен"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Lights to go out at Russia's Novaya Gazeta, independent newspaper known for its fearless reporting",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkhPYnFBUDg3bnY3TU4xdnNXMVFhTGl2OFgwQmtyNE8wT1Rqb19FM1RxUXplRnl4RFNuY3JQTkJBbkwtbWdzS3lmcEV5ZnBpY1NMTWVhNVRrTW5JM3dPZnY0alFJeXRBT1MtVnoxWmN6T1d5clZMTkdlckhZMlFXZXpHbFZiaUVMaFVMYi1WVGZxRU5GbUNvQ2tCMTgteHNYMGJ0ZkZDRkFURGtFZEZvbXpJVm51dFREbW90YUFNbTdUaU0?oc=5",
+   "ts": 1794221920,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Гаснуть світло в російській «Новій газеті», незалежній газеті, яка відома своїми безстрашними репортажами",
+    "fr": "Les lumières s'éteignent au journal russe Novaya Gazeta, journal indépendant connu pour ses reportages courageux",
+    "de": "Bei der russischen Nowaja Gaseta, einer unabhängigen Zeitung, die für ihre furchtlose Berichterstattung bekannt ist, gehen die Lichter aus",
+    "zh": "俄罗斯《新报》将熄灯，这家独立报纸以其无畏的报道而闻名",
+    "ru": "В российской «Новой газете», известной своими бесстрашными репортажами, погаснет свет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Wall St futures rise after rough week, but Nvidia unsettles investors",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
+   "ts": 1794221915,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ф'ючерси на Wall St зростають після важкого тижня, але Nvidia бентежить інвесторів",
+    "fr": "Les contrats à terme de Wall Street augmentent après une semaine difficile, mais Nvidia déstabilise les investisseurs",
+    "de": "Wall Street-Futures steigen nach einer schwierigen Woche, aber Nvidia verunsichert die Anleger",
+    "zh": "华尔街期货在经历了艰难的一周后上涨，但英伟达令投资者感到不安",
+    "ru": "Фьючерсы на Уолл-стрит растут после тяжелой недели, но Nvidia тревожит инвесторов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Nineteen people still may be under rubble in Komyshuvakha, police identify 30 killed",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061929/",
+   "ts": 1794221880,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Під завалами Комишувахи досі можуть перебувати 19 людей, поліція встановлює 30 загиблих",
+    "fr": "Dix-neuf personnes pourraient encore se trouver sous les décombres à Komyshuvakha, la police identifie 30 morts",
+    "de": "Möglicherweise liegen in Komyshuvakha noch 19 Menschen unter Trümmern, die Polizei identifiziert 30 Tote",
+    "zh": "Komyshuvakha 废墟中仍可能有 19 人被困，警方确认 30 人死亡",
+    "ru": "В Комышувахе под завалами все еще могут находиться 19 человек, полиция опознала 30 погибших"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "investing",
    "source": "Investing.com",
    "title": "Ajinomoto H1 FY2026 slides: ABF drives record profit, forecast raised",
@@ -306,50 +975,50 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-   "ts": 1794221569,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+   "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+   "ts": 1794221449,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Влада Гази критикує глобальну «бездіяльність» після того, як зсув забрав життя п’ятьох людей",
+    "fr": "Les autorités de Gaza dénoncent « l’inaction » mondiale après une coulée de boue qui a tué cinq personnes",
+    "de": "Gaza-Behörden kritisieren weltweite „Untätigkeit“, nachdem bei der Schlammlawine fünf Menschen getötet wurden",
+    "zh": "加沙当局在泥石流造成五人死亡后抨击全球“不作为”",
+    "ru": "Власти Газы раскритиковали глобальное «бездействие» после того, как оползень унес жизни пяти человек"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 Washington Measure 638 Election Live Results",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTFBxck1yQUZOejFWdUk0TUxZcDBlYjlRbnJIUWVXZ2YxZWUza2hIZUtHeFhzdkxyYU5ZcGcxZHl0RzdjYU1kYl9UeTZTY1ZybVJHU2xCcTJPVDJhel9VRDhpLVZjMUU0Q2RPRXVkYTRwOTBQNkc5YmE2UVJoS28?oc=5",
+   "ts": 1794221407,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Міністр юстиції Польщі каже, що розслідування стрілянини у Кракові матиме на меті встановити, чи діяв 24-річний хлопець сам – Європа наживо",
-    "fr": "Le ministre polonais de la Justice affirme que l'enquête sur la fusillade de Cracovie visera à déterminer si le jeune homme de 24 ans a agi seul – L'Europe en direct",
-    "de": "Der polnische Justizminister sagt, dass die Untersuchung der Krakauer Schießerei darauf abzielt, herauszufinden, ob der 24-Jährige allein gehandelt hat – Europa live",
-    "zh": "波兰司法部长表示，对克拉科夫枪击事件的调查将确定这名24岁的男子是否单独行动 – Europe Live",
-    "ru": "Министр юстиции Польши заявил, что расследование стрельбы в Кракове будет направлено на то, чтобы установить, действовал ли 24-летний мужчина в одиночку – Europe live"
+    "uk": "2026 Вашингтон Measure 638 Election Live Results",
+    "fr": "Résultats en direct des élections de 2026 à Washington Mesure 638",
+    "de": "2026 Washington Measure 638 Live-Wahlergebnisse",
+    "zh": "2026 年华盛顿 638 号措施选举实时结果",
+    "ru": "Прямые результаты выборов 2026 года в Вашингтоне 638"
    },
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "🔴 Judo star Teddy Riner announces bid for French presidency",
-   "url": "https://www.france24.com/en/france/20261109-french-judo-star-teddy-riner-announces-bid-for-presidency",
-   "ts": 1794221459,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "🔴 Зірка дзюдо Тедді Рінер оголошує свою кандидатуру на пост президента Франції",
-    "fr": "🔴 La star du judo Teddy Riner annonce sa candidature à la présidence française",
-    "de": "🔴 Judo-Star Teddy Riner kündigt Bewerbung um die französische Präsidentschaft an",
-    "zh": "🔴柔道明星泰迪·里纳宣布竞选法国总统",
-    "ru": "🔴 Звезда дзюдо Тедди Ринер объявляет о своей кандидатуре на пост президента Франции"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
+   "feed": "guardian_business",
    "source": "The Guardian",
    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
    "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
    "ts": 1794221363,
    "sec": [
-    "world"
+    "market"
    ],
    "t": {
     "uk": "ЄС подав до суду на IBM і дві європейські фірми через проблемну систему кордону в'їзду/виїзду",
@@ -357,6 +1026,24 @@
     "de": "EU verklagt IBM und zwei europäische Firmen wegen problematischem Ein-/Ausreise-Grenzsystem",
     "zh": "欧盟因出入境边境系统问题起诉 IBM 和两家欧洲公司",
     "ru": "ЕС подает в суд на IBM и две европейские фирмы из-за проблем с системой въезда-выезда на границе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+   "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+   "ts": 1794221342,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Чому Дженсен Хуан з Nvidia опинився в центрі американо-китайського шпигунського скандалу?",
+    "fr": "Pourquoi Jensen Huang de Nvidia est-il au centre d'un scandale d'espionnage américano-chinois ?",
+    "de": "Warum steht Jensen Huang von Nvidia im Mittelpunkt eines Spionageskandals zwischen den USA und China?",
+    "zh": "为什么英伟达的黄仁勋成为中美间谍丑闻的中心人物？",
+    "ru": "Почему Дженсен Хуанг из Nvidia оказался в центре шпионского скандала между США и Китаем?"
    },
    "lang": "en"
   },
@@ -415,24 +1102,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
-   "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-   "ts": 1794221324,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Сьогодні Рассел Бренд буде засуджений за зґвалтування та сексуальне насильство – останні оновлення",
-    "fr": "Russell Brand sera condamné aujourd'hui pour viol et agression sexuelle – dernières mises à jour",
-    "de": "Russell Brand wird heute wegen Vergewaltigung und sexueller Nötigung verurteilt – aktuelle Updates",
-    "zh": "拉塞尔·布兰德今天因强奸和性侵犯被判刑——最新消息",
-    "ru": "Расселу Брэнду сегодня будет вынесен приговор за изнасилование и сексуальное насилие – последние новости"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
@@ -447,24 +1116,6 @@
     "de": "Die größte Erkenntnis aus dem letzten Quartal von Berkshire Hathaway sind nicht die 357 Milliarden US-Dollar an Barmitteln oder die Aktienrückkäufe",
     "zh": "伯克希尔哈撒韦公司最近一个季度的最大收获不是 3570 亿美元的现金或股票回购",
     "ru": "Самый большой вывод из последнего квартала Berkshire Hathaway — это не 357 миллиардов долларов наличными или обратный выкуп акций."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-   "ts": 1794221226,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Поланскі каже, що лейбористи мають «шокуючий результат» у питаннях клімату, оскільки міністри очікують скоротити цілі щодо електромобілів для автомобільної промисловості – політика Великобританії в прямому ефірі",
-    "fr": "Polanski dit que le Parti travailliste a un « bilan choquant » sur les questions climatiques alors que les ministres s’attendent à réduire les objectifs des véhicules électriques pour l’industrie automobile – La politique britannique en direct",
-    "de": "Polanski sagt, Labour habe eine „schockierende Bilanz“ in Klimafragen, da die Minister erwarteten, die EV-Ziele für die Automobilindustrie zu senken – britische Politik live",
-    "zh": "波兰斯基表示，工党在气候问题上有着“令人震惊的记录”，部长们预计将削减汽车行业的电动汽车目标——英国政治直播",
-    "ru": "Полански говорит, что лейбористы добились «шокирующих результатов» в вопросах климата, поскольку министры ожидают сокращения целевых показателей электромобилей для автомобильной промышленности – политика Великобритании в прямом эфире"
    },
    "lang": "en"
   },
@@ -505,56 +1156,38 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged",
-   "url": "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged",
-   "ts": 1794220915,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Ukrainian forces strike Russian plant producing fuel for Iskander ballistic missiles",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061926/",
+   "ts": 1794220980,
    "sec": [
-    "world"
+    "ukraine"
    ],
    "t": {
-    "uk": "Саудівська Аравія перехоплює ракети хуситів у зв'язку з пошкодженням будівлі Ер-Ріяда Aramco",
-    "fr": "L'Arabie Saoudite intercepte des missiles Houthis alors que le bâtiment Aramco de Riyad est endommagé",
-    "de": "Saudi-Arabien fängt Huthi-Raketen ab, als das Aramco-Gebäude in Riad beschädigt wurde",
-    "zh": "利雅得阿美石油公司大楼受损，沙特阿拉伯拦截胡塞武装导弹",
-    "ru": "Саудовская Аравия перехватила ракеты хуситов после повреждения здания Aramco в Эр-Рияде"
+    "uk": "Українські війська завдали удару по російському заводу з виробництва палива для балістичних ракет \"Іскандер\".",
+    "fr": "Les forces ukrainiennes frappent une usine russe produisant du carburant pour les missiles balistiques Iskander",
+    "de": "Ukrainische Streitkräfte greifen russische Anlage zur Herstellung von Treibstoff für ballistische Iskander-Raketen an",
+    "zh": "乌克兰军队袭击了为伊斯坎德尔弹道导弹生产燃料的俄罗斯工厂",
+    "ru": "Украинские военные нанесли удар по российскому заводу по производству топлива для баллистических ракет «Искандер»"
    },
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
-   "url": "https://www.france24.com/en/video/20261109-french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns",
-   "ts": 1794220801,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+   "url": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
+   "ts": 1794220690,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Прем'єр-міністр Франції Лекорню проводить переговори щодо занепокоєння протестувальників вартістю життя",
-    "fr": "Le Premier ministre français Lecornu s'entretient sur les inquiétudes des manifestants concernant le coût de la vie",
-    "de": "Der französische Premierminister Lecornu führt Gespräche über die Sorgen der Demonstranten über die Lebenshaltungskosten",
-    "zh": "法国总理勒科尔努就抗议者的生活成本问题举行会谈",
-    "ru": "Премьер-министр Франции Лекорню провел переговоры по поводу опасений протестующих по поводу стоимости жизни"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Wall St futures rise after rough week, but Nvidia unsettles investors",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
-   "ts": 1794220796,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ф'ючерси на Wall St зростають після важкого тижня, але Nvidia бентежить інвесторів",
-    "fr": "Les contrats à terme de Wall Street augmentent après une semaine difficile, mais Nvidia déstabilise les investisseurs",
-    "de": "Wall Street-Futures steigen nach einer schwierigen Woche, aber Nvidia verunsichert die Anleger",
-    "zh": "华尔街期货在经历了艰难的一周后上涨，但英伟达令投资者感到不安",
-    "ru": "Фьючерсы на Уолл-стрит растут после тяжелой недели, но Nvidia тревожит инвесторов"
+    "uk": "Твердження Усмана Кхаваджи про «Sandpapergate» є «точними», каже Девід Ворнер",
+    "fr": "Les affirmations d’Usman Khawaja sur le « Sandpapergate » sont « exactes », déclare David Warner",
+    "de": "Usman Khawajas „Sandpapergate“-Behauptungen seien „richtig“, sagt David Warner",
+    "zh": "大卫·沃纳表示乌斯曼·卡瓦贾的“砂纸门”说法是“准确的”",
+    "ru": "Заявления Усмана Хаваджи о «Sandpapergate» «точны», говорит Дэвид Уорнер"
    },
    "lang": "en"
   },
@@ -579,24 +1212,6 @@
   {
    "feed": "france24",
    "source": "France 24",
-   "title": "Poland begins 2 days of national mourning after gunman kills 6",
-   "url": "https://www.france24.com/en/video/20261109-poland-begins-2-days-of-national-mourning-after-gunman-kills-6",
-   "ts": 1794220622,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Після вбивства шістьох людей у ​​Польщі оголосили дводенну національну жалобу",
-    "fr": "La Pologne entame 2 jours de deuil national après la mort de 6 personnes par un homme armé",
-    "de": "In Polen beginnt eine zweitägige Staatstrauer, nachdem ein Schütze sechs Menschen getötet hat",
-    "zh": "枪手杀死六人后波兰开始全国哀悼两天",
-    "ru": "В Польше начинается двухдневный национальный траур после того, как боевик убил шестерых человек"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
    "title": "Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
    "url": "https://www.france24.com/en/video/20261109-israel-s-opposition-leader-gadi-eisenkot-has-six-weeks-to-form-a-government",
    "ts": 1794220565,
@@ -610,6 +1225,24 @@
     "de": "Israels Oppositionsführer Gadi Eisenkot hat sechs Wochen Zeit, um eine Regierung zu bilden",
     "zh": "以色列反对派领袖加迪·艾森科特有六周时间组建政府",
     "ru": "У лидера израильской оппозиции Гади Айзенкота есть шесть недель, чтобы сформировать правительство"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
+   "ts": 1794220553,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "США депортують генерального консула Лівану в Детройті через вихваляння Хезболли",
+    "fr": "Les États-Unis expulsent le consul général du Liban à Détroit suite aux éloges du Hezbollah",
+    "de": "USA deportieren libanesischen Generalkonsul in Detroit wegen Lob der Hisbollah",
+    "zh": "美国因真主党赞扬而驱逐黎巴嫩驻底特律总领事",
+    "ru": "США депортировали генерального консула Ливана в Детройте из-за похвалы \"Хезболле\""
    },
    "lang": "en"
   },
@@ -634,24 +1267,6 @@
   {
    "feed": "guardian_business",
    "source": "The Guardian",
-   "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
-   "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
-   "ts": 1794220512,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Nvidia впали після початку розслідування «медової пастки», оскільки Китай заперечує звинувачення у шпигунстві – бізнес наживо",
-    "fr": "Les actions de Nvidia chutent après le lancement d’une enquête « piège à miel », alors que la Chine nie les allégations d’espionnage – Business Live",
-    "de": "Nvidia-Aktien fallen nach Einleitung einer „Honeytrap“-Untersuchung, da China Spionagevorwürfe zurückweist – Business Live",
-    "zh": "中国否认间谍指控，“蜜陷阱”调查启动后，英伟达股价下跌 – Business Live",
-    "ru": "Акции Nvidia упали после начала расследования «ловушки», поскольку Китай отрицает обвинения в шпионаже – бизнес в прямом эфире"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
    "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
    "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
    "ts": 1794220363,
@@ -664,24 +1279,6 @@
     "de": "Thames Water bittet die Gläubiger um mehr Zeit, um bei der Rückzahlung des Schuldenbergs in Höhe von 20 Milliarden Pfund zu helfen",
     "zh": "泰晤士水务公司要求债权人有更多时间帮助偿还 200 亿英镑债务",
     "ru": "Thames Water просит кредиторов дать больше времени, чтобы помочь погасить долг в 20 миллиардов фунтов стерлингов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Nvidia probe 'to impact the whole of the world'",
-   "url": "https://www.france24.com/en/video/20261109-nvidia-probe-to-impact-the-whole-of-the-world",
-   "ts": 1794220277,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Розслідування Nvidia «вплине на весь світ»",
-    "fr": "L'enquête Nvidia « aura un impact sur le monde entier »",
-    "de": "Nvidia-Untersuchung „wird Auswirkungen auf die ganze Welt haben“",
-    "zh": "英伟达的调查“影响整个世界”",
-    "ru": "Расследование Nvidia «окажет влияние на весь мир»"
    },
    "lang": "en"
   },
@@ -722,24 +1319,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "BP sells 49.9% stake in Indonesian petrol station venture, partner firm says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3cxdzdsclFmOE9OOTlqdWJXdEhhOUlja2o4T1A3LXJpOFJXSHNTYnYxc3IyVzkwV1ZmeTctU3lRZlpuSC1kblFzNGpyN2tBcDExWXBCci1aWFNYR0tyZ1lURTV1S3p5WlVBM0RjeW9CTzRQYzctVXpuSDRxbU9HNHNuSVJFRndtQjhMOEZfeEpFMmVOSEgtQlVEeVpsVFFRc2FqZGc1RkNGOUw3b1lJVGFMajRTdnAydTNZQmhROA?oc=5",
-   "ts": 1794219944,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "BP продає 49,9% акцій в індонезійському підприємстві АЗС, повідомляє компанія-партнер",
-    "fr": "BP vend 49,9% de sa participation dans une entreprise indonésienne de stations-service, selon une société partenaire",
-    "de": "BP verkauft 49,9 % der Anteile an indonesischem Tankstellenunternehmen, sagt Partnerfirma",
-    "zh": "合作伙伴公司表示，BP出售印度尼西亚加油站合资企业49.9%的股份",
-    "ru": "BP продает 49,9% акций индонезийского предприятия по заправке, сообщает фирма-партнер"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "French police officers face trial over beating of black man they accused of not wearing Covid face mask",
@@ -758,38 +1337,20 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlhlcnp3UEZKMFBwel9US0N5dmU4dEcwYnFtNUc1LXY5N2lsMGlaQlpyODV5QUJ0eG1xdXZJY2xWeUpvNnAzRnduVElTYUo3WjRuVDlXalFlOUhSYVFkd2ZoOEZKWEJTVUE5cFRTUjQ1RlhSbGk5Wmp4WlRWdWY3YlptWkplTHl0cjYteDlNMXN0eHhJSWtZVXlR?oc=5",
-   "ts": 1794219780,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Поляки оплакують рідкісні масові вбивства, оскільки влада каже, що нападник мав ультраправі погляди",
-    "fr": "Les Polonais pleurent un rare massacre alors que les autorités affirment que l'attaquant avait des opinions d'extrême droite",
-    "de": "Polen trauern um seltene Massenmorde, da Behörden behaupten, der Angreifer habe rechtsextreme Ansichten gehabt",
-    "zh": "波兰人哀悼罕见的大规模杀戮，当局称袭击者持有极右观点",
-    "ru": "Поляки оплакивают редкие массовые убийства, поскольку власти заявляют, что нападавший придерживался крайне правых взглядов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
-   "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+   "title": "Kraków shooting suspect who killed six has died, Polish police say",
    "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
    "ts": 1794219774,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Підозрюваний у стрілянині у Кракові, який убив шістьох людей, помер, повідомляє поліція Польщі",
+    "uk": "У Кракові помер підозрюваний у стрілянині, який убив шістьох, повідомляє польська поліція",
     "fr": "Le suspect de la fusillade de Cracovie qui a tué six personnes est décédé, selon la police polonaise",
-    "de": "Nach Angaben der polnischen Polizei ist der Tatverdächtige, der sechs Menschen getötet hatte, in Krakau gestorben",
+    "de": "Nach Angaben der polnischen Polizei ist der Tatverdächtige, der sechs Menschen getötet hat, in Krakau gestorben",
     "zh": "波兰警方称，克拉科夫枪击案造成六人死亡的嫌疑人已死亡",
-    "ru": "Подозреваемый в стрельбе в Кракове, убивший шестерых человек, умер, сообщила полиция Польши"
+    "ru": "Подозреваемый в стрельбе в Кракове, убивший шестерых человек, скончался, сообщила польская полиция"
    },
    "lang": "en"
   },
@@ -812,42 +1373,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade",
-   "url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-   "ts": 1794219600,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Поки настрої в торгівлі штучним інтелектом не покращаться, Citi каже інвесторам, що краще не брати участь у світовій торгівлі технологіями.",
-    "fr": "Jusqu'à ce que le sentiment dans le commerce de l'IA s'améliore, Citi dit aux investisseurs qu'il vaut mieux se tenir à l'écart du commerce mondial de la technologie",
-    "de": "Bis sich die Stimmung im KI-Handel verbessert, sagt Citi den Anlegern, dass es besser sei, den globalen Technologiehandel auszusitzen",
-    "zh": "在人工智能行业的情绪改善之前，花旗告诉投资者最好不要参与全球科技行业",
-    "ru": "Пока настроения в торговле искусственным интеллектом не улучшатся, Citi говорит инвесторам, что лучше воздержаться от глобальной торговли технологиями."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Dems set to go after Hegseth, Musk following midterms rout",
-   "url": "https://www.france24.com/en/video/20261109-dems-set-to-go-after-hegseth-musk-following-midterms-rout",
-   "ts": 1794219589,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Депутати збираються переслідувати Гегсета, Маск після проміжної поразки",
-    "fr": "Les démocrates s’en prennent à Hegseth et Musk après la déroute de mi-mandat",
-    "de": "Die Demokraten machen sich auf den Weg zu Hegseth, Musk nach der Niederlage bei den Zwischenwahlen",
-    "zh": "中期选举失败后，民主党将追捕赫格斯和马斯克",
-    "ru": "Демс собирается преследовать Хегсета и Маска после разгрома на промежуточных выборах"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Debris from Russian drone falls near school in Kyiv's Desnianskyi district",
@@ -866,45 +1391,27 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
-   "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "ts": 1794219300,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "UK's Russell Brand due in court for rape and sexual assault sentencing",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
+   "ts": 1794219344,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "«У нас була найгірша сварка, яку ми коли-небудь мали»: я хочу, щоб мій чоловік пішов на пенсію в 65 років. Але я не хочу втратити його зарплату в 280 000 доларів.",
-    "fr": "« Nous avons eu la pire dispute que nous ayons jamais eue » : je veux que mon mari prenne sa retraite à 65 ans. Mais je ne veux pas perdre son salaire de 280 000 $.",
-    "de": "„Wir hatten den schlimmsten Streit, den wir je hatten“: Ich möchte, dass mein Mann mit 65 in den Ruhestand geht. Aber ich möchte sein Gehalt von 280.000 Dollar nicht verlieren.",
-    "zh": "“我们经历了有史以来最糟糕的争吵”：我希望我的丈夫在 65 岁退休。但我不想失去他 28 万美元的薪水。",
-    "ru": "«У нас была худшая ссора, которая когда-либо была»: я хочу, чтобы мой муж ушел на пенсию в 65 лет. Но я не хочу терять его зарплату в 280 000 долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-   "ts": 1794219182,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Nvidia впали на 4%, оскільки перевірка звертається до стосунків Дженсена Хуанга з імовірним китайським шпигуном",
-    "fr": "L'action Nvidia chute de 4 % alors que l'examen se tourne vers la relation de Jensen Huang avec un espion chinois présumé",
-    "de": "Die Nvidia-Aktie fällt um 4 %, da sich die Untersuchungen auf Jensen Huangs Beziehung zu einem mutmaßlichen chinesischen Spion konzentrieren",
-    "zh": "由于审查转向黄仁勋与涉嫌中国间谍的关系，英伟达股价下跌 4%",
-    "ru": "Акции Nvidia упали на 4%, поскольку внимание обращено на отношения Дженсена Хуана с предполагаемым китайским шпионом"
+    "uk": "Британець Рассел Бренд постане перед судом за зґвалтування та сексуальне насильство",
+    "fr": "Le britannique Russell Brand doit comparaître devant le tribunal pour viol et agression sexuelle",
+    "de": "Der Brite Russell Brand muss sich wegen Vergewaltigung und sexueller Nötigung vor Gericht verantworten",
+    "zh": "英国拉塞尔·布兰德因强奸和性侵犯罪将出庭宣判",
+    "ru": "Британец Рассел Брэнд предстанет перед судом по обвинению в изнасиловании и сексуальном насилии"
    },
    "lang": "en"
   },
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
+   "title": "At least four killed as Russia and Ukraine trade strikes overnight",
    "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
    "ts": 1794218925,
    "sec": [
@@ -912,29 +1419,11 @@
     "ukraine"
    ],
    "t": {
-    "uk": "Щонайменше одна людина загинула під час торгівельних страйків між Росією та Україною, що відбулися протягом ночі",
-    "fr": "Au moins une personne tuée lors des grèves commerciales entre la Russie et l'Ukraine du jour au lendemain",
-    "de": "Mindestens eine Person wurde bei Handelsstreiks zwischen Russland und der Ukraine über Nacht getötet",
-    "zh": "俄罗斯和乌克兰贸易冲突一夜之间造成至少一人死亡",
-    "ru": "В результате торговой забастовки России и Украины ночью погиб по меньшей мере один человек"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Paris police officers go on trial over 2020 beating of Black man",
-   "url": "https://www.france24.com/en/france/20261109-paris-police-officers-go-on-trial-over-2020-beating-of-black-man",
-   "ts": 1794218883,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Паризькі поліцейські постали перед судом за побиття темношкірого чоловіка у 2020 році",
-    "fr": "Des policiers de Paris sont jugés pour avoir battu un homme noir en 2020",
-    "de": "Pariser Polizisten stehen wegen der Prügelstrafe gegen einen Schwarzen im Jahr 2020 vor Gericht",
-    "zh": "巴黎警察因 2020 年殴打黑人事件接受审判",
-    "ru": "Полицейские Парижа предстанут перед судом за избиение чернокожего мужчины в 2020 году"
+    "uk": "Щонайменше четверо людей загинуло під час торгівельних страйків між Росією та Україною, що відбулися протягом ночі",
+    "fr": "Au moins quatre morts lors de grèves commerciales entre la Russie et l'Ukraine du jour au lendemain",
+    "de": "Mindestens vier Tote bei Handelsstreiks zwischen Russland und der Ukraine über Nacht",
+    "zh": "俄罗斯和乌克兰隔夜贸易冲突造成至少四人死亡",
+    "ru": "По меньшей мере четыре человека погибли в результате торговой забастовки России и Украины ночью"
    },
    "lang": "en"
   },
@@ -957,24 +1446,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-   "url": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-   "ts": 1794218640,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Райан Серхант із «Володіючи Манхеттеном» про те, чому не варто чекати, щоб купити будинок, і про гарячі точки, на які варто звернути увагу",
-    "fr": "Ryan Serhant de « Owning Manhattan » explique pourquoi vous ne devriez pas attendre pour acheter une maison et les points chauds à surveiller",
-    "de": "Ryan Serhant von „Owning Manhattan“ erklärt, warum Sie mit dem Hauskauf nicht warten sollten und auf welche Hotspots Sie achten sollten",
-    "zh": "“拥有曼哈顿”的 Ryan Serhant 讲述为什么你不应该等待买房，以及值得关注的热点",
-    "ru": "Райан Серхант из «Владение Манхэттеном» о том, почему не стоит откладывать покупку дома и на какие горячие точки стоит обратить внимание"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russia agrees with Trump's remark about \"little bit different shape\" of post-war Ukraine",
@@ -993,38 +1464,21 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-   "url": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-   "ts": 1794218520,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "South African voters rebuff ANC, accelerating shift to coalition politics",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0RIU1gtMURBQXJvZkZSTnI4MXVuYUdfdU9HNVRlUzMwZzE1TG9tY19LRnRNTjRYb2cyN0FqU2ZodTNrVTk5TW1zcER6WTQ1WFZ3SjdKWlhkYW5ZZExGaTUwU2IxcUFQSWt5dXhDTFNzaFRJaThHeEthYTZOS2RUUEhVb21ralBsa3poUHZTSlRSdFQ2ci1UeXAwcVR2VDJ3bzZocFJZWDVGTEszUFp2VTRuNU9IQVBLM0E?oc=5",
+   "ts": 1794218530,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Зірка \"Пвоварів\" Крістіан Єліч продає свій особняк у Малібу на схилі пагорба за 30 мільйонів доларів",
-    "fr": "La star des Brewers, Christian Yelich, vend son manoir à flanc de colline à Malibu pour 30 millions de dollars",
-    "de": "Brewers-Star Christian Yelich verkauft seine Villa am Hang in Malibu für 30 Millionen Dollar",
-    "zh": "酿酒人球星克里斯蒂安·耶利奇 (Christian Yelich) 将以 3000 万美元的价格出售他在马里布山坡上的豪宅",
-    "ru": "Звезда пивоваров Кристиан Йелич продает свой особняк на склоне холма в Малибу за 30 миллионов долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_business",
-   "source": "NPR",
-   "title": "Democrats won big. Can they lower your grocery bill?",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-   "ts": 1794218400,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Демократи перемогли. Чи можуть вони знизити ваш рахунок за продукти?",
-    "fr": "Les démocrates ont gagné gros. Peuvent-ils réduire votre facture d’épicerie ?",
-    "de": "Die Demokraten haben groß gewonnen. Können sie Ihre Lebensmittelrechnung senken?",
-    "zh": "民主党赢得了巨大胜利。他们可以降低你的杂货账单吗？",
-    "ru": "Демократы одержали крупную победу. Могут ли они снизить ваш счет за продукты?"
+    "uk": "Південноафриканські виборці дають відсіч АНК, прискорюючи перехід до коаліційної політики",
+    "fr": "Les électeurs sud-africains rejettent l’ANC et accélèrent le passage à une politique de coalition",
+    "de": "Südafrikanische Wähler lehnen den ANC ab, was den Übergang zur Koalitionspolitik beschleunigt",
+    "zh": "南非选民拒绝非洲人国民大会，加速转向联合政治",
+    "ru": "Избиратели Южной Африки отвергают АНК, ускоряя переход к коалиционной политике"
    },
    "lang": "en"
   },
@@ -1083,24 +1537,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stock futures rise as investors eye AI trade, brace for more data and earnings: Live updates",
-   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "ts": 1794218364,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ф’ючерси на акції зростають, оскільки інвестори дивляться на торгівлю штучним інтелектом, готуючись до нових даних і прибутків: оновлення в реальному часі",
-    "fr": "Les contrats à terme sur actions augmentent alors que les investisseurs se tournent vers le commerce de l'IA et se préparent à plus de données et de bénéfices : mises à jour en direct",
-    "de": "Aktien-Futures steigen, da Anleger den KI-Handel im Auge behalten, bereiten Sie sich auf weitere Daten und Gewinne vor: Live-Updates",
-    "zh": "随着投资者关注人工智能交易，股票期货上涨，为更多数据和收益做好准备：实时更新",
-    "ru": "Фьючерсы на акции растут, поскольку инвесторы присматриваются к торговле с использованием ИИ и готовятся к получению дополнительных данных и доходов: постоянные обновления"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russia hits Odesa with jet-powered drone: three killed, one injured",
@@ -1152,24 +1588,6 @@
     "de": "Europäische Truppen in Polen: „Koalition der Willigen“ führt Militärübungen durch",
     "zh": "欧洲军队在波兰：“自愿联盟”举行军事演习",
     "ru": "Европейские войска в Польше: «Коалиция желающих» проводит военные учения"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "UK's Russell Brand due in court for rape and sexual assault sentencing",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
-   "ts": 1794218023,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Британець Рассел Бренд постане перед судом за зґвалтування та сексуальне насильство",
-    "fr": "Le britannique Russell Brand doit comparaître devant le tribunal pour viol et agression sexuelle",
-    "de": "Der Brite Russell Brand muss sich wegen Vergewaltigung und sexueller Nötigung vor Gericht verantworten",
-    "zh": "英国拉塞尔·布兰德因强奸和性侵犯罪将出庭宣判",
-    "ru": "Британец Рассел Брэнд предстанет перед судом по обвинению в изнасиловании и сексуальном насилии"
    },
    "lang": "en"
   },
@@ -1246,24 +1664,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDd0NktfMktIc0l5R2tGdnkwLUFYNXdOOVpNeDNpSTlJMFdOaTlLM0lqVmpqQ0xDMkdubjlranRvd2xZc0NVeE5qa18zbTBaMlFZM1dXMkRfc1A2aE9iUGJjY3o4UGRNTzRZYjJaM0ktZkIzMjc0ZUtWVm8wWEQ5OGFRdDVReEVkMXE2MVBPUG9SeHNPNlVCZjhLeFB6RE9na2RNN19QTXhpeGtlZk5OU2cxVTVIb2ZyaEhReQ?oc=5",
-   "ts": 1794217389,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Міністри єврозони обговорять призначення ЄЦБ, але очікують вказівок лідерів",
-    "fr": "Les ministres de la zone euro discuteront des nominations à la BCE, mais attendent les conseils des dirigeants",
-    "de": "Die Minister der Eurozone diskutieren über die Ernennung der EZB, warten aber auf die Leitlinien der Staats- und Regierungschefs",
-    "zh": "欧元区部长将讨论欧洲央行任命，但等待领导人指导",
-    "ru": "Министры еврозоны обсудят назначения ЕЦБ, но ждут указаний лидеров"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Von der Leyen speaks with Zelensky ahead of visits to Romania and Bulgaria",
@@ -1296,24 +1696,6 @@
     "de": "Die DNA, die einen Mörder entlarvte | Berichte über wahre Verbrechen",
     "zh": "揭开凶手面纱的DNA |真实犯罪报告",
     "ru": "ДНК, которая разоблачила убийцу | Реальные отчеты о преступлениях"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Euro zone investor morale dips in November, Sentix survey shows",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWtKeG9UbF9pRE05Q0hUSkhrZ0U3c01SN3RBazg3Uk1ZNFVVUGtmSl9FcEk3Nm1Sa2dkOUZSVkMyU01oZEhQbmVJbGVzNkg0SXVRX01sQm9VeFZtRFJ5RHc2SGo2SE8xYWE0clVRNFRTMlZYb3pGNUdwekZuQUVERHczTUZ1VHg3VGJzX09FY1IxdG5kVXFOS1ZmaW9fX3Y3VFlvd2ZrUQ?oc=5",
-   "ts": 1794216831,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Моральний дух інвесторів єврозони падає в листопаді, показує опитування Sentix",
-    "fr": "Le moral des investisseurs de la zone euro baisse en novembre, selon une enquête Sentix",
-    "de": "Sentix-Umfrage zeigt, dass die Moral der Anleger in der Eurozone im November sinkt",
-    "zh": "Sentix 调查显示 11 月份欧元区投资者士气下降",
-    "ru": "Моральный дух инвесторов еврозоны упал в ноябре, показало исследование Sentix"
    },
    "lang": "en"
   },
@@ -1354,24 +1736,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-   "ts": 1794216455,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Прем'єр-міністр Катару зустрінеться з Трампом: що нового щодо переговорів США та Ірану?",
-    "fr": "Le Premier ministre du Qatar rencontrera Trump : quelles sont les dernières nouvelles sur les négociations américano-iraniennes ?",
-    "de": "Katars Premierminister trifft Trump: Was gibt es Neues zu den Verhandlungen zwischen den USA und Iran?",
-    "zh": "卡塔尔总理会见特朗普：美伊谈判最新进展如何？",
-    "ru": "Премьер Катара встретится с Трампом: каковы последние новости о переговорах между США и Ираном?"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russia exploited protests in France to discredit government – Reuters",
@@ -1386,24 +1750,6 @@
     "de": "Russland nutzte Proteste in Frankreich aus, um die Regierung zu diskreditieren – Reuters",
     "zh": "俄罗斯利用法国的抗议活动来抹黑政府 - 路透",
     "ru": "Россия использовала протесты во Франции для дискредитации правительства – Reuters"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Government's EV targets expected to be reduced this week",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794216243,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Очікується, що урядові цілі щодо електромобілів будуть скорочені цього тижня",
-    "fr": "Les objectifs du gouvernement en matière de véhicules électriques devraient être réduits cette semaine",
-    "de": "Es wird erwartet, dass die EV-Ziele der Regierung diese Woche gesenkt werden",
-    "zh": "政府的电动汽车目标预计本周将降低",
-    "ru": "Ожидается, что на этой неделе правительственные целевые показатели в области электромобилей будут снижены"
    },
    "lang": "en"
   },
@@ -1426,20 +1772,20 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
-   "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-   "ts": 1794215520,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "China extends suspension of new rare earth controls until January",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVo4bzYyXzJlM0RUaEJCaDNDQWZ2bzhKOFNmbzBNTnMzNW9UeGRqVm9vd0pDWkNZUnROTXVSRmZ4aFJ1ZW1SeFdfQXJhZmFOREt6R3JQa2NFb3dsa21BYkdRanpFLTdVT1JEUko5NnhTY2lTbVk4cTZZS2NvS3lSMWQ4YnpQbElVcElZMDlQNjE2cDg2VnVwZ3MySXRraGpZQUtJWndKemxDRTVlMzBF?oc=5",
+   "ts": 1794215660,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Як Уолл-стріт реагує на новини про розслідування Nvidia шпигунських заяв Дженсена Хуанга",
-    "fr": "Comment Wall Street réagit à l'annonce de l'enquête de Nvidia sur les allégations d'espionnage de Jensen Huang",
-    "de": "Wie die Wall Street auf die Nachricht von Nvidias Untersuchung der Spionagevorwürfe von Jensen Huang reagiert",
-    "zh": "华尔街对英伟达调查黄仁勋间谍指控的消息有何反应",
-    "ru": "Как Уолл-стрит реагирует на новость о расследовании Nvidia шпионских заявлений Дженсена Хуанга"
+    "uk": "Китай продовжив призупинення контролю за новими рідкоземельними елементами до січня",
+    "fr": "La Chine prolonge la suspension des nouveaux contrôles sur les terres rares jusqu'en janvier",
+    "de": "China verlängert die Aussetzung neuer Kontrollen für seltene Erden bis Januar",
+    "zh": "中国将暂停新的稀土管制措施延长至一月",
+    "ru": "Китай продлил приостановку нового контроля над редкоземельными элементами до января"
    },
    "lang": "en"
   },
@@ -1499,24 +1845,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "UK households face rush to find green energy installer to beat April VAT hike",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/uk-households-green-energy-installer-rush-april-vat-hike",
-   "ts": 1794214805,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Домогосподарства Великої Британії поспішають знайти монтажника екологічної енергетики, щоб подолати підвищення ПДВ у квітні",
-    "fr": "Les ménages britanniques sont pressés de trouver un installateur d'énergie verte pour éviter la hausse de la TVA en avril",
-    "de": "Britische Haushalte stehen vor der Eile, einen Installateur für grüne Energie zu finden, um die Mehrwertsteuererhöhung im April zu umgehen",
-    "zh": "英国家庭急于寻找绿色能源安装商以应对四月份增值税上涨",
-    "ru": "Британские домохозяйства спешат найти установщика экологически чистой энергии, чтобы избежать апрельского повышения НДС"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "EU to activate special emergency mechanism for Ukraine – Zelensky",
@@ -1531,24 +1859,6 @@
     "de": "EU aktiviert besonderen Notfallmechanismus für die Ukraine – Selenskyj",
     "zh": "泽连斯基：欧盟将启动针对乌克兰的特别紧急机制",
     "ru": "ЕС активирует специальный механизм чрезвычайной ситуации для Украины – Зеленский"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-   "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794214157,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп каже, що «жартував» щодо пропозиції прес-секретаря Дани Вайт",
-    "fr": "Trump dit qu'il « plaisantait » à propos de l'offre de l'attachée de presse de Dana White",
-    "de": "Trump sagt, er habe „einen Scherz“ über das Angebot von Dana White als Pressesprecherin gemacht",
-    "zh": "特朗普称他对达纳·怀特（Dana White）新闻秘书的提议是“开玩笑”",
-    "ru": "Трамп заявил, что «шутил» по поводу предложения Даны Уайта стать пресс-секретарем"
    },
    "lang": "en"
   },
@@ -1603,42 +1913,6 @@
     "zh": "斯波克斯称，乌克兰海军将海王星导弹的用途转向俄罗斯国防工业",
     "ru": "ВМС Украины переориентируют использование ракет «Нептун» на российскую оборонную промышленность, сообщает Spox",
     "fr": "La marine ukrainienne modifie l'utilisation du missile Neptune pour cibler l'industrie de défense russe, selon Spox"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Trump says his immigration policy ‘too tough’ for voters",
-   "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
-   "ts": 1794213305,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп каже, що його імміграційна політика «надто жорстка» для виборців",
-    "de": "Trump sagt, seine Einwanderungspolitik sei „zu hart“ für die Wähler",
-    "zh": "特朗普称他的移民政策对选民来说“过于严厉”",
-    "ru": "Трамп назвал свою иммиграционную политику «слишком жесткой» для избирателей",
-    "fr": "Trump juge sa politique d'immigration \"trop ​​dure\" pour les électeurs"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "ts": 1794213190,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Результати НБА та щоденні новини | Статистика, результати та новини НБА сьогодні",
-    "fr": "Résultats NBA et actualités quotidiennes | Statistiques, scores et actualités NBA aujourd'hui",
-    "de": "NBA-Ergebnisse und tägliche Nachrichten | NBA-Statistiken, Ergebnisse und Neuigkeiten heute",
-    "zh": "NBA 比分和每日新闻 | NBA 今日统计数据、得分和新闻",
-    "ru": "Результаты НБА и ежедневные новости | Статистика, результаты и новости НБА сегодня"
    },
    "lang": "en"
   },
@@ -1699,24 +1973,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Trump ‘only kidding’ about Dana White press secretary role",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
-   "ts": 1794212280,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп «лише жартує» щодо ролі прес-секретаря Дани Вайт",
-    "de": "Trump macht „nur Spaß“ über die Rolle der Pressesprecherin von Dana White",
-    "zh": "特朗普关于达纳·怀特新闻秘书角色“只是开玩笑”",
-    "fr": "Trump « plaisante » à propos du rôle d’attachée de presse de Dana White",
-    "ru": "Трамп «только шутит» о роли пресс-секретаря Даны Уайта"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Russian attacks injure 14, including two children, in Kharkiv region",
@@ -1731,24 +1987,6 @@
     "zh": "俄罗斯哈尔科夫地区袭击造成 14 人受伤，其中包括两名儿童",
     "ru": "В Харьковской области в результате российских атак пострадали 14 человек, в том числе двое детей.",
     "fr": "Des attaques russes font 14 blessés, dont deux enfants, dans la région de Kharkiv"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-   "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-   "ts": 1794212217,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Щонайменше 34 людини загинули після того, як човен з мігрантами, що прямував до Європи, затонув біля Сенегалу",
-    "fr": "Au moins 34 morts après le naufrage d'un bateau de migrants à destination de l'Europe au large du Sénégal",
-    "de": "Mindestens 34 Tote, nachdem Flüchtlingsboot auf dem Weg nach Europa vor Senegal gesunken ist",
-    "zh": "前往欧洲的移民船在塞内加尔海域沉没 至少34人死亡",
-    "ru": "По меньшей мере 34 человека погибли после того, как лодка с мигрантами, направлявшаяся в Европу, затонула у берегов Сенегала"
    },
    "lang": "en"
   },
@@ -1789,42 +2027,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-   "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
-   "ts": 1794211484,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "de": "„Ein globales politisches Erwachen“: Wie Proteste der Generation Z die Welt erobern",
-    "zh": "“全球政治觉醒”：Z世代抗议如何席卷全球",
-    "ru": "«Глобальное политическое пробуждение»: как протесты поколения Z охватывают мир",
-    "uk": "«Глобальне політичне пробудження»: як протести покоління Z охоплюють світ",
-    "fr": "« Un réveil politique mondial » : comment les manifestations de la génération Z balayent le monde"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Three injured in Russian drone hit on power engineers' car in Sumy – photos",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061891/",
-   "ts": 1794211320,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "zh": "俄罗斯无人机在苏梅击中电力工程师的汽车，造成三人受伤 - 照片",
-    "ru": "В Сумах при наезде российского беспилотника на машину энергетиков пострадали трое – фото",
-    "uk": "Троє постраждалих в результаті наїзду російського безпілотника на машину енергетиків у Сумах – фото",
-    "fr": "Trois blessés dans l'impact d'un drone russe sur la voiture d'un électricien à Soumy – photos",
-    "de": "Drei Verletzte bei russischem Drohnenangriff auf Auto eines Energietechnikers in Sumy – Fotos"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Russian strikes hit energy infrastructure, businesses and residential areas in Rivne region",
@@ -1839,24 +2041,6 @@
     "uk": "Російські вдари по енергетичній інфраструктурі, підприємствам та житловим кварталам Рівненської області",
     "fr": "Les frappes russes ont touché les infrastructures énergétiques, les entreprises et les zones résidentielles de la région de Rivne",
     "de": "Russische Angriffe trafen Energieinfrastruktur, Unternehmen und Wohngebiete in der Region Riwne"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Estonian interior minister: Russia's actions should be regarded as state terrorism",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061889/",
-   "ts": 1794210540,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Міністр внутрішніх справ Естонії: Дії Росії слід розцінювати як державний тероризм",
-    "fr": "Ministre estonien de l'Intérieur : les actions de la Russie doivent être considérées comme du terrorisme d'État",
-    "de": "Estnischer Innenminister: Russlands Vorgehen sollte als Staatsterrorismus betrachtet werden",
-    "zh": "爱沙尼亚内政部长：俄罗斯行为应被视为国家恐怖主义",
-    "ru": "Глава МВД Эстонии: Действия России следует расценивать как государственный терроризм"
    },
    "lang": "en"
   },
@@ -1880,42 +2064,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Drones strike Russia’s second-largest oil refinery",
-   "url": "https://www.ukrinform.net/rubric-ato/4182797-drones-strike-russias-secondlargest-oil-refinery.html",
-   "ts": 1794210000,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "zh": "无人机袭击俄罗斯第二大炼油厂",
-    "ru": "Дроны атаковали второй по величине нефтеперерабатывающий завод в России",
-    "uk": "Безпілотники завдали удару по другому за величиною нафтопереробному заводу Росії",
-    "fr": "Des drones frappent la deuxième plus grande raffinerie de pétrole de Russie",
-    "de": "Drohnen greifen Russlands zweitgrößte Ölraffinerie an"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "War update: 140 clashes on front line over past day, Pokrovsk, Kostiantynivka sectors see fiercest fighting",
-   "url": "https://www.ukrinform.net/rubric-ato/4182793-war-update-140-clashes-on-front-line-over-past-day-pokrovsk-kostiantynivka-sectors-see-fiercest-fighting.html",
-   "ts": 1794208800,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Актуальна інформація: за добу на лінії фронту 140 бойових зіткнень, найзапекліші бої – на ділянках Покровська та Костянтинівки",
-    "fr": "Le point sur la guerre : 140 affrontements sur la ligne de front au cours de la journée écoulée, les secteurs de Pokrovsk et Kostiantynivka connaissent les combats les plus féroces",
-    "de": "Kriegsaktualisierung: 140 Zusammenstöße an der Front am vergangenen Tag, in den Sektoren Pokrowsk und Kostjantyniwka kommt es zu heftigsten Kämpfen",
-    "zh": "战争动态：过去一天前线发生 140 起冲突，波克罗夫斯克、科斯蒂尼夫卡地区战斗最激烈",
-    "ru": "Новости о войне: за минувшие сутки на линии фронта произошло 140 столкновений, на участках Покровска и Константиновки идут самые ожесточенные бои"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Tears and joy as Ukrainian couple divided by occupation meet again",
@@ -1931,42 +2079,6 @@
     "de": "Tränen und Freude, als sich ein durch Berufe getrenntes ukrainisches Paar wieder trifft",
     "zh": "因职业分居的乌克兰夫妇再次重逢，泪水与喜悦",
     "ru": "Слезы и радость: украинская пара, разделенная оккупацией, снова встретилась"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Air defense neutralizes 271 of 317 Russian drones targeting Ukraine overnight",
-   "url": "https://www.ukrinform.net/rubric-ato/4182779-air-defense-neutralizes-271-of-317-russian-drones-targeting-ukraine-overnight.html",
-   "ts": 1794207600,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Протиповітряна оборона за ніч знешкодила 271 із 317 російських безпілотників, які були націлені на Україну",
-    "fr": "La défense aérienne neutralise 271 des 317 drones russes ciblant l'Ukraine dans la nuit",
-    "de": "Die Luftverteidigung neutralisiert über Nacht 271 von 317 russischen Drohnen, die auf die Ukraine abzielen",
-    "zh": "防空系统一夜之间摧毁了 317 架针对乌克兰的俄罗斯无人机中的 271 架",
-    "ru": "ПВО за ночь нейтрализовала 271 из 317 российских дронов, нацеленных на Украину"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-609-380-troops-in-ukraine-since-feb-24-2022/",
-   "ts": 1794207282,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Генштаб: Росія втратила в Україні 1 609 380 військових з 24 лютого 2022 року",
-    "fr": "État-major : la Russie a perdu 1 609 380 soldats en Ukraine depuis le 24 février 2022",
-    "de": "Generalstab: Russland hat seit dem 24. Februar 2022 1.609.380 Soldaten in der Ukraine verloren",
-    "zh": "总参谋部：自2022年2月24日以来，俄罗斯在乌克兰已损失1,609,380名士兵",
-    "ru": "Генштаб: Россия потеряла на Украине 1 609 380 военнослужащих с 24 февраля 2022 года"
    },
    "lang": "en"
   },
@@ -2026,114 +2138,20 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-   "ts": 1794203269,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Припиніть підривати Джима Чалмерса, закликає міністр навколишнього середовища колег-лейбористів",
-    "fr": "Arrêtez de saper Jim Chalmers, exhorte le ministre de l’Environnement à ses collègues travaillistes",
-    "de": "Hören Sie auf, Jim Chalmers zu untergraben, fordert Umweltminister die Labour-Kollegen auf",
-    "zh": "环境部长敦促工党同事停止破坏吉姆·查尔默斯",
-    "ru": "Прекратите подрывать Джима Чалмерса, министр окружающей среды призывает коллег из Лейбористской партии"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
-   "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
+   "title": "Housing shortage puts Burnham’s homelessness pledge in jeopardy",
    "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
    "ts": 1794200461,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Обіцяння Бернема про безпритульність «залучити всіх на Різдво» під загрозою",
-    "fr": "L’engagement des sans-abri de Burnham de « faire entrer tout le monde pour Noël » est menacé",
-    "de": "Burnhams Obdachlosenversprechen, „alle zu Weihnachten reinzuholen“, ist in Gefahr",
-    "zh": "伯纳姆的无家可归者承诺“让每个人都过圣诞节”面临危险",
-    "ru": "Обещание Бёрнема «собрать всех на Рождество» оказалось под угрозой"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
-   "ts": 1794200115,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Вибори у Вікторії 2026: занепокоєння та скептицизм серед депутатів від Лейбористської партії, оскільки нове опитування показує, що партія відстає від One Nation",
-    "fr": "Élection victorienne 2026 : inquiétude et scepticisme parmi les députés travaillistes alors qu'un nouveau sondage montre que le parti est à la traîne de One Nation",
-    "de": "Viktorianische Wahl 2026: Besorgnis und Skepsis unter Labour-Abgeordneten, da eine neue Umfrage zeigt, dass die Partei One Nation hinterherhinkt",
-    "zh": "2026 年维多利亚州选举：新民调显示工党落后一国党，工党议员对此表示担忧和怀疑",
-    "ru": "Викторианские выборы 2026 года: беспокойство и скептицизм среди депутатов от Лейбористской партии, поскольку новый опрос показывает, что партия отстает от «Единой нации»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb",
-   "ts": 1794198848,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "CFMEU «користується значним рівнем впливу» на уряд Вікторії, повідомляє королівська комісія Big Build",
-    "de": "CFMEU „genießt ein erhebliches Maß an Einfluss“ auf die viktorianische Regierung, hört die königliche Kommission von Big Build",
-    "zh": "Big Build 皇家委员会获悉，CFMEU 对维州政府“享有重大影响力”",
-    "ru": "CFMEU «обладает значительным уровнем влияния» на правительство Виктории, слышит королевская комиссия Big Build",
-    "fr": "Le CFMEU « jouit d’un niveau d’influence significatif » sur le gouvernement victorien, selon la commission royale Big Build"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Ukraine strikes Russia's second-largest oil refinery in overnight drone attack, Russian governor says",
-   "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/",
-   "ts": 1794197117,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна завдала удару по другому за величиною нафтопереробному заводу Росії вночі в результаті атаки безпілотника, заявив російський губернатор",
-    "de": "Nach Angaben des russischen Gouverneurs hat die Ukraine bei einem nächtlichen Drohnenangriff Russlands zweitgrößte Ölraffinerie angegriffen",
-    "zh": "俄罗斯州长称乌克兰在夜间无人机袭击中袭击了俄罗斯第二大炼油厂",
-    "ru": "Украина нанесла удар по второму по величине в России нефтеперерабатывающему заводу в результате ночной атаки дронов, заявил российский губернатор",
-    "fr": "L'Ukraine frappe la deuxième plus grande raffinerie de pétrole de Russie lors d'une attaque nocturne par drone, selon le gouverneur russe"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Asian stock markets climb after earlier tech rout",
-   "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
-   "ts": 1794196982,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Азіатські фондові ринки піднялися після попереднього падіння технологічних компаній",
-    "fr": "Les bourses asiatiques grimpent après une précédente déroute technologique",
-    "de": "Die asiatischen Aktienmärkte erholen sich nach einem früheren Tech-Abschwung",
-    "zh": "亚洲股市在早先的科技股溃败后攀升",
-    "ru": "Азиатские фондовые рынки растут после предыдущего падения технологических компаний"
+    "uk": "Нестача житла ставить Бернема під загрозу безпритульністю",
+    "fr": "La pénurie de logements met en péril l’engagement de Burnham en matière de sans-abrisme",
+    "de": "Wohnungsmangel gefährdet Burnhams Obdachlosenversprechen",
+    "zh": "住房短缺使伯纳姆的无家可归者承诺面临危险",
+    "ru": "Нехватка жилья ставит под угрозу обещание Бёрнема о бездомности"
    },
    "lang": "en"
   },
@@ -2171,25 +2189,6 @@
     "de": "„Die Zeit ist abgelaufen“: Minister warnt die Medienbranche, Missbrauch nach Brand-Fall ernst zu nehmen",
     "zh": "“时间到了”：部长警告媒体行业在品牌案后认真对待滥用行为",
     "ru": "«Время вышло»: министр предупреждает медиаиндустрию серьезно отнестись к злоупотреблениям после дела Брэнда"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
-   "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-   "ts": 1794189900,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Європа тисне на США щодо миру з Україною та Іраном на паризьких переговорах G7",
-    "fr": "L’Europe fera pression sur les États-Unis sur la paix en Ukraine et en Iran lors des négociations du G7 à Paris",
-    "de": "Europa drängt die USA bei den G7-Gesprächen in Paris zum Frieden in der Ukraine und im Iran",
-    "zh": "欧洲将在巴黎七国集团峰会上就乌克兰和平和伊朗问题向美国施压",
-    "ru": "Европа будет давить на США по поводу мира с Украиной и Ирана на переговорах G7 в Париже"
    },
    "lang": "en"
   },
@@ -2414,24 +2413,6 @@
    "lang": "en"
   },
   {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Republican consultant discusses what went wrong and what's next for the GOP",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
-   "ts": 1794144143,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Республіканський консультант обговорює, що пішло не так і що чекає Республіканська партія",
-    "fr": "Un consultant républicain discute de ce qui n'a pas fonctionné et de la prochaine étape pour le GOP",
-    "de": "Republikanischer Berater bespricht, was schief gelaufen ist und was als nächstes für die Republikaner kommt",
-    "zh": "共和党顾问讨论出了什么问题以及共和党的下一步行动",
-    "ru": "Республиканский консультант обсуждает, что пошло не так и что будет дальше с Республиканской партией"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
@@ -2466,6 +2447,24 @@
     "de": "Die Europäer werden sich den Ukraine-Gesprächen in Abu Dhabi anschließen, sagt der französische Minister",
     "zh": "法国部长表示，欧洲人将参加在阿布扎比举行的乌克兰谈判",
     "ru": "Европейцы присоединятся к переговорам по Украине в Абу-Даби, заявил французский министр"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Does Andy Burnham’s pivot from press to social media put scrutiny at risk?",
+   "url": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+   "ts": 1794117632,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Чи ставить під загрозу перехід Енді Бернема від преси до соціальних медіа?",
+    "fr": "Le passage d’Andy Burnham de la presse aux médias sociaux met-il en danger l’examen minutieux ?",
+    "de": "Gefährdet Andy Burnhams Wechsel von der Presse zu den sozialen Medien die Kontrolle?",
+    "zh": "安迪·伯纳姆从媒体转向社交媒体是否会让审查面临风险？",
+    "ru": "Поставит ли переход Энди Бёрнема от прессы к социальным сетям угрозу пристального внимания?"
    },
    "lang": "en"
   },
@@ -2527,6 +2526,24 @@
    "lang": "en"
   },
   {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+   "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+   "ts": 1794063614,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Перевірка кандидатів – це складний процес, але Reform, здається, не може це зробити правильно",
+    "fr": "La sélection des candidats est un processus délicat, mais le Parti réformiste ne semble pas réussir",
+    "de": "Die Überprüfung von Kandidaten ist ein kniffliger Prozess, aber die Reform scheint es nicht hinbekommen zu können",
+    "zh": "审查候选人是一个棘手的过程，但改革似乎无法做到这一点",
+    "ru": "Проверка кандидатов — сложный процесс, но «Реформа», похоже, не может сделать это правильно"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -2542,6 +2559,25 @@
     "de": "Russische Angriffe verletzten neun Menschen und beschädigten das Stromnetz der Ukraine im Vorfeld der Gespräche",
     "zh": "会谈前俄罗斯发动袭击造成九人受伤并破坏乌克兰电力网络",
     "ru": "Российские удары ранили девять человек и повредили энергосистему Украины перед переговорами"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "dw_world",
+   "source": "DW",
+   "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+   "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+   "ts": 1794043260,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Україна: Росія завдала авіаударів по Києву перед тристоронніми переговорами",
+    "fr": "Ukraine : la Russie frappe Kyiv avec des frappes aériennes avant les négociations trilatérales",
+    "de": "Ukraine: Russland greift Kiew im Vorfeld trilateraler Gespräche mit Luftangriffen an",
+    "zh": "乌克兰：三边会谈前俄罗斯空袭基辅",
+    "ru": "Украина: Россия нанесла авиаудары по Киеву накануне трехсторонних переговоров"
    },
    "lang": "en"
   },
@@ -2637,13 +2673,15 @@
   },
   {
    "source": "investing",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "unclosed token: line 77, column 0",
+   "kept": 8
   },
   {
    "source": "investing_comm",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "not well-formed (invalid token): line 78, column 0",
+   "kept": 0
   },
   {
    "source": "bbc_business",
@@ -2653,12 +2691,12 @@
   {
    "source": "guardian_business",
    "ok": true,
-   "items": 36
+   "items": 37
   },
   {
    "source": "dw_business",
    "ok": true,
-   "items": 2
+   "items": 3
   },
   {
    "source": "npr_business",
@@ -2668,7 +2706,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "reuters_business",
@@ -2723,7 +2761,7 @@
   {
    "source": "guardian_politics",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "npr_politics",
@@ -2753,7 +2791,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "empty timeline"
   },
   {
    "source": "x:nitter.net",
@@ -2784,7 +2822,7 @@
    "source": "translate",
    "ok": true,
    "requests": 15,
-   "translated": 265,
+   "translated": 225,
    "method": {
     "dict": 15
    }
@@ -2792,7 +2830,7 @@
   {
    "source": "glossary",
    "ok": true,
-   "normalized": 1
+   "normalized": 2
   }
  ]
 }
