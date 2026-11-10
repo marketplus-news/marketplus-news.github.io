@@ -1,5 +1,5 @@
 {
- "updated": 1794272404,
+ "updated": 1794276245,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,57 +216,435 @@
  ],
  "items": [
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1794272134,
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794275722,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Qantas передасть на аутсорсинг 850 місцевих вакансій, більшість з яких буде перенесено до Індії",
+    "fr": "Qantas va externaliser 850 emplois locaux, la plupart des postes étant transférés en Inde",
+    "de": "Qantas wird 850 lokale Arbeitsplätze auslagern, wobei die meisten Stellen nach Indien verlagert werden",
+    "zh": "澳洲航空将外包 850 个当地工作岗位，其中大部分岗位将转移到印度",
+    "ru": "Qantas передаст на аутсорсинг 850 местных рабочих мест, при этом большинство должностей перейдет в Индию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
+   "url": "https://www.investing.com/news/stock-market-news/qantas-to-cut-850-jobs-in-australia-with-accenture-deal-93CH-5013876",
+   "ts": 1794275515,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Qantas скоротить 850 робочих місць в Австралії за угодою з Accenture; акції підскочили на 4%",
+    "fr": "Qantas va supprimer 850 emplois en Australie grâce à l'accord Accenture ; les actions bondissent de 4%",
+    "de": "Qantas will mit Accenture-Deal 850 Stellen in Australien abbauen; Aktien steigen um 4 %",
+    "zh": "澳航将与埃森哲达成协议，在澳大利亚裁员 850 人；股价上涨 4%",
+    "ru": "Qantas сократит 850 рабочих мест в Австралии благодаря сделке с Accenture; акции подскочили на 4%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+   "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
+   "ts": 1794275466,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Військовий брифінг в Україні: перемоги на полі бою зміцнюють позицію Києва в мирних переговорах під проводом США, каже Зеленський",
+    "fr": "Briefing sur la guerre en Ukraine : les gains sur le champ de bataille renforcent la position de Kiev dans les pourparlers de paix menés par les États-Unis, selon Zelensky",
+    "de": "Kriegsbesprechung in der Ukraine: Erfolge auf dem Schlachtfeld stärken Kiews Position in den von den USA geführten Friedensgesprächen, sagt Selenskyj",
+    "zh": "乌克兰战争简报：泽连斯基表示，战场成果增强了基辅在美国主导的和平谈判中的地位",
+    "ru": "Брифинг по войне в Украине: успехи на поле боя укрепляют позиции Киева в мирных переговорах под руководством США, говорит Зеленский"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+   "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+   "ts": 1794275457,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції SoftBank Group зросли на 11%, оскільки азійські технологічні акції відстежують відновлення Уолл-стріт",
+    "fr": "Les actions de SoftBank Group bondissent de 11% alors que les actions technologiques asiatiques suivent le rebond de Wall Street",
+    "de": "Die Aktien der SoftBank Group steigen um 11 %, da asiatische Technologieaktien die Erholung der Wall Street verfolgen",
+    "zh": "亚洲科技股跟随华尔街反弹，软银集团股价飙升 11%",
+    "ru": "Акции SoftBank Group выросли на 11%, поскольку акции азиатских технологических компаний следят за восстановлением Уолл-стрит"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Life360 beats on Q3 2026 EPS, shares jump 10%",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-life360-beats-on-q3-2026-eps-shares-jump-10-93CH-5013895",
+   "ts": 1794275431,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Life360 перевершує прибутки на акцію за 3 квартал 2026 року, акції зросли на 10%",
+    "fr": "Transcription de l'appel aux résultats : Life360 bat le BPA du troisième trimestre 2026, les actions bondissent de 10 %",
+    "de": "Ergebnismitteilung: Life360 übertrifft EPS im dritten Quartal 2026, Aktien steigen um 10 %",
+    "zh": "财报电话会议记录：Life360 2026 年第三季度每股收益好于预期，股价上涨 10%",
+    "ru": "Стенограмма отчета о прибылях и убытках: Life360 превзошла EPS за третий квартал 2026 года, акции подскочили на 10%"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+   "url": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+   "ts": 1794275369,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Тісні зв'язки Трампа з Хуангом з Nvidia ретельно перевіряються через занепокоєння іноземної розвідки",
+    "fr": "Les liens étroits de Trump avec Huang de Nvidia scrutés après des problèmes de renseignement étranger",
+    "de": "Trumps enge Verbindungen zu Nvidias Huang wurden nach Bedenken ausländischer Geheimdienste auf den Prüfstand gestellt",
+    "zh": "因外国情报担忧，特朗普与英伟达黄仁勋的密切关系受到审查",
+    "ru": "Тесные связи Трампа с Хуангом из Nvidia подверглись тщательному изучению после опасений внешней разведки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Oil falls as Trump downplays prospect of escalation with Iran",
+   "url": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
+   "ts": 1794275354,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Нафта падає, оскільки Трамп применшує перспективу ескалації з Іраном",
+    "fr": "Le pétrole chute alors que Trump minimise la perspective d’une escalade avec l’Iran",
+    "de": "Der Ölpreis fällt, da Trump die Aussicht auf eine Eskalation mit dem Iran herunterspielt",
+    "zh": "特朗普淡化与伊朗升级的前景，油价下跌",
+    "ru": "Нефть падает, поскольку Трамп преуменьшает перспективу эскалации отношений с Ираном"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
+   "url": "https://www.investing.com/news/economy-news/nvidias-outofhour-shares-fall-as-firm-probes-ceo-jensen-huang-5010476",
+   "ts": 1794275336,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що ФБР перевіряє генерального директора Nvidia Хуанга, оскільки суперечки щодо Китаю поглиблюються",
+    "fr": "Trump dit que le FBI enquête sur Huang, le PDG de Nvidia, alors que la controverse sur la Chine s'approfondit",
+    "de": "Trump sagt, dass das FBI Nvidia-CEO Huang untersucht, während sich die Kontroverse um China verschärft",
+    "zh": "特朗普称随着中国争议加深，联邦调查局正在调查英伟达首席执行官黄",
+    "ru": "Трамп заявил, что ФБР расследует действия генерального директора Nvidia Хуана на фоне углубления споров в Китае"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "How the US was left exposed to the flesh-eating screwworm, years into the outbreak",
+   "url": "https://www.investing.com/news/commodities-news/how-the-us-was-left-exposed-to-the-flesheating-screwworm-years-into-the-outbreak-5011249",
+   "ts": 1794275321,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Як США постраждали від м’ясоїдного черв’яка через роки спалаху",
+    "fr": "Comment les États-Unis ont été exposés à la chenille bouchère carnivore, des années après le début de l'épidémie",
+    "de": "Wie die USA noch Jahre nach dem Ausbruch dem fleischfressenden Schraubenwurm ausgesetzt waren",
+    "zh": "食肉螺旋虫爆发多年后，美国是如何暴露在食肉螺旋虫之下的",
+    "ru": "Как США остались незащищенными от плотоядного червя спустя годы после вспышки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
+   "url": "https://www.investing.com/news/stock-market-news/trump-says-nvidia-ceo-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy-5013538",
+   "ts": 1794275309,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що генеральний директор Nvidia сказав йому, що не знав, що пов'язана з ним жінка була шпигункою",
+    "fr": "Trump dit que le PDG de Nvidia lui a dit qu'il ne savait pas que la femme qui lui était liée était une espionne",
+    "de": "Trump sagte, der CEO von Nvidia habe ihm gesagt, er wisse nicht, dass die mit ihm verbundene Frau eine Spionin sei",
+    "zh": "特朗普称英伟达首席执行官告诉他，他不知道与他有联系的女人是间谍",
+    "ru": "Трамп говорит, что генеральный директор Nvidia сказал ему, что он не знал, что связанная с ним женщина была шпионкой"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "DOJ sues Lyft for $53m over alleged disability bias",
+   "url": "https://www.investing.com/news/stock-market-news/doj-sues-lyft-for-53m-over-alleged-disability-bias-93CH-5013890",
+   "ts": 1794275287,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Міністерство юстиції подає на Lyft до суду на 53 мільйони доларів через упереджене ставлення до інвалідності",
+    "fr": "Le DOJ poursuit Lyft pour 53 millions de dollars pour préjugé présumé en matière de handicap",
+    "de": "DOJ verklagt Lyft auf 53 Millionen US-Dollar wegen angeblicher Behinderungsvoreingenommenheit",
+    "zh": "美国司法部因涉嫌残障偏见起诉 Lyft 并索赔 5300 万美元",
+    "ru": "Министерство юстиции подает в суд на Lyft на 53 миллиона долларов из-за предполагаемой предвзятости в отношении инвалидности"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Nine foreigners suspected of trying to join Russia's war against Ukraine arrested in South Africa",
+   "url": "https://www.ukrinform.net/rubric-ato/4183005-nine-foreigners-suspected-of-trying-to-join-russias-war-against-ukraine-arrested-in-south-africa.html",
+   "ts": 1794275220,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Південно-Африканській Республіці затримали дев'ятьох іноземців, підозрюваних у спробі приєднатися до війни Росії проти України",
+    "fr": "Neuf étrangers soupçonnés d'avoir tenté de rejoindre la guerre russe contre l'Ukraine arrêtés en Afrique du Sud",
+    "de": "Neun Ausländer, die verdächtigt werden, sich am Krieg Russlands gegen die Ukraine beteiligen zu wollen, wurden in Südafrika festgenommen",
+    "zh": "九名涉嫌试图参加俄罗斯对乌克兰战争的外国人在南非被捕",
+    "ru": "В ЮАР арестованы девять иностранцев, подозреваемых в попытке присоединиться к войне России против Украины"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794275093,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп заявив, що ФБР розслідує роман боса Nvidia з ймовірним китайським шпигуном",
+    "fr": "Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
+    "de": "Trump sagt, das FBI untersucht die Affäre des Nvidia-Chefs mit einem mutmaßlichen chinesischen Spion",
+    "zh": "特朗普称联邦调查局正在调查英伟达老板与中国间谍的恋情",
+    "ru": "Трамп заявил, что ФБР расследует дело босса Nvidia с предполагаемым китайским шпионом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+   "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+   "ts": 1794275027,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп каже, що Дженсен Хуанг сказав йому в понеділок, що не знав, що коханка \"була шпигуном\"",
+    "fr": "Trump dit que Jensen Huang lui a dit lundi qu'il ne savait pas que son amant \"était un espion\"",
+    "de": "Trump sagt, Jensen Huang habe ihm am Montag gesagt, er wisse nicht, dass seine Geliebte „eine Spionin“ sei.",
+    "zh": "特朗普称黄仁勋周一告诉他，他不知道情人“是间谍”",
+    "ru": "Трамп говорит, что Дженсен Хуанг сказал ему в понедельник, что он не знал, что его любовник «был шпионом»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "ts": 1794274729,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Результати виборів до Сенату США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
+    "uk": "Конгресмен-республіканець змусить голосувати про імпічмент міністра оборони Хегсета",
+    "fr": "Un membre du Congrès républicain va forcer un vote de destitution contre le secrétaire à la Défense Hegseth",
+    "de": "Republikanischer Kongressabgeordneter erzwingt Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth",
+    "zh": "共和党国会议员将强制对国防部长赫格塞斯进行弹劾投票",
+    "ru": "Конгрессмен-республиканец принудит провести голосование по импичменту министра обороны Хегсета"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Dollar sellers hit pause for US inflation data",
-   "url": "https://www.investing.com/news/economy-news/dollar-sellers-hit-pause-for-us-inflation-data-5013809",
-   "ts": 1794271733,
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+   "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+   "ts": 1794274487,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Продавці доларів призупинили дані про інфляцію в США",
-    "fr": "Les vendeurs de dollars font une pause pour les données sur l'inflation américaine",
-    "de": "Dollar-Verkäufer machen wegen US-Inflationsdaten eine Pause",
-    "zh": "美元卖家暂停关注美国通胀数据",
-    "ru": "Продавцы доллара взяли паузу в ожидании данных по инфляции в США"
+    "uk": "Qantas скоротить 850 австралійців і перенесе роботу в Індію в рамках капітального ремонту на основі ШІ",
+    "fr": "Qantas va supprimer 850 emplois en Australie et sous-traiter le travail en Inde dans le cadre d'une refonte basée sur l'IA",
+    "de": "Qantas wird im Rahmen einer KI-gesteuerten Überarbeitung 850 australische Arbeitsplätze abbauen und Arbeit nach Indien auslagern",
+    "zh": "澳洲航空将在人工智能驱动的改革中裁员 850 名澳大利亚人并将工作外包给印度",
+    "ru": "Qantas сократит 850 рабочих мест в Австралии и переведет работу в Индию в рамках капитального ремонта на основе искусственного интеллекта"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Ethan Allen declares $0.20 quarterly dividend amid turnaround",
-   "url": "https://www.investing.com/news/company-news/ethan-allen-declares-020-quarterly-dividend-amid-turnaround-93CH-5013822",
-   "ts": 1794271713,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "College Football Playoff decides to double down and a 24-team playoff is set for next season",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fbF93YUxPdUdrMEhlR3pTRTV2cGNjazhEYk1acFVUSjZjTGdISlc1cURnSHJRRDRLVW9JeDVDU3E1MmlINEZ6Tl9NUUxmY2hsWmxqN3Q3U04zOGc3U1F1NTQzQ3RLb1BCeWc4NndXWHNuV19HblRfZ0tEd2gxZw?oc=5",
+   "ts": 1794273900,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Плей-офф університетського футболу вирішив подвоїти, і на наступний сезон призначено плей-офф із 24 командами",
+    "fr": "Les éliminatoires du football universitaire décident de doubler la mise et des séries éliminatoires à 24 équipes sont prévues pour la saison prochaine",
+    "de": "Die College Football Playoffs entscheiden sich für eine Verdoppelung und für die nächste Saison ist ein Playoff mit 24 Teams geplant",
+    "zh": "大学橄榄球季后赛决定加倍，下赛季将有 24 支球队参加季后赛",
+    "ru": "Плей-офф студенческого футбола решает удвоить ставку, и на следующий сезон назначен плей-офф с участием 24 команд."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "EXCLUSIVE: Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
+   "ts": 1794273720,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Ітан Аллен оголошує щоквартальні дивіденди в розмірі 0,20 дол",
-    "fr": "Ethan Allen déclare un dividende trimestriel de 0,20 $ dans un contexte de redressement",
-    "de": "Ethan Allen erklärt inmitten der Trendwende eine vierteljährliche Dividende von 0,20 US-Dollar",
-    "zh": "Ethan Allen 在扭亏为盈之际宣布季度股息 0.20 美元",
-    "ru": "Итан Аллен объявляет квартальные дивиденды в размере $0,20 на фоне улучшения ситуации"
+    "uk": "ЕКСКЛЮЗИВ: Anthropic має на меті залучити до 69,3 мільярда доларів США на IPO",
+    "fr": "EXCLUSIF : Anthropic vise à lever jusqu'à 69,3 milliards de dollars lors d'une introduction en bourse à succès",
+    "de": "EXKLUSIV: Anthropic will durch Blockbuster-Börsengang bis zu 69,3 Milliarden US-Dollar einnehmen",
+    "zh": "独家报道：Anthropic 计划通过大规模 IPO 筹集高达 693 亿美元的资金",
+    "ru": "ЭКСКЛЮЗИВ: Anthropic планирует привлечь до $69,3 млрд в ходе IPO-блокбастера"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+   "ts": 1794272959,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Підліток, який планував теракт у Сіднеї, заявив суду, що він радикалізувався в Інтернеті та використовував ШІ для розробки стратегії",
+    "fr": "Un adolescent qui a planifié une attaque terroriste à Sydney déclare au tribunal qu'il s'est radicalisé en ligne et qu'il a utilisé l'IA pour élaborer sa stratégie",
+    "de": "Teenager, der einen Terroranschlag in Sydney geplant hat, sagt vor Gericht, er sei online radikalisiert worden und habe KI zur Strategieentwicklung eingesetzt",
+    "zh": "策划悉尼恐怖袭击的青少年告诉法庭，他在网上变得激进，并使用人工智能制定战略",
+    "ru": "Подросток, спланировавший теракт в Сиднее, рассказал суду, что был радикализирован в Интернете и использовал искусственный интеллект для разработки стратегии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "FBI is investigating a possible killing aboard a cruise ship out of Texas",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWVURkdHem1tOTJ4LVgxMDZhdHo2U3I1dFQ1N2pwUnNLV1FmQURJU2hsb3hnUjlab2VCRjkzYjd1TmY2Um5CTDJHdTNCME0wMWc3ZTVxekZwZl9fUGVhcDRyUnB2RWRoclhCYnJ5a0xnakFXcWxCbW1VNnBjOWtWanMydTRDR2lkUU9PN1NIRWQwRV9FS1JUSkctSnU?oc=5",
+   "ts": 1794272880,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "ФБР розслідує можливе вбивство на борту круїзного лайнера з Техасу",
+    "fr": "Le FBI enquête sur un possible meurtre à bord d'un bateau de croisière au Texas",
+    "de": "Das FBI untersucht einen möglichen Mord an Bord eines Kreuzfahrtschiffes aus Texas",
+    "zh": "联邦调查局正在调查德克萨斯州一艘游轮上可能发生的谋杀案",
+    "ru": "ФБР расследует возможное убийство на борту круизного лайнера из Техаса"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "France blames Iran for October supermarket cyberattack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+   "ts": 1794272507,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Франція звинуватила Іран у жовтневій кібератаці на супермаркет",
+    "fr": "La France accuse l'Iran d'être responsable de la cyberattaque d'un supermarché en octobre",
+    "de": "Frankreich macht den Iran für den Cyberangriff auf einen Supermarkt im Oktober verantwortlich",
+    "zh": "法国指责伊朗对 10 月份超市网络攻击负责",
+    "ru": "Франция обвинила Иран в октябрьской кибератаке на супермаркет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+   "ts": 1794272400,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Трамп сигналізує про «позитивний імпульс» у стосунках з Іраном після зустрічі з прем’єр-міністром Катару",
+    "fr": "Trump signale un « élan positif » avec l’Iran après sa rencontre avec le Premier ministre qatari",
+    "de": "Trump signalisiert nach Treffen mit dem katarischen Premierminister eine „positive Dynamik“ mit dem Iran",
+    "zh": "特朗普在会见卡塔尔总理后向伊朗发出“积极势头”",
+    "ru": "Трамп сигнализирует о «положительной динамике» в отношениях с Ираном после встречи с премьер-министром Катара"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+   "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+   "ts": 1794272278,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Відкладено винесення вердикту у справі Гондурасу про торгівлю людьми в сексуальних цілях, пов’язану зі зникненням",
+    "fr": "Le verdict est retardé dans une affaire de trafic sexuel liée à une disparition au Honduras",
+    "de": "Urteilsverkündung im Fall von Sexhandel im Zusammenhang mit Verschwindenlassen in Honduras verzögert",
+    "zh": "洪都拉斯与失踪有关的性贩运案件的判决被推迟",
+    "ru": "Вынесение приговора по делу о торговле людьми в целях сексуальной эксплуатации, связанном с исчезновением в Гондурасе, отложено"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+   "ts": 1794272034,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бо Ламарр-Кондон заперечує, що був «одержимий» Джессі Бердом, оскільки суд у справі про подвійне вбивство триває",
+    "fr": "Beau Lamarre-Condon nie être « obsédé » par Jesse Baird alors que le procès pour double meurtre se poursuit",
+    "de": "Beau Lamarre-Condon bestreitet, von Jesse Baird „besessen“ zu sein, während der Doppelmordprozess andauert",
+    "zh": "双重谋杀案审判仍在继续，博·拉马尔·康登否认对杰西·贝尔德“着迷”",
+    "ru": "Бо Ламарр-Кондон отрицает, что «одержима» Джесси Бэрдом, поскольку судебный процесс по двойному убийству продолжается"
    },
    "lang": "en"
   },
@@ -289,146 +667,58 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Tactile Systems director Burke sells $135,000 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/tactile-systems-director-burke-sells-135000-in-shares-93CH-5013821",
-   "ts": 1794271560,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+   "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+   "ts": 1794271468,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Директор Tactile Systems Берк продає акції за 135 000 доларів",
-    "fr": "Le directeur de Tactile Systems, Burke, vend 135 000 $ d'actions",
-    "de": "Burke, Direktor von Tactile Systems, verkauft Aktien im Wert von 135.000 US-Dollar",
-    "zh": "Tactile Systems 董事 Burke 出售价值 135,000 美元的股票",
-    "ru": "Директор Tactile Systems Берк продает акции на сумму 135 000 долларов."
+    "uk": "Трамп каже, що ФБР розслідує справу генерального директора Nvidia з ймовірним шпигуном",
+    "fr": "Trump dit que le FBI enquête sur la liaison du PDG de Nvidia avec un espion présumé",
+    "de": "Trump sagt, das FBI untersucht die Affäre des CEO von Nvidia mit einem mutmaßlichen Spion",
+    "zh": "特朗普称联邦调查局正在调查英伟达首席执行官与涉嫌间谍的恋情",
+    "ru": "Трамп заявил, что ФБР расследует дело генерального директора Nvidia с предполагаемым шпионом"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Gilead Sciences EVP sells $557,809 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/gilead-sciences-evp-sells-557809-in-company-stock-93CH-5013820",
-   "ts": 1794271554,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. House Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "ts": 1794271290,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Виконавчий віце-президент Gilead Sciences продає акції компанії на 557 809 доларів США",
-    "fr": "Gilead Sciences EVP vend 557 809 $ d'actions de la société",
-    "de": "Gilead Sciences EVP verkauft Unternehmensaktien im Wert von 557.809 US-Dollar",
-    "zh": "吉利德科学执行副总裁出售价值 557,809 美元的公司股票",
-    "ru": "Исполнительный вице-президент Gilead Sciences продает акции компании на сумму 557 809 долларов"
+    "uk": "Результати виборів у Палату представників США 2026 року",
+    "fr": "Résultats des élections législatives américaines de 2026",
+    "de": "Ergebnisse der US-Repräsentantenhauswahl 2026",
+    "zh": "2026 年美国众议院选举结果",
+    "ru": "Результаты выборов в Палату представителей США 2026 года"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: NHN Q3 2026 profit jumps as cloud and payments gain",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nhn-q3-2026-profit-jumps-as-cloud-and-payments-gain-93CH-5013810",
-   "ts": 1794271450,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Colorado U.S. House Election Live Results 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+   "ts": 1794270315,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Стенограма розмови про прибутки: прибуток NHN за 3 квартал 2026 р. стрибає завдяки збільшенню хмарних технологій і платежів",
-    "fr": "Transcription de l'appel sur les résultats : le bénéfice du RHN au troisième trimestre 2026 augmente à mesure que le cloud et les paiements gagnent",
-    "de": "Protokoll der Telefonkonferenz zu den Gewinnen: NHN-Gewinn im 3. Quartal 2026 steigt, da Cloud und Zahlungen zunehmen",
-    "zh": "财报电话会议记录：随着云和支付的发展，NHN 2026 年第三季度利润大幅增长",
-    "ru": "Стенограмма отчета о прибылях и убытках: прибыль NHN в третьем квартале 2026 года выросла благодаря росту облачных технологий и платежей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
-   "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-   "ts": 1794271438,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції SoftBank Group зросли на 11% через зростання азіатських технологічних акцій після відновлення Уолл-стріт",
-    "fr": "Les actions de SoftBank Group bondissent de 11 % alors que les valeurs technologiques asiatiques se redressent après le rebond de Wall Street",
-    "de": "Die Aktien der SoftBank Group steigen um 11 %, da asiatische Technologiewerte nach der Erholung an der Wall Street steigen",
-    "zh": "华尔街反弹后，亚洲科技股上涨，软银集团股价飙升 11%",
-    "ru": "Акции SoftBank Group выросли на 11% на фоне роста акций азиатских технологических компаний после восстановления Уолл-стрит"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794270893,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп заявив, що ФБР розслідує роман боса Nvidia з ймовірним китайським шпигуном",
-    "fr": "Trump dit que le FBI enquête sur la liaison du patron de Nvidia avec un espion chinois présumé",
-    "de": "Trump sagt, das FBI untersucht die Affäre des Nvidia-Chefs mit einem mutmaßlichen chinesischen Spion",
-    "zh": "特朗普称联邦调查局正在调查英伟达老板与中国间谍的恋情",
-    "ru": "Трамп заявил, что ФБР расследует дело босса Nvidia с предполагаемым китайским шпионом"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Starbucks international CEO Brady Brewer sells $245,190 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/starbucks-international-ceo-brady-brewer-sells-245190-in-stock-93CH-5013805",
-   "ts": 1794270663,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Міжнародний генеральний директор Starbucks Брейді Брюер продає запаси на 245 190 доларів",
-    "fr": "Brady Brewer, PDG international de Starbucks, vend 245 190 $ d'actions",
-    "de": "Brady Brewer, CEO von Starbucks International, verkauft Aktien im Wert von 245.190 US-Dollar",
-    "zh": "星巴克国际首席执行官 Brady Brewer 出售价值 245,190 美元的股票",
-    "ru": "Международный генеральный директор Starbucks Брейди Брюэр продает акции на сумму 245 190 долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Neonc Technologies CEO Amir Heshmatpour buys $38,600 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/neonc-technologies-ceo-amir-heshmatpour-buys-38600-in-stock-93CH-5013804",
-   "ts": 1794270661,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Генеральний директор Neonc Technologies Амір Хешматпур купує акції на 38 600 доларів США",
-    "fr": "Le PDG de Neonc Technologies, Amir Heshmatpour, achète 38 600 $ d'actions",
-    "de": "Amir Heshmatpour, CEO von Neonc Technologies, kauft Aktien im Wert von 38.600 US-Dollar",
-    "zh": "Neonc Technologies 首席执行官 Amir Heshmatpour 购买了价值 38,600 美元的股票",
-    "ru": "Генеральный директор Neonc Technologies Амир Хешматпур покупает акции на сумму 38 600 долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Andreas Bechtolsheim sells $43 million of Arista Networks stock",
-   "url": "https://www.investing.com/news/insider-trading-news/andreas-bechtolsheim-sells-43-million-of-arista-networks-stock-93CH-5013803",
-   "ts": 1794270659,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Андреас Бехтольшайм продає акції Arista Networks за 43 мільйони доларів",
-    "fr": "Andreas Bechtolsheim vend pour 43 millions de dollars d'actions Arista Networks",
-    "de": "Andreas Bechtolsheim verkauft Aktien von Arista Networks im Wert von 43 Millionen US-Dollar",
-    "zh": "Andreas Bechtolsheim 出售价值 4300 万美元的 Arista Networks 股票",
-    "ru": "Андреас Бехтольшайм продает акции Arista Networks на сумму 43 миллиона долларов"
+    "uk": "Результати виборів у Палату представників США у Колорадо в реальному часі 2026 року",
+    "fr": "Résultats en direct des élections législatives américaines au Colorado 2026",
+    "de": "Live-Ergebnisse der US-Repräsentantenhauswahl in Colorado 2026",
+    "zh": "2026 年科罗拉多州美国众议院选举实时结果",
+    "ru": "Прямые результаты выборов в Палату представителей США в Колорадо 2026 г."
    },
    "lang": "en"
   },
@@ -466,42 +756,6 @@
     "de": "Nvidia-Aktien rutschen ab, da der Vorstand den CEO wegen einer Affäre mit einem mutmaßlichen chinesischen Spion untersucht",
     "zh": "董事会调查首席执行官涉嫌与中国间谍有染，英伟达股价下跌",
     "ru": "Акции Nvidia падают, поскольку совет директоров расследует дело генерального директора по делу о предполагаемом китайском шпионе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-   "ts": 1794269893,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Бо Ламарр-Кондон заперечує, що був «одержимий» Джессі Бердом, оскільки тривають докази подвійного вбивства",
-    "fr": "Beau Lamarre-Condon nie être « obsédé » par Jesse Baird alors que les preuves du procès pour double meurtre se poursuivent",
-    "de": "Beau Lamarre-Condon bestreitet, von Jesse Baird „besessen“ zu sein, während die Beweise für den Doppelmordprozess weiter andauern",
-    "zh": "博·拉马尔·康登否认对杰西·贝尔德“着迷”，因为双重谋杀案审判的证据仍在继续",
-    "ru": "Бо Ламарр-Кондон отрицает, что была «одержима» Джесси Бэрдом, поскольку доказательства по делу о двойном убийстве продолжаются"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-   "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-   "ts": 1794269822,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп каже, що Дженсен Хуанг сказав йому в понеділок, що не знав, що коханка \"була шпигуном\"",
-    "fr": "Trump dit que Jensen Huang lui a dit lundi qu'il ne savait pas que son amant \"était un espion\"",
-    "de": "Trump sagt, Jensen Huang habe ihm am Montag gesagt, er wisse nicht, dass seine Geliebte „eine Spionin“ sei.",
-    "zh": "特朗普称黄仁勋周一告诉他，他不知道情人“是间谍”",
-    "ru": "Трамп говорит, что Дженсен Хуанг сказал ему в понедельник, что он не знал, что его любовник «был шпионом»"
    },
    "lang": "en"
   },
@@ -615,6 +869,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Exxon signs preliminary agreement with Venezuela to evaluate oil opportunities",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0NYVUk4a3pTQzdDU0xDWkNNQjQxaEh4QjIxQTdBaVdXWkJZM2ZEX1E2bzFFcnE1UmNheEJJV25RazNfeFBzd08zNmdCSmkyal9yLXZ1S1BiNnNZVmVkTC1WYXBTNklGdlhTdjJVV1JwMjNmdUxodFFGbXo4dk1LbDVnMGRlQ0VPNmljblVqNEFxYjZvV3Bsb0lVSkJjYzFSOWZPY2trU0dsbVo3dmdjNXA1cnNjYUNyazlLWHduSmVWWXVnNmc?oc=5",
+   "ts": 1794268620,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Exxon підписує попередню угоду з Венесуелою щодо оцінки нафтових можливостей",
+    "fr": "Exxon signe un accord préliminaire avec le Venezuela pour évaluer les opportunités pétrolières",
+    "de": "Exxon unterzeichnet vorläufige Vereinbarung mit Venezuela zur Prüfung von Ölmöglichkeiten",
+    "zh": "埃克森美孚与委内瑞拉签署初步协议评估石油机会",
+    "ru": "Exxon подписывает предварительное соглашение с Венесуэлой об оценке нефтяных возможностей"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
@@ -635,18 +907,18 @@
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
+   "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
    "ts": 1794268523,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Війна в Ірані в прямому ефірі: Трамп каже, що ескалація «малоймовірна», Іран вимагає «капітуляції»",
-    "fr": "La guerre en Iran est en direct : Trump dit qu’une escalade est « improbable », l’Iran exige la « reddition »",
-    "de": "Iran-Krieg live: Trump hält Eskalation für „unwahrscheinlich“, Iran fordert „Kapitulation“",
-    "zh": "伊朗战争直播：特朗普称升级“不太可能”，伊朗要求“投降”",
-    "ru": "Война в Иране в прямом эфире: Трамп говорит, что эскалация «маловероятна», Иран требует «капитуляции»"
+    "uk": "Війна в Ірані в прямому ефірі: Іран вимагає від США «здати» свої умови",
+    "fr": "La guerre en Iran est en direct : l’Iran exige que les États-Unis « se rendent » à leurs conditions",
+    "de": "Iran-Krieg live: Iran fordert von den USA die „Kapitulation“ gegenüber seinen Bedingungen",
+    "zh": "伊朗战争直播：伊朗要求美国“投降”其条件",
+    "ru": "Война в Иране в прямом эфире: Иран требует от США «капитуляции» на его условиях"
    },
    "lang": "en"
   },
@@ -780,21 +1052,21 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-   "ts": 1794267914,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. Senate Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "ts": 1794267891,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Конгресмен-республіканець змусить голосувати про імпічмент міністра оборони Хегсета",
-    "fr": "Un membre du Congrès républicain va forcer un vote de destitution contre le secrétaire à la Défense Hegseth",
-    "de": "Republikanischer Kongressabgeordneter erzwingt Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth",
-    "zh": "共和党国会议员将强制对国防部长赫格塞斯进行弹劾投票",
-    "ru": "Конгрессмен-республиканец принудит провести голосование по импичменту министра обороны Хегсета"
+    "uk": "Результати виборів до Сенату США 2026 року",
+    "fr": "Résultats des élections sénatoriales américaines de 2026",
+    "de": "Ergebnisse der US-Senatswahl 2026",
+    "zh": "2026 年美国参议院选举结果",
+    "ru": "Результаты выборов в Сенат США 2026 г."
    },
    "lang": "en"
   },
@@ -832,6 +1104,24 @@
     "de": "PepsiCo will etwa 1.000 Stellen abbauen, da die nordamerikanische Wirtschaft Probleme hat",
     "zh": "北美业务陷入困境百事可乐将裁员约1000人",
     "ru": "PepsiCo сократит около 1000 рабочих мест из-за проблем в бизнесе в Северной Америке"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Take-Two lifts annual revenue, profit forecasts as 'GTA VI' launch nears",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU1kNnl5WDJ3dmRVVTJEczM5UF9Lc0otMlB3YlRqWGtmYzNlZ0VtTlhJN1VWQjd5M2RNbVNlbnROS2JDajd2cjhISzBNRHVnc0d0MG8yT292SFJJb19RdEd5b0diUVVkLXIzWFFRbGhKZFNBRXJISGdLVzZpd0ExTWVza1BGSjV5TW9BY3VTa1huVXN4SGpTU3Q4M1ZVcDdMYVNv?oc=5",
+   "ts": 1794267068,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Take-Two збільшує річний дохід і прогнозує прибуток у зв’язку з наближенням запуску «GTA VI».",
+    "fr": "Take-Two augmente son chiffre d'affaires annuel et ses prévisions de bénéfices à l'approche du lancement de \"GTA VI\"",
+    "de": "Take-Two steigert Jahresumsatz und Gewinnprognosen, da die Veröffentlichung von „GTA VI“ näher rückt",
+    "zh": "随着《GTA VI》发布临近，Take-Two 上调年度收入和利润预测",
+    "ru": "Take-Two увеличивает годовой доход и прогнозирует прибыль по мере приближения запуска GTA VI"
    },
    "lang": "en"
   },
@@ -886,6 +1176,24 @@
     "de": "Der Richter lehnt den Antrag auf Abweisung des Mordfalls von Lindsay Clancy ab",
     "zh": "法官驳回驳回林赛·克兰西谋杀案的动议",
     "ru": "Судья отклонил ходатайство о прекращении дела об убийстве Линдси Клэнси"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Trump Media swings to quarterly profit; Truth API boosts revenue",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLW8wVzFqUF92NDVlYl8tVUZMYWFDYkUwaWFESmYwaTlIVkFqNUNFcTdLdnZKZFUzVkJEdGREMC01Qjl6TDJmN1BqN3FXbWN0NWxOd2loaDVOWjBEVHpUNVpQaFJ6al9vZ2FiNHNONUtsQ2w0QU1lc28yNjY3c1FTcDdRbVZVUjJiU3Y2cXZoZG94eFlQZXNDdWtCRmxXZw?oc=5",
+   "ts": 1794266658,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Trump Media переходить до квартального прибутку; Truth API збільшує дохід",
+    "fr": "Trump Media atteint un bénéfice trimestriel ; L'API Truth augmente les revenus",
+    "de": "Trump Media erzielt Quartalsgewinn; Truth API steigert den Umsatz",
+    "zh": "特朗普媒体转向季度盈利； Truth API 增加了收入",
+    "ru": "Trump Media показывает квартальную прибыль; Truth API увеличивает доход"
    },
    "lang": "en"
   },
@@ -964,24 +1272,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
-   "ts": 1794266024,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Трамп захищає Хуанга з Nvidia після розмови про шпигунський скандал",
-    "fr": "Trump défend Huang de Nvidia après avoir évoqué un scandale d'espionnage",
-    "de": "Trump verteidigt Huang von Nvidia, nachdem er wegen eines Spionageskandals angerufen hat",
-    "zh": "特朗普在致电谈及间谍丑闻后为英伟达黄仁勋辩护",
-    "ru": "Трамп защищает Хуана из Nvidia после разговора о шпионском скандале"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
@@ -1050,25 +1340,6 @@
     "de": "Deutschlands Merz beschwert sich über unfaire Lastenteilung und fordert die EU auf, dem neuen Ukraine-Darlehen Vorrang einzuräumen",
     "zh": "德国总理梅尔茨抱怨负担分担不公平，呼吁欧盟优先考虑新的乌克兰贷款",
     "ru": "Мерц из Германии жалуется на несправедливое распределение бремени и призывает ЕС сделать приоритетным новый кредит для Украины"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Pentagon chief Hegseth expected to face House impeachment vote this week",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
-   "ts": 1794264894,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Очікується, що голова Пентагону Хегсет зіткнеться з голосуванням щодо імпічменту Палати представників цього тижня",
-    "fr": "Le chef du Pentagone, Hegseth, devrait faire face à un vote de destitution de la Chambre cette semaine",
-    "de": "Pentagon-Chef Hegseth erwartet, dass er diese Woche im Repräsentantenhaus über ein Amtsenthebungsverfahren abstimmen wird",
-    "zh": "五角大楼首席赫格斯预计本周将面临众议院弹劾投票",
-    "ru": "Глава Пентагона Хегсет, как ожидается, предстанет перед голосованием по импичменту в Палате представителей на этой неделе"
    },
    "lang": "en"
   },
@@ -1184,25 +1455,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 Washington Measure 638 Election Live Results",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTFBxck1yQUZOejFWdUk0TUxZcDBlYjlRbnJIUWVXZ2YxZWUza2hIZUtHeFhzdkxyYU5ZcGcxZHl0RzdjYU1kYl9UeTZTY1ZybVJHU2xCcTJPVDJhel9VRDhpLVZjMUU0Q2RPRXVkYTRwOTBQNkc5YmE2UVJoS28?oc=5",
-   "ts": 1794264020,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "2026 Вашингтон Measure 638 Election Live Results",
-    "fr": "Résultats en direct des élections de 2026 à Washington Mesure 638",
-    "de": "2026 Washington Measure 638 Live-Wahlergebnisse",
-    "zh": "2026 年华盛顿 638 号措施选举实时结果",
-    "ru": "Прямые результаты выборов 2026 года в Вашингтоне 638"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Trump hopes to meet Xi and Putin at APEC summit in China",
@@ -1221,113 +1473,20 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "France blames Iran for cyberattack on supermarket fridges",
-   "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
-   "ts": 1794263592,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Франція звинувачує Іран у кібератаці на холодильники супермаркетів",
-    "fr": "La France accuse l'Iran de cyberattaque contre les réfrigérateurs des supermarchés",
-    "de": "Frankreich macht den Iran für einen Cyberangriff auf Supermarktkühlschränke verantwortlich",
-    "zh": "法国指责伊朗对超市冰箱进行网络攻击",
-    "ru": "Франция обвинила Иран в кибератаке на холодильники в супермаркетах"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Supreme Court clears the way for border wall construction in Texas’s Big Bend to resume",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5",
-   "ts": 1794263580,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Верховний суд розчищає шлях для відновлення будівництва прикордонної стіни в Техаському Біг-Бенді",
-    "fr": "La Cour suprême ouvre la voie à la reprise de la construction du mur frontalier à Big Bend au Texas",
-    "de": "Der Oberste Gerichtshof macht den Weg für die Wiederaufnahme des Grenzmauerbaus im texanischen Big Bend frei",
-    "zh": "最高法院为德克萨斯州大本德恢复边境墙建设扫清道路",
-    "ru": "Верховный суд расчистил путь к возобновлению строительства пограничной стены в Биг-Бенде в Техасе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Rep. Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJQVDlfd0pOX1hsbURBWTRUQXR0T2VROGp4cmRmTUl0ZnMzYmh0OE9CSTd5STBxaTAxTHU4Ni1GOUQyWTVNbUlUX2hCM2NQOFBVTzdQemFkcWJ6R1N6QmY2Mnl6TmcxR0tiSmdUSUxTS0otcW00cERJbmJuNkRKZ0NiRTJqX2JWLTMxZmtqQnVzaVRVZ290X0YycHpFRFFaQk9WVVB6ZnZSQQ?oc=5",
-   "ts": 1794263580,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Конгресмен Томас Массі від Кентуккі подає заяву про імпічмент міністра оборони Піта Хегсета",
-    "fr": "Le représentant Thomas Massie du Kentucky lance une tentative de destitution du secrétaire à la Défense Pete Hegseth",
-    "de": "Der Abgeordnete Thomas Massie aus Kentucky startet einen Versuch, Verteidigungsminister Pete Hegseth anzuklagen",
-    "zh": "肯塔基州众议员托马斯·马西发起弹劾国防部长皮特·赫格斯的提议",
-    "ru": "Член палаты представителей Томас Мэсси из Кентукки подает заявку на импичмент министру обороны Питу Хегсету"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
+   "feed": "reuters_business",
    "source": "Reuters",
-   "title": "Supreme Court allows Trump border wall at Big Bend National Park in Texas",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5",
-   "ts": 1794263505,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Верховний суд дозволив Трампу прикордонну стіну в Національному парку Біг-Бенд у Техасі",
-    "fr": "La Cour suprême autorise le mur frontalier de Trump dans le parc national de Big Bend au Texas",
-    "de": "Der Oberste Gerichtshof genehmigt Trumps Grenzmauer im Big-Bend-Nationalpark in Texas",
-    "zh": "最高法院允许特朗普在德克萨斯州大弯国家公园修建边境墙",
-    "ru": "Верховный суд разрешил Трампу построить пограничную стену в национальном парке Биг-Бенд в Техасе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-   "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-   "ts": 1794263479,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Після зустрічі з прем’єр-міністром Катару Трамп назвав війну з Іраном «фактично завершеною» у військовому плані",
-    "fr": "Après avoir rencontré le Premier ministre du Qatar, Trump qualifie la guerre en Iran de « effectivement terminée » militairement",
-    "de": "Nach einem Treffen mit dem Premierminister von Katar bezeichnet Trump den Iran-Krieg militärisch als „praktisch beendet“.",
-    "zh": "与卡塔尔总理会面后，特朗普称伊朗战争在军事上“有效结束”",
-    "ru": "После встречи с премьер-министром Катара Трамп назвал войну с Ираном «фактически оконченной» в военном отношении"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_business",
-   "source": "NPR",
-   "title": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6034478/nvidia-shares-tumble-as-the-company-says-its-investigating-ceo-jensen-huang",
-   "ts": 1794261707,
+   "title": "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkdXYUpKY3UyMTliQ3RzNzV5cmJVRGNmdEFuclpHRnNCbm9TblBsQkJJeXcxZDhEZlJhQ3Q3SGI1MWFYbGRkNFhWa0p2dEpfbV9pcmdsTUlzWThScHczTVgwckk2S1JELV9nWnZrbVZxODRIX2xNUFNFODJTQ05HYlI3VDhoNGlaS1pQd05FOG5tOWJ1Z3BTZjdDUkZxYlJPRzhYdnBZSjlWVGs0ZjlkVGlTRmJXOTZ0dTJwd0tPdW8wdw?oc=5",
+   "ts": 1794263628,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Акції Nvidia падають, оскільки компанія заявляє, що розслідує генерального директора Дженсена Хуанга",
-    "fr": "Les actions de Nvidia chutent alors que la société annonce enquêter sur le PDG Jensen Huang",
-    "de": "Nvidia-Aktien stürzen ab, da das Unternehmen ankündigt, gegen CEO Jensen Huang zu ermitteln",
-    "zh": "英伟达股价暴跌，该公司表示正在调查首席执行官黄仁勋",
-    "ru": "Акции Nvidia падают, поскольку компания заявляет, что проводит расследование в отношении генерального директора Дженсена Хуанга"
+    "uk": "Honda побудує новий автомобільний завод вартістю 3 мільярди доларів в Огайо, додавши 2000 робочих місць",
+    "fr": "Honda va construire une nouvelle usine automobile de 3 milliards de dollars dans l'Ohio, créant 2 000 emplois",
+    "de": "Honda baut in Ohio ein neues 3-Milliarden-Dollar-Automobilwerk, das 2.000 Arbeitsplätze schafft",
+    "zh": "本田将斥资 30 亿美元在俄亥俄州新建汽车工厂，增加 2,000 个就业岗位",
+    "ru": "Honda построит новый автомобильный завод стоимостью 3 миллиарда долларов в Огайо, создав 2000 рабочих мест"
    },
    "lang": "en"
   },
@@ -1350,60 +1509,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-   "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-   "ts": 1794261300,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Оскільки акції Nvidia падають, ось що Уолл-стріт має сказати про скандал із Дженсеном Хуангом",
-    "fr": "Alors que les actions de Nvidia chutent, voici ce que Wall Street a à dire sur le scandale Jensen Huang",
-    "de": "Während die Nvidia-Aktie fällt, lesen Sie hier, was die Wall Street zum Jensen-Huang-Skandal zu sagen hat",
-    "zh": "随着英伟达股价下跌，华尔街对黄仁勋丑闻的评价如下",
-    "ru": "Акции Nvidia падают, вот что говорит Уолл-стрит о скандале с Дженсеном Хуангом"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794261148,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Зої Клейнман: Роман генерального директора Nvidia спричинить хвилю в США та за її межами",
-    "fr": "Zoe Kleinman : l'affaire du PDG de Nvidia aura des répercussions aux États-Unis et au-delà",
-    "de": "Zoe Kleinman: Die Affäre des Nvidia-CEOs wird in den USA und darüber hinaus für Aufsehen sorgen",
-    "zh": "佐伊·克莱曼：英伟达首席执行官的事件将在美国及其他地区引起涟漪",
-    "ru": "Зои Кляйнман: Дело генерального директора Nvidia вызовет волну волнений в США и за их пределами"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-   "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-   "ts": 1794261120,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Dow бачить третє коливання на 1000 пунктів за чотири дні. Чому волатильність ще не закінчилася.",
-    "fr": "Dow connaît sa troisième hausse de 1 000 points en quatre jours. Pourquoi la volatilité n’est pas encore terminée.",
-    "de": "Dow erlebt seinen dritten 1.000-Punkte-Schwung innerhalb von vier Tagen. Warum die Volatilität noch nicht vorbei ist.",
-    "zh": "道指四天内第三次突破 1,000 点。为什么波动还没有结束。",
-    "ru": "Индекс Доу-Джонса наблюдает третье колебание на 1000 пунктов за четыре дня. Почему волатильность еще не закончилась."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Zelensky expresses condolences to Türkiye following tragedy at steel plant",
@@ -1418,6 +1523,25 @@
     "de": "Selenskyj drückt Türkiye nach der Tragödie im Stahlwerk sein Beileid aus",
     "zh": "泽连斯基就钢铁厂悲剧向土耳其表示哀悼",
     "ru": "Зеленский выразил соболезнования Турции в связи с трагедией на металлургическом заводе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "US stocks rally and recover most of last week’s losses as oil prices swing lower",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjdpMlgzTnVJbUkwOFpXUWtRQnJUd29DZndWUk1vZXNLUEhNcVg3TUU5TFBncjY2djNYbHV4dlB4aUxxdFlsMW1NLUU5VWN3dGZHOFg4aGxETUl0NGx5ZWp2X3NXOG54WmlTSUl0UHpDdGlQeDRWanlkejRweTlqYV9WRk1WbVl4dkh4bU9CaWE?oc=5",
+   "ts": 1794261060,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Американські фондові ринки зростають і відновлюють більшу частину втрат минулого тижня, оскільки ціни на нафту знижуються",
+    "fr": "Les actions américaines rebondissent et récupèrent la plupart des pertes de la semaine dernière alors que les prix du pétrole baissent",
+    "de": "US-Aktien erholen sich und machen den Großteil der Verluste der letzten Woche wieder wett, während die Ölpreise sinken",
+    "zh": "随着油价走低，美股上涨并收复上周大部分跌幅",
+    "ru": "Акции США растут и восстанавливают большую часть потерь прошлой недели на фоне падения цен на нефть"
    },
    "lang": "en"
   },
@@ -1437,42 +1561,6 @@
     "de": "Was ist zu erwarten, wenn Russland, die Ukraine und die USA in Abu Dhabi trilaterale Gespräche führen?",
     "zh": "俄罗斯、乌克兰和美国在阿布扎比举行三边会谈有何期待",
     "ru": "Чего ожидать от трехсторонних переговоров России, Украины и США в Абу-Даби"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-   "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "ts": 1794260700,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«У нас була найгірша сварка»: я хочу, щоб мій чоловік пішов на пенсію в 65 років, але я не хочу втратити його зарплату в 280 000 доларів. Це нерозумно?",
-    "fr": "« Nous avons eu la pire dispute » : je veux que mon mari prenne sa retraite à 65 ans, mais je ne veux pas perdre son salaire de 280 000 $. Est-ce déraisonnable ?",
-    "de": "„Wir hatten den schlimmsten Streit“: Ich möchte, dass mein Mann mit 65 in den Ruhestand geht, aber ich möchte sein Gehalt von 280.000 Dollar nicht verlieren. Ist das unvernünftig?",
-    "zh": "“我们经历了最糟糕的争吵”：我希望我的丈夫在 65 岁退休，但我不想失去他 28 万美元的薪水。这不合理吗？",
-    "ru": "«У нас была худшая ссора»: я хочу, чтобы мой муж ушел на пенсию в 65 лет, но я не хочу терять его зарплату в 280 000 долларов. Это неразумно?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-   "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-   "ts": 1794260580,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Чи AMD і Broadcom є справжніми переможцями шпигунського скандалу Nvidia?",
-    "fr": "AMD et Broadcom sont-ils les vrais gagnants du scandale d'espionnage de Nvidia ?",
-    "de": "Sind AMD und Broadcom die wahren Gewinner des Nvidia-Spionageskandals?",
-    "zh": "AMD 和博通是 Nvidia 间谍丑闻的真正赢家吗？",
-    "ru": "AMD и Broadcom — настоящие победители шпионского скандала с Nvidia?"
    },
    "lang": "en"
   },
@@ -1690,24 +1778,6 @@
     "de": "Russische Drohne greift erneut Unternehmen in Poltawa an",
     "zh": "俄罗斯无人机再次袭击波尔塔瓦企业",
     "ru": "Российский дрон снова нанес удар по предприятию в Полтаве"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian attacks trigger power outages in parts of Dnipro and Kamianske",
-   "url": "https://www.ukrinform.net/rubric-ato/4183083-russian-attacks-trigger-power-outages-in-parts-of-dnipro-and-kamianske.html",
-   "ts": 1794250800,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські атаки викликали відключення електроенергії в частині Дніпра та Кам'янського",
-    "fr": "Les attaques russes provoquent des coupures de courant dans certaines parties de Dnipro et Kamianske",
-    "de": "Russische Angriffe führen zu Stromausfällen in Teilen von Dnipro und Kamjanske",
-    "zh": "俄罗斯袭击导致第聂伯罗和卡缅斯克部分地区停电",
-    "ru": "Российские атаки привели к отключениям электроэнергии в районах Днепра и Каменского"
    },
    "lang": "en"
   },
@@ -2093,24 +2163,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Russia strikes Trypilska power plant crucial for three oblasts: consequences \"extremely serious\" – photos",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8062006/",
-   "ts": 1794240000,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія завдала удару по важливій для трьох областей Трипільській електростанції: наслідки \"надзвичайно серйозні\" – фото",
-    "fr": "La Russie frappe la centrale électrique de Trypilska, cruciale pour trois oblasts : conséquences « extrêmement graves » – photos",
-    "de": "Russland greift das Kraftwerk Trypilska an, das für drei Oblaste von entscheidender Bedeutung ist: Folgen „extrem schwerwiegend“ – Fotos",
-    "zh": "俄罗斯袭击对三个州至关重要的特雷皮尔斯卡发电厂：后果“极其严重”——照片",
-    "ru": "Россия нанесла удар по Трипольской электростанции, имеющей решающее значение для трех областей: последствия «чрезвычайно серьезные» – фото"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
@@ -2243,24 +2295,6 @@
   {
    "feed": "npr_politics",
    "source": "NPR",
-   "title": "Congress is coming back to Washington. Here's what to expect",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
-   "ts": 1794218400,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Конгрес повертається до Вашингтона. Ось чого очікувати",
-    "fr": "Le Congrès revient à Washington. Voici à quoi s'attendre",
-    "de": "Der Kongress kommt nach Washington zurück. Hier erfahren Sie, was Sie erwartet",
-    "zh": "国会即将返回华盛顿。这是值得期待的",
-    "ru": "Конгресс возвращается в Вашингтон. Вот чего ожидать"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
    "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
    "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
    "ts": 1794218400,
@@ -2273,6 +2307,24 @@
     "de": "Palantir stellt einen ehemaligen demokratischen Senator ein, da dies im neuen Kongress geprüft wird",
     "zh": "Palantir 聘请了一位前民主党参议员，因为该公司面临新国会的审查",
     "ru": "Palantir нанимает бывшего сенатора-демократа, поскольку ему предстоит проверка в новом Конгрессе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Congress is coming back to Washington. Here's what to expect",
+   "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+   "ts": 1794218400,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Конгрес повертається до Вашингтона. Ось чого очікувати",
+    "fr": "Le Congrès revient à Washington. Voici à quoi s'attendre",
+    "de": "Der Kongress kommt nach Washington zurück. Hier erfahren Sie, was Sie erwartet",
+    "zh": "国会即将返回华盛顿。这是值得期待的",
+    "ru": "Конгресс возвращается в Вашингтон. Вот чего ожидать"
    },
    "lang": "en"
   },
@@ -2563,7 +2615,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 29
+   "items": 30
   },
   {
    "source": "aljazeera",
@@ -2573,7 +2625,7 @@
   {
    "source": "guardian_world",
    "ok": true,
-   "items": 32
+   "items": 31
   },
   {
    "source": "dw_world",
@@ -2623,7 +2675,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 10
+   "items": 11
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2659,7 +2711,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 162,
+   "translated": 150,
    "method": {
     "dict": 10
    }
