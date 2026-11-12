@@ -1,5 +1,5 @@
 {
- "updated": 1794522183,
+ "updated": 1794525505,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,11 +216,391 @@
  ],
  "items": [
   {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. Senate Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "ts": 1794525410,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Сенат США 2026 року",
+    "fr": "Résultats des élections sénatoriales américaines de 2026",
+    "de": "Ergebnisse der US-Senatswahl 2026",
+    "zh": "2026 年美国参议院选举结果",
+    "ru": "Результаты выборов в Сенат США 2026 г."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. House Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "ts": 1794525410,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Палату представників США 2026 року",
+    "fr": "Résultats des élections législatives américaines de 2026",
+    "de": "Ergebnisse der US-Repräsentantenhauswahl 2026",
+    "zh": "2026 年美国众议院选举结果",
+    "ru": "Результаты выборов в Палату представителей США 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+   "ts": 1794525258,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Оновлення прес-конференції Пета Каммінса в прямому ефірі: капітан австралійської команди з крикету говорить про претензії Усмана Кхаваджи щодо «шліфувальних воріт»",
+    "fr": "Mises à jour en direct de la conférence de presse de Pat Cummins : le capitaine de cricket australien parle des affirmations d'Usman Khawaja sur le « sandpapergate »",
+    "de": "Live-Updates zur Pressekonferenz von Pat Cummins: Der australische Cricket-Kapitän spricht über Usman Khawajas „Sandpapergate“-Behauptungen",
+    "zh": "帕特·康明斯新闻发布会实时更新：澳大利亚板球队长谈到乌斯曼·哈瓦贾的“沙纸门”说法",
+    "ru": "Пресс-конференция Пэта Камминса в прямом эфире: капитан австралийского крикета рассказывает о заявлениях Усмана Хаваджи о «воротах наждачной бумаги»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Laird Superfood posts 225% sales jump in Q3 2026",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-laird-superfood-posts-225-sales-jump-in-q3-2026-93CH-5023661",
+   "ts": 1794525240,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: продажі Laird Superfood зросли на 225% у третьому кварталі 2026 року",
+    "fr": "Transcription de l'appel sur les résultats : Laird Superfood enregistre une augmentation de 225 % de ses ventes au troisième trimestre 2026",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Laird Superfood verzeichnet im dritten Quartal 2026 einen Umsatzsprung von 225 %",
+    "zh": "财报电话会议记录：莱尔德超级食品 2026 年第三季度销售额增长 225%",
+    "ru": "Стенограмма отчета о прибылях и убытках: Laird Superfood сообщает о росте продаж на 225% в третьем квартале 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Arcadia Biosciences earnings beat by $0.75, revenue fell short of estimates",
+   "url": "https://www.investing.com/news/earnings/arcadia-biosciences-earnings-beat-by-075-revenue-fell-short-of-estimates-5023660",
+   "ts": 1794525235,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибуток Arcadia Biosciences перевищив 0,75 дол. США, дохід не досяг прогнозів",
+    "fr": "Les bénéfices d'Arcadia Biosciences ont dépassé de 0,75 $, les revenus sont inférieurs aux estimations",
+    "de": "Der Gewinn von Arcadia Biosciences stieg um 0,75 US-Dollar, der Umsatz blieb hinter den Schätzungen zurück",
+    "zh": "Arcadia Biosciences 盈利超出预期 0.75 美元，收入低于预期",
+    "ru": "Прибыль Arcadia Biosciences выросла на $0,75, выручка не оправдала оценок"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Motorsport Games posts strong Q3 2026 results",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-motorsport-games-posts-strong-q3-2026-results-93CH-5023659",
+   "ts": 1794525220,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Motorsport Games публікує сильні результати за 3 квартал 2026 року",
+    "fr": "Transcription de l'appel aux résultats : Motorsport Games publie de solides résultats au troisième trimestre 2026",
+    "de": "Protokoll der Telefonkonferenz: Motorsport Games veröffentlicht starke Ergebnisse für das dritte Quartal 2026",
+    "zh": "财报电话会议记录：Motorsport Games 发布 2026 年第三季度强劲业绩",
+    "ru": "Стенограмма отчета о прибылях и убытках: Motorsport Games опубликовала сильные результаты за третий квартал 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Kalshi in talks to raise money at $65 billion valuation, Bloomberg News reports",
+   "url": "https://www.investing.com/news/stock-market-news/kalshi-in-talks-to-raise-money-at-65-billion-valuation-bloomberg-news-reports-5023255",
+   "ts": 1794525143,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Kalshi веде переговори про залучення грошей на суму 65 мільярдів доларів, повідомляє Bloomberg News",
+    "fr": "Kalshi en pourparlers pour lever des fonds pour une valorisation de 65 milliards de dollars, rapporte Bloomberg News",
+    "de": "Laut Bloomberg News führt Kalshi Gespräche über eine Geldbeschaffung im Wert von 65 Milliarden US-Dollar",
+    "zh": "据彭博社报道，Kalshi 正在就估值 650 亿美元的融资进行谈判",
+    "ru": "Калши ведет переговоры о привлечении денег при оценке в $65 млрд, сообщает Bloomberg News"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Beeline Holdings posts stronger Q3 2026 revenue, stock slips",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-beeline-holdings-posts-stronger-q3-2026-revenue-stock-slips-93CH-5023657",
+   "ts": 1794525141,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Beeline Holdings опублікувала значний дохід у третьому кварталі 2026 року, падіння акцій",
+    "fr": "Transcription de l'appel aux résultats : Beeline Holdings affiche un chiffre d'affaires plus fort au troisième trimestre 2026 et des stocks en baisse",
+    "de": "Protokoll der Telefonkonferenz zu den Gewinnen: Beeline Holdings verzeichnet im dritten Quartal 2026 einen höheren Umsatz, Aktien sinken",
+    "zh": "财报电话会议记录：Beeline Holdings 公布 2026 年第三季度收入强劲，但股价下跌",
+    "ru": "Стенограмма отчета о прибылях и убытках: выручка Beeline Holdings в третьем квартале 2026 года выросла, акции упали"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: East Side Games Group posts q3 2026 profit focus",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-east-side-games-group-posts-q3-2026-profit-focus-93CH-5023656",
+   "ts": 1794525135,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: East Side Games Group публікує інформацію про прибутки за 3 квартал 2026 року",
+    "fr": "Transcription de l'appel sur les résultats : East Side Games Group publie une orientation sur les bénéfices du troisième trimestre 2026",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: East Side Games Group gibt Gewinnfokus für das dritte Quartal 2026 bekannt",
+    "zh": "财报电话会议记录：East Side Games Group 发布 2026 年第三季度利润焦点",
+    "ru": "Стенограмма отчета о прибылях и убытках: East Side Games Group сообщает о прибыли за третий квартал 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Birchtech Q3 2026 slides: $78M judgment backs water expansion push",
+   "url": "https://www.investing.com/news/company-news/birchtech-q3-2026-slides-78m-judgment-backs-water-expansion-push-93CH-5023655",
+   "ts": 1794525108,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Слайди Birchtech за третій квартал 2026 р.: Судове рішення в розмірі 78 мільйонів доларів підтримує поштовх до розширення води",
+    "fr": "Diapositives Birchtech Q3 2026 : un jugement de 78 millions de dollars soutient l'expansion de l'eau",
+    "de": "Birchtech Q3 2026 sinkt: 78-Millionen-Dollar-Urteil unterstützt Vorstoß zur Wasserausweitung",
+    "zh": "Birchtech 2026 年第三季度业绩下滑：7800 万美元的判决支持水扩张计划",
+    "ru": "Слайды Birchtech за третий квартал 2026 года: судебное решение на сумму 78 миллионов долларов поддерживает идею расширения водоснабжения"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Imricor Medical Systems posts first U.S. revenue in Q3 2025",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-imricor-medical-systems-posts-first-us-revenue-in-q3-2025-93CH-5023654",
+   "ts": 1794525096,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: компанія Imricor Medical Systems опублікувала перший дохід у США в 3 кварталі 2025 року",
+    "fr": "Transcription de l'appel sur les résultats : Imricor Medical Systems publie son premier chiffre d'affaires aux États-Unis au troisième trimestre 2025",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Imricor Medical Systems meldet im dritten Quartal 2025 den ersten US-Umsatz",
+    "zh": "财报电话会议记录：Imricor Medical Systems 在 2025 年第三季度首次公布美国收入",
+    "ru": "Стенограмма отчета о прибылях и убытках: Imricor Medical Systems сообщила о первой выручке в США в третьем квартале 2025 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures inch higher after market dips amid Nvidia woes: Live updates",
+   "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "ts": 1794525040,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ф'ючерси на акції зросли на дюйм після падіння ринку на тлі проблем Nvidia: Оновлення в реальному часі",
+    "fr": "Les contrats à terme sur actions augmentent après la baisse du marché au milieu des malheurs de Nvidia : mises à jour en direct",
+    "de": "Aktien-Futures steigen um Zentimeter, nachdem der Markt angesichts der Nvidia-Probleme einbricht: Live-Updates",
+    "zh": "因英伟达陷入困境而市场下跌后，股票期货小幅走高：实时更新",
+    "ru": "Фьючерсы на акции немного растут после падения рынка на фоне проблем Nvidia: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "ts": 1794524930,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Аналіз: криза лідерства Nvidia перевіряє роль виробника мікросхем як «центрального банку ШІ»",
+    "fr": "Analyse : la crise de leadership de Nvidia met à l’épreuve le rôle du fabricant de puces en tant que « banque centrale de l’IA »",
+    "de": "Analyse: Nvidias Führungskrise stellt die Rolle des Chipherstellers als „Zentralbank der KI“ auf die Probe",
+    "zh": "分析：英伟达的领导力危机考验该芯片制造商作为“AI中央银行”的角色",
+    "ru": "Анализ: кризис руководства Nvidia проверяет роль производителя чипов как «центрального банка искусственного интеллекта»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Eight killed, including two children, in New York building collapse",
+   "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+   "ts": 1794524303,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Восьмеро загиблих, у тому числі двоє дітей, під час обвалу будівлі в Нью-Йорку",
+    "fr": "Huit morts, dont deux enfants, dans l'effondrement d'un immeuble à New York",
+    "de": "Acht Tote, darunter zwei Kinder, bei Gebäudeeinsturz in New York",
+    "zh": "纽约大楼倒塌，八人死亡，其中包括两名儿童",
+    "ru": "Восемь человек погибли, в том числе двое детей, при обрушении здания в Нью-Йорке"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+   "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+   "ts": 1794524220,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Хто може замінити Дженсена Хуанга на посаді генерального директора Nvidia? Ці чотири імена лунають у колах ШІ.",
+    "fr": "Qui peut remplacer Jensen Huang en tant que PDG de Nvidia ? Ces quatre noms font le buzz dans les cercles de l’IA.",
+    "de": "Wer kann Jensen Huang als CEO von Nvidia ersetzen? Diese vier Namen sind in KI-Kreisen in aller Munde.",
+    "zh": "谁能取代黄仁勋出任英伟达首席执行官？这四个名字在人工智能圈子里很热闹。",
+    "ru": "Кто может заменить Дженсена Хуанга на посту генерального директора Nvidia? Эти четыре имени активно обсуждаются в кругах ИИ."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
+   "ts": 1794524160,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "ЕКСКЛЮЗИВ: Kalshi каже, що припинив консультаційний контракт Дональда Трампа-молодшого щодо конфлікту Polymarket",
+    "fr": "EXCLUSIF : Kalshi déclare avoir mis fin au contrat de conseil de Donald Trump Jr concernant le conflit avec Polymarket",
+    "de": "EXKLUSIV: Kalshi sagt, es habe den Beratervertrag von Donald Trump Jr. wegen des Polymarket-Konflikts beendet",
+    "zh": "独家报道：卡尔希表示，它终止了小唐纳德·特朗普关于 Polymarket 冲突的咨询合同",
+    "ru": "ЭКСКЛЮЗИВ: Калши заявляет, что разорвал консультативный контракт Дональда Трампа-младшего из-за конфликта с Polymarket"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+   "ts": 1794524160,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "У округу Колумбія застрелено 5 людей, у тому числі 1 у спортзалі, а потім підозрюваний вбив себе",
+    "fr": "5 personnes sont abattues à Washington, dont 1 tuée dans un gymnase, puis le suspect se suicide",
+    "de": "In DC werden fünf Menschen erschossen, einer davon in einem Fitnessstudio, und dann bringt sich der Verdächtige selbst um",
+    "zh": "华盛顿特区发生枪击事件，其中 1 人在健身房被杀，嫌疑人随后自杀",
+    "ru": "В Вашингтоне застрелены 5 человек, в том числе 1 убит в спортзале, а затем подозреваемый покончил с собой"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+   "ts": 1794523969,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Сінді Холшер перемагає в Канзасі, обіймаючи посаду губернатора від демократів",
+    "fr": "Cindy Holscher gagne au Kansas et occupe le poste de gouverneur pour les démocrates",
+    "de": "Cindy Holscher gewinnt in Kansas und bekleidet das Amt des Gouverneurs für die Demokraten",
+    "zh": "辛迪·霍尔舍 (Cindy Holscher) 在堪萨斯州获胜，代表民主党担任州长",
+    "ru": "Синди Холшер побеждает в Канзасе, занимая пост губернатора от демократов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
+   "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
+   "ts": 1794523908,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції, які роблять найбільші зміни у четвер: Cerebras, Cisco, Applied Materials тощо",
+    "fr": "Les actions effectuant les plus gros mouvements jeudi : Cerebras, Cisco, Applied Materials et plus",
+    "de": "Aktien, die am Donnerstag die größten Bewegungen machen: Cerebras, Cisco, Applied Materials und mehr",
+    "zh": "周四涨幅最大的股票：Cerebras、思科、应用材料公司等",
+    "ru": "Акции в четверг демонстрируют наибольший рост: Cerebras, Cisco, Applied Materials и другие"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794523878,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Деякі молодші 25 років повинні отримувати менше пільг, йдеться в огляді Мілберна",
+    "fr": "Certains moins de 25 ans devraient bénéficier de moins de prestations, selon Milburn",
+    "de": "Einige unter 25-Jährige sollten weniger Leistungen erhalten, heißt es in der Milburn-Rezension",
+    "zh": "米尔本评论称，一些 25 岁以下的人应该获得更少的福利",
+    "ru": "Некоторые люди моложе 25 лет должны получать меньше пособий, говорится в обзоре Милберна"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+   "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "ts": 1794523706,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Cerebras зросла на 17% після того, як перевищила квартальний дохід і оголосила про угоду з Microsoft",
+    "fr": "Cerebras bondit de 17 % après avoir battu son chiffre d'affaires trimestriel et annoncé un accord avec Microsoft",
+    "de": "Cerebras steigt um 17 %, nachdem das Unternehmen den Quartalsumsatz übertroffen und einen Microsoft-Deal angekündigt hat",
+    "zh": "Cerebras 季度营收超出预期并宣布与微软达成交易，股价飙升 17%",
+    "ru": "Акции Cerebras выросли на 17% после превышения квартальной выручки и объявления о сделке с Microsoft"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
    "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-   "ts": 1794521921,
+   "ts": 1794523648,
    "sec": [
     "market"
    ],
@@ -236,9 +616,139 @@
   {
    "feed": "cnbc_top",
    "source": "CNBC",
+   "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+   "ts": 1794523117,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оновлення Nvidia в реальному часі: Трамп називає сагу про Хуанга «жахливою річчю» і «так сумно бачити»",
+    "fr": "Mises à jour en direct de Nvidia : Trump qualifie la saga Huang de « chose horrible » et de « si triste à voir »",
+    "de": "Nvidia-Live-Updates: Trump nennt die Huang-Saga eine „schreckliche Sache“ und „so traurig zu sehen“",
+    "zh": "英伟达实时更新：特朗普称黄的传奇是“可怕的事情”并且“很难过”",
+    "ru": "Постоянные обновления Nvidia: Трамп называет сагу о Хуане «ужасной вещью» и «так грустно это видеть»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Opening trading-card packs has become a $2 billion market",
+   "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+   "ts": 1794523080,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Відкриття пакетів торгових карток стало ринком у 2 мільярди доларів",
+    "fr": "L'ouverture de packs de cartes à collectionner est devenue un marché de 2 milliards de dollars",
+    "de": "Das Öffnen von Sammelkartenpaketen ist zu einem 2-Milliarden-Dollar-Markt geworden",
+    "zh": "打开交易卡包已成为一个价值 20 亿美元的市场",
+    "ru": "Открытие наборов коллекционных карточек превратилось в рынок с оборотом в 2 миллиарда долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "A Ukrainian army unit pioneered drone evacuations. Now it's scaling up",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzUyeXViX2VkSVJhdE54Y3VYLTkwYnRPTkpnd1ZINlpXT1ZGZVBWZ01xWWRTVDdCSWZyM1RpMjBHSmhTeUZmcVVkR2tVZkYtVmZGWTdxSTZPTTdNamdwUTdKN0hCenVWelpRcmpQZDNEbkpCMEduM1JvTF9EMEYxaVJETHpYTndqUVhOdG5iQ1B6OXdLVFRlX3RSMmllMW84LWl0T01lZ2VyYzJI?oc=5",
+   "ts": 1794522884,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Підрозділ української армії розпочав евакуацію безпілотниками. Тепер він нарощується",
+    "fr": "Une unité de l’armée ukrainienne a été la première à procéder à des évacuations par drones. Maintenant, ça s'agrandit",
+    "de": "Eine Einheit der ukrainischen Armee leistete Pionierarbeit bei der Evakuierung mit Drohnen. Jetzt wird es größer",
+    "zh": "乌克兰陆军部队率先采用无人机疏散行动。现在正在扩大规模",
+    "ru": "Подразделение украинской армии впервые осуществило эвакуацию дронами. Теперь это масштабируется"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_world",
+   "source": "NPR",
+   "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
+   "ts": 1794522780,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Удар ізраїльської авіації по лікарні Гази забрав життя шістьох, у тому числі хірурга",
+    "fr": "Une frappe aérienne israélienne sur un hôpital de Gaza fait six morts, dont un chirurgien",
+    "de": "Bei einem israelischen Luftangriff auf ein Krankenhaus in Gaza kommen sechs Menschen ums Leben, darunter ein Chirurg",
+    "zh": "以色列对加沙医院的空袭造成六人死亡，其中包括外科医生",
+    "ru": "В результате авиаудара Израиля по больнице в секторе Газа погибли шесть человек, включая хирурга"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Colorado U.S. House Election Live Results 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+   "ts": 1794522569,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Палату представників США у Колорадо в реальному часі 2026 року",
+    "fr": "Résultats en direct des élections législatives américaines au Colorado 2026",
+    "de": "Live-Ergebnisse der US-Repräsentantenhauswahl in Colorado 2026",
+    "zh": "2026 年科罗拉多州美国众议院选举实时结果",
+    "ru": "Прямые результаты выборов в Палату представителей США в Колорадо 2026 г."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+   "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "ts": 1794522397,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Путін дотримується жорсткої позиції на переговорах із США, оскільки Україна каже, що Starlink знову перервано",
+    "fr": "Poutine adopte une ligne dure dans les négociations américaines alors que l'Ukraine affirme que Starlink est à nouveau perturbé",
+    "de": "Putin vertritt in den US-Gesprächen eine harte Linie, da die Ukraine sagt, Starlink sei erneut gestört",
+    "zh": "乌克兰称星链再次中断，普京在美国谈判中采取强硬立场",
+    "ru": "Путин занимает жесткую позицию на переговорах с США, поскольку Украина заявляет, что Starlink снова прерван"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "White House weighs Commerce Secretary Lutnick's ouster amid Nvidia export concerns, sources say",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
+   "ts": 1794522387,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Джерела кажуть, що Білий дім зважує відставку міністра торгівлі Лутніка через занепокоєння щодо експорту Nvidia",
+    "fr": "La Maison Blanche envisage l'éviction du secrétaire au Commerce Lutnick au milieu des problèmes d'exportation de Nvidia, selon des sources",
+    "de": "Quellen zufolge erwägt das Weiße Haus den Sturz von Handelsminister Lutnick angesichts der Exportsorgen von Nvidia",
+    "zh": "消息人士称，白宫考虑因英伟达出口担忧而罢免商务部长卢特尼克",
+    "ru": "Белый дом обдумывает отставку министра торговли Лютника на фоне опасений по поводу экспорта Nvidia, сообщают источники"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
    "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "ts": 1794521889,
+   "ts": 1794522252,
    "sec": [
     "market"
    ],
@@ -248,6 +758,61 @@
     "de": "Ein weit verbreiteter Microsoft-Ausfall führt zum Ausfall von Outlook und anderen 365-Diensten",
     "zh": "Microsoft 大范围宕机导致 Outlook 和其他 365 服务瘫痪",
     "ru": "Массовый сбой в работе Microsoft приводит к отключению Outlook и других сервисов 365"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+   "ts": 1794522086,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Брудні файли Icac викривають проблему «прокатної зброї» в Новому Уельсі. Але жодна з основних партій серйозно не ставиться до лобіювання реформи",
+    "fr": "Les dossiers de l’Icac exposent le problème des « armes à louer » de Nouvelle-Galles du Sud. Mais aucun des deux grands partis ne prend au sérieux la réforme du lobbying.",
+    "de": "Die schmutzigen Akten von Icac enthüllen das Problem der „Mietwaffen“ in New South Wales. Doch keine der beiden großen Parteien meint es ernst mit der Lobbyreform",
+    "zh": "ICAC的肮脏档案暴露了新南威尔士州的“雇佣枪支”问题。但两个主要政党都没有认真游说改革",
+    "ru": "Материалы Icac раскрывают проблему «найма оружия» в Новом Южном Уэльсе. Но ни одна крупная партия не серьезно относится к лоббированию реформ."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+   "ts": 1794521974,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Росія, використовуючи «незаконні та неетичні засоби, знає, що Європа не буде використовувати ті ж засоби у відповідь», каже експерт",
+    "fr": "La Russie qui utilise \"des moyens illégaux et contraires à l'éthique\" sait que l'Europe n'utilisera pas les mêmes moyens en retour, selon un expert",
+    "de": "Russland nutzt „illegale und unethische Mittel und weiß, dass Europa nicht die gleichen Mittel einsetzen wird“, sagt ein Experte",
+    "zh": "专家表示，俄罗斯使用“非法和不道德的手段，知道欧洲不会使用同样的手段”",
+    "ru": "Россия, использующая «незаконные и неэтичные средства, знает, что Европа не применит их в ответ», говорит эксперт"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Cisco lifts annual revenue forecast on strong AI networking demand",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+   "ts": 1794521938,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Cisco підвищує прогноз річного доходу завдяки високому попиту на мережі ШІ",
+    "fr": "Cisco relève ses prévisions de revenus annuels en raison de la forte demande de réseaux d'IA",
+    "de": "Cisco hebt die Jahresumsatzprognose aufgrund der starken Nachfrage nach KI-Netzwerken an",
+    "zh": "思科因强劲的人工智能网络需求而上调年度收入预测",
+    "ru": "Cisco повышает годовой прогноз выручки из-за высокого спроса на сети искусственного интеллекта"
    },
    "lang": "en"
   },
@@ -266,6 +831,24 @@
     "de": "Scout Motors hat 212.000 Fahrzeugreservierungen, da das 2-Milliarden-Dollar-Werk in South Carolina kurz vor der Fertigstellung steht",
     "zh": "Scout Motors 已有 212,000 辆汽车预订，耗资 20 亿美元的南卡罗来纳州工厂即将竣工",
     "ru": "У Scout Motors зарезервировано 212 000 автомобилей, поскольку завод в Южной Каролине стоимостью 2 миллиарда долларов близок к завершению"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Military base asylum plans granted planning approval",
+   "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+   "ts": 1794521794,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Схвалено плани надання притулку військовій базі",
+    "fr": "Les plans d'asile pour les bases militaires ont obtenu l'approbation de planification",
+    "de": "Pläne für Militärstützpunkt-Asyl erhalten Baugenehmigung",
+    "zh": "军事基地庇护计划获得规划批准",
+    "ru": "Планы предоставления убежища военной базе получили одобрение на планирование"
    },
    "lang": "en"
   },
@@ -324,13 +907,31 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_politics",
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+   "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
+   "ts": 1794521428,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Дженсен Хуанг йде у відставку з посади генерального директора Nvidia після наростаючих скандалів",
+    "fr": "Jensen Huang démissionne de son poste de PDG de Nvidia après la multiplication des scandales",
+    "de": "Jensen Huang tritt nach zunehmenden Skandalen als CEO von Nvidia zurück",
+    "zh": "黄仁勋在丑闻不断后辞去英伟达首席执行官一职",
+    "ru": "Дженсен Хуанг уходит с поста генерального директора Nvidia из-за нарастающих скандалов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
    "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
    "ts": 1794521360,
    "sec": [
-    "politics"
+    "world"
    ],
    "t": {
     "uk": "Анджела Рейнер дає дозвіл на планування центру для біженців у Піддінгтоні, незважаючи на спротив місцевих жителів",
@@ -338,42 +939,6 @@
     "de": "Angela Rayner erteilt trotz lokalem Widerstand die Baugenehmigung für ein Asylzentrum in Piddington",
     "zh": "尽管当地反对，安吉拉·雷纳还是批准了皮丁顿庇护中心的规划",
     "ru": "Анджела Рейнер дает разрешение на строительство центра убежища в Пиддингтоне, несмотря на сопротивление местных жителей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-   "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
-   "ts": 1794521168,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Без Дженсена Хуанга організаційна структура Nvidia не «створена на довговічність», каже експерт з управління",
-    "fr": "Sans Jensen Huang, la structure organisationnelle de Nvidia n'est pas « conçue pour durer », selon un expert en gestion",
-    "de": "Ohne Jensen Huang sei die Organisationsstruktur von Nvidia nicht „auf Dauer ausgelegt“, sagt Managementexperte",
-    "zh": "管理专家表示，如果没有黄仁勋，英伟达的组织结构就无法“基业长青”",
-    "ru": "Без Дженсена Хуанга организационная структура Nvidia «не рассчитана на длительный срок», говорит эксперт по менеджменту"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Value manager Sprucegrove to shutter following steep asset declines - Bloomberg",
-   "url": "https://www.investing.com/news/stock-market-news/value-manager-sprucegrove-to-shutter-following-steep-asset-declines--bloomberg-5023427",
-   "ts": 1794521001,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Менеджер з цінностей Sprucegrove припинить роботу після стрімкого падіння активів - Bloomberg",
-    "fr": "Le gestionnaire de valeur Sprucegrove va fermer ses portes suite à une forte baisse de ses actifs - Bloomberg",
-    "de": "Value-Manager Sprucegrove schließt nach starkem Vermögensrückgang – Bloomberg",
-    "zh": "价值管理公司斯普鲁斯格罗夫因资产急剧下跌而关闭 - 彭博社",
-    "ru": "Менеджер по стоимости Sprucegrove закроется из-за резкого падения активов - Bloomberg"
    },
    "lang": "en"
   },
@@ -393,24 +958,6 @@
     "de": "Die Wall Street zittert vor Schwankungen bei Nvidia und den Ölpreisen, macht aber die meisten ihrer frühen Verluste wieder wett",
     "zh": "华尔街因英伟达和油价波动而震动，但收复了大部分早期损失",
     "ru": "Уолл-стрит трясется от колебаний цен на нефть и Nvidia, но восстанавливает большую часть своих ранних потерь"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "BioRestorative Therapies appoints David Jenkins to board following resignations",
-   "url": "https://www.investing.com/news/sec-filings/biorestorative-therapies-appoints-david-jenkins-to-board-following-resignations-93CH-5023425",
-   "ts": 1794520969,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "BioRestorative Therapies призначає Девіда Дженкінса до правління після відставки",
-    "fr": "BioRestorative Therapies nomme David Jenkins au conseil d'administration suite à des démissions",
-    "de": "BioRestorative Therapies ernennt David Jenkins nach Rücktritten zum Vorstand",
-    "zh": "生物修复疗法公司任命戴维·詹金斯 (David Jenkins) 为董事会成员",
-    "ru": "BioRestorative Therapies назначает Дэвида Дженкинса своим советом директоров после отставки"
    },
    "lang": "en"
   },
@@ -447,60 +994,6 @@
     "de": "Ein „Win-Win“-Deal mit der EU könnte erzielt werden, sagt Andy Burnham",
     "zh": "安迪·伯纳姆表示，可以与欧盟达成“双赢”协议",
     "ru": "«Беспроигрышное» соглашение с ЕС может быть заключено, говорит Энди Бёрнем"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stocks making the biggest moves after hours: Cerebras, Cisco, Applied Materials & more",
-   "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
-   "ts": 1794520892,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції найбільше ростуть у неробочий час: Cerebras, Cisco, Applied Materials тощо",
-    "fr": "Actions effectuant les plus gros mouvements après les heures d'ouverture : Cerebras, Cisco, Applied Materials et plus",
-    "de": "Aktien, die nach Geschäftsschluss die größten Bewegungen verzeichnen: Cerebras, Cisco, Applied Materials und mehr",
-    "zh": "盘后涨幅最大的股票：Cerebras、思科、应用材料公司等",
-    "ru": "Акции, делающие самые большие движения в нерабочее время: Cerebras, Cisco, Applied Materials и другие."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Magnite CFO Brian Gephart sells $106,486 in company shares",
-   "url": "https://www.investing.com/news/insider-trading-news/magnite-cfo-brian-gephart-sells-106486-in-company-shares-93CH-5023423",
-   "ts": 1794520861,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Фінансовий директор Magnite Браян Гепхарт продає акції компанії на суму 106 486 доларів",
-    "fr": "Le directeur financier de Magnite, Brian Gephart, vend 106 486 $ d'actions de la société",
-    "de": "Brian Gephart, CFO von Magnite, verkauft Unternehmensaktien im Wert von 106.486 US-Dollar",
-    "zh": "Magnite 首席财务官 Brian Gephart 出售价值 106,486 美元的公司股票",
-    "ru": "Финансовый директор Magnite Брайан Гепхарт продает акции компании на сумму 106 486 долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Ilpt director Phelan’s trust buys $12,012 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/ilpt-director-phelans-trust-buys-12012-in-shares-93CH-5023422",
-   "ts": 1794520860,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Траст директора Ilp Фелана купує акції на 12 012 доларів США",
-    "fr": "La fiducie du directeur de l'Ilpt, Phelan, achète 12 012 $ d'actions",
-    "de": "Der Trust des Ilpt-Direktors Phelan kauft Aktien im Wert von 12.012 US-Dollar",
-    "zh": "Ilpt 董事 Phelan 的信托购买了 12,012 美元的股票",
-    "ru": "Траст директора Ilpt Фелана покупает акции на 12 012 долларов"
    },
    "lang": "en"
   },
@@ -560,38 +1053,57 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Alliance Entertainment posts strong Q3 results as net income rises",
-   "url": "https://www.investing.com/news/earnings/alliance-entertainment-posts-strong-q3-results-as-net-income-rises-93CH-5023408",
-   "ts": 1794520798,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlZVTE9pbGdtWnM4dEZLRC1YWDlWbUhtM3pVd3JyVXd4R0FXanhyYmJTcDdyektDbDNIRDJmRlltUHFEdHg2Q1R0ZnZ6QUNqSmlHZ25RbG9peGdTNE1JN1pTS2dENkFzVlhfeWZ3eVc1dVJzYjhUNW92RmV0dFFWcllzb2U2TVRreW5HdXlIUzgxUm93OVl0SXhLbXdueWY2TGYyU09GNnhRMzl0NU5TN2hfZFFLdGEyVHB3Z0tvTQ?oc=5",
+   "ts": 1794520623,
    "sec": [
-    "market"
+    "world",
+    "politics"
    ],
    "t": {
-    "uk": "Alliance Entertainment показує високі результати за 3 квартал, оскільки чистий прибуток зростає",
-    "fr": "Alliance Entertainment publie de solides résultats au troisième trimestre alors que son bénéfice net augmente",
-    "de": "Alliance Entertainment meldet starke Ergebnisse für das dritte Quartal, da der Nettogewinn steigt",
-    "zh": "随着净利润增长，联盟娱乐第三季度业绩强劲",
-    "ru": "Alliance Entertainment опубликовала сильные результаты за третий квартал на фоне роста чистой прибыли"
+    "uk": "Опитування Reuters/Ipsos показало, що Венс, Рубіо, Оссофф і Буттігіґ лідирують у претендентах на посаду Білого дому у 2028 році.",
+    "fr": "Vance, Rubio, Ossoff et Buttigieg sont en tête des candidats à la Maison Blanche en 2028, selon un sondage Reuters/Ipsos",
+    "de": "Vance, Rubio, Ossoff und Buttigieg führen die Kandidaten für das Weiße Haus 2028 an, wie eine Umfrage von Reuters/Ipsos ergab",
+    "zh": "路透社/益普索民意调查发现，万斯、卢比奥、奥索夫和布蒂吉格领先 2028 年白宫候选人",
+    "ru": "Вэнс, Рубио, Оссофф и Буттиджич лидируют среди кандидатов в Белый дом в 2028 году, согласно опросу Reuters/Ipsos"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Inter and Co earnings beat by $0.76, revenue topped estimates",
-   "url": "https://www.investing.com/news/earnings/inter-and-co-earnings-beat-by-076-revenue-topped-estimates-5023407",
-   "ts": 1794520712,
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Zelensky, Babis discuss economic cooperation, Ukraine's EU integration",
+   "url": "https://www.ukrinform.net/rubric-polytics/4184109-zelensky-babis-discuss-economic-cooperation-ukraines-eu-integration.html",
+   "ts": 1794520620,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Прибуток Inter and Co перевищив 0,76 дол., дохід перевищив оцінки",
-    "fr": "Bénéfice d'Inter and Co dépassé de 0,76 $, revenus supérieurs aux estimations",
-    "de": "Der Gewinn von Inter und Co übertraf die Schätzungen um 0,76 US-Dollar",
-    "zh": "国际米兰和公司的盈利超出预期0.76美元，收入超出预期",
-    "ru": "Прибыль Inter and Co выросла на $0,76, выручка превысила прогнозы"
+    "uk": "Зеленський і Бабіш обговорили економічну співпрацю, євроінтеграцію України",
+    "fr": "Zelensky et Babis discutent de la coopération économique et de l'intégration de l'Ukraine à l'UE",
+    "de": "Zelensky und Babis diskutieren über wirtschaftliche Zusammenarbeit und die EU-Integration der Ukraine",
+    "zh": "泽连斯基与巴比什讨论经济合作、乌克兰融入欧盟",
+    "ru": "Зеленский и Бабиш обсудили экономическое сотрудничество и интеграцию Украины в ЕС"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
+   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261112-mauritania-fishing-boats-falsely-portrayed-as-migrant-fleet-bound-for-spain",
+   "ts": 1794520586,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Мавританські рибальські човни помилково представлені як флот мігрантів, що прямує до Іспанії",
+    "fr": "Les bateaux de pêche mauritaniens faussement présentés comme une flotte de migrants à destination de l'Espagne",
+    "de": "Mauretanische Fischerboote werden fälschlicherweise als Migrantenflotte auf dem Weg nach Spanien dargestellt",
+    "zh": "毛里塔尼亚渔船被错误地描述为开往西班牙的移民船队",
+    "ru": "Рыболовные суда Мавритании ошибочно выдают за флот мигрантов, направляющийся в Испанию"
    },
    "lang": "en"
   },
@@ -614,92 +1126,38 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
-   "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-   "ts": 1794520499,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Оновлення Nvidia в реальному часі: Трамп називає сагу про Хуанга «жахливою річчю» і «так сумно бачити»",
-    "fr": "Mises à jour en direct de Nvidia : Trump qualifie la saga Huang de « chose horrible » et de « si triste à voir »",
-    "de": "Nvidia-Live-Updates: Trump nennt die Huang-Saga eine „schreckliche Sache“ und „so traurig zu sehen“",
-    "zh": "英伟达实时更新：特朗普称黄的传奇是“可怕的事情”并且“很难过”",
-    "ru": "Постоянные обновления Nvidia: Трамп называет сагу о Хуане «ужасной вещью» и «так грустно это видеть»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Spruce Power posts q3 2026 profit as refinancing advances",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-spruce-power-posts-q3-2026-profit-as-refinancing-advances-93CH-5023403",
-   "ts": 1794520479,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма телефонної розмови про прибутки: компанія Spruce Power опублікувала прибуток за 3 квартал 2026 р. у міру зростання рефінансування",
-    "fr": "Transcription de l'appel aux résultats : Spruce Power publie un bénéfice au troisième trimestre 2026 alors que le refinancement progresse",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Spruce Power meldet Gewinn für das dritte Quartal 2026, da die Refinanzierung voranschreitet",
-    "zh": "财报电话会议记录：随着再融资的推进，Spruce Power 公布 2026 年第三季度利润",
-    "ru": "Стенограмма отчета о прибылях и убытках: Spruce Power опубликовала прибыль за третий квартал 2026 года на фоне прогресса в рефинансировании"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "SmartStop Self Storage REIT completes sale of 9.37 million shares via forward agreements",
-   "url": "https://www.investing.com/news/sec-filings/smartstop-self-storage-reit-completes-sale-of-937-million-shares-via-forward-agreements-93CH-5023404",
-   "ts": 1794520479,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "SmartStop Self Storage REIT завершує продаж 9,37 млн ​​акцій за допомогою форвардних угод",
-    "fr": "SmartStop Self Storage REIT finalise la vente de 9,37 millions d'actions via des contrats à terme",
-    "de": "SmartStop Self Storage REIT schließt Verkauf von 9,37 Millionen Aktien über Terminvereinbarungen ab",
-    "zh": "SmartStop Self Storage REIT 通过远期协议完成 937 万股股票的出售",
-    "ru": "SmartStop Self Storage REIT завершил продажу 9,37 млн ​​акций посредством форвардных соглашений"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
-   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
-   "ts": 1794520440,
+   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
+   "ts": 1794520320,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "У округу Колумбія застрелено 5 людей, у тому числі 1 у спортзалі, а потім підозрюваний вбив себе",
-    "fr": "5 personnes sont abattues à Washington, dont 1 tuée dans un gymnase, puis le suspect se suicide",
-    "de": "In DC werden fünf Menschen erschossen, einer davon in einem Fitnessstudio, und dann bringt sich der Verdächtige selbst um",
-    "zh": "华盛顿特区发生枪击事件，其中 1 人在健身房被杀，嫌疑人随后自杀",
-    "ru": "В Вашингтоне застрелены 5 человек, в том числе 1 убит в спортзале, а затем подозреваемый покончил с собой"
+    "uk": "Outlook не працює? Широкий збій вражає електронну пошту Microsoft та інші програми",
+    "fr": "Outlook est-il en panne ? Une panne généralisée frappe la messagerie Microsoft et d'autres applications",
+    "de": "Ist Outlook ausgefallen? Ein weit verbreiteter Ausfall betrifft E-Mails und andere Apps von Microsoft",
+    "zh": "展望低落了吗？微软电子邮件和其他应用程序出现大范围中断",
+    "ru": "Outlook не работает? Масштабный сбой затронул электронную почту Microsoft и другие приложения"
    },
    "lang": "en"
   },
   {
    "feed": "guardian_world",
    "source": "The Guardian",
-   "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+   "title": "Global Microsoft outage affects Outlook and Teams as company says fixes not providing ‘anticipated relief’",
    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
    "ts": 1794520307,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Глобальний збій у роботі корпорації Майкрософт, який вплинув на користувачів Outlook і Teams, із «перезапуском» серверів компанії",
-    "fr": "Panne mondiale de Microsoft affectant les utilisateurs d'Outlook et de Teams, avec le « redémarrage » des serveurs de l'entreprise",
-    "de": "Globaler Microsoft-Ausfall, der Outlook- und Teams-Benutzer betrifft, wobei das Unternehmen Server „neu startet“.",
-    "zh": "微软全球宕机影响 Outlook 和 Teams 用户，公司“重启”服务器",
-    "ru": "Глобальный сбой в работе Microsoft, затронувший пользователей Outlook и Teams, при этом компания «перезапускает» серверы"
+    "uk": "Глобальний збій Microsoft впливає на Outlook і Teams, оскільки компанія каже, що виправлення не забезпечують «очікуваного полегшення»",
+    "fr": "La panne mondiale de Microsoft affecte Outlook et Teams, car l'entreprise affirme que les correctifs n'apportent pas le « soulagement attendu »",
+    "de": "Weltweiter Microsoft-Ausfall wirkt sich auf Outlook und Teams aus, da das Unternehmen angibt, dass Fixes nicht die „erwartete Linderung“ bringen",
+    "zh": "微软全球故障影响了 Outlook 和 Teams，因为该公司表示修复无法提供“预期的缓解”",
+    "ru": "Глобальный сбой в работе Microsoft затрагивает Outlook и Teams, поскольку компания заявляет, что исправления не приносят «ожидаемого облегчения»"
    },
    "lang": "en"
   },
@@ -724,38 +1182,36 @@
   {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "A Ukrainian army unit pioneered drone evacuations. Now it's scaling up",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzUyeXViX2VkSVJhdE54Y3VYLTkwYnRPTkpnd1ZINlpXT1ZGZVBWZ01xWWRTVDdCSWZyM1RpMjBHSmhTeUZmcVVkR2tVZkYtVmZGWTdxSTZPTTdNamdwUTdKN0hCenVWelpRcmpQZDNEbkpCMEduM1JvTF9EMEYxaVJETHpYTndqUVhOdG5iQ1B6OXdLVFRlX3RSMmllMW84LWl0T01lZ2VyYzJI?oc=5",
-   "ts": 1794519895,
+   "title": "North Korean hackers steal more than $400 million using video images, FBI says",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJYTGpUb1lrNXVCaVFFUjN3all5a2w1cF9HdW51OWROWC1taVFOOFozQ0pkYmpReklqTEhtNm1McUhtYVBvWTVMM2tHczJlUFZaem14Q1U0VndNaWk2Z3AxdzFvVThleTFNUXpPd3E0WlU2ZkdPSFFXeXJqNktka05TYUZmTER4TExyS3dOVTFLVWNLcVVHejdkVTk3UXVkRnUtNmNrQ3B3anBHelhIaGlka0RFMTZ0bnNWUWREeU0xV0tRNXp1THBIdw?oc=5",
+   "ts": 1794519704,
    "sec": [
-    "world",
-    "ukraine"
+    "world"
    ],
    "t": {
-    "uk": "Підрозділ української армії розпочав евакуацію безпілотниками. Тепер він нарощується",
-    "fr": "Une unité de l’armée ukrainienne a été la première à procéder à des évacuations par drones. Maintenant, ça s'agrandit",
-    "de": "Eine Einheit der ukrainischen Armee leistete Pionierarbeit bei der Evakuierung mit Drohnen. Jetzt wird es größer",
-    "zh": "乌克兰陆军部队率先采用无人机疏散行动。现在正在扩大规模",
-    "ru": "Подразделение украинской армии впервые осуществило эвакуацию дронами. Теперь это масштабируется"
+    "uk": "Північнокорейські хакери викрали понад 400 мільйонів доларів за допомогою відеозображень, повідомляє ФБР",
+    "fr": "Des pirates nord-coréens ont volé plus de 400 millions de dollars grâce à des images vidéo, selon le FBI",
+    "de": "Laut FBI stehlen nordkoreanische Hacker mithilfe von Videobildern mehr als 400 Millionen US-Dollar",
+    "zh": "FBI 称朝鲜黑客利用视频图像窃取了超过 4 亿美元",
+    "ru": "Северокорейские хакеры украли более 400 миллионов долларов с помощью видеоизображений, сообщает ФБР"
    },
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
+   "feed": "reuters_business",
    "source": "Reuters",
-   "title": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlZVTE9pbGdtWnM4dEZLRC1YWDlWbUhtM3pVd3JyVXd4R0FXanhyYmJTcDdyektDbDNIRDJmRlltUHFEdHg2Q1R0ZnZ6QUNqSmlHZ25RbG9peGdTNE1JN1pTS2dENkFzVlhfeWZ3eVc1dVJzYjhUNW92RmV0dFFWcllzb2U2TVRreW5HdXlIUzgxUm93OVl0SXhLbXdueWY2TGYyU09GNnhRMzl0NU5TN2hfZFFLdGEyVHB3Z0tvTQ?oc=5",
-   "ts": 1794519506,
+   "title": "Cerebras lifts annual sales forecast on strong AI-linked demand, shares surge",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdjUUVpckNjeXppUVBxc0RDVjRiM1BHYThTbXgtWkgyRGpZTnRqbkhxcWhVNndSNVNTUUJ3elpaNWxuSlk1Ql92QVAtWDU5djBXNy1SYldScFlDLVl0MmFhanlzS0RNUHRDRjRXa0g4RlRGcDZUdmRJZGNrX2I2TWdzWmd5bUxBTnB2R3JzOHQ1Rjlub0kyTHBuMHFFb0hYUDhQM0NicDRlQQ?oc=5",
+   "ts": 1794519538,
    "sec": [
-    "world",
-    "politics"
+    "market"
    ],
    "t": {
-    "uk": "Опитування Reuters/Ipsos показало, що Венс, Рубіо, Оссофф і Буттігіґ лідирують у претендентах на посаду Білого дому у 2028 році.",
-    "fr": "Vance, Rubio, Ossoff et Buttigieg sont en tête des candidats à la Maison Blanche en 2028, selon un sondage Reuters/Ipsos",
-    "de": "Vance, Rubio, Ossoff und Buttigieg führen die Kandidaten für das Weiße Haus 2028 an, wie eine Umfrage von Reuters/Ipsos ergab",
-    "zh": "路透社/益普索民意调查发现，万斯、卢比奥、奥索夫和布蒂吉格领先 2028 年白宫候选人",
-    "ru": "Вэнс, Рубио, Оссофф и Буттиджич лидируют среди кандидатов в Белый дом в 2028 году, согласно опросу Reuters/Ipsos"
+    "uk": "Cerebras підвищує прогноз річних продажів завдяки високому попиту, пов’язаному зі штучним інтелектом, акції зростають",
+    "fr": "Cerebras relève ses prévisions de ventes annuelles en raison de la forte demande liée à l'IA et des actions en hausse",
+    "de": "Cerebras hebt Jahresumsatzprognose aufgrund starker KI-bedingter Nachfrage an, Aktien steigen",
+    "zh": "Cerebras 因人工智能相关需求强劲、股价飙升而上调年度销售预期",
+    "ru": "Cerebras повышает годовой прогноз продаж из-за высокого спроса, связанного с искусственным интеллектом, и роста акций"
    },
    "lang": "en"
   },
@@ -778,24 +1234,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft deal",
-   "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-   "ts": 1794519224,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Cerebras зросла на 18% після того, як перевищила квартальний дохід і оголосила про угоду з Microsoft",
-    "fr": "Cerebras bondit de 18 % après avoir battu son chiffre d'affaires trimestriel et annoncé un accord avec Microsoft",
-    "de": "Cerebras steigt um 18 %, nachdem das Unternehmen den Quartalsumsatz übertroffen und einen Microsoft-Deal angekündigt hat",
-    "zh": "Cerebras 季度营收超出预期并宣布与微软达成交易，股价飙升 18%",
-    "ru": "Акции Cerebras выросли на 18% после превышения квартальной выручки и объявления о сделке с Microsoft"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_business",
    "source": "The Guardian",
    "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
@@ -810,24 +1248,6 @@
     "de": "Die Turbulenzen bei Nvidia gehen weiter, als Jensen Huang wegen eines Affärenskandals zurücktritt und das Unternehmen einen Interims-CEO ernennt – wie es geschah",
     "zh": "随着黄仁勋因婚外情丑闻辞职并任命临时首席执行官，英伟达的动荡仍在继续——事实确实如此",
     "ru": "Беспорядки в Nvidia продолжаются: Дженсен Хуанг уходит в отставку из-за делового скандала, а компания назначает временного генерального директора – как это произошло"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump",
-   "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-   "ts": 1794519014,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nasdaq Composite падає, оскільки акції Nvidia падають після виходу Дженсена Хуанга; ціни на нафту стрибають",
-    "fr": "Le Nasdaq Composite glisse alors que les actions de Nvidia chutent suite à la sortie de Jensen Huang ; les prix du pétrole bondissent",
-    "de": "Nasdaq Composite rutscht ab, während Nvidia-Aktien nach Jensen Huangs Abgang fallen; Ölpreise steigen",
-    "zh": "由于黄仁勋退出，英伟达股价暴跌，纳斯达克综合指数下跌；石油价格上涨",
-    "ru": "Индекс Nasdaq Composite падает, поскольку акции Nvidia падают из-за ухода Дженсена Хуанга; цены на нефть подскочили"
    },
    "lang": "en"
   },
@@ -977,78 +1397,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "'There's no such thing as safe' in contact sports, brain injury expert says",
-   "url": "https://www.france24.com/en/there-s-no-such-thing-as-safe-in-contact-sports-brain-injury-expert-says",
-   "ts": 1794517783,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "\"Немає такого поняття, як безпечне\" в контактних видах спорту, каже експерт з черепно-мозкових травм",
-    "fr": "\"La sécurité n'existe pas\" dans les sports de contact, selon un expert en lésions cérébrales",
-    "de": "„So etwas wie sicher gibt es bei Kontaktsportarten nicht“, sagt ein Experte für Hirnverletzungen",
-    "zh": "脑损伤专家表示，接触运动中“不存在安全”",
-    "ru": "В контактных видах спорта не бывает безопасных вещей, говорит эксперт по черепно-мозговым травмам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
-   "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-   "ts": 1794517680,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "S&P 500 не згадує розпродаж Nvidia цього тижня. Ось що тримає решту ринку на плаву.",
-    "fr": "Le S&P 500 ignore la liquidation de Nvidia cette semaine. Voici ce qui maintient le reste du marché à flot.",
-    "de": "Der S&P 500 nimmt den Ausverkauf von Nvidia diese Woche hin. Hier erfahren Sie, was den Rest des Marktes am Leben hält.",
-    "zh": "标准普尔 500 指数本周摆脱了英伟达抛售的影响。这就是让市场其他部分保持运转的原因。",
-    "ru": "Индекс S&P 500 не обращает внимания на распродажу акций Nvidia на этой неделе. Вот что удерживает на плаву остальную часть рынка."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Microsoft outage hits tens of thousands of users",
-   "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-   "ts": 1794517389,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Збій Microsoft вражає десятки тисяч користувачів",
-    "fr": "La panne de Microsoft frappe des dizaines de milliers d'utilisateurs",
-    "de": "Der Microsoft-Ausfall betrifft Zehntausende Benutzer",
-    "zh": "微软宕机影响数万用户",
-    "ru": "Сбой в Microsoft затронул десятки тысяч пользователей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE41X1JfT2dWa0tyWU50NGd3TzU5ZUlmM0xBUU43Vmt1Y0dDdGdCQk5aQmFHay1ILW52WlBSQkJseVhzT1JDTVF3S3NwVUVKM19rblVhU1RoTlBacEpKX1RXanBDUW9DdmdDSDAzZDJsdnpLZ3JEcjEyNXJBei1aeU4xdFpSeC1JY1pwaU9tMFkySlozazBJN1V6UzBhWmtxN0JMOXlab1VoU1FWUFZ2QTE5bDdRODdIeUFUcnlvWGxURnJoTTBJ?oc=5",
-   "ts": 1794517378,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Міністерство юстиції США не дійшло висновку, що Аліса Хуанг була китайською шпигункою, каже Бланш",
-    "fr": "Le ministère américain de la Justice n'a pas conclu qu'Alice Huang était une espionne chinoise, dit Blanche",
-    "de": "Das US-Justizministerium sei nicht zu dem Schluss gekommen, dass Alice Huang eine chinesische Spionin sei, sagt Blanche",
-    "zh": "布兰奇表示，美国司法部尚未得出爱丽丝黄是中国间谍的结论",
-    "ru": "Министерство юстиции США не пришло к выводу, что Алиса Хуан была китайской шпионкой, говорит Бланш"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
@@ -1105,42 +1453,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
-   "ts": 1794517193,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Папа Лев закликає Церкву «відшкодувати» жертвам сексуального насильства",
-    "fr": "Le pape Léon appelle l’Église à faire « amende honorable » aux victimes d’abus sexuels",
-    "de": "Papst Leo fordert die Kirche auf, „Wiedergutmachung“ für Opfer sexuellen Missbrauchs zu leisten",
-    "zh": "教皇利奥呼吁教会向性虐待受害者做出“补偿”",
-    "ru": "Папа Лев призывает Церковь «загладить вину» жертвам сексуального насилия"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Woman, 18, admits murdering girl, 16, in Leeds",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
-   "ts": 1794517027,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "18-річна жінка зізнається у вбивстві 16-річної дівчини в Лідсі",
-    "fr": "Une femme de 18 ans admet le meurtre d'une fille de 16 ans à Leeds",
-    "de": "Eine 18-jährige Frau gibt zu, in Leeds ein 16-jähriges Mädchen ermordet zu haben",
-    "zh": "18 岁女子承认在利兹谋杀了 16 岁女孩",
-    "ru": "18-летняя женщина призналась, что убила 16-летнюю девочку в Лидсе"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Ukraine's top sunflower oil producer shuts down all processing plants due to Russia's mass attacks",
@@ -1155,25 +1467,6 @@
     "de": "Der größte ukrainische Sonnenblumenölproduzent schließt aufgrund der Massenangriffe Russlands alle Verarbeitungsbetriebe",
     "zh": "由于俄罗斯的大规模袭击，乌克兰最大的葵花籽油生产商关闭了所有加工厂",
     "ru": "Крупнейший производитель подсолнечного масла в Украине закрывает все перерабатывающие заводы из-за массовых атак России"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
-   "ts": 1794516817,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Білий дім обговорює майбутнє Говарда Лутніка на посаді міністра торгівлі, кажуть знайомі",
-    "fr": "La Maison Blanche discute de l'avenir de Howard Lutnick en tant que secrétaire au Commerce, selon des sources proches",
-    "de": "Das Weiße Haus diskutiert über Howard Lutnicks Zukunft als Handelsminister, sagen vertraute Personen",
-    "zh": "知情人士称，白宫正在讨论霍华德·卢特尼克担任商务部长的未来",
-    "ru": "Белый дом обсуждает будущее Говарда Лютника на посту министра торговли, говорят знакомые"
    },
    "lang": "en"
   },
@@ -1193,96 +1486,6 @@
     "de": "Die USA veröffentlichen einen Bericht über 12 Milliarden US-Dollar aus venezolanischem Öl und Bodenschätzen",
     "zh": "美国发布报告称委内瑞拉石油和矿产资源价值达120亿美元",
     "ru": "США опубликовали отчет о $12 млрд, полученных от венесуэльской нефти и минеральных ресурсов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-   "ts": 1794516415,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Генеральний директор Nvidia Дженсен Хуанг йде у відставку через бум штучного інтелекту, якому він сприяв",
-    "fr": "Le PDG de Nvidia, Jensen Huang, démissionne suite au boom de l'IA qu'il a contribué à favoriser",
-    "de": "Jensen Huang, CEO von Nvidia, tritt als Rückschlag für den KI-Boom zurück, den er mitgefördert hat",
-    "zh": "英伟达首席执行官黄仁勋辞职，对他帮助培育的人工智能热潮造成打击",
-    "ru": "Генеральный директор Nvidia Дженсен Хуанг уходит в отставку из-за удара по буму искусственного интеллекта, который он способствовал развитию"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWJzeWdMMHcxc2lHelNleVFzTlVYS0ZRQlFtQ0cwNk92NllGd29xcXhtM3Rub3VZR0pBRHU3YlppZHZ6SlRDTVYxOFplenFlcWUwcE0tZUNrWUNPVWxpX2lYcU9LZGtwUGw2MUlhZmxqS2N3TWVMdld2TWE0ZE9zNWhOQlpDS1hCRVA4azFZNjF2SGhwX1lXMGRVamVFT1ZuUFBZUw?oc=5",
-   "ts": 1794516286,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Дженсен Хуан йде у відставку: практичний творець королів, який стоїть за бумом ШІ",
-    "fr": "Jensen Huang démissionne : le faiseur de roi derrière le boom de l'IA",
-    "de": "Jensen Huang tritt zurück: der praktische Königsmacher hinter dem KI-Boom",
-    "zh": "黄仁勋卸任：人工智能热潮背后的亲力亲为的造王者",
-    "ru": "Дженсен Хуанг уходит в отставку: практический создатель королей, стоящий за бумом искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "The bond market now has an even bigger fear than AI fallout",
-   "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-   "ts": 1794516240,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ринок облігацій зараз має ще більший страх, ніж наслідки ШІ",
-    "fr": "Le marché obligataire craint désormais encore plus que les retombées de l’IA",
-    "de": "Der Anleihenmarkt hat jetzt eine noch größere Angst als die Folgen der KI",
-    "zh": "债券市场现在比人工智能的影响更令人担忧",
-    "ru": "Рынок облигаций теперь боится даже большего, чем последствия искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-   "ts": 1794515749,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "OpenAI, Google, Anthropic порушили судовий процес, вимагаючи припинення передових розробок ШІ",
-    "fr": "OpenAI, Google et Anthropic font l'objet d'un procès visant à stopper le développement de l'IA à la frontière",
-    "de": "OpenAI, Google und Anthropic werden mit einer Klage konfrontiert, die einen Stopp der bahnbrechenden KI-Entwicklung fordert",
-    "zh": "OpenAI、谷歌、Anthropic 遭遇诉讼，寻求停止前沿人工智能开发",
-    "ru": "OpenAI, Google и Anthropic подали иск с требованием остановить передовые разработки искусственного интеллекта"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "EXCLUSIVE: Kalshi ends Donald Trump Jr's advisory contract over Polymarket conflict",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
-   "ts": 1794515683,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "ЕКСКЛЮЗИВ: Kalshi припиняє консультаційний контракт Дональда Трампа-молодшого через конфлікт Polymarket",
-    "fr": "EXCLUSIF : Kalshi met fin au contrat de conseil de Donald Trump Jr sur le conflit Polymarket",
-    "de": "EXKLUSIV: Kalshi beendet den Beratervertrag von Donald Trump Jr. wegen Polymarket-Konflikts",
-    "zh": "独家报道：卡尔希终止了小唐纳德·特朗普关于 Polymarket 冲突的咨询合同",
-    "ru": "ЭКСКЛЮЗИВ: Калши расторгает консультативный контракт с Дональдом Трампом-младшим из-за конфликта с Polymarket"
    },
    "lang": "en"
   },
@@ -1320,78 +1523,6 @@
     "de": "Die Ukraine und die Niederlande entwickeln Projekte zum Abfangen ballistischer Raketen",
     "zh": "乌克兰和荷兰开发拦截弹道导弹项目",
     "ru": "Украина и Нидерланды разрабатывают проекты по перехвату баллистических ракет"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Is Outlook down? Widespread outage hits Microsoft apps",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
-   "ts": 1794515160,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Outlook не працює? Широкий збій вражає програми Microsoft",
-    "fr": "Outlook est-il en panne ? Une panne généralisée frappe les applications Microsoft",
-    "de": "Ist Outlook ausgefallen? Weit verbreiteter Ausfall betrifft Microsoft-Apps",
-    "zh": "展望低落了吗？微软应用程序大范围停电",
-    "ru": "Outlook не работает? Widespread outage hits Microsoft apps"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
-   "ts": 1794515121,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що поставлено на карту у відновленні напруженості навколо Фолклендських островів?",
-    "fr": "Quels sont les enjeux du regain de tensions autour des îles Falkland ?",
-    "de": "Was steht bei den erneuten Spannungen um die Falklandinseln auf dem Spiel?",
-    "zh": "福克兰群岛再次出现的紧张局势有何利害关系？",
-    "ru": "Что поставлено на карту в возобновлении напряженности вокруг Фолклендских островов?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Qatar Under-17 World Cup is on despite US pull out",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
-   "ts": 1794514547,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Чемпіонат світу серед юнаків до 17 років у Катарі триває, незважаючи на вихід США з нього",
-    "fr": "La Coupe du monde des moins de 17 ans du Qatar a lieu malgré le retrait des États-Unis",
-    "de": "Die U17-Weltmeisterschaft in Katar findet trotz des Rückzugs der USA statt",
-    "zh": "尽管美国退出，卡塔尔U-17世界杯仍如期举行",
-    "ru": "Чемпионат мира по футболу среди юношей до 17 лет в Катаре состоится, несмотря на отказ США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-   "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-   "ts": 1794514341,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Регіональна безпека домінує на європейських переговорах у Дубліні на тлі гібридних атак",
-    "fr": "La sécurité régionale domine les négociations européennes à Dublin dans un contexte d'attaques hybrides",
-    "de": "Regionale Sicherheit dominiert inmitten hybrider Angriffe die europäischen Gespräche in Dublin",
-    "zh": "在混合攻击中，地区安全在都柏林欧洲会谈中占据主导地位",
-    "ru": "Региональная безопасность доминирует на европейских переговорах в Дублине на фоне гибридных атак"
    },
    "lang": "en"
   },
@@ -1448,6 +1579,25 @@
     "de": "Russisches Kriegsschiff im Finnischen Meerbusen von ukrainischer Drohne getroffen",
     "zh": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
     "ru": "Российский военный корабль сбит украинским беспилотником в Финском заливе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWtqakZ4LUVIb2dkYnZNS0ZXM3M3ZEpyZGQ1eDc0UWxOR2I4cWNLeXk5VW5HM0hjbGxvYktjN2s3ZThPNWswVFBpQmZ6a3FYUDVRVVdRWk9XRXB0VFNIejJObkRnWm0wZTNpUjM4TmgxVkMtY2RFbEp3UUZRakpMWmZMeHJlZXlQMHB3OXBaSE1KY24xS3EzUjNlNE1HblplZkpyWmFBbVprTGV5TVVrbWNPUjl6UnZOU3hMZlFtdEIyZ21jQ3dZ?oc=5",
+   "ts": 1794513202,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Білий дім обговорює майбутнє Говарда Лутніка на посаді міністра торгівлі, кажуть знайомі",
+    "fr": "La Maison Blanche discute de l'avenir de Howard Lutnick en tant que secrétaire au Commerce, selon des sources proches",
+    "de": "Das Weiße Haus diskutiert über Howard Lutnicks Zukunft als Handelsminister, sagen vertraute Personen",
+    "zh": "知情人士称，白宫正在讨论霍华德·卢特尼克担任商务部长的未来",
+    "ru": "Белый дом обсуждает будущее Говарда Лютника на посту министра торговли, говорят знакомые"
    },
    "lang": "en"
   },
@@ -1689,25 +1839,6 @@
    "lang": "en"
   },
   {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
-   "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-world-4025-rdf",
-   "ts": 1794507960,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Чехія готується до масових протестів, оскільки гнів через урядові плани реформування суспільних ЗМІ кипить",
-    "fr": "La Tchéquie se prépare à des manifestations massives alors que la colère contre les projets de réforme des médias publics du gouvernement bouillonne",
-    "de": "Tschechien bereitet sich auf massiven Protest vor, während die Wut über die Reformpläne der Regierung für die öffentlichen Medien brodelt",
-    "zh": "由于对政府公共媒体改革计划的愤怒沸腾，捷克准备举行大规模抗议",
-    "ru": "Чехия готовится к массовым протестам, поскольку гнев по поводу планов правительства по реформе СМИ кипит"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Europe wants a seat at the table with Russia. It can't agree on who gets it",
@@ -1758,25 +1889,6 @@
     "de": "„Wir haben nichts mehr zu befürchten“ – Chinesische Freiwilligensoldaten in der Ukraine",
     "zh": "“我们没有什么好害怕的”——在乌克兰的中国志愿军战士",
     "ru": "«Нам больше нечего бояться» — китайские солдаты-добровольцы в Украине"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "White House set to extend Jones Act shipping waiver, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3NCSlNCcXAta1ktOGttR0tIdTdwcmVDbWN4ZXFUSnJLYjdDUFYxTGJkM2NvMERGQzVuNEEtZFg3ejI0aXBEZS1Sa2NwbkpLQnJBMkpEVVFIbThhdTd0cUtvSFBRWFRyMFJsVjIweEk5SlpqWnozdHZDTkF0dDRGaGxNa3hKb1ppSGwyRnNHNUhfNDgtSVM0cEVDVEc4TGotaGVGNFZZNmdHeTQ?oc=5",
-   "ts": 1794506320,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Джерела повідомляють, що Білий дім має намір продовжити звільнення від транспортування за Законом Джонса",
-    "fr": "La Maison Blanche s'apprête à prolonger la dispense d'expédition du Jones Act, selon des sources",
-    "de": "Laut Quellen will das Weiße Haus die Versandbefreiung nach dem Jones Act verlängern",
-    "zh": "消息人士称，白宫将延长《琼斯法案》的运输豁免",
-    "ru": "Белый дом намерен продлить отказ от поставок в соответствии с Законом Джонса, сообщают источники"
    },
    "lang": "en"
   },
@@ -1909,25 +2021,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-   "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-   "ts": 1794504411,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Путін дотримується жорсткої позиції на переговорах із США, оскільки Україна каже, що Starlink знову перервано",
-    "fr": "Poutine adopte une ligne dure dans les négociations américaines alors que l'Ukraine affirme que Starlink est à nouveau perturbé",
-    "de": "Putin vertritt in den US-Gesprächen eine harte Linie, da die Ukraine sagt, Starlink sei erneut gestört",
-    "zh": "乌克兰称星链再次中断，普京在美国谈判中采取强硬立场",
-    "ru": "Путин занимает жесткую позицию на переговорах с США, поскольку Украина заявляет, что Starlink снова прерван"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Some childhood offenders may no longer have to reveal convictions to employers",
@@ -1978,6 +2071,24 @@
     "de": "Die ukrainische Luftverteidigung hat tagsüber 124 russische Drohnen abgeschossen",
     "zh": "乌克兰防空系统白天击落 124 架俄罗斯无人机",
     "ru": "Украинские ПВО за сутки сбили 124 российских беспилотника"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
+   "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+   "ts": 1794503674,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Деякі молоді люди з обмеженими можливостями планують втратити Піпа в Мілберні, але можуть звернутися до місцевого фонду",
+    "fr": "Certains jeunes handicapés perdront le plan Pip in Milburn – mais peuvent postuler au fonds local",
+    "de": "Einige junge behinderte Menschen planen, Pip in Milburn zu verlieren – können aber einen Antrag bei einem örtlichen Fonds stellen",
+    "zh": "一些年轻的残疾人在米尔本计划中失去了皮普——但可以向当地基金申请",
+    "ru": "Некоторые молодые люди с ограниченными возможностями потеряют Пипа в плане Милберна, но могут подать заявление в местный фонд"
    },
    "lang": "en"
   },
@@ -2086,24 +2197,6 @@
     "de": "Die Ukraine sagt, die USA hätten Starshield absichtlich eingeschränkt, um Druck auf Kiew auszuüben, berichtet FT",
     "zh": "据英国《金融时报》报道，乌克兰称美国故意限制“星盾”以向基辅施压",
     "ru": "Украина заявляет, что США намеренно ограничили Starshield, чтобы оказать давление на Киев, сообщает FT"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian forces attack rescue workers in Komyshuvakha again",
-   "url": "https://www.ukrinform.net/rubric-ato/4183957-russian-forces-attack-rescue-workers-in-komyshuvakha-again.html",
-   "ts": 1794502080,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російські війська знову атакують рятувальників у Комишувасі",
-    "fr": "Les forces russes attaquent à nouveau les secouristes à Komyshuvakha",
-    "de": "Russische Streitkräfte greifen Rettungskräfte in Komyshuvakha erneut an",
-    "zh": "俄罗斯军队再次袭击科梅舒瓦卡的救援人员",
-    "ru": "Российские военные снова атаковали спасателей в Комышувахе"
    },
    "lang": "en"
   },
@@ -2236,63 +2329,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "At least five people shot in DC neighbourhood near the White House",
-   "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-   "ts": 1794499317,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Щонайменше п'ятьох людей застрелили в районі округу Колумбія біля Білого дому",
-    "fr": "Au moins cinq personnes abattues dans un quartier de Washington, près de la Maison Blanche",
-    "de": "Mindestens fünf Menschen wurden in einem Viertel in Washington DC in der Nähe des Weißen Hauses erschossen",
-    "zh": "华盛顿特区白宫附近至少有五人遭枪击",
-    "ru": "По меньшей мере пять человек расстреляны в округе Колумбия возле Белого дома"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Yankees President Randy Levine pushes college sports bill, discusses MLB labor negotiations",
-   "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html",
-   "ts": 1794497671,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Президент \"Янкі\" Ренді Левін просуває законопроект про студентський спорт, обговорює трудові переговори MLB",
-    "fr": "Le président des Yankees, Randy Levine, fait pression sur le projet de loi sur les sports universitaires et discute des négociations collectives avec la MLB",
-    "de": "Yankees-Präsident Randy Levine drängt auf Hochschulsportgesetz und bespricht MLB-Arbeitsverhandlungen",
-    "zh": "洋基队主席兰迪·莱文推动大学体育法案，讨论美国职业棒球大联盟劳资谈判",
-    "ru": "Президент «Янкиз» Рэнди Левин продвигает законопроект о студенческом спорте и обсуждает трудовые переговоры в MLB"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Speaker Johnson says Congress developing consensus on limiting chip exports to China",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
-   "ts": 1794497353,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Спікер Джонсон каже, що Конгрес досягає консенсусу щодо обмеження експорту мікросхем до Китаю",
-    "fr": "Le président Johnson déclare que le Congrès développe un consensus sur la limitation des exportations de puces vers la Chine",
-    "de": "Laut Sprecher Johnson entwickelt der Kongress einen Konsens über die Begrenzung der Chip-Exporte nach China",
-    "zh": "约翰逊议长表示国会正在就限制对华芯片出口达成共识",
-    "ru": "Спикер Джонсон заявил, что Конгресс вырабатывает консенсус по ограничению экспорта чипов в Китай"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "MPs urge Labour ministers to get on with trophy hunting ban",
@@ -2367,24 +2403,6 @@
   {
    "feed": "npr_politics",
    "source": "NPR",
-   "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-   "ts": 1794477600,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Як Скотт Колом подолав шанси стати сенатором-демократом від штату Міссісіпі",
-    "fr": "Comment Scott Colom a défié tous les pronostics pour passer du statut de procureur à celui de sénateur démocrate américain du Mississippi",
-    "de": "Wie Scott Colom allen Widrigkeiten trotzte und von DA zum demokratischen US-Senator von Mississippi wechselte",
-    "zh": "斯科特·科洛姆 (Scott Colom) 如何排除万难从地方检察官晋升为密西西比州民主党美国参议员",
-    "ru": "Как Скотт Колом бросил вызов шансам перейти от окружного прокурора к сенатору-демократу США от штата Миссисипи"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
    "title": "At least 23 states considered laws governing ICE and schools this year",
    "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
    "ts": 1794477600,
@@ -2397,6 +2415,24 @@
     "de": "Mindestens 23 Bundesstaaten haben in diesem Jahr über Gesetze zur Regelung von ICE und Schulen nachgedacht",
     "zh": "今年至少有 23 个州考虑制定管理 ICE 和学校的法律",
     "ru": "В этом году как минимум 23 штата рассмотрели законы, регулирующие ICE и школы."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+   "ts": 1794477600,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Як Скотт Колом подолав шанси стати сенатором-демократом від штату Міссісіпі",
+    "fr": "Comment Scott Colom a défié tous les pronostics pour passer du statut de procureur à celui de sénateur démocrate américain du Mississippi",
+    "de": "Wie Scott Colom allen Widrigkeiten trotzte und von DA zum demokratischen US-Senator von Mississippi wechselte",
+    "zh": "斯科特·科洛姆 (Scott Colom) 如何排除万难从地方检察官晋升为密西西比州民主党美国参议员",
+    "ru": "Как Скотт Колом бросил вызов шансам перейти от окружного прокурора к сенатору-демократу США от штата Миссисипи"
    },
    "lang": "en"
   },
@@ -2433,24 +2469,6 @@
     "de": "Der Demokrat Scott Colom gewinnt die Senatswahl in Mississippi",
     "zh": "民主党人斯科特·科洛姆赢得密西西比州参议员竞选",
     "ru": "Демократ Скотт Колом побеждает на выборах в Сенат штата Миссисипи"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Michigan Senator-elect El Sayed discusses Democrats' ambitions",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6034464/michigan-senator-elect-el-sayed-discusses-democrats-ambitions",
-   "ts": 1794475627,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Обраний сенатор від Мічигану Ель Сайєд розповідає про амбіції демократів",
-    "fr": "El Sayed, sénateur élu du Michigan, discute des ambitions des démocrates",
-    "de": "Der gewählte Senator von Michigan, El Sayed, spricht über die Ambitionen der Demokraten",
-    "zh": "密歇根州当选参议员埃尔赛义德讨论民主党的野心",
-    "ru": "Избранный сенатор от Мичигана Эль Сайед обсуждает амбиции демократов"
    },
    "lang": "en"
   },
@@ -2711,24 +2729,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "Governments 'asleep at the wheel' over social care, says head of review",
-   "url": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794388128,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Уряди «сплять за кермом» щодо соціального забезпечення, каже керівник огляду",
-    "fr": "Les gouvernements « dorment au volant » de la protection sociale, déclare le responsable de l'examen",
-    "de": "Regierungen „schlafen am Steuer“ über Sozialfürsorge, sagt Prüfungsleiter",
-    "zh": "审查负责人表示，政府在社会关怀方面“睡着了”",
-    "ru": "Правительства «спят за рулем» в вопросах социальной помощи, говорит руководитель обзора"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "For Trump, Musk and Farage, the message is the same: voters don’t want to be hijacked by billionaires | Rafael Behr",
@@ -2846,7 +2846,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 19
+   "items": 20
   },
   {
    "source": "guardian_politics",
@@ -2881,7 +2881,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
@@ -2911,10 +2911,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 15,
-   "translated": 230,
+   "requests": 10,
+   "translated": 185,
    "method": {
-    "dict": 15
+    "dict": 10
    }
   },
   {
