@@ -1,5 +1,5 @@
 {
- "updated": 1794439644,
+ "updated": 1794443151,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,30 +216,11 @@
  ],
  "items": [
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794439455,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Демократ Скотт Колом перемагає в сенаті Міссісіпі, несподівано перемагаючи партію",
-    "fr": "Le démocrate Scott Colom remporte la course au Sénat du Mississippi, victoire surprise du parti",
-    "de": "Der Demokrat Scott Colom gewinnt die Senatswahl in Mississippi und ist damit ein überraschender Parteisieg",
-    "zh": "民主党人斯科特·科洛姆赢得密西西比州参议院竞选，该党意外获胜",
-    "ru": "Демократ Скотт Колом выиграл выборы в Сенате штата Миссисипи, одержав неожиданную победу для партии"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-   "ts": 1794439340,
+   "ts": 1794442887,
    "sec": [
     "market"
    ],
@@ -253,13 +234,600 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+   "ts": 1794442726,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Гегсет лаявся охороною на Могилі Невідомого солдата",
+    "de": "Hegseth wurde vom Sicherheitsdienst am Grab des unbekannten Soldaten beschimpft",
+    "zh": "赫格斯在无名烈士墓遭到保安斥责",
+    "ru": "Хегсета отругала охрана у Могилы Неизвестного солдата",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+   "ts": 1794442680,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Міссісіпі обирає демократа Скотта Колома першим чорношкірим сенатором США після Реконструкції",
+    "de": "Mississippi wählt den Demokraten Scott Colom zum ersten schwarzen US-Senator des Staates seit dem Wiederaufbau",
+    "zh": "密西西比州选举民主党人斯科特·科洛姆为该州重建以来第一位黑人美国参议员",
+    "ru": "Миссисипи избирает демократа Скотта Колома первым чернокожим сенатором США после Реконструкции",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+   "ts": 1794442010,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у США можуть бути позитивними для Лівану, вважає лідер Хезболли",
+    "fr": "Les résultats des élections américaines pourraient être positifs pour le Liban, selon le chef du Hezbollah",
+    "de": "Die Ergebnisse der US-Wahlen könnten positiv für den Libanon sein, sagt Hisbollah-Chef",
+    "zh": "真主党主席表示，美国选举结果可能对黎巴嫩有利",
+    "ru": "Результаты выборов в США могут быть положительными для Ливана, говорит глава \"Хезболлы\""
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+   "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+   "ts": 1794441960,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Nvidia падають, оскільки рада директорів, як повідомляється, готується звільнити генерального директора Дженсена Хуанга",
+    "fr": "Les actions de Nvidia chutent alors que le conseil d'administration se préparerait à révoquer le PDG Jensen Huang",
+    "de": "Die Aktie von Nvidia fällt, da der Vorstand Berichten zufolge die Absetzung von CEO Jensen Huang vorbereitet",
+    "zh": "据报道，英伟达董事会准备罢免首席执行官黄仁勋，股价下跌",
+    "ru": "Акции Nvidia падают, поскольку совет директоров, как сообщается, готовится отстранить генерального директора Дженсена Хуанга"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "From Paris to DC - why offices are being turned into apartments",
+   "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794441940,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Від Парижа до округу Колумбія - чому офіси перетворюють на квартири",
+    "fr": "De Paris à DC : pourquoi les bureaux sont transformés en appartements",
+    "de": "Von Paris nach DC – warum Büros in Wohnungen umgewandelt werden",
+    "zh": "从巴黎到华盛顿 - 为什么办公室被改造成公寓",
+    "ru": "От Парижа до Вашингтона: почему офисы превращают в квартиры"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+   "ts": 1794441746,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Людський торс, знайдений у дивані в Сіднеї, спонукає до розслідування вбивства",
+    "fr": "Un torse humain découvert dans un canapé dans la brousse de Sydney ouvre une enquête pour homicide",
+    "de": "In Sofa im Buschland von Sydney gefundener menschlicher Torso führt zu Mordermittlungen",
+    "zh": "悉尼丛林沙发中发现人体躯干引发凶杀案调查",
+    "ru": "Человеческий торс, найденный на диване в бушленде Сиднея, побуждает к расследованию убийства"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "SmartStop director David Mueller sells $13,621 in SMA shares",
+   "url": "https://www.investing.com/news/insider-trading-news/smartstop-director-david-mueller-sells-13621-in-sma-shares-93CH-5020090",
+   "ts": 1794441694,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор SmartStop Девід Мюллер продає акції SMA за $13 621",
+    "fr": "Le directeur de SmartStop, David Mueller, vend 13 621 $ d'actions SMA",
+    "de": "SmartStop-Direktor David Mueller verkauft SMA-Aktien im Wert von 13.621 US-Dollar",
+    "zh": "SmartStop 董事 David Mueller 出售价值 13,621 美元的 SMA 股票",
+    "ru": "Директор SmartStop Дэвид Мюллер продает акции SMA на сумму 13 621 доллар"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+   "ts": 1794441663,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Бронзова нога, знайдена в шотландському болоті, проливає нове світло на римську окупацію",
+    "de": "In einem schottischen Moor gefundenes Bronzebein wirft neues Licht auf die römische Besatzung",
+    "zh": "在苏格兰沼泽中发现的青铜腿为罗马占领提供了新线索",
+    "ru": "Бронзовая нога, найденная в шотландском болоте, проливает новый свет на римскую оккупацию",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+   "ts": 1794441663,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Помилки розпізнавання облич піддають етнічним меншинам ризик неправомірного арешту, попереджає поліцейська служба",
+    "de": "Fehler bei der Gesichtserkennung gefährden ethnische Minderheiten mit unrechtmäßiger Verhaftung, warnt die Polizei",
+    "zh": "警方监管机构警告称，面部识别错误使少数族裔面临错误逮捕的风险",
+    "ru": "Ошибки в распознавании лиц подвергают этнические меньшинства риску неправомерного ареста, предупреждает полиция",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+   "ts": 1794441644,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Війна в Ірані в прямому ефірі: Тегеран попереджає про ширшу відплату; Ізраїль вбиває в Газі",
+    "fr": "La guerre en Iran est en direct : Téhéran met en garde contre des représailles plus larges ; Israël tue à Gaza",
+    "de": "Iran-Krieg live: Teheran warnt vor umfassenderen Vergeltungsmaßnahmen; Israel tötet in Gaza",
+    "zh": "伊朗战争直播：德黑兰警告将进行更广泛的报复；以色列在加沙屠杀",
+    "ru": "Война в Иране в прямом эфире: Тегеран предупреждает о более широком возмездии; Израиль убивает в Газе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Sempra declares quarterly dividend of $0.6575 per share",
+   "url": "https://www.investing.com/news/company-news/sempra-declares-quarterly-dividend-of-06575-per-share-93CH-5020089",
+   "ts": 1794441636,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Sempra оголошує щоквартальні дивіденди в розмірі $0,6575 на акцію",
+    "fr": "Sempra déclare un dividende trimestriel de 0,6575 $ par action",
+    "de": "Sempra erklärt eine vierteljährliche Dividende von 0,6575 US-Dollar pro Aktie",
+    "zh": "Sempra 宣布季度股息为每股 0.6575 美元",
+    "ru": "Sempra объявляет квартальные дивиденды в размере $0,6575 на акцию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+   "url": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+   "ts": 1794441458,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Інформаційний бюлетень Inside India: невдача Трампа в опитуванні підживлює надію на укладення торгової угоди між США та Індією до кінця року",
+    "fr": "Bulletin Inside India : le revers du scrutin de Trump alimente l'espoir d'un accord commercial entre les États-Unis et l'Inde d'ici la fin de l'année",
+    "de": "Inside India-Newsletter: Trumps Umfragerückschlag nährt die Hoffnung auf ein Handelsabkommen zwischen den USA und Indien bis zum Jahresende",
+    "zh": "印度内部通讯：特朗普的民调受挫点燃了美印年底前达成贸易协议的希望",
+    "ru": "Информационный бюллетень Inside India: неудача в опросе Трампа вселяет надежду на заключение торгового соглашения между США и Индией к концу года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+   "ts": 1794441156,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократ Колом виграє місце в сенаті Міссісіпі, став першим темношкірим сенатором штату з 1874 року",
+    "fr": "Le démocrate Colom remporte le siège du Sénat du Mississippi et devient le premier sénateur noir de l'État depuis 1874",
+    "de": "Der Demokrat Colom gewinnt den Senatssitz in Mississippi und wird der erste schwarze Senator des Staates seit 1874",
+    "zh": "民主党人科洛姆赢得密西西比州参议院席位，成为该州自 1874 年以来第一位黑人参议员",
+    "ru": "Демократ Колом получает место в Сенате штата Миссисипи и становится первым чернокожим сенатором штата с 1874 года."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794441150,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократ Скотт Колом здобув історичну перемогу на виборах до Сенату Міссісіпі",
+    "fr": "Le démocrate Scott Colom remporte une victoire historique dans la course au Sénat du Mississippi",
+    "de": "Der Demokrat Scott Colom sichert sich den historischen Sieg im Rennen um den Senat von Mississippi",
+    "zh": "民主党人斯科特·科洛姆在密西西比州参议院竞选中取得历史性胜利",
+    "ru": "Демократ Скотт Колом одержал историческую победу на выборах в Сенат штата Миссисипи"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Barcelona erupts in violence after general strike",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+   "ts": 1794441001,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Після загального страйку в Барселоні вибухає насильство",
+    "fr": "Barcelone éclate de violence après une grève générale",
+    "de": "Nach Generalstreik bricht in Barcelona Gewalt aus",
+    "zh": "巴塞罗那大罢工后爆发暴力事件",
+    "ru": "После всеобщей забастовки в Барселоне вспыхнуло насилие"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Oil prices dip on report of more U.S.-Iran diplomacy plans",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-on-report-of-more-usiran-diplomacy-plans-5020081",
+   "ts": 1794440935,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ціни на нафту падають через повідомлення про нові дипломатичні плани США та Ірану",
+    "fr": "Les prix du pétrole chutent suite à l'annonce de nouveaux projets diplomatiques entre les États-Unis et l'Iran",
+    "de": "Ölpreise sinken aufgrund von Berichten über weitere diplomatische Pläne zwischen den USA und dem Iran",
+    "zh": "更多美伊外交计划报道导致油价下跌",
+    "ru": "Цены на нефть упали на сообщениях о новых дипломатических планах США и Ирана"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Democrat Scott Colom wins historic Senate race in Mississippi",
+   "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+   "ts": 1794440870,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократ Скотт Колом перемагає в історичній гонці до Сенату в Міссісіпі",
+    "fr": "Le démocrate Scott Colom remporte la course historique au Sénat dans le Mississippi",
+    "de": "Der Demokrat Scott Colom gewinnt das historische Senatsrennen in Mississippi",
+    "zh": "民主党人斯科特·科洛姆 (Scott Colom) 在密西西比州历史性的参议院竞选中获胜",
+    "ru": "Демократ Скотт Колом побеждает в исторической гонке в Сенате штата Миссисипи"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Mammoth Energy Services director Plaumann acquires $15,000 in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/mammoth-energy-services-director-plaumann-acquires-15000-in-common-stock-93CH-5020080",
+   "ts": 1794440767,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Mammoth Energy Services Плауманн купує звичайні акції на 15 000 доларів",
+    "fr": "Plaumann, directeur de Mammoth Energy Services, acquiert 15 000 $ d'actions ordinaires",
+    "de": "Plaumann, Direktor von Mammoth Energy Services, erwirbt Stammaktien im Wert von 15.000 US-Dollar",
+    "zh": "Mammoth Energy Services 董事 Plaumann 收购 15,000 美元的普通股",
+    "ru": "Директор Mammoth Energy Services Плауманн приобретает обыкновенные акции на сумму 15 000 долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Pope Leo XIV returns to second homeland Peru to a nationwide welcome",
+   "url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome",
+   "ts": 1794440604,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев XIV повертається на свою другу батьківщину – Перу, щоб зустріти всенародно",
+    "fr": "Le pape Léon XIV revient dans sa deuxième patrie, le Pérou, avec un accueil national",
+    "de": "Papst Leo XIV. kehrt zu einem landesweiten Empfang in seine zweite Heimat Peru zurück",
+    "zh": "教皇利奥十四世返回第二故乡秘鲁受到全国欢迎",
+    "ru": "Папа Лев XIV возвращается на вторую родину в Перу, встречая всенародный прием"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+   "url": "https://www.investing.com/news/stock-market-news/instant-view-nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5020061",
+   "ts": 1794440543,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Миттєвий перегляд: Nvidia готується звільнити генерального директора Дженсена Хуанга, повідомляє WSJ",
+    "fr": "Vue instantanée : Nvidia se prépare à évincer le PDG Jensen Huang, rapporte le WSJ",
+    "de": "Instant View: Nvidia bereitet sich darauf vor, CEO Jensen Huang zu verdrängen, berichtet WSJ",
+    "zh": "即时视图：据《华尔街日报》报道，英伟达正准备罢免首席执行官黄仁勋",
+    "ru": "Мгновенный просмотр: Nvidia готовится сместить генерального директора Дженсена Хуанга, сообщает WSJ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
+   "ts": 1794440346,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "WSJ повідомляє, що Nvidia готується звільнити генерального директора Дженсена Хуанга",
+    "de": "BLICK Nvidia bereitet sich darauf vor, CEO Jensen Huang zu stürzen, berichtet WSJ",
+    "zh": "据《华尔街日报》报道，英伟达正准备罢免首席执行官黄仁勋",
+    "ru": "VIEW Nvidia готовится сместить генерального директора Дженсена Хуанга, сообщает WSJ",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Compass Therapeutics at Stifel 2026 Healthcare Conference 2026: FDA path in focus",
+   "url": "https://www.investing.com/news/transcripts/compass-therapeutics-at-stifel-2026-healthcare-conference-2026-fda-path-in-focus-93CH-5020073",
+   "ts": 1794440298,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Compass Therapeutics на Stifel 2026 Healthcare Conference 2026: у центрі уваги шлях FDA",
+    "de": "Compass Therapeutics auf der Stifel 2026 Healthcare Conference 2026: FDA-Weg im Fokus",
+    "zh": "Compass Therapeutics 出席 Stifel 2026 医疗保健会议 2026：FDA 路径成为焦点",
+    "ru": "Compass Therapeutics на конференции по здравоохранению Stifel 2026 2026: путь FDA в центре внимания",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "MSCI announces November 2026 index review changes",
+   "url": "https://www.investing.com/news/company-news/msci-announces-november-2026-index-review-changes-93CH-5020072",
+   "ts": 1794440200,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "MSCI оголошує про зміни в огляді індексу за листопад 2026 року",
+    "de": "MSCI gibt Änderungen bei der Indexüberprüfung für November 2026 bekannt",
+    "zh": "MSCI 宣布 2026 年 11 月指数审查变更",
+    "ru": "MSCI объявляет об изменениях в обзоре индекса в ноябре 2026 года",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
+   "ts": 1794440198,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nvidia готується звільнити генерального директора Дженсена Хуанга, повідомляє WSJ",
+    "fr": "Nvidia se prépare à évincer le PDG Jensen Huang, rapporte le WSJ",
+    "de": "Nvidia bereitet sich darauf vor, CEO Jensen Huang zu stürzen, berichtet WSJ",
+    "zh": "据《华尔街日报》报道，英伟达正准备罢免首席执行官黄仁勋",
+    "ru": "Nvidia готовится сместить генерального директора Дженсена Хуанга, сообщает WSJ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "Democrat Scott Colom wins the closest Senate race in the country",
+   "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+   "ts": 1794440039,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Демократ Скотт Колом виграє найближчу гонку до Сенату в країні",
+    "de": "Der Demokrat Scott Colom gewinnt das knappste Senatsrennen des Landes",
+    "zh": "民主党人斯科特·科洛姆赢得了该国最接近的参议院竞选",
+    "ru": "Демократ Скотт Колом побеждает в ближайшей предвыборной гонке в Сенате страны",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+   "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+   "ts": 1794439897,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Скотт Колом перемагає на виборах до Сенату Міссісіпі над чинним республіканцем Хайд-Смітом",
+    "de": "Scott Colom gewinnt die Senatswahl in Mississippi vor dem amtierenden Republikaner Hyde-Smith",
+    "zh": "斯科特·科洛姆 (Scott Colom) 击败现任共和党人海德·史密斯 (Hyde-Smith) 赢得密西西比州参议院选举",
+    "ru": "Скотт Колом побеждает на выборах в Сенат штата Миссисипи над действующим республиканцем Хайд-Смитом",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "AEVEX Q3 2026 slides: core business surges as Ukraine revenue fades",
+   "url": "https://www.investing.com/news/company-news/aevex-q3-2026-slides-core-business-surges-as-ukraine-revenue-fades-93CH-5020070",
+   "ts": 1794439835,
+   "sec": [
+    "market",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "AEVEX Q3 2026 знижується: основний бізнес зростає, оскільки дохід в Україні падає",
+    "de": "AEVEX Q3 2026 rutscht ab: Kerngeschäft boomt, während die Einnahmen der Ukraine zurückgehen",
+    "zh": "AEVEX 2026 年第三季度业绩下滑：乌克兰收入下滑，核心业务激增",
+    "ru": "Отчеты AEVEX в третьем квартале 2026 года падают: основной бизнес растет, а доходы в Украине уменьшаются",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+   "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+   "ts": 1794439800,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Рахунки за ваші святкові кредитні картки зростають. Що ви можете зробити, щоб полегшити біль.",
+    "fr": "Vos factures de carte de crédit pour les vacances augmentent. Ce que vous pouvez faire pour soulager la douleur.",
+    "de": "Ihre Kreditkartenrechnungen für den Urlaub steigen. Was Sie tun können, um die Schmerzen zu lindern.",
+    "zh": "你的假期信用卡账单正在上涨。你可以做什么来减轻疼痛。",
+    "ru": "Счета по вашей кредитной карте в отпуске растут. Что можно сделать, чтобы облегчить боль."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "The SS United States begins a final journey to the bottom of the Gulf of Mexico",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW5yRW1GSl9lWXc0d3dVMjZITmxjaXJ4WXYzN3RrQjFYMHdjbkJrTk5obWY5UzZmQlJwTTZudENoMFQ2TlkxcVdMT05tQlV2TTY0RmotQnp6OERPNTdlSEl1ZjN4RzlUMGpLM2p4TkV4TlUta0JTU0FkMEhEUWlXQ1cwNFRZTTFLbTZERkRseUYwWkF0dThsNXR4Z1JqVDFKeU1HZnRxVQ?oc=5",
+   "ts": 1794439740,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "СС США починає останню подорож до дна Мексиканської затоки",
+    "de": "Die SS United States beginnt eine letzte Reise auf den Grund des Golfs von Mexiko",
+    "zh": "SS United 号开始前往墨西哥湾海底的最后旅程",
+    "ru": "СС США начинают последнее путешествие на дно Мексиканского залива",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
+   "ts": 1794439697,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Хакер стверджує, що продав екзаменаційні роботи VCE сотням студентів після злому урядового сайту",
+    "fr": "Un pirate informatique affirme avoir vendu des copies d'examen VCE à des centaines d'étudiants après le piratage du site Web du gouvernement",
+    "de": "Hacker behauptet, VCE-Prüfungsunterlagen an Hunderte von Studenten verkauft zu haben, nachdem die Website der Regierung gehackt wurde",
+    "zh": "政府网站遭黑客攻击后，黑客声称已将 VCE 试卷出售给数百名学生",
+    "ru": "Хакер утверждает, что продал экзаменационные работы VCE сотням студентов после взлома правительственного сайта"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Russia attacks Kyiv with ballistic missiles hours after peace talks end",
+   "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/",
+   "ts": 1794439626,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Росія атакує Київ балістичними ракетами через кілька годин після завершення мирних переговорів",
+    "fr": "La Russie attaque Kyiv avec des missiles balistiques quelques heures après la fin des pourparlers de paix",
+    "de": "Russland greift Kiew wenige Stunden nach Ende der Friedensgespräche mit ballistischen Raketen an",
+    "zh": "和谈结束数小时后，俄罗斯用弹道导弹袭击基辅",
+    "ru": "Россия атаковала Киев баллистическими ракетами через несколько часов после завершения мирных переговоров"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
    "source": "BBC",
    "title": "Some under-25s should get less benefits, Milburn review to say",
    "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
    "ts": 1794439324,
    "sec": [
-    "politics"
+    "market"
    ],
    "t": {
     "uk": "Деякі молодші 25 років повинні отримувати менше пільг, йдеться в огляді Мілберна",
@@ -267,25 +835,6 @@
     "de": "Einige unter 25-Jährige sollten weniger Leistungen erhalten, heißt es in der Milburn-Rezension",
     "zh": "米尔本评论称，一些 25 岁以下的人应该获得更少的福利",
     "ru": "Некоторые люди моложе 25 лет должны получать меньше пособий, говорится в обзоре Милберна"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. House Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-   "ts": 1794439318,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів у Палату представників США 2026 року",
-    "fr": "Résultats des élections législatives américaines de 2026",
-    "de": "Ergebnisse der US-Repräsentantenhauswahl 2026",
-    "zh": "2026 年美国众议院选举结果",
-    "ru": "Результаты выборов в Палату представителей США 2026 года"
    },
    "lang": "en"
   },
@@ -308,39 +857,39 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-   "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-   "ts": 1794438480,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "MSCI to drop Strategy from global indexes, putting billions in fund inflows at risk",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXNEdkJxbUpzR0Z4UzBHczRMcHZPYTNGQ3VTV19jSjBkSkIwY0xQN3FCczV4U0hSb2JyTnJhUjNqZUFQSU15OUZoeW44T0dvd0hNTThsVlJLUmJUbFBSbVFuRF9YRVJBZXpsd2hsTmw0WExmNlBSakgwaVhQbGRkZ0lWZ29vOUZzMlgtSWFXTmJhbi1jeTh3Q013VmZZVHJCWDNKTVRKMDZjVXdGcGx4R3g0ZDZYdkVfaXd1M2JR?oc=5",
+   "ts": 1794438403,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Акції Nvidia падають, оскільки рада директорів, як повідомляється, готується звільнити генерального директора Дженсена Хуанга",
-    "fr": "Les actions de Nvidia chutent alors que le conseil d'administration se préparerait à révoquer le PDG Jensen Huang",
-    "de": "Die Aktie von Nvidia fällt, da der Vorstand Berichten zufolge die Absetzung von CEO Jensen Huang vorbereitet",
-    "zh": "据报道，英伟达董事会准备罢免首席执行官黄仁勋，股价下跌",
-    "ru": "Акции Nvidia падают, поскольку совет директоров, как сообщается, готовится отстранить генерального директора Дженсена Хуанга"
+    "uk": "MSCI виключає стратегію зі світових індексів, піддаючи ризику мільярдні надходження коштів",
+    "fr": "MSCI abandonne sa stratégie des indices mondiaux, mettant en danger des milliards d'entrées de fonds",
+    "de": "MSCI streicht die Strategie aus den globalen Indizes und gefährdet damit Milliarden an Fondszuflüssen",
+    "zh": "MSCI 将从全球指数中剔除该策略，使数十亿资金流入面临风险",
+    "ru": "MSCI исключит Strategy из глобальных индексов, поставив под угрозу приток миллиардов долларов"
    },
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Democrat Colom wins tight Senate race in Mississippi",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
-   "ts": 1794438475,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+   "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+   "ts": 1794438334,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Демократ Колом виграє напружену гонку до Сенату в Міссісіпі",
-    "fr": "Le démocrate Colom remporte la course serrée au Sénat dans le Mississippi",
-    "de": "Der Demokrat Colom gewinnt knappes Senatsrennen in Mississippi",
-    "zh": "民主党人科洛姆在密西西比州激烈的参议院竞选中获胜",
-    "ru": "Демократ Колом выиграл напряженную гонку в Сенат штата Миссисипи"
+    "uk": "Демократ Скотт Колом перемагає у перегонах до Сенату США, за якими уважно спостерігають, у Міссісіпі",
+    "fr": "Le démocrate Scott Colom remporte la course très surveillée au Sénat américain dans le Mississippi",
+    "de": "Der Demokrat Scott Colom gewinnt das vielbeachtete Rennen um den US-Senat in Mississippi",
+    "zh": "民主党人斯科特·科洛姆 (Scott Colom) 在密西西比州备受关注的美国参议院竞选中获胜",
+    "ru": "Демократ Скотт Колом побеждает, внимательно наблюдая за выборами в Сенате США в Миссисипи"
    },
    "lang": "en"
   },
@@ -381,146 +930,22 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Warner Bros. Discovery stock sold by David Kustoff",
-   "url": "https://www.investing.com/news/company-news/warner-bros-discovery-stock-sold-by-david-kustoff-93CH-5020041",
-   "ts": 1794438256,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Firefighters dig through rubble after NYC building collapse kills 1 and traps people in wreckage",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5",
+   "ts": 1794438180,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Акції Warner Bros. Discovery продав Девід Кустофф",
-    "fr": "Actions Warner Bros. Discovery vendues par David Kustoff",
-    "de": "Warner Bros. Discovery-Aktien von David Kustoff verkauft",
-    "zh": "大卫·库斯托夫出售华纳兄弟探索公司股票",
-    "ru": "Акции Warner Bros. Discovery, проданные Дэвидом Кустоффом"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Strategy shares fall after MSCI confirms deletion from US large-cap benchmark",
-   "url": "https://www.investing.com/news/stock-market-news/strategy-shares-fall-after-msci-confirms-deletion-from-us-largecap-benchmark-5020038",
-   "ts": 1794438138,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Strategy падають після того, як MSCI підтверджує видалення з еталонного показника США з великою капіталізацією",
-    "fr": "Les actions de stratégie chutent après que MSCI confirme sa suppression de l'indice de référence américain des grandes capitalisations",
-    "de": "Strategieaktien fallen, nachdem MSCI die Streichung aus der US-Large-Cap-Benchmark bestätigt hat",
-    "zh": "MSCI 确认从美国大盘股基准中删除后策略股下跌",
-    "ru": "Акции Strategy упали после того, как MSCI подтвердила исключение из списка компаний с большой капитализацией в США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Oil prices rise amid mixed messaging on Iran peace efforts, Hormuz ship attacks",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-from-2mth-low-with-focus-on-usiran-peace-inventories-5017522",
-   "ts": 1794438077,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ціни на нафту зростають на тлі неоднозначних повідомлень щодо мирних зусиль Ірану та нападів на кораблі в Ормузі",
-    "fr": "Les prix du pétrole augmentent sur fond de messages contradictoires sur les efforts de paix en Iran et les attaques du navire Ormuz",
-    "de": "Die Ölpreise steigen aufgrund gemischter Nachrichten zu den Friedensbemühungen des Iran und den Schiffsangriffen in Hormuz",
-    "zh": "伊朗和平努力、霍尔木兹船只袭击等消息混杂，油价上涨",
-    "ru": "Цены на нефть растут на фоне неоднозначных сообщений о мирных усилиях Ирана и атаках кораблей в Ормузе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Mach Natural Resources director buys $388,902 in common units",
-   "url": "https://www.investing.com/news/insider-trading-news/mach-natural-resources-director-buys-388902-in-common-units-93CH-5020037",
-   "ts": 1794438073,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Mach Natural Resources купує звичайні одиниці на суму 388 902 долари",
-    "fr": "Le directeur de Mach Natural Resources achète 388 902 $ en unités ordinaires",
-    "de": "Der Direktor von Mach Natural Resources kauft Stammaktien im Wert von 388.902 US-Dollar",
-    "zh": "Mach 自然资源总监购买了 388,902 美元的普通单位",
-    "ru": "Директор Mach Natural Resources покупает акции на сумму 388 902 доллара"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Guardant Health director Steve Krognes sells $1.17M in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/guardant-health-director-steve-krognes-sells-117m-in-shares-93CH-5020036",
-   "ts": 1794438067,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Guardant Health Стів Крогнес продає акції на 1,17 млн ​​доларів",
-    "fr": "Le directeur de Guardant Health, Steve Krognes, vend 1,17 million de dollars d'actions",
-    "de": "Steve Krognes, Direktor von Guardant Health, verkauft Aktien im Wert von 1,17 Millionen US-Dollar",
-    "zh": "Guardant Health 董事 Steve Krognes 出售价值 117 万美元的股票",
-    "ru": "Директор Guardant Health Стив Крогнес продает акции на сумму $1,17 млн."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Guardant Health CTO Darya Chudova sells shares worth $1.38 million",
-   "url": "https://www.investing.com/news/insider-trading-news/guardant-health-cto-darya-chudova-sells-shares-worth-138-million-93CH-5020035",
-   "ts": 1794438060,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Технічний директор Guardant Health Дар'я Чудова продає акції на 1,38 млн доларів",
-    "fr": "Darya Chudova, directrice technique de Guardant Health, vend des actions d'une valeur de 1,38 million de dollars",
-    "de": "Darya Chudova, CTO von Guardant Health, verkauft Aktien im Wert von 1,38 Millionen US-Dollar",
-    "zh": "Guardant Health 首席技术官 Darya Chudova 出售价值 138 万美元的股票",
-    "ru": "Технический директор Guardant Health Дарья Чудова продает акции на $1,38 млн"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Guardant Health director Alex Azar II sells $144,550 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-azar-ii-sells-144550-in-stock-93CH-5020034",
-   "ts": 1794438056,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Guardant Health Алекс Азар II продає акції за 144 550 доларів",
-    "fr": "Le directeur de Guardant Health, Alex Azar II, vend 144 550 $ d'actions",
-    "de": "Der Direktor von Guardant Health, Alex Azar II, verkauft Aktien im Wert von 144.550 US-Dollar",
-    "zh": "Guardant Health 董事 Alex Azar II 出售价值 144,550 美元的股票",
-    "ru": "Директор Guardant Health Алекс Азар II продает акции на сумму 144 550 долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-   "url": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
-   "ts": 1794438023,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nvidia готується звільнити генерального директора Дженсена Хуанга, повідомляє WSJ",
-    "fr": "Nvidia se prépare à évincer le PDG Jensen Huang, rapporte le WSJ",
-    "de": "Nvidia bereitet sich darauf vor, CEO Jensen Huang zu stürzen, berichtet WSJ",
-    "zh": "据《华尔街日报》报道，英伟达正准备罢免首席执行官黄仁勋",
-    "ru": "Nvidia готовится сместить генерального директора Дженсена Хуанга, сообщает WSJ"
+    "uk": "Пожежники розкопують завали після того, як обвал будівлі в Нью-Йорку загинув 1, а люди потрапили в уламки",
+    "de": "Feuerwehrleute graben sich durch Trümmer, nachdem beim Einsturz eines Gebäudes in New York ein Mensch ums Leben kam und Menschen in Trümmern eingeschlossen waren",
+    "zh": "纽约市大楼倒塌导致1人死亡、人员被困在废墟中，消防队员在废墟中挖掘",
+    "ru": "Пожарные раскапывают завалы после обрушения здания в Нью-Йорке, в результате которого погиб один человек и люди оказались в ловушке среди обломков",
+    "_miss": [
+     "fr"
+    ]
    },
    "lang": "en"
   },
@@ -543,38 +968,40 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-   "ts": 1794437853,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Людський торс, знайдений у дивані в Сіднеї, спонукає до розслідування вбивства",
-    "fr": "Un torse humain découvert dans un canapé dans la brousse de Sydney ouvre une enquête pour homicide",
-    "de": "In Sofa im Buschland von Sydney gefundener menschlicher Torso führt zu Mordermittlungen",
-    "zh": "悉尼丛林沙发中发现人体躯干引发凶杀案调查",
-    "ru": "Человеческий торс, найденный на диване в бушленде Сиднея, побуждает к расследованию убийства"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Israeli strikes hit tent camp as five killed in Gaza",
+   "title": "Israeli strikes hit medical complex as nine killed across Gaza",
    "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
    "ts": 1794437737,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Ізраїль вдарив по наметовому містечку, п'ятеро загиблих у Газі",
-    "fr": "Des frappes israéliennes frappent un camp de tentes, faisant cinq morts à Gaza",
-    "de": "Bei israelischen Angriffen auf Zeltlager wurden in Gaza fünf Menschen getötet",
-    "zh": "以色列袭击加沙帐篷营地，造成五人死亡",
-    "ru": "В результате ударов Израиля по палаточному лагерю в секторе Газа погибли пять человек"
+    "uk": "Ізраїль вдарив по медичному комплексу: дев'ятеро загиблих по всій Газі",
+    "fr": "Des frappes israéliennes frappent un complexe médical, faisant neuf morts à Gaza",
+    "de": "Bei israelischen Angriffen auf einen medizinischen Komplex wurden im gesamten Gazastreifen neun Menschen getötet",
+    "zh": "以色列袭击加沙医疗中心，造成九人死亡",
+    "ru": "В результате ударов Израиля по медицинскому комплексу в Газе погибли девять человек"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "New York building collapse kills one person and injures 12",
+   "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "ts": 1794437726,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "В Нью-Йорку внаслідок обвалу будівлі одна людина загинула, 12 отримали поранення",
+    "de": "Beim Einsturz eines New Yorker Gebäudes kommt eine Person ums Leben und 12 werden verletzt",
+    "zh": "纽约大楼倒塌造成1人死亡12人受伤",
+    "ru": "Обрушение здания в Нью-Йорке убило одного человека и ранило 12",
+    "_miss": [
+     "fr"
+    ]
    },
    "lang": "en"
   },
@@ -593,6 +1020,24 @@
     "de": "Zwei Schädel, die wahrscheinlich versklavten Menschen gehörten, kehrten nach Brasilien zurück, nachdem Harvard sie in Eugenikstudien verwendet hatte",
     "zh": "哈佛大学将两块可能属于奴隶的头骨用于优生学研究后返回巴西",
     "ru": "Два черепа, вероятно, принадлежавшие порабощенным людям, вернулись в Бразилию после того, как Гарвард использовал их в исследованиях евгеники."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "European leaders gather in Dublin under the shadow of hybrid threats",
+   "url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
+   "ts": 1794437217,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Європейські лідери збираються в Дубліні під тінню гібридних загроз",
+    "fr": "Les dirigeants européens se réunissent à Dublin sous l’ombre des menaces hybrides",
+    "de": "Im Schatten hybrider Bedrohungen treffen sich europäische Staats- und Regierungschefs in Dublin",
+    "zh": "欧洲领导人在混合威胁的阴影下齐聚都柏林",
+    "ru": "Европейские лидеры собираются в Дублине под сенью гибридных угроз"
    },
    "lang": "en"
   },
@@ -760,20 +1205,20 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "New York City building collapse traps people in rubble",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5",
-   "ts": 1794435382,
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
+   "ts": 1794435185,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Обвалення будівлі в Нью-Йорку потрапило під завали людей",
-    "fr": "L’effondrement d’un immeuble à New York emprisonne les habitants dans les décombres",
-    "de": "Beim Einsturz eines Gebäudes in New York City stecken Menschen in Trümmern fest",
-    "zh": "纽约市建筑物倒塌将人们困在废墟中",
-    "ru": "Обрушение здания в Нью-Йорке оставило людей под обломками"
+    "uk": "Гаді Айзенкот оприлюднює програму зміни політики Нетаньяху",
+    "fr": "Gadi Eisenkot dévoile son programme pour renverser la politique de Netanyahu",
+    "de": "Gadi Eisenkot stellt Agenda zur Umkehr von Netanjahus Politik vor",
+    "zh": "加迪·艾森科特公布扭转内塔尼亚胡政策的议程",
+    "ru": "Гади Айзенкот представил программу по изменению политики Нетаньяху"
    },
    "lang": "en"
   },
@@ -796,24 +1241,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "JetBlue unveils new first-class seats to bring back profits",
-   "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-   "ts": 1794435050,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "JetBlue представляє нові місця першого класу, щоб повернути прибуток",
-    "fr": "JetBlue dévoile de nouveaux sièges de première classe pour ramener des bénéfices",
-    "de": "JetBlue stellt neue First-Class-Sitze vor, um Gewinne zurückzugewinnen",
-    "zh": "捷蓝航空推出新头等舱座椅以挽回利润",
-    "ru": "JetBlue представляет новые места первого класса, чтобы вернуть прибыль"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
@@ -828,6 +1255,26 @@
     "de": "Der Richter entscheidet, dass Trumps BBC-Verleumdungsklage in Höhe von 10 Milliarden US-Dollar fortgesetzt werden kann",
     "zh": "法官裁定特朗普 100 亿美元的 BBC 诽谤诉讼可以继续进行",
     "ru": "Судья постановил, что иск Трампа о клевете на BBC на 10 миллиардов долларов может быть продолжен"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
+   "ts": 1794434961,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Мільйони іспанців влаштували перший загальний страйк за 14 років, оскільки обурення через житло призвело до сутичок",
+    "de": "Millionen Spanier veranstalten den ersten Generalstreik seit 14 Jahren, da die Wut über den Wohnungsbau zu Zusammenstößen führt",
+    "zh": "数百万西班牙人14年来首次举行总罢工，对住房的愤怒导致冲突",
+    "ru": "Миллионы испанцев устроили первую всеобщую забастовку за 14 лет, поскольку гнев по поводу жилья приводит к столкновениям",
+    "_miss": [
+     "fr"
+    ]
    },
    "lang": "en"
   },
@@ -1015,24 +1462,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-   "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-   "ts": 1794433320,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Падіння цін на нафту вже недостатньо, щоб знизити вартість запозичень на найважливішому світовому ринку облігацій",
-    "fr": "La chute des prix du pétrole ne suffit plus à faire baisser les coûts d’emprunt sur le marché obligataire le plus important au monde",
-    "de": "Sinkende Ölpreise reichen nicht mehr aus, um die Kreditkosten am wichtigsten Anleihenmarkt der Welt zu senken",
-    "zh": "油价下跌已不足以降低全球最重要债券市场的借贷成本",
-    "ru": "Падения цен на нефть уже недостаточно для снижения стоимости заимствований на самом важном в мире рынке облигаций."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off",
@@ -1052,42 +1481,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
-   "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
-   "ts": 1794433200,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції Sandisk щойно показали великий приріст. Ось як він може піднятися ще вище.",
-    "fr": "Les actions de Sandisk viennent de réaliser un gros gain. Voici comment il pourrait aller encore plus haut.",
-    "de": "Die Aktie von Sandisk verzeichnete gerade einen großen Anstieg. Hier erfahren Sie, wie es noch höher gehen könnte.",
-    "zh": "Sandisk 的股票刚刚大幅上涨。以下是它如何能够走得更高。",
-    "ru": "Акции Sandisk только что продемонстрировали большой рост. Вот как он может подняться еще выше."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Tshisekedi paves way for constitutional change",
-   "url": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
-   "ts": 1794433186,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Тшісекеді прокладає шлях до конституційних змін",
-    "fr": "Tshisekedi ouvre la voie à un changement constitutionnel",
-    "de": "Tshisekedi ebnet den Weg für eine Verfassungsänderung",
-    "zh": "齐塞克迪为宪法改革铺平道路",
-    "ru": "Чисекеди прокладывает путь к конституционным изменениям"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "'Ukraine's future is within the European Union' — Irish PM aims to open all EU negotiation clusters for Kyiv by end of year",
@@ -1102,42 +1495,6 @@
     "de": "„Die Zukunft der Ukraine liegt in der Europäischen Union“ – Der irische Premierminister will bis Ende des Jahres alle EU-Verhandlungscluster für Kiew eröffnen",
     "zh": "“乌克兰的未来在欧盟之内”——爱尔兰总理计划在年底前为基辅开放所有欧盟谈判集群",
     "ru": "«Будущее Украины внутри Евросоюза» — премьер-министр Ирландии намерен к концу года открыть для Киева все переговорные кластеры ЕС"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "General strike over housing brings out hundreds of thousands in Spain",
-   "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain",
-   "ts": 1794432670,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "В Іспанії загальний страйк через житлове будівництво виводить сотні тисяч людей",
-    "fr": "La grève générale pour le logement fait bouger des centaines de milliers de personnes en Espagne",
-    "de": "Hunderttausende streiken in Spanien zum Generalstreik im Wohnungsbau",
-    "zh": "西班牙数十万人因住房问题举行大罢工",
-    "ru": "Всеобщая забастовка из-за жилищного строительства в Испании привела к гибели сотен тысяч человек"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Stocks end higher as CoreWeave results ease AI spending worries",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-   "ts": 1794432351,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції закінчуються зростанням, оскільки результати CoreWeave полегшують хвилювання щодо витрат на штучний інтелект",
-    "fr": "Les actions terminent en hausse alors que les résultats de CoreWeave atténuent les inquiétudes concernant les dépenses en IA",
-    "de": "Die Aktien enden im Plus, da die Ergebnisse von CoreWeave die Bedenken hinsichtlich der KI-Ausgaben lindern",
-    "ru": "Акции закрылись ростом, поскольку результаты CoreWeave ослабили опасения по поводу расходов на ИИ",
-    "zh": "CoreWeave 业绩缓解人工智能支出担忧，股市收高"
    },
    "lang": "en"
   },
@@ -1178,150 +1535,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
-   "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-   "ts": 1794432134,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nasdaq зростає більш ніж на 1% завдяки стрімкому зростанню CoreWeave, що пожвавлює торгівлю ШІ",
-    "fr": "Le Nasdaq gagne plus de 1 % alors que le pic de CoreWeave revitalise le commerce de l'IA",
-    "de": "Nasdaq legt um mehr als 1 % zu, da der CoreWeave-Spitze den KI-Handel wiederbelebt",
-    "zh": "CoreWeave 飙升重振人工智能贸易，纳斯达克指数上涨逾 1%",
-    "ru": "Акции Nasdaq выросли более чем на 1%, поскольку рост CoreWeave оживляет торговлю ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-   "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-   "ts": 1794432060,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Чому ця «велика ідея» щодо виправлення соціального страхування спирається на масштабну авантюру на фондовому ринку",
-    "fr": "Pourquoi cette « grande idée » pour réparer la sécurité sociale repose sur un pari boursier massif",
-    "de": "Warum diese „große Idee“, die Sozialversicherung zu reparieren, auf einem massiven Börsenrisiko beruht",
-    "zh": "为什么这个解决社会保障问题的“伟大想法”依赖于一场大规模的股市赌博",
-    "ru": "Почему эта «большая идея» по исправлению положения в системе социального обеспечения опирается на масштабную спекуляцию на фондовом рынке"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Italy’s Meloni says cyberthreats are intended to spread fear after schools hit by bomb threat",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanFkNjRuZFpXd2ZINlZJRWx3RkROMjA5UzZ4RXdWN0MtRWZyc1ZhWDFybWtrRk9ubkVPckRvYTRSLV9mcUxyOUw1WVZwOUVkUU1mRTZtVDBkUGgtZkdCSGhybnFDTkZYaWFZTXQ0c2w2Y0Jwb0xjVS1kVnByd3EzcFIzdHZWbExNOERpdHcwYm4wS2RBMFFBR3JkVnQzeWRpU3VoWElrNA?oc=5",
-   "ts": 1794431940,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Мелоні з Італії каже, що кіберзагрози мають на меті поширити страх після того, як школи постраждали від загрози вибуху",
-    "fr": "L'Italien Meloni affirme que les cybermenaces visent à semer la peur après que des écoles ont été touchées par une alerte à la bombe",
-    "de": "Laut Meloni aus Italien sollen Cyberbedrohungen Angst verbreiten, nachdem Schulen Opfer einer Bombendrohung geworden sind",
-    "zh": "意大利的梅洛尼表示，网络威胁的目的是在学校遭受炸弹威胁后散布恐惧",
-    "ru": "Итальянец Мелони говорит, что киберугрозы призваны посеять страх после того, как школы пострадали от угрозы взрыва"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "WIZZ.L price moved 5.08% since the previous close.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOLVRiamdBMUIzWjZrcjg2SFVFcWZfbkNJR0pod21FQTZzanlEeHpwQWV5TWhZV1FMZVJyenZwQTc0endiUlVQSXRVSC16SVRKbm1Mblk1MkZsRE5zWEE?oc=5",
-   "ts": 1794431748,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ціна WIZZ.L змінилася на 5,08% з моменту попереднього закриття.",
-    "fr": "Le prix de WIZZ.L a évolué de 5,08 % depuis la clôture précédente.",
-    "de": "Der WIZZ.L-Preis bewegte sich seit dem letzten Schlusskurs um 5,08 %.",
-    "zh": "自上次收盘以来，WIZZ.L 价格上涨了 5.08%。",
-    "ru": "Цена WIZZ.L изменилась на 5,08% с момента предыдущего закрытия."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Rare Marilyn Monroe photos from her final shoot to be auctioned",
-   "url": "https://www.france24.com/en/rare-marilyn-monroe-photos-from-her-final-shoot-to-be-auctioned",
-   "ts": 1794431107,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Рідкісні фотографії Мерилін Монро з її останньої зйомки продадуть на аукціоні",
-    "fr": "Des photos rares de Marilyn Monroe de son dernier shooting seront mises aux enchères",
-    "de": "Seltene Fotos von Marilyn Monroe von ihrem letzten Shooting werden versteigert",
-    "zh": "玛丽莲·梦露最后一次拍摄的罕见照片将被拍卖",
-    "ru": "Редкие фотографии Мэрилин Монро с ее последней фотосессии выставят на аукцион"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-   "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-   "ts": 1794431020,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ормузька протока «ніколи не повернеться» до довоєнного статусу, каже іранський Галібаф",
-    "fr": "Le détroit d’Ormuz ne retrouvera « jamais » son état d’avant-guerre, selon Ghalibaf de l’Iran",
-    "de": "Die Straße von Hormus werde „nie wieder in den Vorkriegszustand zurückkehren“, sagt Ghalibaf aus dem Iran",
-    "zh": "伊朗加利巴夫表示，霍尔木兹海峡“永远不会恢复”战前状态",
-    "ru": "Ормузский пролив «никогда не вернется» к довоенному состоянию, заявил иранский Галибаф"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Thousands march to mark Poland’s Independence Day",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
-   "ts": 1794430922,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Багатотисячний марш відзначає День Незалежності Польщі",
-    "fr": "Des milliers de personnes défilent pour marquer le Jour de l’Indépendance de la Pologne",
-    "de": "Tausende marschieren zum polnischen Unabhängigkeitstag",
-    "zh": "数千人游行纪念波兰独立日",
-    "ru": "Тысячи людей вышли на марш в честь Дня независимости Польши"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-   "ts": 1794430902,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Містифікаційні загрози вибуху спрямовані на школи по всій Італії, Великобританії та Ірландії",
-    "fr": "Des fausses alertes à la bombe ciblent des écoles en Italie, au Royaume-Uni et en Irlande",
-    "de": "Falsche Bombendrohungen richten sich gegen Schulen in ganz Italien, Großbritannien und Irland",
-    "zh": "骗局炸弹威胁针对意大利、英国和爱尔兰的学校",
-    "ru": "Ложные угрозы о взрыве нацелены на школы в Италии, Великобритании и Ирландии"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "investing_comm",
    "source": "Investing.com",
    "title": "Ukraine’s Zelenskiy says progress in peace talks hinges on US approach to Russia",
@@ -1341,60 +1554,6 @@
    "lang": "en"
   },
   {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "France turns back Israeli settler representative upon arrival in Paris",
-   "url": "https://www.france24.com/en/france/20261111-france-turns-back-israeli-settler-representative-upon-arrival-in-paris",
-   "ts": 1794430735,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Франція повертає представника ізраїльських поселенців після прибуття до Парижа",
-    "fr": "La France refoule le représentant des colons israéliens à son arrivée à Paris",
-    "de": "Frankreich weist israelischen Siedlervertreter bei seiner Ankunft in Paris zurück",
-    "zh": "以色列定居者代表抵达巴黎后法国将其遣返",
-    "ru": "Франция выгнала представителя израильских поселенцев по прибытии в Париж"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
-   "ts": 1794430671,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Саудівська Аравія перехоплює ракети хуситів, безпілотники; Група заперечує націлювання на Мекку",
-    "fr": "L’Arabie Saoudite intercepte des missiles et des drones Houthis ; le groupe nie avoir ciblé La Mecque",
-    "de": "Saudi-Arabien fängt Houthi-Raketen und Drohnen ab; Gruppe bestreitet Angriff auf Mekka",
-    "zh": "沙特阿拉伯拦截胡塞武装导弹、无人机；该组织否认针对麦加",
-    "ru": "Саудовская Аравия перехватывает ракеты и беспилотники хуситов; группировка отрицает нападение на Мекку"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
-   "ts": 1794430560,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ебола перевищила 11 000 випадків у найбільш смертоносному спалаху в Конго",
-    "fr": "Ebola dépasse les 11 000 cas, l'épidémie la plus meurtrière du Congo",
-    "de": "Ebola übersteigt 11.000 Fälle bei tödlichstem Ausbruch im Kongo",
-    "zh": "刚果最致命的埃博拉疫情爆发，病例数已突破 11,000 例",
-    "ru": "Эбола превысила 11 000 случаев в самой смертоносной вспышке в Конго"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears",
@@ -1410,24 +1569,6 @@
     "de": "CoreWeave löst eine Rallye der KI-Cloud-Aktie aus und steigert Nvidia, während die Ergebnisse die Blasenängste lindern",
     "zh": "CoreWeave 引发人工智能云股票上涨，提振英伟达，业绩缓解泡沫担忧",
     "ru": "CoreWeave спровоцировал рост акций облачных ИИ и поднял Nvidia, поскольку результаты ослабили опасения о пузыре"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv?oc=5",
-   "ts": 1794430063,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Під час останнього зриву до шкіл Італії, Великобританії та Ірландії надіслано фальшиві сповіщення про бомбу",
-    "fr": "Des alertes à la bombe ont été envoyées dans des écoles en Italie, au Royaume-Uni et en Irlande lors des dernières perturbations",
-    "de": "An Schulen in Italien, Großbritannien und Irland wurden aufgrund der jüngsten Störung Falschmeldungen zu Bombenangriffen gesendet",
-    "zh": "意大利、英国和爱尔兰的学校收到恶作剧炸弹警报，造成最新破坏",
-    "ru": "В школах Италии, Великобритании и Ирландии разосланы ложные оповещения о взрыве бомбы в связи с последними сбоями"
    },
    "lang": "en"
   },
@@ -1489,25 +1630,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-   "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-   "ts": 1794426939,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Сенат Міссісіпі: перевага Скотта Колома над Хайд-Смітом перевищує 4400 голосів",
-    "fr": "Sénat du Mississippi : Scott Colom devance Hyde-Smith avec plus de 4 400 voix",
-    "de": "Senat von Mississippi: Scott Colom liegt mit mehr als 4.400 Stimmen vor Hyde-Smith",
-    "zh": "密西西比州参议院：斯科特·科洛姆 (Scott Colom) 领先海德·史密斯 (Hyde-Smith) 超过 4,400 票",
-    "ru": "Сенат штата Миссисипи: Скотт Колом опережает Хайд-Смит, набрав более 4400 голосов"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
@@ -1523,25 +1645,6 @@
     "de": "Russland und die Ukraine einigen sich auf einen umfassenden Gefangenenaustausch, da die Gespräche ohne großen Durchbruch enden",
     "zh": "俄罗斯和乌克兰同意大规模交换囚犯 谈判结束但没有重大突破",
     "ru": "Россия и Украина договорились о крупном обмене пленными, поскольку переговоры закончились без существенного прорыва"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Migrants trek north through Mexico, buoyed by US election result",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkxPandKTDdzbkt0SWluZTZlaG1OUmk5RWhzZG9wTGZ5REI1c1VoczlsRHVEQUNhYm5SMDQxd3d5TlkxVTEtaTR1Sk5DQnFsY29UbnpyNm91U2c0TVRDWXMyMGVvZEhnYnoyRTRRYXhuLVEteEdqOTdMcEtpTWwwaGlsb3RuRjhNVnhaWnpieFg2VHVJWlJTdHVhUFlaRVM4UVJOZjViOWNzYWpS?oc=5",
-   "ts": 1794425230,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Мігранти прямують на північ через Мексику, підбадьорені результатами виборів у США",
-    "fr": "Les migrants se dirigent vers le nord en passant par le Mexique, soutenus par les résultats des élections américaines",
-    "de": "Beflügelt durch das US-Wahlergebnis ziehen Migranten durch Mexiko nach Norden",
-    "zh": "受美国大选结果鼓舞，移民穿越墨西哥北上",
-    "ru": "Мигранты идут на север через Мексику, воодушевленные результатами выборов в США"
    },
    "lang": "en"
   },
@@ -1636,25 +1739,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "China's foreign minister says call with Rubio was 'positive and constructive'",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXJHM3IyZ2pKbGQxZnlweUxZeFZwZFppUWxpdjJ2TmpyLWFkM1NjVDBwV01Icno3SV9QSG0xVlQwU1dGQ2lYWmR4SUpuU0FPNTFXSWtwYllacWNzSmJ2azlqQjhSTW5EUzhuWVNqRUltSnlWRi1mOVJpRjlYcHpHWjNDdFJZR1Yzd0J0b0JtQXZrSExTazBDVnBxMDNwRDVua2ljN2xwNFVuS2pKbkhEaG9Zc2tRMUNvS0E?oc=5",
-   "ts": 1794420833,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Міністр закордонних справ Китаю каже, що розмова з Рубіо була «позитивною та конструктивною»",
-    "fr": "Le ministre chinois des Affaires étrangères déclare que l'entretien avec Rubio a été \"positif et constructif\"",
-    "de": "Chinas Außenminister sagt, das Gespräch mit Rubio sei „positiv und konstruktiv“ gewesen",
-    "zh": "中国外长表示与卢比奥的通话是“积极和建设性的”",
-    "ru": "Министр иностранных дел Китая назвал разговор с Рубио «положительным и конструктивным»"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -1688,25 +1772,6 @@
     "de": "Burnham signalisiert Unterstützung für mehr Optionen zur ethnischen Zugehörigkeit bei der nächsten Volkszählung",
     "zh": "伯纳姆表示支持在下次人口普查中提供更多种族选择",
     "ru": "Бёрнем сигнализирует о поддержке большего количества вариантов этнической принадлежности в следующей переписи населения"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-   "url": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
-   "ts": 1794420152,
-   "sec": [
-    "market",
-    "politics"
-   ],
-   "t": {
-    "uk": "Загальний страйк паралізує Іспанію, оскільки протестувальники вступають у сутички з поліцією напередодні виборчої кампанії",
-    "fr": "Des grèves générales pour paralyser l'Espagne alors que les manifestants affrontent la police avant la campagne électorale",
-    "de": "Generalstreiks sollen Spanien lahmlegen, während Demonstranten vor dem Wahlkampf mit der Polizei zusammenstoßen",
-    "zh": "大选前抗议者与警察发生冲突，西班牙大罢工陷入瘫痪",
-    "ru": "Всеобщие забастовки парализуют Испанию из-за столкновений протестующих с полицией перед выборной кампанией"
    },
    "lang": "en"
   },
@@ -1959,25 +2024,6 @@
     "de": "Der ukrainische Sicherheitsdienst greift das russische Raketenschiff Naro-Fominsk an",
     "zh": "乌克兰安全部门击中俄罗斯导弹舰纳罗-福明斯克号",
     "ru": "Служба безопасности Украины нанесла удар по российскому ракетному кораблю \"Наро-Фоминск\""
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Alphabet eyes $3 billion Hong Kong, Singapore bond sale, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekxJWlNsQXlpSG80TzJHMDNiREl6ZC0zWEQ0S0FWVWZPXzJpQk5maC1NTFhXQjIyRmk5QlU1QnFxZ2VHZUNkVUNjOWo4azhLVzlHelE3dFk1UUU3UHllNUdiVzVaODFKSHJEZHQ4Q1d2a0FrLUJiYjM3bUlwZ01wODltVlYyY2YyM3dZV1piYjFmTFRlaVZNcVp3V0RMSlM2SHdPbllBTnQzNllPbGw5YWRERQ?oc=5",
-   "ts": 1794416962,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Джерела повідомляють, що Alphabet збирається продати облігації Гонконгу та Сінгапуру на 3 мільярди доларів",
-    "fr": "Alphabet envisage une vente d'obligations de Hong Kong et de Singapour pour 3 milliards de dollars, selon des sources",
-    "de": "Laut Quellen plant Alphabet den Verkauf von Hongkong- und Singapur-Anleihen im Wert von 3 Milliarden US-Dollar",
-    "zh": "消息人士称，Alphabet 计划在香港和新加坡发行 30 亿美元债券",
-    "ru": "Источники сообщают, что Alphabet планирует продать облигации Гонконга и Сингапура на сумму 3 миллиарда долларов"
    },
    "lang": "en"
   },
@@ -2238,24 +2284,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Russia strikes 6 major power substations, causing outages across Ukraine",
-   "url": "https://kyivindependent.com/russia-strikes-6-major-power-substations-causing-outages-across-ukraine/",
-   "ts": 1794412600,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія завдала ударів по 6 основних електропідстанціях, що призвело до збоїв по всій Україні",
-    "fr": "La Russie frappe 6 sous-stations électriques majeures, provoquant des pannes dans toute l'Ukraine",
-    "de": "Russland greift sechs große Umspannwerke an, was zu Ausfällen in der gesamten Ukraine führt",
-    "zh": "俄罗斯袭击6座主要变电站，导致乌克兰全境停电",
-    "ru": "Россия нанесла удар по 6 крупным электроподстанциям, что привело к отключениям электроэнергии по всей Украине"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russian drones attack Kyiv Oblast: one killed, several injured, kindergartens damaged",
@@ -2474,25 +2502,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Russian negotiator reports some progress after Ukraine talks, sees no EU role in process for now",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2RpSFF1Ym9mZkNRLTAyOFVnRk5JbzJmMmEydmFjMl9TS0lBdER0LVNieEZiSWlveXBwdjZtRkZuVWlWalBpdnNlZnZ6RmEtX3A2S0trZFF6OElSa0UyM1IxY1hUd1dnXzZzb2NZRVRkNUxJQmcycHhLN3JhRGo4RUo2N241cHpVeHMxWFlVeENaTFVtYk5GUUR6R3NYX2RxdmthQ0dKNlhKUkprN2tpNDVtVFhfWGVxUHlVbnN0bjRrUDA?oc=5",
-   "ts": 1794397615,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Російський учасник переговорів повідомляє про певний прогрес після переговорів з Україною, поки не бачить ролі ЄС у цьому процесі",
-    "fr": "Le négociateur russe fait état de certains progrès après les négociations sur l'Ukraine et ne voit aucun rôle de l'UE dans le processus pour l'instant",
-    "de": "Der russische Unterhändler berichtet von einigen Fortschritten nach den Gesprächen mit der Ukraine und sieht vorerst keine Rolle der EU im Prozess",
-    "zh": "俄罗斯谈判代表报告乌克兰谈判后取得了一些进展，但目前欧盟尚未发挥作用",
-    "ru": "Российский переговорщик сообщает о некотором прогрессе после переговоров по Украине, но пока не видит никакой роли ЕС в этом процессе"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Kennedys sue to block Trump's arch",
@@ -2598,6 +2607,25 @@
     "de": "Der freigesprochene „China-Spion“ erzählt der BBC: „Ich war ein Sündenbock für die Sicherheitsdienste, aber auch naiv.“",
     "zh": "无罪释放的“中国间谍”告诉BBC：我是安全部门的替罪羊，但也很天真",
     "ru": "Оправданный «китайский шпион» рассказал Би-би-си: Я был жертвой спецслужб, но при этом наивен"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Gold falls as hot inflation figures, higher dollar weigh",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
+   "ts": 1794368340,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Золото падає, оскільки гарячі цифри інфляції, зростання долара важить",
+    "fr": "L’or chute alors que les chiffres de l’inflation et la hausse du dollar pèsent",
+    "de": "Gold fällt, da heiße Inflationszahlen und ein höherer Dollar belasten",
+    "zh": "通胀数据升温、美元走强令金价下跌",
+    "ru": "Золото падает на фоне высоких показателей инфляции и роста доллара"
    },
    "lang": "en"
   },
@@ -2748,6 +2776,26 @@
    "lang": "en"
   },
   {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Man jailed over racist Badenoch death threats",
+   "url": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794229591,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Чоловіка ув'язнили за расистські погрози смертю Баденоха",
+    "de": "Mann wegen rassistischer Badenoch-Morddrohungen inhaftiert",
+    "zh": "男子因种族主义巴德诺克死亡威胁而入狱",
+    "ru": "Мужчину посадили в тюрьму за расистские угрозы расправы в Баденохе",
+    "_miss": [
+     "fr"
+    ]
+   },
+   "lang": "en"
+  },
+  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "From stockpiling to being polite to ChatGPT: Edith Pritchett’s week in Venn diagrams – cartoon",
@@ -2795,7 +2843,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 25
+   "items": 26
   },
   {
    "source": "guardian_business",
@@ -2835,7 +2883,7 @@
   {
    "source": "bbc_world",
    "ok": true,
-   "items": 26
+   "items": 27
   },
   {
    "source": "aljazeera",
@@ -2845,7 +2893,7 @@
   {
    "source": "guardian_world",
    "ok": true,
-   "items": 31
+   "items": 30
   },
   {
    "source": "dw_world",
@@ -2901,7 +2949,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
@@ -2930,9 +2978,10 @@
   },
   {
    "source": "translate",
-   "ok": true,
+   "ok": false,
    "requests": 10,
-   "translated": 165,
+   "translated": 175,
+   "failed": 15,
    "method": {
     "dict": 10
    }
