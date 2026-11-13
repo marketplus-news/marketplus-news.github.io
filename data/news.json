@@ -1,5 +1,5 @@
 {
- "updated": 1794558943,
+ "updated": 1794562484,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,21 +216,600 @@
  ],
  "items": [
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1794558760,
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "ts": 1794562213,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Лідери зустрічаються в Дубліні на тлі пошуку головного переговірника ЄС для мирних переговорів з Росією – Європа в прямому ефірі",
+    "fr": "Les dirigeants se réunissent à Dublin dans le cadre de la recherche du principal négociateur de l'UE pour les négociations de paix avec la Russie - L'Europe en direct",
+    "de": "Staats- und Regierungschefs treffen sich in Dublin auf der Suche nach einem führenden EU-Verhandlungsführer für Friedensgespräche mit Russland – Europa live",
+    "zh": "领导人在都柏林会面，寻找与俄罗斯进行和平谈判的欧盟首席谈判代表 - Europe live",
+    "ru": "Лидеры встречаются в Дублине на фоне поиска ведущего переговорщика ЕС для мирных переговоров с Россией - Europe live"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Heat pumps: How much heat does your home really need?",
+   "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794562165,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Теплові насоси: скільки тепла дійсно потрібно вашому будинку?",
+    "fr": "Pompes à chaleur : de quelle quantité de chaleur votre maison a-t-elle réellement besoin ?",
+    "de": "Wärmepumpen: Wie viel Wärme braucht Ihr Zuhause wirklich?",
+    "zh": "热泵：您的家真正需要多少热量？",
+    "ru": "Тепловые насосы: сколько тепла действительно нужно вашему дому?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+   "url": "https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
+   "ts": 1794561894,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Відхід Хуанга та ретельний контроль США загрожують 3 мільярдам доларів у китайських проектах штучного інтелекту, які залежать від Nvidia",
+    "fr": "La sortie de Huang et la surveillance américaine mettent en péril 3 milliards de dollars de projets d'IA chinois dépendants de Nvidia",
+    "de": "Der Ausstieg von Huang und die US-Kontrolle gefährden chinesische KI-Projekte im Wert von 3 Milliarden US-Dollar, die von Nvidia abhängig sind",
+    "zh": "黄仁勋的退出和美国的审查将危及依赖英伟达的 30 亿美元中国人工智能项目",
+    "ru": "Уход Хуана и контроль со стороны США ставят под угрозу 3 миллиарда долларов для китайских проектов искусственного интеллекта, зависящих от Nvidia"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption",
+   "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+   "ts": 1794561873,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Збій корпорації Майкрософт у прямому ефірі: британська поліція, служби охорони здоров’я та школи постраждали через триваючі глобальні збої",
+    "fr": "Panne de Microsoft en direct : la police britannique, les services du NHS et les écoles touchés dans un contexte de perturbation mondiale continue",
+    "de": "Microsoft-Ausfall live: Britische Polizei, NHS-Dienste und Schulen sind von anhaltenden globalen Störungen betroffen",
+    "zh": "微软宕机直播：英国警察、NHS 服务和学校在全球持续的混乱中受到影响",
+    "ru": "Отключение Microsoft в прямом эфире: полиция Великобритании, службы Национальной службы здравоохранения и школы пострадали из-за продолжающегося глобального сбоя"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "European shares retreat from record highs after Nvidia CEO’s exit",
+   "url": "https://www.investing.com/news/stock-market-news/european-shares-retreat-from-record-highs-ai-uncertainty-weighs-5024437",
+   "ts": 1794561863,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Європейські акції відступили від рекордних значень після відходу генерального директора Nvidia",
+    "fr": "Les actions européennes reculent après le départ du PDG de Nvidia",
+    "de": "Europäische Aktien fallen nach dem Ausscheiden des Nvidia-CEOs von Rekordhochs zurück",
+    "zh": "英伟达首席执行官退出后欧洲股市从历史高位回落",
+    "ru": "Европейские акции откатились от рекордных максимумов после ухода генерального директора Nvidia"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: eMemory Q3 2026 misses forecasts as stock slips",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ememory-q3-2026-misses-forecasts-as-stock-slips-93CH-5024590",
+   "ts": 1794561849,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: eMemory Q3 2026 не відповідає прогнозам через падіння акцій",
+    "fr": "Transcription de l'appel aux résultats : eMemory Q3 2026 manque les prévisions en raison de la baisse des stocks",
+    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: eMemory Q3 2026 verfehlt die Prognosen, da die Aktie abrutscht",
+    "zh": "财报电话会议记录：eMemory 2026 年第三季度业绩未达预期，因股价下跌",
+    "ru": "Стенограмма отчета о прибылях и убытках: eMemory за третий квартал 2026 года не соответствует прогнозам из-за падения запасов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Sony Financial Group tops H1 2026 profit, shares slip",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sony-financial-group-tops-h1-2026-profit-shares-slip-93CH-5024589",
+   "ts": 1794561844,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: фінансова група Sony перевищила прибуток за перше півріччя 2026 року, акції падають",
+    "fr": "Transcription de l'appel aux résultats : Sony Financial Group dépasse les bénéfices du premier semestre 2026, les actions chutent",
+    "de": "Protokoll der Telefonkonferenz: Sony Financial Group übertrifft den Gewinn im ersten Halbjahr 2026, Aktien fallen",
+    "zh": "财报电话会议记录：索尼金融集团 2026 年上半年利润高居榜首，股价下滑",
+    "ru": "Стенограмма отчета о прибылях и убытках: Sony Financial Group превысила прибыль в первом полугодии 2026 года, акции упали"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Earnings call transcript: Deutsche EuroShop lifts 2026 outlook after solid Q3",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-deutsche-euroshop-lifts-2026-outlook-after-solid-q3-93CH-5024588",
+   "ts": 1794561795,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Стенограма розмови про прибутки: Deutsche EuroShop покращує прогноз на 2026 рік після стабільного третього кварталу",
+    "fr": "Transcription de l'appel aux résultats : Deutsche EuroShop relève ses perspectives pour 2026 après un solide T3",
+    "de": "Protokoll der Telefonkonferenz: Deutsche EuroShop hebt Ausblick für 2026 nach solidem 3. Quartal an",
+    "zh": "财报电话会议记录：Deutsche EuroShop 在第三季度业绩稳健后上调 2026 年前景",
+    "ru": "Стенограмма отчета о прибылях и убытках: Deutsche EuroShop повышает прогноз на 2026 год после уверенного третьего квартала"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Orsero 9M 2026 slides: profit falls as commodity pressure hits margins",
+   "url": "https://www.investing.com/news/company-news/orsero-9m-2026-slides-profit-falls-as-commodity-pressure-hits-margins-93CH-5024587",
+   "ts": 1794561695,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Orsero 9M 2026 знижується: прибуток падає, оскільки товарний тиск вдаряє по маржі",
+    "fr": "Orsero 9M 2026 glisse : les bénéfices chutent alors que la pression sur les matières premières pèse sur les marges",
+    "de": "Orsero 9M 2026 rutscht ab: Gewinn sinkt, da der Rohstoffdruck die Margen beeinträchtigt",
+    "zh": "Orsero 9M 2026 下滑：由于大宗商品压力影响利润率，利润下降",
+    "ru": "Результаты Orsero за 9 месяцев 2026 года падают: прибыль падает, поскольку давление на сырьевые товары влияет на рентабельность"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Czechia could deliver first four L-39 Skyfox jets to Ukraine in 2027, foreign minister says",
+   "url": "https://kyivindependent.com/czechia-could-deliver-first-four-l-39-skyfox-jets-to-ukraine-in-2027-foreign-minister-says/",
+   "ts": 1794561677,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Чехія може поставити Україні перші чотири літаки L-39 Skyfox у 2027 році, – міністр закордонних справ",
+    "fr": "La Tchéquie pourrait livrer ses quatre premiers avions L-39 Skyfox à l'Ukraine en 2027, selon le ministre des Affaires étrangères",
+    "de": "Tschechien könnte 2027 die ersten vier L-39 Skyfox-Jets an die Ukraine liefern, sagt Außenminister",
+    "zh": "捷克外交部长表示，捷克可能于 2027 年向乌克兰交付首批四架 L-39 Skyfox 喷气式飞机",
+    "ru": "Чехия может поставить Украине первые четыре самолета L-39 Skyfox в 2027 году, заявил министр иностранных дел"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Stock futures fall after markets slide amid Nvidia woes: Live updates",
+   "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "ts": 1794561663,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ф'ючерси на акції падають після падіння ринків на тлі проблем Nvidia: актуальні оновлення",
+    "fr": "Les contrats à terme sur actions chutent après la chute des marchés au milieu des malheurs de Nvidia : mises à jour en direct",
+    "de": "Aktien-Futures fallen, nachdem die Märkte angesichts der Nvidia-Probleme nachgeben: Live-Updates",
+    "zh": "英伟达陷入困境导致市场下滑后，股票期货下跌：实时更新",
+    "ru": "Фьючерсы на акции падают после падения рынков на фоне проблем Nvidia: текущие обновления"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Why is Cerebras Systems stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-surging-today-93CH-5024586",
+   "ts": 1794561655,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чому акції Cerebras Systems сьогодні стрімко зростають?",
+    "fr": "Pourquoi le titre de Cerebras Systems augmente-t-il aujourd’hui ?",
+    "de": "Warum steigt die Aktie von Cerebras Systems heute stark an?",
+    "zh": "为什么 Cerebras Systems 的股票今天飙升？",
+    "ru": "Почему акции Cerebras Systems сегодня растут?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Piper Sandler initiates Innio stock with overweight rating on power demand",
+   "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-initiates-innio-stock-with-overweight-rating-on-power-demand-93CH-5024585",
+   "ts": 1794561654,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Пайпер Сендлер ініціює акцію Innio з рейтингом надмірної ваги за потребою в електроенергії",
+    "fr": "Piper Sandler lance l'action Innio avec une surpondération sur la demande d'électricité",
+    "de": "Piper Sandler führt die Innio-Aktie mit einer Übergewichtung der Stromnachfrage ein",
+    "zh": "Piper Sandler 对 Innio 股票给予增持电力需求评级",
+    "ru": "Пайпер Сэндлер инициирует размещение акций Innio с завышенным рейтингом из-за спроса на электроэнергию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian offensive loses momentum as advance on frontline slows significantly – Ukraine’s Air Assault Commander",
+   "url": "https://www.ukrinform.net/rubric-ato/4184240-russian-offensive-loses-momentum-as-advance-on-frontline-slows-significantly-ukraines-air-assault-commander.html",
+   "ts": 1794561600,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російський наступ втрачає оберти, оскільки просування на лінії фронту значно сповільнюється – командувач десантно-штурмовими силами України",
+    "fr": "L’offensive russe perd de son élan alors que l’avancée sur la ligne de front ralentit considérablement – ​​commandant de l’assaut aérien ukrainien",
+    "de": "Die russische Offensive verliert an Schwung, da sich der Vormarsch an der Front erheblich verlangsamt – der Luftangriffskommandeur der Ukraine",
+    "zh": "乌克兰空中突击司令称，前线推进速度明显放缓，俄罗斯进攻失去动力",
+    "ru": "Российское наступление теряет темп, поскольку продвижение на линии фронта значительно замедляется – командующий ВДВ Украины"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+   "ts": 1794561589,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Nvidia виросли на кілька дюймів, оскільки інвестори продовжують оцінювати відхід Дженсена Хуанга",
+    "fr": "L’action Nvidia progresse alors que les investisseurs continuent de peser sur le départ de Jensen Huang",
+    "de": "Die Nvidia-Aktie steigt nur Zentimeter, da die Anleger weiterhin den Abgang von Jensen Huang abwägen",
+    "zh": "投资者继续权衡黄仁勋的离职，英伟达股价小幅上涨",
+    "ru": "Акции Nvidia растут, поскольку инвесторы продолжают взвешивать уход Дженсена Хуанга"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "🔴 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
+   "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+   "ts": 1794561503,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "🔴 У прямому ефірі: корпорації Майкрософт «не відомо про будь-які зловмисні дії», що спричинили глобальний збій у роботі Outlook",
+    "fr": "🔴 Live : Microsoft \"n'a connaissance d'aucune activité malveillante\" derrière la panne mondiale d'Outlook",
+    "de": "🔴 Live: Microsoft ist sich keiner böswilligen Aktivität bewusst, die hinter dem weltweiten Outlook-Ausfall steckt",
+    "zh": "🔴直播：微软“不知道全球 Outlook 中断背后有任何恶意活动”",
+    "ru": "🔴 Прямой эфир: Microsoft «не знает о какой-либо вредоносной деятельности», приведшей к глобальному отключению Outlook"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Pope Leo XIV warns on pressures facing modern families",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+   "ts": 1794561097,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Папа Лев XIV попереджає про тиск, з яким стикаються сучасні сім’ї",
+    "fr": "Le pape Léon XIV met en garde contre les pressions auxquelles sont confrontées les familles modernes",
+    "de": "Papst Leo XIV. warnt vor dem Druck, dem moderne Familien ausgesetzt sind",
+    "zh": "教皇利奥十四世警告现代家庭面临的压力",
+    "ru": "Папа Лев XIV предупреждает о давлении, с которым сталкиваются современные семьи"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "What we know about the global Microsoft outage",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "ts": 1794561057,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Що ми знаємо про глобальний збій Microsoft",
+    "fr": "Ce que nous savons de la panne mondiale de Microsoft",
+    "de": "Was wir über den weltweiten Microsoft-Ausfall wissen",
+    "zh": "我们对微软全球宕机的了解",
+    "ru": "Что мы знаем о глобальном сбое в работе Microsoft"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+   "url": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+   "ts": 1794560940,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Моя дружина хвора на деменцію і може пережити мене. Як ми підготуємося до догляду за довготривалою пам’яттю?",
+    "fr": "Ma femme souffre de démence et pourrait me survivre. Comment se préparer aux soins de la mémoire à long terme ?",
+    "de": "Meine Frau hat Demenz und wird mich möglicherweise überleben. Wie bereiten wir uns auf die Pflege des Langzeitgedächtnisses vor?",
+    "zh": "我的妻子患有痴呆症，可能比我活得更久。我们如何为长期记忆护理做好准备？",
+    "ru": "У моей жены деменция, и она может пережить меня. Как нам подготовиться к заботе о долговременной памяти?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "ts": 1794560896,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Корпорація Майкрософт намагається усунути глобальний збій, що впливає на Teams і Outlook",
+    "fr": "Microsoft s'efforce de résoudre une panne mondiale affectant Teams et Outlook",
+    "de": "Microsoft bemüht sich, den globalen Ausfall zu beheben, der Teams und Outlook betrifft",
+    "zh": "微软紧急修复影响 Teams 和 Outlook 的全球中断问题",
+    "ru": "Microsoft пытается исправить глобальный сбой, затрагивающий Teams и Outlook"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "European Alliance of News Agencies expels TASS",
+   "url": "https://www.ukrinform.net/rubric-ato/4184226-european-alliance-of-news-agencies-expels-tass.html",
+   "ts": 1794560400,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Європейський альянс інформаційних агентств виключає ТАСС",
+    "fr": "L'Alliance européenne des agences de presse exclut TASS",
+    "de": "Europäische Allianz der Nachrichtenagenturen schließt TASS aus",
+    "zh": "欧洲通讯社联盟驱逐塔斯社",
+    "ru": "Европейский альянс информационных агентств исключил ТАСС"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Who gets to tell the world’s news?",
+   "url": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
+   "ts": 1794559871,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Хто може повідомляти світові новини?",
+    "fr": "Qui peut annoncer l’actualité du monde ?",
+    "de": "Wer darf die Nachrichten der Welt erzählen?",
+    "zh": "谁能告诉世界新闻？",
+    "ru": "Кто будет рассказывать мировые новости?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
+   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+   "ts": 1794559843,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прибутковість казначейських облігацій зростає, оскільки трейдери посилюють ставки на підвищення ставок ФРС",
+    "fr": "Les rendements du Trésor augmentent alors que les traders renforcent leurs paris sur la hausse des taux de la Fed",
+    "de": "Die Renditen von Staatsanleihen steigen, da Händler ihre Wetten auf eine Zinserhöhung durch die Fed verstärken",
+    "zh": "随着交易员加大美联储加息押注，美国国债收益率上升",
+    "ru": "Доходность казначейских облигаций растет, поскольку трейдеры усиливают ставки на повышение ставок ФРС"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+   "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+   "ts": 1794559799,
    "sec": [
     "world",
     "politics"
    ],
    "t": {
-    "uk": "Результати виборів до Сенату США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
+    "uk": "Хуанга Лутніка з Nvidia викликали для свідчень у Сенаті США",
+    "fr": "Huang et Lutnick de Nvidia convoqués pour témoigner devant le Sénat américain",
+    "de": "Huang und Lutnick von Nvidia wurden vorgeladen, um vor dem US-Senat auszusagen",
+    "zh": "英伟达的黄、卢特尼克被传唤到美国参议院作证",
+    "ru": "Хуанг и Лютник из Nvidia вызваны для дачи показаний в Сенате США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+   "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+   "ts": 1794559759,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Шторм Чарльз спричинив повені та скасування рейсів у південній Європі",
+    "fr": "La tempête Charles provoque des inondations et des annulations de vols dans le sud de l'Europe",
+    "de": "Sturm Charles verursacht Überschwemmungen und Flugausfälle in ganz Südeuropa",
+    "zh": "查尔斯风暴导致南欧洪水泛滥并导致航班取消",
+    "ru": "Шторм Чарльз вызвал наводнения и отмену рейсов на юге Европы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Car of former aide to fugitive ex-PM Azarov explodes in Moscow – video",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062667/",
+   "ts": 1794559560,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Москві вибухнула машина колишнього помічника екс-прем'єра-втікача Азарова – відео",
+    "fr": "La voiture de l’ancien assistant de l’ex-Premier ministre fugitif Azarov explose à Moscou – vidéo",
+    "de": "Auto des ehemaligen Beraters des flüchtigen Ex-Premierministers Asarow explodiert in Moskau – Video",
+    "zh": "逃亡的前总理阿扎罗夫的前助手的汽车在莫斯科爆炸 - 视频",
+    "ru": "В Москве взорвался автомобиль бывшего помощника беглого экс-премьера Азарова – видео"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian attack on Vinnytsia: three injured, over 20 homes damaged",
+   "url": "https://www.ukrinform.net/rubric-ato/4184217-russian-attack-on-vinnytsia-three-injured-over-20-homes-damaged.html",
+   "ts": 1794559500,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Напад росіян на Вінницю: троє поранених, понад 20 будинків пошкоджено",
+    "fr": "Attaque russe sur Vinnytsia : trois blessés et plus de 20 maisons endommagées",
+    "de": "Russischer Angriff auf Winnyzja: drei Verletzte, über 20 Häuser beschädigt",
+    "zh": "俄罗斯袭击文尼察：三人受伤，20多所房屋受损",
+    "ru": "Нападение России на Винницу: трое ранены, более 20 домов повреждены"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Hungarian PM eyes Zakarpattia for next talks with Zelenskyy",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062666/",
+   "ts": 1794559380,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Прем'єр-міністр Угорщини дивиться на Закарпаття для наступних переговорів із Зеленським",
+    "fr": "Le Premier ministre hongrois envisage la Transcarpatie pour ses prochains entretiens avec Zelensky",
+    "de": "Ungarischer Premierminister strebt Transkarpatien als nächstes Gespräch mit Selenskyj an",
+    "zh": "匈牙利总理关注外喀尔巴阡与泽伦斯基的下一次会谈",
+    "ru": "Премьер Венгрии рассматривает Закарпатье для следующих переговоров с Зеленским"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
+   "ts": 1794559265,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "ЗМІ повідомляють, що другий замінований автомобіль у Росії за два дні був націлений на українського політичного помічника у вигнанні",
+    "fr": "La deuxième voiture piégée à frapper la Russie en deux jours vise un assistant politique ukrainien en exil, selon les médias",
+    "de": "Die zweite Autobombe, die innerhalb von zwei Tagen in Russland einschlug, zielte laut Medienbericht auf einen im Exil lebenden ukrainischen politischen Berater ab",
+    "zh": "媒体报道，两天内第二起袭击俄罗斯的汽车炸弹袭击了流亡的乌克兰政治助手",
+    "ru": "Вторая заминированная машина, взорванная в России за два дня, нацелена на украинского политического помощника в изгнании, сообщают СМИ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Colorado U.S. House Election Live Results 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+   "ts": 1794559123,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Палату представників США у Колорадо в реальному часі 2026 року",
+    "fr": "Résultats en direct des élections législatives américaines au Colorado 2026",
+    "de": "Live-Ergebnisse der US-Repräsentantenhauswahl in Colorado 2026",
+    "zh": "2026 年科罗拉多州美国众议院选举实时结果",
+    "ru": "Прямые результаты выборов в Палату представителей США в Колорадо 2026 г."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "dw_world",
+   "source": "DW",
+   "title": "Czechia braces for massive protest against cuts to public media",
+   "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-world-4025-rdf",
+   "ts": 1794558900,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Чехія готується до масового протесту проти скорочення публічних ЗМІ",
+    "fr": "La Tchéquie se prépare à une protestation massive contre les coupes dans les médias publics",
+    "de": "Tschechien bereitet sich auf massiven Protest gegen Kürzungen bei den öffentlich-rechtlichen Medien vor",
+    "zh": "捷克准备应对削减公共媒体的大规模抗议",
+    "ru": "Чехия готовится к массовым протестам против сокращения государственных СМИ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "dw_world",
+   "source": "DW",
+   "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+   "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-world-4025-rdf",
+   "ts": 1794558780,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Після найгіршого результату на виборах, що буде далі для АНК — і Південної Африки?",
+    "fr": "Après avoir subi son pire résultat électoral, quelle est la prochaine étape pour l’ANC – et pour l’Afrique du Sud ?",
+    "de": "Wie geht es für den ANC – und für Südafrika – nach seinem schlechtesten Wahlergebnis weiter?",
+    "zh": "在经历了最糟糕的选举结果之后，非洲人国民大会以及南非下一步将何去何从？",
+    "ru": "После худшего результата на выборах, что будет дальше с АНК – и с Южной Африкой?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian overnight attack partially destroys second floor of Kyiv hospital, injures three patients",
+   "url": "https://www.ukrinform.net/rubric-ato/4184199-russian-overnight-attack-partially-destroys-second-floor-of-kyiv-hospital-injures-three-patients.html",
+   "ts": 1794558600,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російська нічна атака частково зруйнувала другий поверх київської лікарні, поранила трьох пацієнтів",
+    "fr": "Une attaque russe nocturne détruit partiellement le deuxième étage de l'hôpital de Kyiv et blesse trois patients",
+    "de": "Ein nächtlicher russischer Angriff zerstört den zweiten Stock des Kiewer Krankenhauses teilweise und verletzt drei Patienten",
+    "zh": "俄罗斯夜间袭击部分摧毁基辅医院二楼，造成三名患者受伤",
+    "ru": "Ночная атака россиян частично разрушила второй этаж киевской больницы, ранили трех пациентов"
    },
    "lang": "en"
   },
@@ -249,24 +828,6 @@
     "de": "Der Quartalsgewinn von Gillette India steigt, da Kosteneinsparungen den Rohstoffdruck abfedern",
     "zh": "成本节约缓解大宗商品压力，吉列印度季度利润增长",
     "ru": "Квартальная прибыль Gillette India выросла, поскольку экономия на издержках смягчает давление на сырьевые товары"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "European shares retreat from record highs, AI uncertainty weighs",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWm5qbFo0U2Q0eXFfdXJfMktJWjZsdnBnOHVmc1BBbWg3bjA0d0g1cGpsRnBaTlN0V2VCTkFsNjFWMmJJVnFuQnNwSFhuVE1mLU5YZWhlRXZ0b1hyczN3R3hQajFzREtZbGl2Yk5FYkNvVGMwc0ZiZUR4RXd3UE1mNEdwV1ZIajlrSGpLbXdpQWxwMUJzY0lxcEV3Vm1aaS1abEE3Q3dvUDhmdjdfSUE?oc=5",
-   "ts": 1794558471,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Європейські акції відступають від рекордних максимумів, невизначеність AI обтяжує",
-    "fr": "Les actions européennes reculent après des niveaux records, l'incertitude liée à l'IA pèse",
-    "de": "Europäische Aktien fallen von Rekordhochs zurück, KI-Unsicherheit belastet",
-    "zh": "欧洲股市从历史高位回落，人工智能不确定性承压",
-    "ru": "Европейские акции отступают от рекордных максимумов, давит неопределенность в отношении искусственного интеллекта"
    },
    "lang": "en"
   },
@@ -291,6 +852,24 @@
   {
    "feed": "reuters_markets",
    "source": "Reuters",
+   "title": "Japan core inflation seen above BOJ target for second month in October - Reuters poll",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0pfOENVMDJpbWFyVVFiYnVUYXJtR3NvT3A4Y3c2N1d0aFVUZUZ2VFV2eWpKdUE0YmlMOUdEQ1FDUFRSbjhMMnJLY2RpRWpweEdoUXY3RUVYZ2M2bWhSYUJZRGUyNUtaWU05czFiMDFhLTFOQ2hUemY0Y0E3MzBlU0h2Q0RyRHkxQnAzZjNXbnJ4VHpfMVlaeGl1UFBmTVdZM2hwNUdXaWV0N0tTNlR3?oc=5",
+   "ts": 1794558370,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Базова інфляція в Японії перевищила цільовий показник Банку Японії за другий місяць жовтня – опитування Reuters",
+    "fr": "L'inflation sous-jacente au Japon est supérieure à l'objectif de la BoJ pour le deuxième mois d'octobre, selon un sondage Reuters",
+    "de": "Die japanische Kerninflation liegt im Oktober im zweiten Monat über dem BoJ-Ziel – Reuters-Umfrage",
+    "zh": "路透调查显示，日本10月份核心通胀率连续第二个月高于日本央行目标",
+    "ru": "Базовая инфляция в Японии выше целевого показателя Банка Японии второй месяц октября - опрос Reuters"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_markets",
+   "source": "Reuters",
    "title": "French inflation rises to 3.7% in October, highest since December 2023",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2steXdBX2VTR25CVnVIWlV5WUVXOWNqZkVxM0VKeGpYcWR0WlRUai04aG9Vb09xa25yZFRUSGZ2YW90alhrOWd1X2kwdmQ4RngyVHU5QlB5RG12RThUM3VqYnMweVV6VHVNbHFkVVRLS0tOdjYtdkE5R1haZkp5OXVXSkJYQ3RNVzlwZlhucVg5b2FNdFhCSnZfdUo3YmJPSzNMS3pKc1R1aVla?oc=5",
    "ts": 1794558347,
@@ -307,201 +886,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "FTSE 100 today: Stocks edge lower as Iran, Ukraine uncertainty weigh",
-   "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-iran-ukraine-uncertainty-weigh-5024404",
-   "ts": 1794558248,
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Drone attack sparks fire at one of Russia's largest oil refineries in Volgograd – media",
+   "url": "https://www.ukrinform.net/rubric-ato/4184190-drone-attack-sparks-fire-at-one-of-russias-largest-oil-refineries-in-volgograd-media.html",
+   "ts": 1794557700,
    "sec": [
-    "market",
     "ukraine"
    ],
    "t": {
-    "uk": "FTSE 100 сьогодні: фондові ринки різко знижуються через невизначеність в Ірані та Україні",
-    "fr": "FTSE 100 aujourd'hui : les actions baissent alors que l'incertitude pèse sur l'Iran et l'Ukraine",
-    "de": "FTSE 100 heute: Die Aktien fallen aufgrund der Unsicherheit über den Iran und die Ukraine",
-    "zh": "今日富时 100 指数：伊朗、乌克兰不确定性影响股市小幅走低",
-    "ru": "FTSE 100 сегодня: Акции падают, поскольку неопределенность в Иране и Украине давит"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Morgan Stanley resumes Fox stock coverage citing Roku deal synergies",
-   "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-resumes-fox-stock-coverage-citing-roku-deal-synergies-93CH-5024413",
-   "ts": 1794558177,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Morgan Stanley відновлює висвітлення акцій Fox, посилаючись на синергію угоди Roku",
-    "fr": "Morgan Stanley reprend la couverture des actions Fox en invoquant les synergies de l'accord Roku",
-    "de": "Morgan Stanley nimmt die Berichterstattung über die Fox-Aktie unter Berufung auf Synergien aus dem Roku-Deal wieder auf",
-    "zh": "摩根士丹利以 Roku 交易协同效应为由恢复对福克斯股票的报道",
-    "ru": "Morgan Stanley возобновляет освещение акций Fox, ссылаясь на синергию сделки Roku"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Jefferies upgrades Steris stock rating on valuation, easing headwinds",
-   "url": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-steris-stock-rating-on-valuation-easing-headwinds-93CH-5024412",
-   "ts": 1794558175,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Джеффріс підвищив рейтинг акцій Steris щодо оцінки, пом’якшивши зустрічний вітер",
-    "fr": "Jefferies relève la note de l'action Steris en fonction de sa valorisation, atténuant les vents contraires",
-    "de": "Jefferies erhöht die Bewertung der Steris-Aktie aufgrund der Bewertung und mildert damit den Gegenwind",
-    "zh": "杰富瑞 (Jefferies) 上调 Steris 股票估值评级，缓解不利因素",
-    "ru": "Джеффрис повысил рейтинг акций Steris на основе оценки, ослабив препятствия"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates",
-   "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "ts": 1794558013,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ф'ючерси на акції знижуються після падіння ринків на тлі проблем Nvidia: актуальні оновлення",
-    "fr": "Les contrats à terme sur actions baissent après la chute des marchés au milieu des malheurs de Nvidia : mises à jour en direct",
-    "de": "Aktien-Futures fallen nach unten, nachdem die Märkte angesichts der Nvidia-Probleme eingebrochen sind: Live-Updates",
-    "zh": "因英伟达陷入困境而市场下滑后，股票期货小幅走低：实时更新",
-    "ru": "Фьючерсы на акции падают после падения рынков на фоне проблем Nvidia: текущие обновления"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "MUFG raises annual profit target, announces 200 billion yen buyback",
-   "url": "https://www.investing.com/news/earnings/mufg-raises-annual-profit-target-announces-200-billion-yen-buyback-5024403",
-   "ts": 1794557826,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "MUFG підвищує цільовий річний прибуток, оголошує про викуп 200 мільярдів ієн",
-    "fr": "MUFG relève son objectif de bénéfice annuel et annonce un rachat de 200 milliards de yens",
-    "de": "MUFG erhöht das jährliche Gewinnziel und kündigt einen Rückkauf in Höhe von 200 Milliarden Yen an",
-    "zh": "三菱日联提高年度利润目标，宣布回购2000亿日元",
-    "ru": "MUFG повышает годовую цель по прибыли и объявляет о выкупе акций на 200 миллиардов иен"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Rothschild downgrades Broadcom stock rating on AI financing concerns",
-   "url": "https://www.investing.com/news/analyst-ratings/rothschild-downgrades-broadcom-stock-rating-on-ai-financing-concerns-93CH-5024402",
-   "ts": 1794557812,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Rothschild знизив рейтинг акцій Broadcom через проблеми з фінансуванням ШІ",
-    "fr": "Rothschild abaisse la note de Broadcom en raison de problèmes de financement de l'IA",
-    "de": "Rothschild stuft die Bewertung der Broadcom-Aktie aufgrund von Bedenken hinsichtlich der KI-Finanzierung herab",
-    "zh": "罗斯柴尔德因人工智能融资担忧而下调博通股票评级",
-    "ru": "Ротшильд понизил рейтинг акций Broadcom из-за проблем с финансированием ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Microsoft outage live: ‘positive results for server stability’ reported, amid global disruption",
-   "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-   "ts": 1794557811,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Збій корпорації Майкрософт в прямому ефірі: повідомляється про «позитивні результати для стабільності сервера» на тлі глобального збою",
-    "fr": "Panne de Microsoft en direct : « résultats positifs pour la stabilité des serveurs » signalés, dans un contexte de perturbation mondiale",
-    "de": "Microsoft-Ausfall live: „Positive Ergebnisse für die Serverstabilität“ wurden inmitten globaler Störungen gemeldet",
-    "zh": "微软实时中断：全球中断期间报告“服务器稳定性取得积极成果”",
-    "ru": "Отключение Microsoft в прямом эфире: сообщается о «положительных результатах стабильности сервера» на фоне глобальных потрясений"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Rpm director Frederick Nance sells $197,125 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/rpm-director-frederick-nance-sells-197125-in-company-stock-93CH-5024401",
-   "ts": 1794557796,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Rpm Фредерік Ненс продає акції компанії за 197 125 доларів",
-    "fr": "Le directeur de Rpm, Frederick Nance, vend 197 125 $ d'actions de la société",
-    "de": "Rpm-Direktor Frederick Nance verkauft Unternehmensaktien im Wert von 197.125 US-Dollar",
-    "zh": "Rpm 董事 Frederick Nance 出售价值 197,125 美元的公司股票",
-    "ru": "Директор RPM Фредерик Нэнс продает акции компании на сумму 197 125 долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Everpure chief visionary officer John Colgrove sells $10.1M in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/everpure-chief-visionary-officer-john-colgrove-sells-101m-in-stock-93CH-5024400",
-   "ts": 1794557787,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Головний спеціаліст Everpure Джон Колгроув продає акції на суму 10,1 мільйона доларів",
-    "fr": "John Colgrove, directeur visionnaire d'Everpure, vend 10,1 millions de dollars d'actions",
-    "de": "John Colgrove, Chief Visionary Officer von Everpure, verkauft Aktien im Wert von 10,1 Millionen US-Dollar",
-    "zh": "Everpure 首席远见官 John Colgrove 出售价值 1010 万美元的股票",
-    "ru": "Главный дальновидный директор Everpure Джон Колгроув продает акции на сумму 10,1 миллиона долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Cytokinetics director B. Lynne Parshall sells $273,634 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/cytokinetics-director-b-lynne-parshall-sells-273634-in-shares-93CH-5024399",
-   "ts": 1794557781,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Cytokinetics Б. Лінн Паршалл продає акції на суму 273 634 дол",
-    "fr": "La directrice de la cytocinétique, B. Lynne Parshall, vend 273 634 $ d'actions",
-    "de": "Zytokinetik-Direktorin B. Lynne Parshall verkauft Aktien im Wert von 273.634 US-Dollar",
-    "zh": "Cytokinetics 董事 B. Lynne Parshall 出售价值 273,634 美元的股票",
-    "ru": "Директор по цитокинетике Б. Линн Паршалл продает акции на сумму 273 634 доллара."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "ts": 1794557771,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Microsoft «бачить позитивні результати» від спроб усунути глобальний збій, що впливає на Teams і Outlook",
-    "fr": "Microsoft « constate des résultats positifs » grâce aux tentatives visant à résoudre la panne mondiale affectant Teams et Outlook",
-    "de": "Microsoft „sieht positive Ergebnisse“ bei Versuchen, globale Ausfälle zu beheben, die Teams und Outlook betreffen",
-    "zh": "微软尝试修复影响 Teams 和 Outlook 的全球中断，“看到了积极成果”",
-    "ru": "Microsoft «видит положительные результаты» от попыток исправить глобальный сбой, затрагивающий Teams и Outlook"
+    "uk": "Атака безпілотника викликала пожежу на одному з найбільших російських нафтопереробних заводів у Волгограді – ЗМІ",
+    "fr": "Une attaque de drone déclenche un incendie dans l'une des plus grandes raffineries de pétrole de Russie à Volgograd – médias",
+    "de": "Drohnenangriff löst Feuer in einer der größten Ölraffinerien Russlands in Wolgograd aus – Medien",
+    "zh": "无人机袭击导致伏尔加格勒俄罗斯最大炼油厂之一起火——媒体",
+    "ru": "Атака дрона привела к пожару на одном из крупнейших нефтеперерабатывающих заводов России в Волгограде – СМИ"
    },
    "lang": "en"
   },
@@ -520,6 +918,24 @@
     "de": "Asylzentrum auf Militärstützpunkt in der Nähe von Piddington genehmigt",
     "zh": "皮丁顿附近军事基地庇护中心获批",
     "ru": "Утвержден центр убежища на военной базе недалеко от Пиддингтона"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "ASEAN faces Myanmar dilemma as some members pursue closer ties",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDhmY21VZEVoTWhHM3hMR0lodjdyWDFUUjZPa3NDMXlfeTlnQm0ybEF5T3FmczFlYTNhakVtcEtvZXh1QjhpcWljYW1SejdJMzVEVFlsV1JRNWZmWmhxR0Q5U2lQTGRrR2pFRXlYVnJSUm9VQUszVlh2N1dyM3lQMGpSRnloU3o0VC1vcjNGWjR2SS13cGwzbkF4b013WDU4b2R6YThoc0VqX1p6OThLa014MGE?oc=5",
+   "ts": 1794557416,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "АСЕАН стикається з дилемою М'янми, оскільки деякі члени намагаються налагодити тісніші зв'язки",
+    "fr": "L’ASEAN est confrontée au dilemme du Myanmar alors que certains membres cherchent à resserrer leurs liens",
+    "de": "ASEAN steht vor dem Myanmar-Dilemma, da einige Mitglieder engere Beziehungen anstreben",
+    "zh": "一些成员国寻求更紧密的联系，东盟面临缅甸困境",
+    "ru": "АСЕАН сталкивается с дилеммой Мьянмы, поскольку некоторые члены стремятся к более тесным связям"
    },
    "lang": "en"
   },
@@ -556,24 +972,6 @@
     "de": "Ein weit verbreiteter Microsoft-Ausfall führt zum Ausfall von Outlook und anderen 365-Diensten",
     "zh": "Microsoft 大范围宕机导致 Outlook 和其他 365 服务瘫痪",
     "ru": "Массовый сбой в работе Microsoft приводит к отключению Outlook и других сервисов 365"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "What we know about the global Microsoft outage",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794556885,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Що ми знаємо про глобальний збій Microsoft",
-    "fr": "Ce que nous savons de la panne mondiale de Microsoft",
-    "de": "Was wir über den weltweiten Microsoft-Ausfall wissen",
-    "zh": "我们对微软全球宕机的了解",
-    "ru": "Что мы знаем о глобальном сбое в работе Microsoft"
    },
    "lang": "en"
   },
@@ -646,6 +1044,61 @@
     "de": "US-Terrorfall wirft Licht auf das Rätsel um RAF-Fairford-Verhaftungen",
     "zh": "美国恐怖案件揭开英国皇家空军费尔福德逮捕之谜",
     "ru": "Дело о терроризме в США проливает свет на тайну ареста ВВС Фэрфорда"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russian strikes on Kharkiv Oblast injure 11 people, including minors",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062657/",
+   "ts": 1794556320,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "В результаті російських ударів по Харківській області поранено 11 осіб, у тому числі неповнолітніх",
+    "fr": "Les frappes russes sur l'oblast de Kharkiv blessent 11 personnes, dont des mineurs",
+    "de": "Bei russischen Angriffen auf die Oblast Charkiw werden 11 Menschen verletzt, darunter Minderjährige",
+    "zh": "俄罗斯对哈尔科夫州的空袭造成11人受伤，其中包括未成年人",
+    "ru": "В результате ударов России по Харьковской области пострадали 11 человек, в том числе несовершеннолетние."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+   "ts": 1794556020,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Збій корпорації Майкрософт вдарив по компаніям і урядам у всьому світі, які намагаються відновити служби",
+    "fr": "La panne de Microsoft frappe les entreprises et les gouvernements du monde entier alors qu'ils peinent à restaurer leurs services.",
+    "de": "Der Ausfall von Microsoft trifft Unternehmen und Regierungen auf der ganzen Welt, da das Unternehmen Schwierigkeiten hat, seine Dienste wiederherzustellen",
+    "zh": "微软的服务中断对世界各地的公司和政府造成了打击，因为它正在努力恢复服务",
+    "ru": "Сбой в работе Microsoft ударил по компаниям и правительствам по всему миру, поскольку они пытаются восстановить услуги"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. Senate Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "ts": 1794555927,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів до Сенату США 2026 року",
+    "fr": "Résultats des élections sénatoriales américaines de 2026",
+    "de": "Ergebnisse der US-Senatswahl 2026",
+    "zh": "2026 年美国参议院选举结果",
+    "ru": "Результаты выборов в Сенат США 2026 г."
    },
    "lang": "en"
   },
@@ -740,25 +1193,6 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Mississippi U.S. Senate Election Live Results 2026",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
-   "ts": 1794554363,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів до Сенату США в штаті Міссісіпі, 2026 рік",
-    "fr": "Résultats en direct des élections sénatoriales américaines du Mississippi 2026",
-    "de": "Live-Ergebnisse der US-Senatswahl in Mississippi 2026",
-    "zh": "2026 年密西西比州美国参议院选举实时结果",
-    "ru": "Прямые результаты выборов в Сенат США в Миссисипи 2026 г."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
    "title": "The real winner in Poland’s constitutional battle is Putin",
@@ -827,6 +1261,24 @@
     "de": "Generalstab: Russland hat seit dem 24. Februar 2022 1.618.920 Soldaten in der Ukraine verloren",
     "zh": "总参谋部：自2022年2月24日以来，俄罗斯在乌克兰已损失1,618,920名士兵",
     "ru": "Генштаб: Россия потеряла на Украине 1 618 920 военнослужащих с 24 февраля 2022 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_markets",
+   "source": "Reuters",
+   "title": "German wholesale prices rise 8.8% in October",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2RCT2l4MnZrSGJNWXJ4bmRDZ05Ccl9uNkJyWldtbzFCTzFEbTUzMlMtZ093VVAtZGlmZUE3YzNrbUNPUFdEZW5XamozTG5XWk91QmRVZmlqOEJidVd0bzZKeXNzY3ducExVdnlpaG1teS1iQ2NTalNOeU1WVGxXU2trdHJrSGhSRHIxTGpZaw?oc=5",
+   "ts": 1794553800,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "У жовтні оптові ціни в Німеччині зросли на 8,8%.",
+    "fr": "Les prix de gros allemands augmentent de 8,8% en octobre",
+    "de": "Die deutschen Großhandelspreise steigen im Oktober um 8,8 %",
+    "zh": "德国10月批发价格上涨8.8%",
+    "ru": "Оптовые цены в Германии выросли на 8,8% в октябре"
    },
    "lang": "en"
   },
@@ -994,24 +1446,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
-   "url": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
-   "ts": 1794553076,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Джессіка Пегула виграла захоплюючу боротьбу на фіналі WTA, Коко Гауфф вибула",
-    "fr": "Jessica Pegula remporte un concours passionnant aux finales WTA, Coco Gauff éliminée",
-    "de": "Jessica Pegula gewinnt spannenden Wettkampf bei den WTA-Finals, Coco Gauff ist ausgeschieden",
-    "zh": "杰西卡·佩古拉 (Jessica Pegula) 在 WTA 总决赛中赢得激动人心的比赛，可可·高夫 (Coco Gauff) 被淘汰",
-    "ru": "Джессика Пегула выиграла захватывающий поединок на финале WTA, Коко Гауфф выбыла"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russians strike Odesa with jet-powered drones, killing two and injuring five",
@@ -1026,24 +1460,6 @@
     "de": "Russen greifen Odessa mit düsengetriebenen Drohnen an, wobei zwei getötet und fünf verletzt werden",
     "zh": "俄罗斯用喷气式无人机袭击敖德萨，造成两人死亡、五人受伤",
     "ru": "Россияне нанесли удар по Одессе с помощью реактивных дронов, в результате чего двое погибли и пятеро получили ранения"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "US reports record number of deportations and arrests in 2026",
-   "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
-   "ts": 1794552395,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "США повідомляють про рекордну кількість депортацій та арештів у 2026 році",
-    "fr": "Les États-Unis signalent un nombre record d’expulsions et d’arrestations en 2026",
-    "de": "Die USA melden für 2026 eine Rekordzahl an Abschiebungen und Festnahmen",
-    "zh": "美国报告 2026 年驱逐和逮捕人数创历史新高",
-    "ru": "США сообщают о рекордном количестве депортаций и арестов в 2026 году"
    },
    "lang": "en"
   },
@@ -1117,24 +1533,6 @@
     "de": "Victoria-Wahl 2026: Labour und Grüne tauschen Vorwürfe über „zwielichtige Geschäfte“ aus, da der Präferenzkampf wichtige Sitze gefährdet",
     "zh": "2026 年维多利亚州选举：工党和绿党相互指责“不正当交易”，因为偏好之争使关键席位面临风险",
     "ru": "Выборы в Виктории 2026 года: лейбористы и зеленые обвиняют друг друга в «хитрых сделках», поскольку борьба за преференции ставит под угрозу ключевые места"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
-   "url": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
-   "ts": 1794550391,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Австралійський капітан Пет Каммінс заперечує свою причетність до скандалу \"Sandpapergate\".",
-    "fr": "Le capitaine australien Pat Cummins nie toute implication dans le scandale du « Sandpapergate »",
-    "de": "Australiens Kapitän Pat Cummins bestreitet Beteiligung am „Sandpapergate“-Skandal",
-    "zh": "澳大利亚队长帕特·康明斯否认卷入“砂纸门”丑闻",
-    "ru": "Капитан сборной Австралии Пэт Камминс отрицает свою причастность к скандалу «Sandpapergate»"
    },
    "lang": "en"
   },
@@ -1301,24 +1699,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Ukrainian, French presidents coordinate positions ahead of Coalition of the Willing meeting",
-   "url": "https://www.ukrinform.net/rubric-polytics/4184148-ukrainian-french-presidents-coordinate-positions-ahead-of-coalition-of-the-willing-meeting.html",
-   "ts": 1794548280,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Президенти України та Франції узгоджують позиції напередодні зустрічі Коаліції охочих",
-    "fr": "Les présidents ukrainien et français coordonnent leurs positions avant la réunion de la Coalition des volontaires",
-    "de": "Ukrainische und französische Präsidenten koordinieren ihre Positionen vor dem Treffen der Koalition der Willigen",
-    "zh": "乌克兰和法国总统在意愿联盟会议前协调立场",
-    "ru": "Президенты Украины и Франции согласовывают позиции перед встречей Коалиции желающих"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "3 injured, dozens evacuated after Russian drone damages Kyiv medical facility in overnight attack",
@@ -1409,24 +1789,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian attack injures two women in Vinnytsia, damages homes, kindergarten",
-   "url": "https://www.ukrinform.net/rubric-ato/4184149-russian-attack-injures-two-women-in-vinnytsia-damages-homes-kindergarten.html",
-   "ts": 1794547140,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "У Вінниці від російського нападу поранено двох жінок, пошкоджено будинки, дитсадок",
-    "fr": "Une attaque russe blesse deux femmes à Vinnytsia et endommage des maisons et une école maternelle",
-    "de": "Russischer Angriff verletzt zwei Frauen in Winnyzja, beschädigt Häuser und Kindergarten",
-    "zh": "俄罗斯袭击文尼察两名妇女受伤，房屋和幼儿园受损",
-    "ru": "В Виннице в результате нападения россиян ранены две женщины, повреждены дома и детский сад"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russians attack hospital in Kyiv, leaving one injured and sparking fire – photos, video",
@@ -1464,24 +1826,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Drone debris sparks fire at medical facility in Kyiv",
-   "url": "https://www.ukrinform.net/rubric-ato/4184147-drone-debris-sparks-fire-at-medical-facility-in-kyiv.html",
-   "ts": 1794546180,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Уламки безпілотника викликали пожежу в медичному закладі в Києві",
-    "fr": "Des débris de drones déclenchent un incendie dans un établissement médical à Kyiv",
-    "de": "Drohnentrümmer lösen Feuer in medizinischer Einrichtung in Kiew aus",
-    "zh": "无人机碎片在基辅医疗机构引发火灾",
-    "ru": "Обломки дрона вызвали пожар в медицинском учреждении в Киеве"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_business",
    "source": "The Guardian",
    "title": "World is now in ‘age of electricity’, energy agency chief says",
@@ -1496,42 +1840,6 @@
     "de": "Die Welt befindet sich jetzt im „Zeitalter der Elektrizität“, sagt der Chef der Energieagentur",
     "zh": "能源机构负责人表示，世界现在正处于“电力时代”",
     "ru": "Мир сейчас переживает «эпоху электричества», говорит глава энергетического агентства"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
-   "url": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
-   "ts": 1794546010,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Я витрачаю менше, це все, що має значення»: життя в найбільш електрифікованих країнах світу",
-    "fr": "« Je dépense moins, c’est tout ce qui compte » : la vie dans les pays les plus électrifiés du monde",
-    "de": "„Ich gebe weniger aus, das ist alles, was zählt“: das Leben in den am stärksten elektrifizierten Ländern der Welt",
-    "zh": "“我花得更少，这才是最重要的”：世界上电气化程度最高的国家的生活",
-    "ru": "«Я трачу меньше, это все, что имеет значение»: жизнь в самых электрифицированных странах мира"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
-   "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
-   "ts": 1794546009,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Понад 60% жінок-військовослужбовців Німеччини повідомляють про домагання або насильство",
-    "fr": "Plus de 60 % des femmes soldats allemandes signalent du harcèlement ou des abus",
-    "de": "Mehr als 60 % der deutschen Soldatinnen berichten von Belästigung oder Missbrauch",
-    "zh": "超过 60% 的德国女兵遭遇骚扰或虐待",
-    "ru": "Более 60% женщин-солдат в Германии сообщают о преследованиях или жестоком обращении"
    },
    "lang": "en"
   },
@@ -1551,24 +1859,6 @@
     "de": "Laut Big Build-Untersuchung sagte das Büro des Ministers, der Auftragnehmer solle sich um CFMEU kümmern oder seinen Arbeitsplatz in Victoria verlieren",
     "zh": "Big Build调查获悉，部长办公室表示，承包商应处理CFMEU，否则将失去维多利亚州的工作",
     "ru": "В аппарате министра заявили, что подрядчик должен заняться CFMEU, иначе он потеряет работу в Виктории, говорится в расследовании Big Build."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTBPb3BqNkdOM1c0US16M0g5Z0NfTlMzYTVkb0U3TzRaTk9kT0lwRkZtQ1VESVpPOERQZWctems1OXV2aXg0cWVBODA2U3hDdlMwcUZyU0hfOV9RTXdCbk04emtZeE5yOGRXOTZlZk1Wc2EyM3cyQkZiUUl6eVo2TlV3S1J4bVdUanMxWXJLaXJOMmpoVXFKLVBxYjYxSXJrb3RrUmJUMlM0ZGlsckxiZFQ4OW5TR180Z1c3UnhXYzEyanNLS2lCY2Yyb0hfZndn?oc=5",
-   "ts": 1794545340,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Малайзія зважує, як допомогти AirAsia, не ризикуючи державними коштами, каже екс-міністр",
-    "fr": "La Malaisie réfléchit à la manière d'aider AirAsia sans risquer les fonds publics, selon un ancien ministre",
-    "de": "Malaysia überlegt, wie man AirAsia unterstützen kann, ohne öffentliche Gelder zu riskieren, sagt Ex-Minister",
-    "zh": "前部长表示，马来西亚正在考虑如何在不冒公共资金风险的情况下援助亚航",
-    "ru": "Малайзия обдумывает, как помочь AirAsia, не рискуя государственными средствами, говорит бывший министр"
    },
    "lang": "en"
   },
@@ -1609,60 +1899,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-   "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "ts": 1794545160,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Мене жахає думка про те, що я доживу до 100 років»: чи соціальне страхування — це гігантська схема Понці?",
-    "fr": "« L’idée de vivre jusqu’à 100 ans me terrifie » : la sécurité sociale est-elle une gigantesque chaîne de Ponzi ?",
-    "de": "„Der Gedanke, 100 Jahre alt zu werden, macht mir Angst“: Ist die Sozialversicherung ein riesiges Schneeballsystem?",
-    "zh": "“活到 100 岁的想法让我感到害怕”：社会保障是一个巨大的庞氏骗局吗？",
-    "ru": "«Мысль о том, чтобы дожить до 100 лет, пугает меня»: является ли социальное обеспечение гигантской схемой Понци?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russian drone hits apartment building in Rivne, children among injured",
-   "url": "https://www.ukrinform.net/rubric-ato/4184146-russian-drone-hits-apartment-building-in-rivne-children-among-injured.html",
-   "ts": 1794545160,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "У Рівному російський безпілотник врізався в житловий будинок, є постраждалі діти",
-    "fr": "Un drone russe frappe un immeuble à Rivne, des enfants parmi les blessés",
-    "de": "Russische Drohne trifft Wohnhaus in Riwne, darunter auch Kinder",
-    "zh": "俄罗斯无人机袭击罗夫诺公寓楼，儿童受伤",
-    "ru": "Российский беспилотник врезался в жилой дом в Ровно, среди пострадавших дети"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "Citadel Securities expands Singapore, Sydney offices in major Asia push",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2RCTi1ZODhwMmZoNGxJaVNpNjhzX2FoblRCQmYtMGhWWDg1a1BWaHM0THl3OG9rSXFZREJ0UG9KMGxpeHJBeWMzR182ZG5CMEVTMDRsdnlyTjFfWUFBQ3hLTTRUMkw5WHY2cDl6Sm9jSkZDSEFUcUNpc0JDY25HekRlVUFKdHNNbkIxOFhmdnB5dl84dTR2UzBmY2xoR3ZOWTd5UVp0RFE1bGRuYjcwak5GRV9XY0U?oc=5",
-   "ts": 1794544560,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Citadel Securities розширює офіси в Сінгапурі та Сіднеї в основному в Азії",
-    "fr": "Citadel Securities agrandit ses bureaux de Singapour et de Sydney dans le cadre d'une initiative majeure en Asie",
-    "de": "Citadel Securities erweitert Büros in Singapur und Sydney im Rahmen einer großen Asienoffensive",
-    "zh": "Citadel 证券扩大新加坡和悉尼办事处，大力推进亚洲业务",
-    "ru": "Citadel Securities расширяет офисы в Сингапуре и Сиднее в рамках крупнейшего азиатского проекта"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
@@ -1678,24 +1914,6 @@
     "de": "Van Hollen fordert Schumer als demokratischen Vorsitzenden im Senat heraus",
     "zh": "范霍伦将挑战舒默竞选参议院民主党领袖",
     "ru": "Ван Холлен бросит вызов Шумеру на посту лидера Демократической партии в Сенате"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Zelensky meets with Witkoff and Kushner, outlines key outcomes of Abu Dhabi talks",
-   "url": "https://www.ukrinform.net/rubric-polytics/4184145-zelensky-meets-with-witkoff-and-kushner-outlines-key-outcomes-of-abu-dhabi-talks.html",
-   "ts": 1794544020,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Зеленський зустрівся з Віткоффом і Кушнером, окреслив ключові підсумки переговорів в Абу-Дабі",
-    "fr": "Zelensky rencontre Witkoff et Kushner et présente les principaux résultats des négociations d'Abou Dhabi",
-    "de": "Selenskyj trifft sich mit Witkoff und Kushner und erläutert die wichtigsten Ergebnisse der Gespräche in Abu Dhabi",
-    "zh": "泽伦斯基会见维特科夫和库什纳，概述阿布扎比会谈的主要成果",
-    "ru": "Зеленский встретился с Витковым и Кушнером, обрисовал ключевые итоги переговоров в Абу-Даби"
    },
    "lang": "en"
   },
@@ -1737,78 +1955,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-   "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-   "ts": 1794542864,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nvidia: екс-прокурор Джун Кім і Вахтелл, Ліптон принесли великий досвід у розслідуванні",
-    "fr": "Nvidia : les anciens procureurs Joon Kim et Wachtell et Lipton apportent un solide bilan à l'enquête",
-    "de": "Nvidia: Die ehemaligen Staatsanwälte Joon Kim und Wachtell, Lipton bringen große Erfolgsbilanz bei den Ermittlungen mit",
-    "zh": "Nvidia：前检察官 Joon Kim 和 Wachtell、Lipton 为调查带来了良好的记录",
-    "ru": "Nvidia: Экс-прокурор Джун Ким и Вахтелл и Липтон имеют большой послужной список в расследовании"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
-   "ts": 1794542700,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Китай проводить неоголошені навчання в Тихоокеанському регіоні, щоб «мовчазно залякати» Тайвань, кажуть чиновники",
-    "fr": "La Chine organise des exercices inopinés dans le Pacifique pour « intimider silencieusement » Taïwan, selon des responsables",
-    "de": "Beamte sagen, China führt unangekündigte Übungen im Pazifik durch, um Taiwan „stillschweigend einzuschüchtern“.",
-    "zh": "官员称，中国在太平洋进行未经宣布的军演，以“无声恐吓”台湾",
-    "ru": "Китай проводит необъявленные учения в Тихом океане в качестве «тихого запугивания» Тайваня, заявляют официальные лица"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "What we know after Jensen Huang resigns as Nvidia CEO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5",
-   "ts": 1794542280,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо після того, як Дженсен Хуанг йде у відставку з поста генерального директора Nvidia",
-    "fr": "Ce que nous savons après la démission de Jensen Huang en tant que PDG de Nvidia",
-    "de": "Was wir wissen, nachdem Jensen Huang als CEO von Nvidia zurückgetreten ist",
-    "zh": "黄仁勋辞去英伟达首席执行官职务后我们所知道的",
-    "ru": "Что мы знаем после ухода Дженсена Хуанга с поста генерального директора Nvidia"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
-   "ts": 1794542100,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Outlook не працює? Широкий збій вражає електронну пошту Microsoft та інші програми",
-    "fr": "Outlook est-il en panne ? Une panne généralisée frappe la messagerie Microsoft et d'autres applications",
-    "de": "Ist Outlook ausgefallen? Ein weit verbreiteter Ausfall betrifft E-Mails und andere Apps von Microsoft",
-    "zh": "展望下降了吗？微软电子邮件和其他应用程序出现大范围中断",
-    "ru": "Outlook не работает? Масштабный сбой затронул электронную почту Microsoft и другие приложения"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
@@ -1823,24 +1969,6 @@
     "de": "Chris Van Hollen sagt, er werde Chuck Schumer als Mehrheitsführer im Senat herausfordern",
     "zh": "克里斯·范霍伦表示，他将挑战查克·舒默竞选参议院多数党领袖",
     "ru": "Крис Ван Холлен заявил, что бросит вызов Чаку Шумеру на посту лидера большинства в Сенате"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "Microsoft struggles to repair global Outlook outage, says no sign of 'malicious activity'",
-   "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
-   "ts": 1794541462,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Microsoft намагається усунути глобальний збій Outlook, каже, що немає ознак «зловмисної діяльності»",
-    "fr": "Microsoft a du mal à réparer la panne mondiale d'Outlook, ne dit aucun signe d'\"activité malveillante\"",
-    "de": "Microsoft kämpft mit der Behebung des weltweiten Outlook-Ausfalls und sagt, es gebe keine Anzeichen für „böswillige Aktivitäten“",
-    "zh": "微软努力修复全球 Outlook 中断，称没有“恶意活动”迹象",
-    "ru": "Microsoft изо всех сил пытается устранить глобальный сбой в Outlook, но не заявляет никаких признаков «злонамеренной активности»"
    },
    "lang": "en"
   },
@@ -1939,63 +2067,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
-   "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
-   "ts": 1794537761,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Кріс Ван Холлен претендує на посаду лідера демократів у Сенаті США",
-    "fr": "Chris Van Hollen se propose de diriger les démocrates au Sénat américain",
-    "de": "Chris Van Hollen bewirbt sich um die Führung der Demokraten im US-Senat",
-    "zh": "克里斯·范·霍伦 (Chris Van Hollen) 发起竞选美国参议院民主党领袖的竞选",
-    "ru": "Крис Ван Холлен выдвинул кандидатуру на пост лидера демократов в Сенате США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-   "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-   "ts": 1794537321,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Фінляндія виявила удар по російському військовому кораблю під час зустрічі Зеленського з представниками США",
-    "fr": "La Finlande détecte une frappe contre un navire de guerre russe alors que Zelensky rencontre les envoyés américains",
-    "de": "Finnland entdeckt Angriff auf russisches Kriegsschiff, als Selenskyj US-Gesandte trifft",
-    "zh": "泽伦斯基会见美国特使时芬兰发现俄罗斯军舰遭到袭击",
-    "ru": "Финляндия обнаружила удар по российскому военному кораблю во время встречи Зеленского с посланниками США"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
-   "ts": 1794536880,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Кріс Ван Холлен оголошує балотуватися на посаду лідера більшості в Сенаті США, кинувши виклик Шумеру",
-    "fr": "Chris Van Hollen annonce sa candidature à la tête de la majorité au Sénat américain, défiant Schumer",
-    "de": "Chris Van Hollen kündigt seine Kandidatur für das Amt des Mehrheitsführers im US-Senat an und fordert damit Schumer heraus",
-    "zh": "克里斯·范霍伦宣布竞选美国参议院多数党领袖，挑战舒默",
-    "ru": "Крис Ван Холлен объявляет о своем намерении баллотироваться на пост лидера большинства в Сенате США, бросая вызов Шумеру"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
@@ -2011,6 +2082,25 @@
     "de": "Selenskyj begrüßt, dass die USA Europa in die Friedensgespräche zwischen Russland und der Ukraine einbeziehen",
     "zh": "泽连斯基欢迎美国将欧洲带入俄乌和谈",
     "ru": "Зеленский приветствует участие США в мирных переговорах между Россией и Украиной"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+   "ts": 1794535080,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Долар став найкращим тижнем за два місяці за ставками на підвищення ставок, ієна тестує 160",
+    "fr": "Le dollar devrait connaître sa meilleure semaine en deux mois grâce aux paris sur la hausse des taux, le yen teste 160",
+    "de": "Dollar wird aufgrund von Zinserhöhungswetten die beste Woche seit zwei Monaten erreichen, Yen testet 160",
+    "zh": "由于加息押注，美元创两个月来最佳单周表现，日元测试160",
+    "ru": "Доллар настроен на лучшую неделю за два месяца по ставкам на повышение ставок, иена тестирует 160"
    },
    "lang": "en"
   },
@@ -2089,42 +2179,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Russians strike high-rise residential building in Rivne with drone, injuring six",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062625/",
-   "ts": 1794533880,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "У Рівному росіяни обстріляли з безпілотника багатоповерхівку, шестеро поранених",
-    "fr": "Les Russes frappent un immeuble résidentiel de grande hauteur à Rivne avec un drone, blessant six personnes",
-    "de": "Russen greifen mit Drohne Hochhaus in Riwne an und verletzen sechs Personen",
-    "zh": "俄罗斯用无人机袭击罗夫诺高层住宅楼，造成六人受伤",
-    "ru": "Россияне обстреляли многоэтажный жилой дом в Ровно с помощью беспилотника, ранив шесть человек"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Drones attack Volgograd oil refinery: Russians queue for fuel – photo, video",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062627/",
-   "ts": 1794531420,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Безпілотники атакували Волгоградський НПЗ: росіяни стоять у черзі за пальним – фото, відео",
-    "fr": "Des drones attaquent la raffinerie de Volgograd : les Russes font la queue pour obtenir du carburant – photo, vidéo",
-    "de": "Drohnen greifen Wolgograder Ölraffinerie an: Russen stehen Schlange für Treibstoff – Foto, Video",
-    "zh": "无人机袭击伏尔加格勒炼油厂：俄罗斯人排队领取燃料——照片、视频",
-    "ru": "Дроны атаковали Волгоградский НПЗ: россияне стоят в очереди за топливом – фото, видео"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "The school where white working-class pupils defy the odds",
@@ -2157,60 +2211,6 @@
     "de": "Cindy Holscher gewinnt in Kansas und bekleidet das Amt des Gouverneurs für die Demokraten",
     "zh": "辛迪·霍尔舍 (Cindy Holscher) 在堪萨斯州获胜，代表民主党担任州长",
     "ru": "Синди Холшер побеждает в Канзасе, занимая пост губернатора от демократов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Mass drone attack on Moscow grounds flights at region's airports",
-   "url": "https://kyivindependent.com/mass-drone-attack-on-moscow-grounds-flights-at-regions-airports/",
-   "ts": 1794526378,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Масова атака безпілотників на московські посадки в аеропортах області",
-    "fr": "Attaque massive de drones contre des vols au sol de Moscou dans les aéroports de la région",
-    "de": "Massenhafter Drohnenangriff auf Moskau lässt Flüge auf Flughäfen in der Region stoppen",
-    "zh": "莫斯科遭遇大规模无人机袭击导致该地区机场航班停飞",
-    "ru": "Массовая атака дронов на Москву привела к прекращению полетов в аэропортах региона"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Two people killed in Russian attack on Sumy Oblast",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062624/",
-   "ts": 1794525180,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Внаслідок нападу росіян на Сумщину загинуло двоє людей",
-    "fr": "Deux personnes tuées dans une attaque russe contre la région de Soumy",
-    "de": "Zwei Menschen wurden bei einem russischen Angriff auf die Oblast Sumy getötet",
-    "zh": "俄罗斯袭击苏梅州造成两人死亡",
-    "ru": "Два человека погибли в результате нападения РФ на Сумскую область"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Trump's envoy says Putin is ready to allow Europe to join next round of Ukraine peace talks",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062623/",
-   "ts": 1794524040,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Представник Трампа заявив, що Путін готовий дозволити Європі приєднатися до наступного раунду мирних переговорів щодо України",
-    "fr": "L'envoyé de Trump affirme que Poutine est prêt à permettre à l'Europe de se joindre au prochain cycle de pourparlers de paix en Ukraine",
-    "de": "Trumps Gesandter sagte, Putin sei bereit, Europa die Teilnahme an der nächsten Runde der Friedensgespräche mit der Ukraine zu gestatten",
-    "zh": "特朗普特使表示普京准备允许欧洲加入下一轮乌克兰和谈",
-    "ru": "Посланник Трампа заявил, что Путин готов позволить Европе присоединиться к следующему раунду мирных переговоров по Украине"
    },
    "lang": "en"
   },
@@ -2291,21 +2291,40 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_world",
-   "source": "The Guardian",
-   "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "ts": 1794517212,
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794514156,
    "sec": [
     "world",
     "ukraine"
    ],
    "t": {
-    "uk": "Норвегія слідом за Фінляндією заборонила в'їзд російським спортсменам через війну в Україні",
-    "fr": "La Norvège suit la Finlande en interdisant aux athlètes russes d'entrer dans le pays à cause de la guerre en Ukraine",
-    "de": "Norwegen folgt Finnland und verweigert russischen Athleten wegen des Ukraine-Krieges die Einreise",
-    "zh": "挪威效仿芬兰，因乌克兰战争而禁止俄罗斯运动员入境",
-    "ru": "Норвегия вслед за Финляндией запретила российским спортсменам въезд в страну из-за войны на Украине"
+    "uk": "Російський військовий корабель збитий українським безпілотником у Фінській затоці",
+    "fr": "Un navire de guerre russe touché par un drone ukrainien dans le golfe de Finlande",
+    "de": "Russisches Kriegsschiff im Finnischen Meerbusen von ukrainischer Drohne getroffen",
+    "zh": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
+    "ru": "Российский военный корабль сбит украинским беспилотником в Финском заливе"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
+   "url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
+   "ts": 1794513195,
+   "sec": [
+    "world",
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський попереджає Європу щодо переговорів США і Росії про ширші домовленості щодо безпеки",
+    "fr": "Zelensky met l'Europe en garde contre les négociations américano-russes sur des arrangements de sécurité plus larges",
+    "de": "Selenskyj warnt Europa vor Gesprächen zwischen den USA und Russland über umfassendere Sicherheitsvereinbarungen",
+    "zh": "泽连斯基就美俄就更广泛安全安排进行的谈判向欧洲发出警告",
+    "ru": "Зеленский предостерег Европу по поводу переговоров США и России по более широким мерам безопасности"
    },
    "lang": "en"
   },
@@ -2885,7 +2904,7 @@
   {
    "source": "dw_world",
    "ok": true,
-   "items": 11
+   "items": 12
   },
   {
    "source": "france24",
@@ -2930,7 +2949,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 15
+   "items": 16
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2966,7 +2985,7 @@
    "source": "translate",
    "ok": true,
    "requests": 15,
-   "translated": 245,
+   "translated": 205,
    "method": {
     "dict": 15
    }
