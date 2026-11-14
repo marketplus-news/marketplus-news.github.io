@@ -1,5 +1,5 @@
 {
- "updated": 1794639520,
+ "updated": 1794643301,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,45 +216,496 @@
  ],
  "items": [
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "RHI Magnesita India Q2 FY27 slides: margins surge despite flat revenue",
-   "url": "https://www.investing.com/news/company-news/rhi-magnesita-india-q2-fy27-slides-margins-surge-despite-flat-revenue-93CH-5027157",
-   "ts": 1794638939,
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+   "ts": 1794643238,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "RHI Magnesita India у другому кварталі 2027 фінансового року знижується: маржа зростає, незважаючи на незмінний дохід",
-    "fr": "RHI Magnesita India recule au deuxième trimestre de l'exercice 27 : les marges augmentent malgré un chiffre d'affaires stable",
-    "de": "RHI Magnesita India Q2 GJ27 rutscht ab: Margen steigen trotz stagnierender Umsätze",
-    "zh": "RHI Magnesita India 2027 财年第二季度下滑：尽管收入持平，但利润率大幅上升",
-    "ru": "RHI Magnesita India снизилась во втором квартале 2027 финансового года: рентабельность выросла, несмотря на неизменную выручку"
+    "uk": "Сила породжує війни; війни створюють силу. Але ці переконливі акти оповідання розривають петлю | Шарлотта Хіггінс",
+    "fr": "Le pouvoir crée des guerres ; les guerres créent le pouvoir. Mais ces actes convaincants de narration brisent la boucle | Charlotte Higgins",
+    "de": "Macht schafft Kriege; Kriege schaffen Macht. Aber diese fesselnden Akte des Geschichtenerzählens durchbrechen den Teufelskreis | Charlotte Higgins",
+    "zh": "权力制造战争；战争创造力量。但这些引人入胜的讲故事行为正在打破循环|夏洛特希金斯",
+    "ru": "Власть порождает войны; войны создают власть. Но эти убедительные акты повествования разрывают петлю | Шарлотта Хиггинс"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Two killed, five injured in Russian attacks on Kherson region over past day",
+   "url": "https://www.ukrinform.net/rubric-ato/4184592-two-killed-five-injured-in-russian-attacks-on-kherson-region-over-past-day.html",
+   "ts": 1794643200,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Двоє загиблих, п'ятеро поранених за минулу добу внаслідок обстрілів росіян на Херсонщині",
+    "fr": "Deux morts et cinq blessés dans les attaques russes contre la région de Kherson au cours de la dernière journée",
+    "de": "Zwei Tote und fünf Verletzte bei russischen Angriffen auf die Region Cherson am vergangenen Tag",
+    "zh": "俄罗斯过去一天对赫尔松地区的袭击造成两人死亡、五人受伤",
+    "ru": "Двое убиты, пятеро ранены в результате нападения РФ на Херсонщину за минувшие сутки"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "ts": 1794642396,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "ООН повідомляє про 25 загиблих моряків в околицях Ормузу після американсько-ізраїльської війни проти Ірану",
+    "fr": "L'ONU déclare que 25 marins ont été tués autour d'Ormuz depuis la guerre entre les États-Unis et Israël contre l'Iran",
+    "de": "Nach UN-Angaben wurden seit dem Krieg zwischen den USA und Israel gegen den Iran 25 Seeleute in der Umgebung von Hormus getötet",
+    "zh": "联合国表示，自美以对伊朗发动战争以来，已有 25 名海员在霍尔木兹附近地区丧生",
+    "ru": "ООН сообщает, что 25 моряков погибли в окрестностях Ормуза после войны США и Израиля с Ираном"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Missing Australian teenager reunites with his mother",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/missing-australian-teenager-reunites-with-his-mother?traffic_source=rss",
+   "ts": 1794642286,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Зниклий австралійський підліток возз'єднується зі своєю матір'ю",
+    "fr": "Un adolescent australien disparu retrouve sa mère",
+    "de": "Vermisster australischer Teenager trifft seine Mutter wieder",
+    "zh": "失踪的澳大利亚少年与母亲团聚",
+    "ru": "Пропавший австралийский подросток воссоединяется со своей матерью"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Three killed, 62 injured in Russian attacks on Zaporizhzhia region over past day",
+   "url": "https://www.ukrinform.net/rubric-ato/4184591-three-killed-62-injured-in-russian-attacks-on-zaporizhzhia-region-over-past-day.html",
+   "ts": 1794642180,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Троє загиблих, 62 поранених внаслідок обстрілу росіянами Запорізької області за минулу добу",
+    "fr": "Trois morts et 62 blessés dans les attaques russes contre la région de Zaporizhzhia au cours de la dernière journée",
+    "de": "Drei Tote und 62 Verletzte bei russischen Angriffen auf die Region Saporischschja am vergangenen Tag",
+    "zh": "俄罗斯过去一天对扎波罗热地区的袭击造成3人死亡、62人受伤",
+    "ru": "Трое убиты, 62 ранены в результате нападения РФ на Запорожскую область за минувшие сутки"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "CoStar Group director John Hill sells $92,049 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/costar-group-director-john-hill-sells-92049-in-shares-93CH-5027156",
-   "ts": 1794638764,
+   "title": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "url": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "ts": 1794642145,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Директор CoStar Group Джон Хілл продає акції на суму 92 049 доларів",
-    "fr": "Le directeur du groupe CoStar, John Hill, vend 92 049 $ d'actions",
-    "de": "John Hill, Direktor der CoStar Group, verkauft Aktien im Wert von 92.049 US-Dollar",
-    "zh": "CoStar Group 董事 John Hill 出售价值 92,049 美元的股票",
-    "ru": "Директор CoStar Group Джон Хилл продает акции на сумму 92 049 долларов"
+    "uk": "Китай і США обговорюють тарифи, торгівлю сільськогосподарською продукцією на першому засіданні торгової ради",
+    "fr": "La Chine et les États-Unis discutent des droits de douane et du commerce agricole lors de la première réunion du conseil commercial",
+    "de": "China und die USA diskutieren auf der ersten Handelsratssitzung über Zölle und Agrarhandel",
+    "zh": "中美首次贸易理事会会议讨论关税和农产品贸易",
+    "ru": "Китай и США обсудили тарифы и торговлю сельскохозяйственной продукцией на первом заседании совета профсоюзов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "What we know about the longest ground stop since 9/11",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794642131,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Що ми знаємо про найдовшу зупинку на землі після 11 вересня",
+    "fr": "Ce que nous savons du plus long arrêt au sol depuis le 11 septembre",
+    "de": "Was wir über den längsten Bodenstopp seit dem 11. September wissen",
+    "zh": "我们对自 9/11 以来最长的地面停留了解多少",
+    "ru": "Что мы знаем о самой продолжительной наземной стоянке со времен 11 сентября"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Paylocity director Steven Sarowitz sells $72,016 in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+   "ts": 1794641780,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Paylocity Стівен Саровіц продає звичайні акції за 72 016 доларів",
+    "fr": "Le directeur de Paylocity, Steven Sarowitz, vend 72 016 $ d'actions ordinaires",
+    "de": "Paylocity-Direktor Steven Sarowitz verkauft Stammaktien im Wert von 72.016 US-Dollar",
+    "zh": "Paylocity 董事 Steven Sarowitz 出售 72,016 美元的普通股",
+    "ru": "Директор Paylocity Стивен Саровиц продает обыкновенные акции на сумму 72 016 долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Texas Instruments director Jean Hobby sells $2.7M in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/texas-instruments-director-jean-hobby-sells-27m-in-stock-93CH-5027197",
+   "ts": 1794641468,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Texas Instruments Джин Хоббі продає акції на суму 2,7 мільйона доларів",
+    "fr": "Le directeur de Texas Instruments, Jean Hobby, vend 2,7 millions de dollars d'actions",
+    "de": "Jean Hobby, Direktor von Texas Instruments, verkauft Aktien im Wert von 2,7 Millionen US-Dollar",
+    "zh": "德州仪器 (TI) 董事 Jean Hobby 出售价值 270 万美元的股票",
+    "ru": "Директор Texas Instruments Джин Хобби продает акции на 2,7 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Talen Energy SVP Casulli sells $1.26M in common stock",
+   "url": "https://www.investing.com/news/insider-trading-news/talen-energy-svp-casulli-sells-126m-in-common-stock-93CH-5027196",
+   "ts": 1794641466,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Старший віце-президент Talen Energy Касуллі продає звичайні акції на суму 1,26 млн доларів",
+    "fr": "Casulli, vice-président directeur de Talen Energy, vend 1,26 million de dollars d'actions ordinaires",
+    "de": "Talen Energy SVP Casulli verkauft Stammaktien im Wert von 1,26 Millionen US-Dollar",
+    "zh": "Talen Energy 高级副总裁 Casulli 出售 126 万美元普通股",
+    "ru": "Старший вице-президент Talen Energy Casulli продает обыкновенные акции на сумму $1,26 млн."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Green LTF Holdings II LP sells $78.9M in Life Time Group shares",
+   "url": "https://www.investing.com/news/insider-trading-news/green-ltf-holdings-ii-lp-sells-789m-in-life-time-group-shares-93CH-5027195",
+   "ts": 1794641465,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Green LTF Holdings II LP продає акції Life Time Group за 78,9 млн доларів",
+    "fr": "Green LTF Holdings II LP vend 78,9 millions de dollars d'actions Life Time Group",
+    "de": "Green LTF Holdings II LP verkauft Life Time Group-Aktien im Wert von 78,9 Mio. USD",
+    "zh": "Green LTF Holdings II LP 出售价值 7,890 万美元的 Life Time Group 股票",
+    "ru": "Green LTF Holdings II LP продает акции Life Time Group на сумму 78,9 млн долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "dw_world",
+   "source": "DW",
+   "title": "Espionage accusations: a pressure tactic for Turkish government critics",
+   "url": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-world-4025-rdf",
+   "ts": 1794641460,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Звинувачення в шпигунстві: тактика тиску на критиків турецького уряду",
+    "fr": "Accusations d'espionnage : un moyen de pression pour les critiques du gouvernement turc",
+    "de": "Spionagevorwürfe: eine Drucktaktik für türkische Regierungskritiker",
+    "zh": "间谍指控：土耳其政府批评者的施压策略",
+    "ru": "Обвинения в шпионаже: тактика давления на критиков турецкого правительства"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Kodiak Gas director Darden Newsom buys $449,900 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/kodiak-gas-director-darden-newsom-buys-449900-in-stock-93CH-5027194",
+   "ts": 1794641450,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Kodiak Gas Дарден Ньюсом купує акції на 449 900 дол",
+    "fr": "Le directeur de Kodiak Gas, Darden Newsom, achète pour 449 900 $ d'actions",
+    "de": "Darden Newsom, Direktor von Kodiak Gas, kauft Aktien im Wert von 449.900 US-Dollar",
+    "zh": "Kodiak Gas 董事 Darden Newsom 购买了价值 449,900 美元的股票",
+    "ru": "Директор Kodiak Gas Дарден Ньюсом покупает акции на сумму 449 900 долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Microsoft restores service to Outlook and Teams after global outage",
+   "url": "https://www.investing.com/news/stock-market-news/microsoft-outlook-teams-outage-eases-after-over-a-day-recovery-timeline-uncertain-5026486",
+   "ts": 1794641416,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Microsoft відновлює службу Outlook і Teams після глобального збою",
+    "fr": "Microsoft rétablit le service Outlook et Teams après une panne mondiale",
+    "de": "Microsoft stellt den Dienst für Outlook und Teams nach einem globalen Ausfall wieder her",
+    "zh": "全球停电后 Microsoft 恢复 Outlook 和 Teams 服务",
+    "ru": "Microsoft восстанавливает обслуживание Outlook и Teams после глобального сбоя"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Viyash Q2 FY27 slides: revenue up 16%, margin expansion continues",
+   "url": "https://www.investing.com/news/company-news/viyash-q2-fy27-slides-revenue-up-16-margin-expansion-continues-93CH-5027190",
+   "ts": 1794641257,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Viyash 2 квартал 2027 фінансового року знижується: дохід зріс на 16%, зростання маржі продовжується",
+    "fr": "Viyash Q2 FY27 glisse : chiffre d'affaires en hausse de 16 %, l'expansion de la marge se poursuit",
+    "de": "Viyash Q2 GJ27 sinkt: Umsatz steigt um 16 %, Margenausweitung geht weiter",
+    "zh": "Viyash 2027 财年第二季度下滑：收入增长 16%，利润率持续扩张",
+    "ru": "Viyash падает во втором квартале 27 финансового года: выручка выросла на 16%, рост рентабельности продолжается"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Widespread emergency power outage reported in Sumy region",
+   "url": "https://www.ukrinform.net/rubric-ato/4184589-widespread-emergency-power-outage-reported-in-sumy-region.html",
+   "ts": 1794640860,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "У Сумській області поширене аварійне відключення електроенергії",
+    "fr": "Panne d'électricité d'urgence généralisée signalée dans la région de Soumy",
+    "de": "In der Region Sumy wurde ein großflächiger Notstromausfall gemeldet",
+    "zh": "苏梅地区发生大范围紧急停电",
+    "ru": "В Сумской области зафиксировано масштабное аварийное отключение электроэнергии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+   "url": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
+   "ts": 1794640760,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Хет-трик Рейндерса призвів до того, що голландці розгромили Грецію з рахунком 7:0, Німеччина перемогла Сербію",
+    "fr": "Le triplé de Reijnders permet aux Néerlandais de vaincre la Grèce 7-0, l'Allemagne bat la Serbie",
+    "de": "Reijnders‘ Hattrick beschert den Niederländern einen 7:0-Sieg gegen Griechenland, Deutschland schlägt Serbien",
+    "zh": "雷恩德斯帽子戏法荷兰队7-0狂胜希腊德国队击败塞尔维亚队",
+    "ru": "Хет-трик Рейндерса принес голландцам победу над Грецией со счетом 7:0, Германия обыграла Сербию"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
+   "ts": 1794640733,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Протестувальники лають Хакіма Джеффріса на конференції Демократичної партії",
+    "fr": "Les manifestants chahutent Hakeem Jeffries lors de la conférence démocrate",
+    "de": "Demonstranten belästigen Hakeem Jeffries auf der Konferenz der Demokraten",
+    "zh": "抗议者在民主党会议上质问哈基姆·杰弗里斯",
+    "ru": "Протестующие раскритиковали Хакима Джеффриса на конференции Демократической партии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Live: France mobilises in fifth wave of student protests",
+   "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+   "ts": 1794640172,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Наживо: Франція мобілізується на п’яту хвилю студентських протестів",
+    "fr": "En direct : la France se mobilise face à la cinquième vague de manifestations étudiantes",
+    "de": "Live: Frankreich mobilisiert zur fünften Welle von Studentenprotesten",
+    "zh": "直播：法国动员第五波学生抗议",
+    "ru": "Прямой эфир: Франция мобилизуется в пятой волне студенческих протестов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+   "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+   "ts": 1794640125,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Аналіз: Компанії люблять генерального директора «рок-зірки». Поки вони не залежать від одного",
+    "fr": "Analyse : les entreprises adorent les PDG « rockstar ». Jusqu'à ce qu'ils dépendent d'un",
+    "de": "Analyse: Unternehmen lieben einen „Rockstar“-CEO. Bis sie auf einen angewiesen sind",
+    "zh": "分析：公司喜欢“摇滚明星”首席执行官。直到他们依赖一个人",
+    "ru": "Анализ: Компании любят генеральных директоров «рок-звезд». Пока они не зависят от одного"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "War update: 273 clashes on front lines over past day, Pokrovsk sector hottest",
+   "url": "https://www.ukrinform.net/rubric-ato/4184587-war-update-273-clashes-on-front-lines-over-past-day-pokrovsk-sector-hottest.html",
+   "ts": 1794639840,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Актуально: за добу на передовій 273 бойових сутички, найгарячіше на Покровському ділянці",
+    "fr": "Le point sur la guerre : 273 affrontements sur les lignes de front au cours de la journée écoulée, le secteur de Pokrovsk est le plus chaud",
+    "de": "Kriegsaktualisierung: 273 Zusammenstöße an der Front am vergangenen Tag, der Sektor Pokrowsk war am heißesten",
+    "zh": "战争更新：过去一天前线发生 273 起冲突，波克罗夫斯克地区最热",
+    "ru": "Новости о войне: за сутки на линии фронта произошло 273 столкновения, самый жаркий Покровский сектор"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_ukraine",
+   "source": "The Guardian",
+   "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+   "url": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+   "ts": 1794639640,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Ялта стала синонімом зради. Чи зроблять Трамп, Сі та Путін ще один розділ?",
+    "fr": "Yalta est devenu synonyme de trahison. Trump, Xi et Poutine vont-ils procéder à un nouveau découpage ?",
+    "de": "Jalta wurde zum Inbegriff des Verrats. Werden Trump, Xi und Putin eine weitere Aufteilung beschließen?",
+    "zh": "雅尔塔成为背叛的代名词。特朗普、习近平和普京是否会再次瓜分？",
+    "ru": "Ялта стала синонимом предательства. Проведут ли Трамп, Си Цзиньпин и Путин еще один раздел?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+   "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+   "ts": 1794639638,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Прорив Великої Британії та ЄС дозволить проводити перевірки в Євротунелі в аеропорту, щоб уникнути «хаосу» на кордоні",
+    "fr": "Une percée entre le Royaume-Uni et l’UE permettra des contrôles de type aéroportuaire à Eurotunnel pour éviter le « chaos » aux frontières",
+    "de": "Der Durchbruch zwischen Großbritannien und der EU wird flughafenähnliche Kontrollen im Eurotunnel ermöglichen, um ein „Chaos“ an den Grenzen zu vermeiden",
+    "zh": "英国与欧盟的突破将允许在欧洲隧道进行机场式检查，以避免边境“混乱”",
+    "ru": "Прорыв между Великобританией и ЕС позволит проводить проверки в Евротоннеле в стиле аэропортов, чтобы избежать пограничного «хаоса»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
+   "url": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
+   "ts": 1794639637,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Брістоль прагне стати першим у Великобританії «болотним містом» і зменшити ризик повеней",
+    "fr": "Bristol vise à devenir la première « ville humide » du Royaume-Uni et à réduire les risques d’inondation",
+    "de": "Bristol möchte die erste „Feuchtgebietsstadt“ Großbritanniens werden und das Überschwemmungsrisiko verringern",
+    "zh": "布里斯托尔旨在成为英国第一个“湿地城市”并降低洪水风险",
+    "ru": "Бристоль стремится стать первым «заболоченным городом» Великобритании и снизить риск наводнений"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Battlefield sees 273 combat clashes over past day, most on Pokrovsk front – Ukraine's General Staff",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062835/",
+   "ts": 1794639420,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "За добу на «Полі бою» відбулося 273 бойових зіткнення, найбільше на Покровському фронті – Генштаб ЗСУ",
+    "fr": "Battlefield a connu 273 affrontements au cours de la dernière journée, la plupart sur le front de Pokrovsk – État-major ukrainien",
+    "de": "Auf dem Schlachtfeld kam es am vergangenen Tag zu 273 Gefechten, die meisten an der Pokrowsk-Front – dem Generalstab der Ukraine",
+    "zh": "乌克兰总参谋部：过去一天战场发生了 273 起战斗冲突，其中大部分发生在波克罗夫斯克前线",
+    "ru": "За сутки на поле боя произошло 273 боевых столкновения, большая часть на Покровском фронте – Генштаб Украины"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "The ANC’s implosion was decades in the making",
+   "url": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
+   "ts": 1794639160,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Розпад АНК тривав десятиліттями",
+    "fr": "L’implosion de l’ANC a duré des décennies",
+    "de": "Die Implosion des ANC dauerte Jahrzehnte",
+    "zh": "非国大的内爆酝酿了数十年",
+    "ru": "Крах АНК готовился десятилетиями"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+   "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+   "ts": 1794638894,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Лідери країн Південно-Східної Азії зустрінуться під час візиту Трампа, який підкреслює порушення торгівлі",
+    "fr": "Les dirigeants d’Asie du Sud-Est se réuniront alors que la visite de Trump met en lumière les perturbations commerciales",
+    "de": "Treffen der Staats- und Regierungschefs Südostasiens während Trumps Besuch Schlagzeilen über Handelsstörungen macht",
+    "zh": "特朗普访问期间东南亚领导人会面凸显贸易中断",
+    "ru": "Лидеры Юго-Восточной Азии встретятся, поскольку визит Трампа подчеркивает сбой в торговле"
    },
    "lang": "en"
   },
   {
    "feed": "bbc_business",
    "source": "BBC",
-   "title": "Microsoft says services fully restored after for day-long global outage",
+   "title": "Microsoft says services fully restored after day-long global outage",
    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "ts": 1794638547,
    "sec": [
@@ -262,7 +713,7 @@
    ],
    "t": {
     "uk": "Корпорація Майкрософт каже, що служби повністю відновлені після денного глобального збою",
-    "fr": "Microsoft affirme que les services sont entièrement restaurés après une panne mondiale d'une journée",
+    "fr": "Microsoft affirme que les services sont entièrement rétablis après une panne mondiale d'une journée",
     "de": "Laut Microsoft sind die Dienste nach einem tagelangen weltweiten Ausfall vollständig wiederhergestellt",
     "zh": "微软表示全球停电一天后服务已完全恢复",
     "ru": "Microsoft заявляет, что сервисы полностью восстановлены после однодневного глобального сбоя"
@@ -289,6 +740,24 @@
    "lang": "en"
   },
   {
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Three killed and seven injured in Russian attacks on three Ukrainian oblasts",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062834/",
+   "ts": 1794638340,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Троє загиблих і семеро поранених внаслідок обстрілу РФ трьох українських областей",
+    "fr": "Trois morts et sept blessés dans des attaques russes contre trois oblasts ukrainiens",
+    "de": "Drei Tote und sieben Verletzte bei russischen Angriffen auf drei ukrainische Gebiete",
+    "zh": "俄罗斯对乌克兰三个州的袭击造成三人死亡、七人受伤",
+    "ru": "Трое убиты и семь ранены в результате обстрелов Россией трех областей Украины"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Air defenses neutralize 81 of 96 drones launched by Russia against Ukraine since evening",
@@ -303,60 +772,6 @@
     "de": "Luftverteidigung neutralisiert 81 von 96 Drohnen, die Russland seit Abend gegen die Ukraine abgefeuert hat",
     "zh": "自傍晚以来，俄罗斯向乌克兰发射了 96 架无人机，其中 81 架被防空系统摧毁",
     "ru": "ПВО обезвредила 81 из 96 беспилотников, запущенных Россией против Украины с вечера"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rhi-magnesita-india-posts-steady-q2-2027-growth-93CH-5027147",
-   "ts": 1794638219,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: RHI Magnesita India демонструє стабільне зростання у другому кварталі 2027 року",
-    "fr": "Transcription de l'appel aux résultats : RHI Magnesita India affiche une croissance constante au deuxième trimestre 2027",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: RHI Magnesita India verzeichnet im zweiten Quartal 2027 ein stetiges Wachstum",
-    "zh": "财报电话会议记录：RHI Magnesita India 2027 年第二季度实现稳定增长",
-    "ru": "Стенограмма отчета о прибылях и убытках: RHI Magnesita India сообщает об устойчивом росте во втором квартале 2027 года"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Canada, US make progress on trade deal, Carney says",
-   "url": "https://www.investing.com/news/economy-news/canada-us-make-progress-on-trade-deal-carney-says-5027146",
-   "ts": 1794638184,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Канада та США досягли прогресу в торговельній угоді, каже Карні",
-    "fr": "Le Canada et les États-Unis progressent sur un accord commercial, selon Carney",
-    "de": "Kanada und die USA machen Fortschritte beim Handelsabkommen, sagt Carney",
-    "zh": "卡尼表示，加拿大和美国在贸易协议上取得进展",
-    "ru": "Канада и США добились прогресса в торговом соглашении, говорит Карни"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Earnings call transcript: Maharashtra Seamless Q2 2027 profit hit by inventory adjustment",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-maharashtra-seamless-q2-2027-profit-hit-by-inventory-adjustment-93CH-5027145",
-   "ts": 1794638139,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Стенограма розмови про прибутки: прибуток Maharashtra Seamless Q2 2027 вплинув на коригування запасів",
-    "fr": "Transcription de l'appel aux résultats : le bénéfice du Maharashtra Seamless du deuxième trimestre 2027 est touché par l'ajustement des stocks",
-    "de": "Protokoll der Telefonkonferenz zu den Ergebnissen: Nahtloser Gewinn im zweiten Quartal 2027 von Maharashtra durch Bestandsanpassung beeinträchtigt",
-    "zh": "财报电话会议记录：马哈拉施特拉邦无缝 2027 年第二季度利润受到库存调整的打击",
-    "ru": "Стенограмма отчета о прибылях и убытках: Прибыль Махараштры во втором квартале 2027 года пострадала из-за корректировки запасов"
    },
    "lang": "en"
   },
@@ -379,74 +794,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Progyny CPO Geoffrey Clapp sells $28,181 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/progyny-cpo-geoffrey-clapp-sells-28181-in-shares-93CH-5027140",
-   "ts": 1794637900,
+   "feed": "pravda_en",
+   "source": "Ukrainska Pravda",
+   "title": "Russia demanded NATO return to its 1997 positions during Abu Dhabi talks – NYT",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062819/",
+   "ts": 1794637200,
    "sec": [
-    "market"
+    "ukraine"
    ],
    "t": {
-    "uk": "Генеральний директор Progyny Джеффрі Клепп продає акції на суму 28 181 дол",
-    "fr": "Geoffrey Clapp, CPO de Progyny, vend 28 181 $ d'actions",
-    "de": "Geoffrey Clapp, CPO von Progyny, verkauft Aktien im Wert von 28.181 US-Dollar",
-    "zh": "Progyny CPO Geoffrey Clapp 出售价值 28,181 美元的股票",
-    "ru": "Директор по производству Progyny Джеффри Клэпп продает акции на сумму 28 181 доллар"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Akamai CEO F. Thomson Leighton buys $2.55M in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/akamai-ceo-f-thomson-leighton-buys-255m-in-stock-93CH-5027139",
-   "ts": 1794637899,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Генеральний директор Akamai Ф. Томсон Лейтон купує акції на суму 2,55 млн дол",
-    "fr": "Le PDG d'Akamai, F. Thomson Leighton, achète pour 2,55 millions de dollars d'actions",
-    "de": "Akamai-CEO F. Thomson Leighton kauft Aktien im Wert von 2,55 Millionen US-Dollar",
-    "zh": "Akamai 首席执行官 F. Thomson Leighton 购买了 255 万美元的股票",
-    "ru": "Генеральный директор Akamai Ф. Томсон Лейтон покупает акции на 2,55 миллиона долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Netscout director John Egan sells $951,055 of company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/netscout-director-john-egan-sells-951055-of-company-stock-93CH-5027138",
-   "ts": 1794637866,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Netscout Джон Іган продає акції компанії на суму 951 055 доларів",
-    "fr": "Le directeur de Netscout, John Egan, vend 951 055 $ d'actions de la société",
-    "de": "Netscout-Direktor John Egan verkauft Unternehmensaktien im Wert von 951.055 US-Dollar",
-    "zh": "Netscout 董事 John Egan 出售价值 951,055 美元的公司股票",
-    "ru": "Директор Netscout Джон Иган продает акции компании на сумму 951 055 долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
-   "url": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss",
-   "ts": 1794637483,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Філіппінський суд видав наказ про арешт ув'язненого знаменитого проповідника, якого розшукують США",
-    "fr": "Un tribunal philippin ordonne l’arrestation d’un célèbre prédicateur emprisonné et recherché par les États-Unis",
-    "de": "Ein philippinisches Gericht ordnet die Festnahme eines inhaftierten, von den USA gesuchten prominenten Predigers an",
-    "zh": "菲律宾法院下令逮捕被美国通缉的被监禁的名人传教士",
-    "ru": "Филиппинский суд выдал ордер на арест находящегося в тюрьме знаменитого проповедника, разыскиваемого США"
+    "uk": "Росія на переговорах в Абу-Дабі вимагала від НАТО повернення позицій 1997 року – NYT",
+    "fr": "La Russie a exigé que l’OTAN revienne à ses positions de 1997 lors des pourparlers d’Abou Dhabi – NYT",
+    "de": "Russland forderte während der Gespräche in Abu Dhabi eine Rückkehr der NATO zu ihren Positionen von 1997 – NYT",
+    "zh": "俄罗斯在阿布扎比会谈期间要求北约回到1997年的立场 – 纽约时报",
+    "ru": "Россия потребовала от НАТО вернуться на позиции 1997 года во время переговоров в Абу-Даби – NYT"
    },
    "lang": "en"
   },
@@ -470,38 +831,20 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Siege fuels disease fears in Yemen’s Taiz",
-   "url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
-   "ts": 1794637047,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Canada, US make progress on trade deal, Carney says",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
+   "ts": 1794636960,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Облога посилює побоювання щодо хвороби в єменському Таїзі",
-    "fr": "Le siège alimente les craintes de maladies à Taiz, au Yémen",
-    "de": "Belagerung schürt Seuchenängste im jemenitischen Taiz",
-    "zh": "也门塔伊兹的围困加剧了人们对疾病的担忧",
-    "ru": "Блокада усиливает страх перед болезнями в йеменском Таизе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
-   "url": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
-   "ts": 1794636849,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Чи може одна щоденна таблетка скоротити розрив у лікуванні діабету на Глобальному Півдні?",
-    "fr": "Une pilule quotidienne pourrait-elle réduire l’écart en matière de traitement du diabète dans les pays du Sud ?",
-    "de": "Könnte eine tägliche Pille die Diabetes-Behandlungslücke im globalen Süden schließen?",
-    "zh": "每日一颗药能否缩小南半球国家的糖尿病治疗差距？",
-    "ru": "Может ли одна ежедневная таблетка сократить разрыв в лечении диабета на глобальном Юге?"
+    "uk": "Канада та США досягли прогресу в торговельній угоді, каже Карні",
+    "fr": "Le Canada et les États-Unis progressent sur un accord commercial, selon Carney",
+    "de": "Kanada und die USA machen Fortschritte beim Handelsabkommen, sagt Carney",
+    "zh": "卡尼表示，加拿大和美国在贸易协议上取得进展",
+    "ru": "Канада и США добились прогресса в торговом соглашении, говорит Карни"
    },
    "lang": "en"
   },
@@ -526,18 +869,18 @@
   {
    "feed": "france24",
    "source": "France 24",
-   "title": "Microsoft says consumer products 'fully recovered', business services improving",
+   "title": "Microsoft says all services 'fully recovered' after global outage",
    "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
    "ts": 1794636476,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Корпорація Майкрософт каже, що споживчі продукти «повністю відновилися», бізнес-послуги покращилися",
-    "fr": "Microsoft affirme que les produits de consommation sont « entièrement récupérés » et les services aux entreprises s'améliorent",
-    "de": "Laut Microsoft sind Verbraucherprodukte „vollständig erholt“ und Unternehmensdienste verbessern sich",
-    "zh": "微软表示消费产品“完全恢复”，商业服务改善",
-    "ru": "Microsoft заявляет, что потребительские товары «полностью восстановлены», а бизнес-услуги улучшаются"
+    "uk": "Microsoft каже, що всі служби «повністю відновилися» після глобального збою",
+    "fr": "Microsoft affirme que tous les services sont « entièrement rétablis » après une panne mondiale",
+    "de": "Laut Microsoft sind alle Dienste nach dem weltweiten Ausfall „vollständig wiederhergestellt“.",
+    "zh": "微软表示全球停电后所有服务“完全恢复”",
+    "ru": "Microsoft заявляет, что все сервисы «полностью восстановлены» после глобального сбоя"
    },
    "lang": "en"
   },
@@ -580,18 +923,18 @@
   {
    "feed": "bbc_politics",
    "source": "BBC",
-   "title": "Young people should have legal guarantee to job or training, says Milburn",
+   "title": "Young people should have legal guarantee to job or training, review author tells BBC",
    "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
    "ts": 1794636004,
    "sec": [
     "politics"
    ],
    "t": {
-    "uk": "Молоді люди повинні мати правові гарантії на роботу чи навчання, каже Мілберн",
-    "fr": "Les jeunes devraient bénéficier d'une garantie légale d'emploi ou de formation, déclare Milburn",
-    "de": "Junge Menschen sollten eine gesetzliche Garantie auf einen Arbeitsplatz oder eine Ausbildung haben, sagt Milburn",
-    "zh": "米尔本说，年轻人应该有工作或培训的法律保障",
-    "ru": "Молодые люди должны иметь юридическую гарантию трудоустройства или обучения, говорит Милберн"
+    "uk": "Молоді люди повинні мати юридичні гарантії на роботу чи навчання, каже BBC автор огляду",
+    "fr": "Les jeunes devraient bénéficier d'une garantie légale d'emploi ou de formation, déclare l'auteur de la revue à la BBC",
+    "de": "Junge Menschen sollten eine gesetzliche Garantie auf einen Arbeitsplatz oder eine Ausbildung haben, sagt der Autor der Rezension gegenüber BBC",
+    "zh": "评论作者告诉 BBC，年轻人应该有工作或培训的法律保障",
+    "ru": "Молодые люди должны иметь юридическую гарантию на работу или обучение, говорит автор обзора BBC"
    },
    "lang": "en"
   },
@@ -610,24 +953,6 @@
     "de": "Ecuador will seine Artenvielfalt monetarisieren – und gleichzeitig nach Öl bohren",
     "zh": "厄瓜多尔希望通过其生物多样性货币化——同时仍在钻探石油",
     "ru": "Эквадор хочет монетизировать свое биоразнообразие, продолжая при этом бурить нефть"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-   "url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-   "ts": 1794635989,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Голкіпера Овоно дискваліфікували на 12 матчів після смерті Де Мігеля",
-    "fr": "Le gardien Owono suspendu 12 matches après la mort de De Miguel",
-    "de": "Torhüter Owono erhielt nach dem Tod von De Miguel eine Sperre für zwölf Spiele",
-    "zh": "德米格尔去世后，门将奥沃诺被禁赛12场",
-    "ru": "Вратарь Овоно дисквалифицирован на 12 матчей после смерти Де Мигеля"
    },
    "lang": "en"
   },
@@ -684,24 +1009,6 @@
     "de": "Die ukrainische Luftverteidigung hat über Nacht 81 russische Drohnen abgeschossen, wobei Angriffe an acht Standorten registriert wurden",
     "zh": "乌克兰防空系统一夜之间击落 81 架俄罗斯无人机，袭击地点达 8 个",
     "ru": "ПВО Украины за ночь сбили 81 российский беспилотник, удары зафиксированы по восьми объектам"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "US lifts ground stop, but passengers face second day of flight disruption",
-   "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-   "ts": 1794634961,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "США скасовують наземну зупинку, але пасажирам загрожує збій рейсів другий день",
-    "fr": "Les États-Unis lèvent leur contrôle au sol, mais les passagers font face à un deuxième jour de perturbations de vol",
-    "de": "Die USA heben den Bodenstopp auf, aber Passagiere müssen am zweiten Tag mit Flugunterbrechungen rechnen",
-    "zh": "美国取消地面停留，但乘客面临航班中断的第二天",
-    "ru": "США отменяют наземную остановку, но пассажирам грозит срыв рейсов на второй день"
    },
    "lang": "en"
   },
@@ -811,6 +1118,24 @@
     "de": "Die FAA hebt den Bodenstopp nach mehr als vier Stunden auf, die Flugausfälle werden sich jedoch bis zum Wochenende hinziehen",
     "zh": "美国联邦航空局 (FAA) 在四个多小时后取消地面停止，但航班取消将持续到周末",
     "ru": "ФАУ отменяет наземную остановку после более чем четырех часов, но отмена рейсов продлится до выходных"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFlrazk1QlViSjJ3ZjlhblpyOXFxT1FWZTkxSVdxc0NweEtuLUk3NDh6RkRDb1I2MVJnbG5yUm9hcmxtaHZ2VGtOT3MyaUxkSVE4MDJwMzU2NS16N2F1Tk5RLUdtaDl4TWt5NkxIT3JYZHJONGFaX3RRbXY2SW04MUc3UjhGMG1wQWtIeG91Nl9CRXRvMkdTTA?oc=5",
+   "ts": 1794632820,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Крейс-Томкінс стає першим демократом після 1998 року, обраним губернатором Аляски",
+    "fr": "Kreiss-Tomkins devient le premier démocrate élu gouverneur de l'Alaska depuis 1998",
+    "de": "Kreiss-Tomkins wird als erster Demokrat seit 1998 zum Gouverneur Alaskas gewählt",
+    "zh": "克莱斯-汤姆金斯成为自 1998 年当选阿拉斯加州州长以来第一位民主党人",
+    "ru": "Крейсс-Томкинс становится первым демократом с момента избрания губернатором Аляски в 1998 году."
    },
    "lang": "en"
   },
@@ -943,6 +1268,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Hours-long halt to US flights leaves travelers frustrated, anxious",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5",
+   "ts": 1794631260,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Багатогодинна зупинка рейсів у США викликає у мандрівників розчарування та тривогу",
+    "fr": "L'arrêt des vols américains pendant plusieurs heures laisse les voyageurs frustrés et anxieux",
+    "de": "Der stundenlange Stopp von US-Flügen macht Reisende frustriert und verunsichert",
+    "zh": "美国航班停飞数小时让旅客感到沮丧和焦虑",
+    "ru": "Многочасовая приостановка рейсов в США вызывает у путешественников разочарование и беспокойство"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russia loses 1,710 soldiers over past day",
@@ -975,24 +1318,6 @@
     "de": "Der Flughafen Schiphol spendet 29 Passagierbusse an die Ukraine",
     "zh": "史基浦机场向乌克兰捐赠29辆客车",
     "ru": "Аэропорт Схипхол подарил Украине 29 пассажирских автобусов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "What we know about the longest ground stop since 9/11",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794627921,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо про найдовшу зупинку на землі після 11 вересня",
-    "fr": "Ce que nous savons du plus long arrêt au sol depuis le 11 septembre",
-    "de": "Was wir über den längsten Bodenstopp seit dem 11. September wissen",
-    "zh": "我们对自 9/11 以来最长的地面停留了解多少",
-    "ru": "Что мы знаем о самой продолжительной наземной стоянке со времен 11 сентября"
    },
    "lang": "en"
   },
@@ -1087,24 +1412,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Russia designates Ukraine's Yellow Ribbon resistance movement ‘extremist organization’",
-   "url": "https://www.ukrinform.net/rubric-society/4184286-russia-designates-ukraines-yellow-ribbon-resistance-movement-an-extremist-organization.html",
-   "ts": 1794623520,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Росія визнала український рух опору \"Жовта стрічка\" екстремістською організацією",
-    "fr": "La Russie qualifie le mouvement de résistance du Ruban jaune d'Ukraine d'« organisation extrémiste »",
-    "de": "Russland bezeichnet die ukrainische Widerstandsbewegung „Yellow Ribbon“ als „extremistische Organisation“",
-    "zh": "俄罗斯将乌克兰黄丝带抵抗运动列为“极端组织”",
-    "ru": "Россия назвала украинское движение сопротивления «Желтая лента» экстремистской организацией"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "dw_world",
    "source": "DW",
    "title": "SpaceX launches Starship rocket, fails to recover booster",
@@ -1143,18 +1450,18 @@
   {
    "feed": "guardian_business",
    "source": "The Guardian",
-   "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+   "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
    "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
    "ts": 1794622553,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Авіаційне агентство США скасовує загальнонаціональну зупинку на всіх авіаперельотах",
-    "fr": "L'agence américaine de l'aviation lève les contrôles au sol à l'échelle nationale, affectant tous les voyages aériens",
-    "de": "Die US-Luftfahrtbehörde hebt den landesweiten Bodenstopp auf, der den gesamten Flugverkehr betrifft",
-    "zh": "美国航空管理局取消全国范围内的地面停止，影响所有航空旅行",
-    "ru": "Авиационное агентство США отменяет общенациональную наземную остановку, затрагивающую все авиаперевозки"
+    "uk": "Польоти повільно відновлюються після того, як авіаційне агентство США скасовує наземну зупинку по всій країні",
+    "fr": "Les vols reprennent lentement après que l'agence américaine de l'aviation a levé son arrêt au sol à l'échelle nationale",
+    "de": "Die Flüge werden langsam wieder aufgenommen, nachdem die US-Luftfahrtbehörde den landesweiten Bodenstopp aufgehoben hat",
+    "zh": "美国航空管理局取消全国地面停留后，航班缓慢恢复",
+    "ru": "Полеты медленно возобновляются после того, как авиационное агентство США отменяет общенациональную наземную остановку"
    },
    "lang": "en"
   },
@@ -1285,24 +1592,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "SSU foils Russian plot to strike Kyiv, arrests suspected agent spying on military positions",
-   "url": "https://www.ukrinform.net/rubric-crime/4184253-ssu-foils-russian-plot-to-strike-kyiv-arrests-suspected-agent-spying-on-military-positions.html",
-   "ts": 1794619740,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "СБУ зірвала російську змову щодо удару по Києву, заарештувала підозрюваного агента у шпигунстві за військовими позиціями",
-    "fr": "Le SSU déjoue un complot russe visant à frapper Kyiv et arrête un agent présumé espionnant des positions militaires",
-    "de": "SSU vereitelt russischen Angriffsplan auf Kiew und verhaftet mutmaßlichen Agenten, der militärische Stellungen ausspioniert",
-    "zh": "SSU挫败了俄罗斯袭击基辅的阴谋，逮捕了监视军事阵地的嫌疑特工",
-    "ru": "СБУ сорвала план России по нанесению удара по Киеву и арестовала подозреваемого агента в шпионаже на военных позициях"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "SpaceX launches Starship in key test flight of massive rocket",
@@ -1317,42 +1606,6 @@
     "de": "SpaceX startet Starship im Rahmen eines wichtigen Testflugs einer riesigen Rakete",
     "zh": "SpaceX 在大型火箭的关键试飞中发射 Starship",
     "ru": "SpaceX запускает Starship в ключевой испытательный полет массивной ракеты"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Rubio assails international court in speech to conservative legal group",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
-   "ts": 1794618360,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Рубіо критикує міжнародний суд у своїй промові перед консервативною юридичною групою",
-    "fr": "Rubio attaque la Cour internationale dans un discours devant un groupe juridique conservateur",
-    "de": "Rubio greift das internationale Gericht in einer Rede vor einer konservativen Rechtsgruppe an",
-    "zh": "卢比奥在保守派法律团体演讲中攻击国际法院",
-    "ru": "Рубио раскритиковал международный суд в обращении к консервативной юридической группе"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "What we know about Chinese businesswoman Alice Huang",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVlveUI2ekRqQWdDUnE5Rk9IR0hVQWdqVmNFam5oRWZXWVQ2UHBOZjV5NFhEYUszSnNuWkhfb3ltV1NSbFdteXRaaXhTMldYNDBHeVNCSkM3d3Z0Sm1VcnU1R2FMZnBYZHhKTGZVSXlRZVhMMjZIWkNSbFpWcm9fYkpzS0xvQ3JpWnpxcmR0OXdIVU1kZzBleEhXZllNTTNOS1ViSEUxa3FXbjQ?oc=5",
-   "ts": 1794618300,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Що ми знаємо про китайську бізнесвумен Алісу Хуан",
-    "fr": "Ce que l'on sait de la femme d'affaires chinoise Alice Huang",
-    "de": "Was wir über die chinesische Geschäftsfrau Alice Huang wissen",
-    "zh": "我们对中国女商人黄爱丽的了解",
-    "ru": "Что мы знаем о китайской бизнесвумен Алисе Хуан"
    },
    "lang": "en"
   },
@@ -1372,24 +1625,6 @@
     "de": "Stuart Bonds machte „rassistische“ und „spaltende“ Kommentare. Aber One Nation zeigt keine Anzeichen dafür, den NSW-Kandidaten fallen zu lassen",
     "zh": "斯图尔特·邦兹发表了“种族主义”和“分裂”言论。但一国党没有表现出抛弃新南威尔士州候选人的迹象",
     "ru": "Стюарт Бондс сделал «расистские» и «вызывающие разногласия» комментарии. Но «Единая нация» не проявляет никаких признаков отказа от кандидата от Нового Южного Уэльса."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
-   "ts": 1794617700,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "США втрачають статус країни, вільної від кору, через продовження поширення хвороби, повідомляє WSJ",
-    "fr": "Les États-Unis perdent leur statut de pays exempts de rougeole après la propagation continue de la maladie, rapporte le WSJ",
-    "de": "Laut WSJ verlieren die USA ihren Status als masernfrei, nachdem sich die Krankheit weiter ausgebreitet hat",
-    "zh": "《华尔街日报》报道，麻疹疫情持续蔓延，美国失去了无麻疹状态",
-    "ru": "США теряют статус страны, свободной от кори, после продолжающегося распространения болезни, сообщает WSJ"
    },
    "lang": "en"
   },
@@ -1450,24 +1685,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "National Guard drones hit over 316,000 enemy targets since Russia’s full-scale invasion – Pivnenko",
-   "url": "https://www.ukrinform.net/rubric-ato/4184233-national-guard-drones-hit-over-316000-enemy-targets-since-russias-fullscale-invasion-pivnenko.html",
-   "ts": 1794615720,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "З моменту повномасштабного вторгнення Росії безпілотники Нацгвардії вразили понад 316 тисяч об’єктів противника – Півненко",
-    "fr": "Les drones de la Garde nationale ont touché plus de 316 000 cibles ennemies depuis l’invasion à grande échelle de la Russie – Pivnenko",
-    "de": "Drohnen der Nationalgarde haben seit Russlands umfassender Invasion über 316.000 feindliche Ziele angegriffen – Pivnenko",
-    "zh": "自俄罗斯全面入侵以来，国民警卫队无人机击中了超过 316,000 个敌方目标——Pivnenko",
-    "ru": "Дроны Нацгвардии поразили более 316 тысяч вражеских целей с момента полномасштабного вторжения России – Пивненко"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Trump, Putin and Xi will meet in China to discuss nuclear arms control – NYP",
@@ -1490,7 +1707,7 @@
    "source": "Reuters",
    "title": "New York sued over law requiring social media 'warning label'",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUJmbE5nSlZ4T2NzTERlSm96TmRZbjdnbzR5MHE2dHBJZVl2OTltRVphRUJOcHpTdFI0MlV2VW5vamlHOVVpNTJWanhkX1ByUXk0M19sTXMtT29WU24xcHdUd3RseFotR1luM2Q0S1Q4V2VEWEdrLXgwaTNKS3M1dlpFNkt2cjFVa3ZfWkhhMFk0dlVtTHFCalNoWUNOX1ZEZHk4d1g2WFVHUmM2Q04zWVloaHlMV3NnTmc?oc=5",
-   "ts": 1794615456,
+   "ts": 1794614940,
    "sec": [
     "market"
    ],
@@ -1632,24 +1849,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Remains of Russian drone recovered from Dnipro River in Kyiv",
-   "url": "https://www.ukrinform.net/rubric-ato/4184176-remains-of-russian-drone-recovered-from-dnipro-river-in-kyiv.html",
-   "ts": 1794612360,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "У Києві з Дніпра витягли залишки російського безпілотника",
-    "fr": "Les restes d'un drone russe récupérés dans le fleuve Dnipro à Kyiv",
-    "de": "Überreste einer russischen Drohne aus dem Fluss Dnipro in Kiew geborgen",
-    "zh": "从基辅第聂伯河发现的俄罗斯无人机残骸",
-    "ru": "В Днепре в Киеве нашли останки российского беспилотника"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "mw_top",
    "source": "MarketWatch",
    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
@@ -1704,42 +1903,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_markets",
-   "source": "Reuters",
-   "title": "EXCLUSIVE: Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU19NSkVwM01HVEVUWTBqYzU4T0FKbUxJUlJJZmdKSDJUYk4taFJsREpuOThjVUh1T0taMGp0QTAyV3dmVDBoV0NXaEcwMUJGVlVwZUVvbXJFaUE1MzNSenNZQmJuOWVBZkFUSGVDRHktV2lQY0RCQ1RaZG1YTGxtNVRSbERVdUhiRlRYRl94OVhoeU5QcjdXVDRCbDR3Y3lCeXVmTTJXdWNONVdYSTNPTy1RU0VqX2ZSTHc?oc=5",
-   "ts": 1794609956,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "ЕКСКЛЮЗИВ: Брукфілд, консорціум CPPIB вступає в наступний раунд процесу продажу Uniper, кажуть джерела",
-    "fr": "EXCLUSIF : Le consortium Brookfield et CPPIB entame la prochaine étape du processus de vente d'Uniper, selon des sources",
-    "de": "EXKLUSIV: Das Brookfield-CPPIB-Konsortium geht laut Quellen in die nächste Runde im Uniper-Verkaufsprozess",
-    "zh": "独家报道：消息人士称，Brookfield 与 CPPIB 财团进入 Uniper 销售流程的下一轮",
-    "ru": "ЭКСКЛЮЗИВ: Консорциум Brookfield и CPPIB вступает в следующий раунд процесса продаж Uniper, сообщают источники"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "4 expert tips for signing up for Medicare",
-   "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-   "ts": 1794609900,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "4 поради експертів щодо реєстрації в Medicare",
-    "fr": "4 conseils d'experts pour vous inscrire à Medicare",
-    "de": "4 Expertentipps für die Anmeldung bei Medicare",
-    "zh": "注册 Medicare 的 4 个专家提示",
-    "ru": "4 совета экспертов по подписке на Medicare"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
@@ -1773,24 +1936,6 @@
     "de": "Eisenkot wirft Netanjahu eine „rassistische“ Kampagne gegen die arabische Minderheit Israels vor",
     "zh": "艾森科特指责内塔尼亚胡针对以色列阿拉伯少数民族的“种族主义”运动",
     "ru": "Айзенкот обвинил Нетаньяху в «расистской» кампании против арабского меньшинства Израиля"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-   "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
-   "ts": 1794609101,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "У Новому Орлеані тривають рятувальні роботи після того, як танкер зіткнувся з річковим круїзним судном на річці Міссісіпі",
-    "fr": "Sauvetage en cours à la Nouvelle-Orléans après qu'un pétrolier a heurté un bateau de croisière fluviale sur le fleuve Mississippi",
-    "de": "In New Orleans laufen Rettungsaktionen, nachdem ein Tanker ein Flusskreuzfahrtschiff auf dem Mississippi angefahren hat",
-    "zh": "一艘油轮在密西西比河上撞上一艘游船后，新奥尔良正在进行救援",
-    "ru": "В Новом Орлеане продолжаются спасательные работы после того, как танкер врезался в круизный катер на реке Миссисипи."
    },
    "lang": "en"
   },
@@ -1864,25 +2009,6 @@
     "de": "Frankreich gehört zu den fünf Großmächten, die die EU bei den Ukraine-Gesprächen vertreten",
     "zh": "法国是代表欧盟参​​加乌克兰谈判的五个大国之一",
     "ru": "Франция входит в пятерку крупнейших держав, которые будут представлять ЕС на переговорах по Украине"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0Rkg5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5",
-   "ts": 1794605580,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Верховний суд розгляне указ Трампа про призупинення доступу до притулку на південному кордоні",
-    "fr": "La Cour suprême examinera le décret de Trump suspendant l’accès aux demandeurs d’asile à la frontière sud",
-    "de": "Der Oberste Gerichtshof wird Trumps Anordnung zur Aussetzung des Asylzugangs an der Südgrenze prüfen",
-    "zh": "最高法院将考虑特朗普暂停南部边境庇护申请的行政命令",
-    "ru": "Верховный суд рассмотрит указ Трампа о приостановке доступа к убежищу на южной границе"
    },
    "lang": "en"
   },
@@ -2035,24 +2161,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Plane aborts landing at Warsaw airport due to drone",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062806/",
-   "ts": 1794599280,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Літак перервав посадку в аеропорту Варшави через дрон",
-    "fr": "Un avion interrompt son atterrissage à l'aéroport de Varsovie à cause d'un drone",
-    "de": "Flugzeug bricht Landung am Warschauer Flughafen wegen Drohne ab",
-    "zh": "飞机因无人机原因中止在华沙机场降落",
-    "ru": "Самолет прервал посадку в аэропорту Варшавы из-за дрона"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "france24",
    "source": "France 24",
    "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
@@ -2073,60 +2181,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Ukraine war latest: Ex-PM press secretary reportedly injured in Moscow car explosion",
-   "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/",
-   "ts": 1794598911,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Остання війна в Україні: екс-прес-секретар прем'єр-міністра постраждав під час вибуху автомобіля в Москві",
-    "fr": "Dernière guerre en Ukraine : l'ancien secrétaire de presse de l'ancien Premier ministre aurait été blessé dans l'explosion d'une voiture à Moscou",
-    "de": "Neuester Krieg in der Ukraine: Berichten zufolge wurde ein ehemaliger Pressesprecher des Premierministers bei einer Autoexplosion in Moskau verletzt",
-    "zh": "乌克兰战争最新消息：据报道前总理新闻秘书在莫斯科汽车爆炸中受伤",
-    "ru": "Последняя война на Украине: пресс-секретарь экс-премьера, как сообщается, пострадал в результате взрыва автомобиля в Москве"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "The foreign influencers helping Russia sell its occupation",
-   "url": "https://kyivindependent.com/the-foreign-influencers-helping-russia-sell-its-occupation/",
-   "ts": 1794598347,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Іноземні впливові особи, які допомагають Росії продати свою окупацію",
-    "fr": "Les influenceurs étrangers qui aident la Russie à vendre son occupation",
-    "de": "Die ausländischen Influencer helfen Russland, seine Besatzung zu verkaufen",
-    "zh": "外国影响者帮助俄罗斯出售其占领",
-    "ru": "Иностранные влиятельные лица помогают России продать свою оккупацию"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "International Ice Hockey Federation investigates Russia’s incorporation of teams from occupied Ukrainian territories into its tournament system",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062700/",
-   "ts": 1794597780,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Міжнародна федерація хокею розслідує включення Росією команд з окупованих територій України до своєї турнірної системи",
-    "fr": "La Fédération internationale de hockey sur glace enquête sur l'incorporation par la Russie d'équipes des territoires ukrainiens occupés dans son système de tournois",
-    "de": "Der Internationale Eishockeyverband untersucht die Einbeziehung russischer Mannschaften aus besetzten ukrainischen Gebieten in sein Turniersystem",
-    "zh": "国际冰球联合会调查俄罗斯将乌克兰被占领土球队纳入其锦标赛体系的行为",
-    "ru": "Международная федерация хоккея расследует включение Россией в свою турнирную систему команд с оккупированных территорий Украины."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ap",
    "source": "AP News",
    "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks will consider wider European security",
@@ -2142,24 +2196,6 @@
     "de": "Die Ukraine schießt fast 1.200 Drohnen auf Russland, während in den von den USA geführten Gesprächen die umfassendere europäische Sicherheit erörtert wird",
     "zh": "美国主导的谈判将考虑更广泛的欧洲安全，乌克兰向俄罗斯发射了近 1,200 架无人机",
     "ru": "Украина запустила около 1200 беспилотников по России, поскольку переговоры под руководством США будут рассматривать более широкую европейскую безопасность"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "\"This is our time\": Polish PM Tusk reacts to announcement of Europe's role in Ukraine peace talks",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062802/",
-   "ts": 1794597060,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "«Це наш час»: прем'єр-міністр Польщі Туск відреагував на заяву про роль Європи в мирних переговорах щодо України",
-    "fr": "\"C'est notre heure\" : le Premier ministre polonais Tusk réagit à l'annonce du rôle de l'Europe dans les pourparlers de paix en Ukraine",
-    "de": "„Dies ist unsere Zeit“: Der polnische Premierminister Tusk reagiert auf die Ankündigung der Rolle Europas in den Friedensgesprächen mit der Ukraine",
-    "zh": "“这是我们的时代”：波兰总理图斯克对宣布欧洲在乌克兰和谈中的作用做出反应",
-    "ru": "«Пришло наше время»: премьер-министр Польши Туск отреагировал на заявление о роли Европы в мирных переговорах по Украине"
    },
    "lang": "en"
   },
@@ -2715,7 +2751,7 @@
   {
    "source": "cnbc_markets",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "source": "cnbc_top",
@@ -2740,7 +2776,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "guardian_business",
@@ -2840,7 +2876,7 @@
   {
    "source": "guardian_ukraine",
    "ok": true,
-   "items": 14
+   "items": 16
   },
   {
    "source": "x:syndication.twitter.com",
@@ -2876,7 +2912,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 195,
+   "translated": 175,
    "method": {
     "dict": 10
    }
