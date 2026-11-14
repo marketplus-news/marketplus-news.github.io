@@ -1,5 +1,5 @@
 {
- "updated": 1794613299,
+ "updated": 1794617938,
  "x_handle": "MarketPulseGold",
  "x_source": "manual",
  "x": [
@@ -216,92 +216,600 @@
  ],
  "items": [
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Flights grounded across US after air traffic communications outage",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-   "ts": 1794612964,
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+   "ts": 1794617791,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Трамп не планує піднімати питання Nvidia, шпигунства під час поїздки до Китаю: офіційні особи США",
+    "fr": "Trump n'a pas l'intention de soulever le problème de Nvidia et d'espionnage lors de son voyage en Chine, selon des responsables américains",
+    "de": "Trump hat nicht vor, das Spionagethema Nvidia während seiner China-Reise zur Sprache zu bringen: US-Beamte",
+    "zh": "特朗普不打算在中国之行期间提出英伟达、间谍问题：美国官员",
+    "ru": "Трамп не планирует поднимать Nvidia и вопрос шпионажа во время поездки в Китай: официальные лица США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. Senate Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "ts": 1794617770,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Сенат США 2026 року",
+    "fr": "Résultats des élections sénatoriales américaines de 2026",
+    "de": "Ergebnisse der US-Senatswahl 2026",
+    "zh": "2026 年美国参议院选举结果",
+    "ru": "Результаты выборов в Сенат США 2026 г."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. House Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "ts": 1794617770,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Палату представників США 2026 року",
+    "fr": "Résultats des élections législatives américaines de 2026",
+    "de": "Ergebnisse der US-Repräsentantenhauswahl 2026",
+    "zh": "2026 年美国众议院选举结果",
+    "ru": "Результаты выборов в Палату представителей США 2026 года"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+   "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "ts": 1794617471,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Федеральне авіаційне управління США (FAA) забороняє відправляти рейси по всій країні, посилаючись на збій системи зв’язку повітряного руху",
+    "fr": "La FAA immobilise les vols au départ dans tout le pays, invoquant une panne du système de communication du trafic aérien",
+    "de": "Die FAA verbietet landesweit Abflüge mit Verweis auf einen Ausfall des Flugkommunikationssystems",
+    "zh": "美国联邦航空局以空中交通通信系统中断为由，停飞全国航班",
+    "ru": "ФАУ запрещает вылеты рейсов по всей стране, ссылаясь на сбой в системе связи воздушного движения."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+   "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge-5024713",
+   "ts": 1794617299,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "S&P 500, Nasdaq закінчуються зниженням, оскільки невизначеність Nvidia тисне на акції технологічних компаній",
+    "fr": "Le S&P 500 et le Nasdaq terminent en baisse alors que l'incertitude de Nvidia pèse sur les actions technologiques",
+    "de": "S&P 500 und Nasdaq enden im Minus, da die Nvidia-Unsicherheit die Technologieaktien belastet",
+    "zh": "由于英伟达的不确定性打压科技股，标普 500 指数和纳斯达克指数收低",
+    "ru": "S&P 500 и Nasdaq завершили снижение, поскольку неопределенность Nvidia оказывает давление на акции технологических компаний"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Centuri Holdings director Patton buys $249,920 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/centuri-holdings-director-patton-buys-249920-in-stock-93CH-5026849",
+   "ts": 1794617155,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Centuri Holdings Паттон купує акції на 249 920 доларів",
+    "fr": "Le directeur de Centuri Holdings, Patton, achète pour 249 920 $ d'actions",
+    "de": "Patton, Direktor von Centuri Holdings, kauft Aktien im Wert von 249.920 US-Dollar",
+    "zh": "Centuri Holdings 董事 Patton 购买了 249,920 美元的股票",
+    "ru": "Директор Centuri Holdings Паттон покупает акции на сумму 249 920 долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+   "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+   "ts": 1794616800,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Федеральне авіаційне управління США (FAA) оголошує про рідкісні наземні зупинки по всій країні, наразі затримано понад 10 000 рейсів",
+    "fr": "La FAA déclare une rare escale nationale sur les vols, avec plus de 10 000 retardés jusqu'à présent",
+    "de": "Die FAA erklärt einen seltenen landesweiten Stopp von Flügen, wobei bisher mehr als 10.000 Flüge verspätet waren",
+    "zh": "美国联邦航空局宣布罕见的全国范围内航班地面停留，迄今已有超过 10,000 架次航班延误",
+    "ru": "ФАУ объявляет о редкой наземной остановке рейсов по всей стране: на данный момент задержано более 10 000 рейсов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "SpaceX launches Starship in key test flight of massive rocket",
+   "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+   "ts": 1794616589,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "SpaceX запускає Starship у ключовому випробувальному польоті масивної ракети",
+    "fr": "SpaceX lance Starship lors d'un vol d'essai clé d'une fusée massive",
+    "de": "SpaceX startet Starship im Rahmen eines wichtigen Testflugs einer riesigen Rakete",
+    "zh": "SpaceX 在大型火箭的关键试飞中发射 Starship",
+    "ru": "SpaceX запускает Starship в ключевой испытательный полет массивной ракеты"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "ts": 1794616286,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Оновлення про збої в авіарейсах у США: FAA призупиняє тисячі рейсів, оскільки адміністрація Трампа шукає причину загальнонаціональних затримок",
+    "fr": "Mises à jour en direct sur les pannes de vols aux États-Unis : la FAA immobilise des milliers de vols alors que l'administration Trump recherche la cause des retards à l'échelle nationale",
+    "de": "Live-Updates zu Flugausfällen in den USA: Die FAA verbietet Tausende von Flügen, während die Trump-Regierung nach der Ursache für landesweite Verspätungen sucht",
+    "zh": "美国航班停运实时更新：特朗普政府寻找全国范围内航班延误的原因，美国联邦航空局停飞了数千架航班",
+    "ru": "Постоянные обновления о перебоях в полетах в США: FAA приостанавливает тысячи рейсов, поскольку администрация Трампа ищет причину задержек по всей стране"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Sinclair director Robert E. Smith sells $2.73 million of class A stock",
+   "url": "https://www.investing.com/news/insider-trading-news/sinclair-director-robert-e-smith-sells-273-million-of-class-a-stock-93CH-5026832",
+   "ts": 1794616278,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Sinclair Роберт Е. Сміт продає акції класу А за 2,73 мільйона доларів",
+    "fr": "Le directeur de Sinclair, Robert E. Smith, vend pour 2,73 millions de dollars d'actions de classe A",
+    "de": "Sinclair-Direktor Robert E. Smith verkauft Klasse-A-Aktien im Wert von 2,73 Millionen US-Dollar",
+    "zh": "Sinclair 董事 Robert E. Smith 出售价值 273 万美元的 A 类股票",
+    "ru": "Директор Sinclair Роберт Э. Смит продает акции класса А на 2,73 миллиона долларов."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Septerna director Alan Ezekowitz sells $3.93M in SEPN stock",
+   "url": "https://www.investing.com/news/insider-trading-news/septerna-director-alan-ezekowitz-sells-393m-in-sepn-stock-93CH-5026831",
+   "ts": 1794616266,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Директор Septerna Алан Езековіц продає акції SEPN на суму 3,93 мільйона доларів",
+    "fr": "Le directeur de Septerna, Alan Ezekowitz, vend 3,93 millions de dollars d'actions SEPN",
+    "de": "Septerna-Direktor Alan Ezekowitz verkauft SEPN-Aktien im Wert von 3,93 Millionen US-Dollar",
+    "zh": "Septerna 董事 Alan Ezekowitz 出售价值 393 万美元的 SEPN 股票",
+    "ru": "Директор Septerna Алан Езековиц продает акции SEPN на сумму 3,93 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Snap Inc. CFO Douglas Hott sells $75,274 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/snap-inc-cfo-douglas-hott-sells-75274-in-stock-93CH-5026829",
+   "ts": 1794616254,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Фінансовий директор Snap Inc. Дуглас Хотт продає акції за 75 274 дол",
+    "fr": "Le directeur financier de Snap Inc., Douglas Hott, vend 75 274 $ d'actions",
+    "de": "Douglas Hott, CFO von Snap Inc., verkauft Aktien im Wert von 75.274 US-Dollar",
+    "zh": "Snap Inc. 首席财务官道格拉斯·霍特 (Douglas Hott) 出售价值 75,274 美元的股票",
+    "ru": "Финансовый директор Snap Inc. Дуглас Хотт продает акции на сумму 75 274 доллара"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Ameren SVP finance Ryan Martin sells $91,296 in stock",
+   "url": "https://www.investing.com/news/insider-trading-news/ameren-svp-finance-ryan-martin-sells-91296-in-stock-93CH-5026830",
+   "ts": 1794616254,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Старший віце-президент з фінансів Ameren Райан Мартін продає акції за 91 296 доларів",
+    "fr": "Ryan Martin, vice-président directeur des finances d'Ameren, vend 91 296 $ d'actions",
+    "de": "Der amerikanische SVP-Finanzminister Ryan Martin verkauft Aktien im Wert von 91.296 US-Dollar",
+    "zh": "Ameren 财务高级副总裁 Ryan Martin 出售价值 91,296 美元的股票",
+    "ru": "Старший вице-президент по финансам Ameren Райан Мартин продает акции на сумму 91 296 долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Exclusive-Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "url": "https://www.investing.com/news/stock-market-news/exclusiveexnvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-sources-say-5026828",
+   "ts": 1794616222,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ексклюзивний колишній генеральний директор Nvidia ввів в оману головного юриста щодо роману з китайською бізнес-леді, кажуть джерела",
+    "fr": "L'ancien PDG de NVIDIA a induit en erreur un avocat de premier plan sur une liaison avec une femme d'affaires chinoise, selon des sources",
+    "de": "Exklusiv-Ex-Nvidia-CEO hat Top-Anwalt wegen Affäre mit chinesischer Geschäftsfrau in die Irre geführt, sagen Quellen",
+    "zh": "消息人士称，英伟达独家前首席执行官在与中国女商人的恋情问题上误导了顶级律师",
+    "ru": "Эксклюзив: бывший генеральный директор Nvidia ввел в заблуждение главного юриста по делу о романе с китайской бизнесвумен, сообщают источники"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "UK police open sex offence probe into comedian and author David Walliams",
+   "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+   "ts": 1794615727,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Рейси по всій території США припинено через збій повітряного зв'язку",
-    "fr": "Des vols bloqués aux États-Unis après une panne de communication aérienne",
-    "de": "Flüge in den USA wurden nach einem Ausfall der Flugkommunikation eingestellt",
-    "zh": "空中交通通信中断后美国各地航班停飞",
-    "ru": "Полеты в США приостановлены из-за сбоев в авиасообщении"
+    "uk": "Поліція Великої Британії почала розслідування коміка та письменника Девіда Уолліамса за статеві злочини",
+    "fr": "La police britannique ouvre une enquête pour délits sexuels sur le comédien et auteur David Walliams",
+    "de": "Die britische Polizei leitet Ermittlungen wegen Sexualdelikten gegen den Komiker und Autor David Walliams ein",
+    "zh": "英国警方对喜剧演员兼作家大卫·威廉姆斯展开性犯罪调查",
+    "ru": "Полиция Великобритании открыла расследование по делу о сексуальном преступлении в отношении комика и писателя Дэвида Уоллиамса"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "All passengers and crew on New Orleans paddleboat survive crash with tanker on Mississippi River",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
+   "ts": 1794615720,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Усі пасажири та екіпаж новоорлеанського катера вижили в аварії з танкером на річці Міссісіпі",
+    "fr": "Tous les passagers et l'équipage du pédalo de la Nouvelle-Orléans survivent à un accident avec un pétrolier sur le fleuve Mississippi",
+    "de": "Alle Passagiere und Besatzungsmitglieder des Tretboots aus New Orleans überleben den Unfall mit einem Tanker auf dem Mississippi",
+    "zh": "新奥尔良明轮船在密西西比河与油轮相撞，所有乘客和船员均幸存",
+    "ru": "Все пассажиры и команда водного велосипеда в Новом Орлеане выжили при столкновении с танкером на реке Миссисипи."
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Adicet Bio announces board changes and committee appointments",
-   "url": "https://www.investing.com/news/sec-filings/adicet-bio-announces-board-changes-and-committee-appointments-93CH-5026768",
-   "ts": 1794612789,
+   "title": "Free speech nonprofit says US to end efforts to curb Facebook group and app reporting ICE activity",
+   "url": "https://www.investing.com/news/stock-market-news/free-speech-nonprofit-says-us-to-end-efforts-to-curb-facebook-group-and-app-reporting-ice-activity-5026821",
+   "ts": 1794615573,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Adicet Bio оголошує про зміни в раді директорів і призначення комітетів",
-    "fr": "L'Adicet Bio annonce des changements au conseil d'administration et des nominations aux comités",
-    "de": "Adicet Bio gibt Veränderungen im Vorstand und Ernennungen von Ausschüssen bekannt",
-    "zh": "Adicet Bio 宣布董事会变动和委员会任命",
-    "ru": "Adicet Bio объявляет об изменениях в совете директоров и назначениях комитетов"
+    "uk": "Некомерційна організація «Свобода слова» закликає США припинити зусилля щодо обмеження груп у Facebook і додатків, які повідомляють про діяльність ICE",
+    "fr": "Une organisation à but non lucratif pour la liberté d'expression déclare que les États-Unis mettront fin à leurs efforts visant à restreindre les activités des groupes et applications Facebook signalant l'activité ICE",
+    "de": "Die gemeinnützige Organisation für freie Meinungsäußerung sagt, dass die USA ihre Bemühungen zur Eindämmung der ICE-Aktivitäten von Facebook-Gruppen und -Apps einstellen sollen",
+    "zh": "言论自由非营利组织表示美国将停止遏制 Facebook 群组和应用程序报告 ICE 活动的努力",
+    "ru": "Некоммерческая организация по защите свободы слова заявляет, что США прекращают усилия по ограничению групп Facebook и приложений, сообщающих о деятельности ICE"
    },
    "lang": "en"
   },
   {
    "feed": "investing",
    "source": "Investing.com",
-   "title": "Q2 Holdings general counsel Michael Kerr sells $198,620 in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/q2-holdings-general-counsel-michael-kerr-sells-198620-in-stock-93CH-5026767",
-   "ts": 1794612691,
+   "title": "Democratic senators order Musk to preserve SpaceX records over Ukraine Starlink access, WSJ reports",
+   "url": "https://www.investing.com/news/stock-market-news/democrats-senators-order-musk-to-preserve-spacex-records-over-ukraine-starlink-accesswsj-reports-5026793",
+   "ts": 1794615529,
    "sec": [
-    "market"
+    "market",
+    "ukraine"
    ],
    "t": {
-    "uk": "Головний юрисконсульт Q2 Holdings Майкл Керр продає акції за 198 620 доларів США",
-    "fr": "L'avocat général de Q2 Holdings, Michael Kerr, vend 198 620 $ d'actions",
-    "de": "Michael Kerr, General Counsel von Q2 Holdings, verkauft Aktien im Wert von 198.620 US-Dollar",
-    "zh": "Q2 Holdings 总法律顾问 Michael Kerr 出售价值 198,620 美元的股票",
-    "ru": "Главный юрисконсульт Holdings во втором квартале Майкл Керр продает акции на сумму 198 620 долларов."
+    "uk": "Сенатори-демократи наказали Маску зберегти записи SpaceX щодо доступу Starlink до України, повідомляє WSJ",
+    "fr": "Les sénateurs démocrates ordonnent à Musk de préserver les enregistrements de SpaceX sur l'accès à Starlink en Ukraine, rapporte le WSJ",
+    "de": "Demokratische Senatoren weisen Musk an, SpaceX-Aufzeichnungen über den Starlink-Zugang der Ukraine aufzubewahren, berichtet das WSJ",
+    "zh": "据《华尔街日报》报道，民主党参议员命令马斯克保留 SpaceX 关于乌克兰星链接入的记录",
+    "ru": "Сенаторы-демократы приказали Маску сохранить записи SpaceX о доступе к Starlink в Украине, сообщает WSJ"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Joint Corp director Charles Jobson buys $18,786 in shares",
-   "url": "https://www.investing.com/news/insider-trading-news/joint-corp-director-charles-jobson-buys-18786-in-shares-93CH-5026766",
-   "ts": 1794612658,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Microsoft services begin recovering after global outage",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+   "ts": 1794615479,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Директор Joint Corp Чарльз Джобсон купує акції на 18 786 доларів США",
-    "fr": "Le directeur de Joint Corp, Charles Jobson, achète pour 18 786 $ d'actions",
-    "de": "Joint Corp-Direktor Charles Jobson kauft Aktien im Wert von 18.786 US-Dollar",
-    "zh": "Joint Corp 董事 Charles Jobson 购买了 18,786 美元的股票",
-    "ru": "Директор Joint Corp Чарльз Джобсон покупает акции на сумму 18 786 долларов"
+    "uk": "Служби Microsoft починають відновлення після глобального збою",
+    "fr": "Les services Microsoft commencent à se rétablir après une panne mondiale",
+    "de": "Microsoft-Dienste beginnen nach einem weltweiten Ausfall mit der Wiederherstellung",
+    "zh": "全球停电后微软服务开始恢复",
+    "ru": "Службы Microsoft начинают восстанавливаться после глобального сбоя"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Revolution Medicines CFO Jack Anders sells $6.7 million in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/revolution-medicines-cfo-jack-anders-sells-67-million-in-stock-93CH-5026765",
-   "ts": 1794612656,
+   "feed": "ap",
+   "source": "AP News",
+   "title": "Flights halted at airports across US due to air traffic control communications problems",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+   "ts": 1794614880,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Через проблеми зі зв'язком диспетчерського управління припинено польоти в аеропортах США",
+    "fr": "Les vols sont interrompus dans les aéroports des États-Unis en raison de problèmes de communication avec le contrôle du trafic aérien",
+    "de": "Aufgrund von Kommunikationsproblemen der Flugsicherung wurden Flüge an Flughäfen in den gesamten USA gestoppt",
+    "zh": "由于空中交通管制通信问题，美国各地机场的航班暂停",
+    "ru": "Полеты остановлены в аэропортах США из-за проблем со связью авиадиспетчеров"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Afghanistan’s new road to China ends at a closed border",
+   "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+   "ts": 1794614803,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Нова дорога Афганістану до Китаю закінчується на закритому кордоні",
+    "fr": "La nouvelle route de l’Afghanistan vers la Chine se termine par une frontière fermée",
+    "de": "Afghanistans neuer Weg nach China endet an einer geschlossenen Grenze",
+    "zh": "阿富汗通往中国的新道路以封闭边境为终点",
+    "ru": "Новая дорога Афганистана в Китай заканчивается у закрытой границы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794614636,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Горила Джоджо провів своє життя на самоті. Чи зможе він нарешті знайти собі супутника?",
+    "fr": "Jojo le gorille a passé sa vie seul. Pourra-t-il enfin trouver un compagnon ?",
+    "de": "Jojo, der Gorilla, hat sein Leben allein verbracht. Kann er endlich einen Gefährten finden?",
+    "zh": "大猩猩乔乔孤独地度过了一生。他最终能找到同伴吗？",
+    "ru": "Горилла Джоджо провел свою жизнь в одиночестве. Сможет ли он наконец найти компаньона?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794614632,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Заарештовані генерали та погрози віце-президенту: син президента розпалює лихоманку спадкоємства в Уганді",
+    "fr": "Généraux arrêtés et vice-président menacé : le fils du président alimente la fièvre de la succession ougandaise",
+    "de": "Verhaftete Generäle und ein bedrohter Vizepräsident: Der Sohn des Präsidenten schürt das ugandische Nachfolgefieber",
+    "zh": "被捕的将军和受到威胁的副总统：总统的儿子助长了乌干达的继任热潮",
+    "ru": "Арестованные генералы и угроза вице-президенту: сын президента разжигает лихорадку преемственности в Уганде"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794614461,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Невдача для випробування ракети SpaceX Starship на подвійне захоплення",
+    "fr": "Revers pour le test de double capture de la fusée SpaceX Starship",
+    "de": "Rückschlag für den Double-Catch-Test der SpaceX-Starship-Rakete",
+    "zh": "SpaceX 星舰火箭双捕获测试受挫",
+    "ru": "Неудача в испытании двойной ловли ракеты SpaceX Starship"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+   "ts": 1794614425,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Війна в Ірані в прямому ефірі: бойові дії охоплюють Ємен, коли Катар і Туреччина підписують оборонну угоду",
+    "fr": "La guerre en Iran est en direct : les combats s’emparent du Yémen alors que le Qatar et la Turquie signent un accord de défense",
+    "de": "Iran-Krieg live: Der Jemen wird von Kämpfen erfasst, während Katar und die Türkei ein Verteidigungsabkommen unterzeichnen",
+    "zh": "伊朗战争直播：卡塔尔和土耳其签署防务协议，也门陷入战斗",
+    "ru": "Война в Иране в прямом эфире: боевые действия охватывают Йемен, Катар и Турция подписывают оборонное соглашение"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "US Air Force responds to suspected drone activity at military base in UK",
+   "url": "https://kyivindependent.com/us-air-force-responds-to-suspected-drone-activity-at-military-base-in-uk/",
+   "ts": 1794614260,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Військово-повітряні сили США реагують на ймовірну діяльність безпілотників на військовій базі у Великобританії",
+    "fr": "L'US Air Force répond à une activité présumée de drones sur une base militaire au Royaume-Uni",
+    "de": "Die US-Luftwaffe reagiert auf mutmaßliche Drohnenaktivitäten auf einem Militärstützpunkt in Großbritannien",
+    "zh": "美国空军对英国军事基地疑似无人机活动做出回应",
+    "ru": "ВВС США отреагировали на предполагаемую активность дронов на военной базе в Великобритании"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "What to know about the rare nationwide ground stop issued by the FAA",
+   "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+   "ts": 1794614168,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Фінансовий директор Revolution Medicines Джек Андерс продає акції на 6,7 мільйона доларів",
-    "fr": "Le directeur financier de Revolution Medicines, Jack Anders, vend 6,7 millions de dollars d'actions",
-    "de": "Jack Anders, CFO von Revolution Medicines, verkauft Aktien im Wert von 6,7 Millionen US-Dollar",
-    "zh": "Revolution Medicines 首席财务官 Jack Anders 出售价值 670 万美元的股票",
-    "ru": "Финансовый директор Revolution Medicines Джек Андерс продает акции на сумму 6,7 миллиона долларов"
+    "uk": "Що потрібно знати про рідкісні загальнонаціональні наземні зупинки, видані FAA",
+    "fr": "Ce qu'il faut savoir sur le rare contrôle au sol à l'échelle nationale émis par la FAA",
+    "de": "Was Sie über den seltenen landesweiten Bodenstopp der FAA wissen sollten",
+    "zh": "关于美国联邦航空管理局 (FAA) 发布的罕见的全国性地面停止通知，您需要了解什么",
+    "ru": "Что нужно знать о редкой общенациональной наземной остановке, выданной ФАУ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+   "ts": 1794614076,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nvidia закінчила працювати з Дженсеном Хуангом. Конфлікт у Вашингтоні тільки починається",
+    "fr": "Nvidia en a fini avec Jensen Huang. Les retombées à Washington ne font que commencer",
+    "de": "Nvidia ist mit Jensen Huang fertig. Die Auswirkungen in Washington beginnen gerade erst",
+    "zh": "Nvidia 与黄仁勋的关系结束了。华盛顿的余波才刚刚开始",
+    "ru": "Nvidia рассталась с Дженсеном Хуангом. Последствия в Вашингтоне только начинаются"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+   "ts": 1794613522,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Федеральне управління цивільної авіації (FAA) припиняє всі суперечки в США через «збій телекомунікацій»",
+    "fr": "La FAA fonde tous les combats aux États-Unis sur la « panne de télécommunications »",
+    "de": "FAA lässt alle Auseinandersetzungen in den USA wegen „Telekommunikationsausfall“ fallen",
+    "zh": "美国联邦航空管理局（FAA）搁置了美国各地因“电信中断”而发生的所有争斗",
+    "ru": "ФАУ обосновывает все споры в США из-за «отключений в телекоммуникациях»"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_markets",
+   "source": "CNBC",
+   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+   "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "ts": 1794613338,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Лутнік стикається з питаннями щодо шпигунського скандалу Nvidia. Фірма його синів має глибокі зв’язки з виробником мікросхем",
+    "fr": "Lutnick est confronté à des questions sur le scandale d'espionnage de Nvidia. L'entreprise de ses fils entretient des liens étroits avec le fabricant de puces",
+    "de": "Lutnick steht wegen Nvidia-Spionageskandal vor Fragen. Die Firma seiner Söhne ist eng mit dem Chiphersteller verbunden",
+    "zh": "卢特尼克因英伟达间谍丑闻而面临质疑。他儿子的公司与这家芯片制造商有着深厚的联系",
+    "ru": "Лютнику грозят вопросы по поводу шпионского скандала с Nvidia. Фирма его сыновей имеет глубокие связи с производителем чипов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794613245,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "\"Диво на Міссісіпі\" - усіх пасажирів врятовано після зіткнення круїзного лайнера в Новому Орлеані",
+    "fr": "\"Miracle sur le Mississippi\" - Tous les passagers secourus après la collision d'un bateau de croisière à la Nouvelle-Orléans",
+    "de": "„Wunder auf Mississippi“ – Alle Passagiere nach Kollision eines Kreuzfahrtschiffes in New Orleans gerettet",
+    "zh": "“密西西比奇迹”——新奥尔良游轮相撞后所有乘客均获救",
+    "ru": "«Чудо на Миссисипи»: все пассажиры спасены после столкновения круизного лайнера в Новом Орлеане"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_business",
+   "source": "The Guardian",
+   "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+   "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+   "ts": 1794613089,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Мегаракета SpaceX Starship вибухнула до очікуваного повернення для повторного використання",
+    "fr": "La mégafusée SpaceX Starship décolle avant son retour prévu pour réutilisation",
+    "de": "SpaceX-Starship-Megarakete startet vor der erwarteten Rückkehr zur Wiederverwendung",
+    "zh": "SpaceX 星舰巨型火箭在预计返回重复使用之前升空",
+    "ru": "Мегаракета SpaceX Starship стартовала до ожидаемого возвращения для повторного использования"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+   "ts": 1794612805,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Колетт Кресс, фінансовий директор, яка оскаржила ставки Хуанга, є тимчасовим генеральним директором Nvidia",
+    "fr": "Colette Kress, la directrice financière qui a contesté les paris de Huang, est la PDG par intérim de Nvidia",
+    "de": "Colette Kress, die CFO, die Huangs Wetten angefochten hat, ist Nvidias Interims-CEO",
+    "zh": "挑战黄的赌注的首席财务官科莱特·克雷斯(Colette Kress)是英伟达的临时首席执行官",
+    "ru": "Колетт Кресс, финансовый директор, которая бросила вызов ставкам Хуанга, является временным генеральным директором Nvidia."
    },
    "lang": "en"
   },
@@ -324,110 +832,20 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Hope Bancorp evp Angelee Harris sells $41,922 in company stock",
-   "url": "https://www.investing.com/news/insider-trading-news/hope-bancorp-evp-angelee-harris-sells-41922-in-company-stock-93CH-5026764",
-   "ts": 1794612654,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Керівник Hope Bancorp Анджелі Харріс продає акції компанії на 41 922 долари",
-    "fr": "Angelee Harris, vice-présidente de Hope Bancorp, vend 41 922 $ d'actions de la société",
-    "de": "Angelee Harris, Geschäftsführerin von Hope Bancorp, verkauft Unternehmensaktien im Wert von 41.922 US-Dollar",
-    "zh": "Hope Bancorp 执行副总裁 Angelee Harris 出售价值 41,922 美元的公司股票",
-    "ru": "Исполнительный директор Hope Bancorp Энджели Харрис продает акции компании на сумму 41 922 доллара"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Incyte cancels planned Phase 3 ovarian cancer study for CDK2 inhibitor",
-   "url": "https://www.investing.com/news/sec-filings/incyte-cancels-planned-phase-3-ovarian-cancer-study-for-cdk2-inhibitor-93CH-5026755",
-   "ts": 1794612555,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Incyte скасовує заплановане дослідження фази 3 раку яєчників на інгібітор CDK2",
-    "fr": "Incyte annule une étude de phase 3 prévue sur le cancer de l'ovaire pour l'inhibiteur de CDK2",
-    "de": "Incyte bricht geplante Phase-3-Studie zu Eierstockkrebs für CDK2-Inhibitor ab",
-    "zh": "Incyte 取消了 CDK2 抑制剂计划的 3 期卵巢癌研究",
-    "ru": "Incyte отменяет запланированное исследование 3 фазы рака яичников для ингибитора CDK2"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-   "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-   "ts": 1794612511,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Федеральне авіаційне управління США (FAA) забороняє відправляти рейси по всій країні, посилаючись на збій системи зв’язку повітряного руху",
-    "fr": "La FAA immobilise les vols au départ dans tout le pays, invoquant une panne du système de communication du trafic aérien",
-    "de": "Die FAA verbietet landesweit Abflüge mit Verweis auf einen Ausfall des Flugkommunikationssystems",
-    "zh": "美国联邦航空局以空中交通通信系统中断为由，停飞全国航班",
-    "ru": "ФАУ запрещает вылеты рейсов по всей стране, ссылаясь на сбой в системе связи воздушного движения."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Flights halted at airports across US due to air traffic control communications problems",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Remains of Russian drone recovered from Dnipro River in Kyiv",
+   "url": "https://www.ukrinform.net/rubric-ato/4184176-remains-of-russian-drone-recovered-from-dnipro-river-in-kyiv.html",
    "ts": 1794612360,
    "sec": [
-    "world"
+    "ukraine"
    ],
    "t": {
-    "uk": "Через проблеми зі зв'язком диспетчерського управління припинено польоти в аеропортах США",
-    "fr": "Les vols sont interrompus dans les aéroports des États-Unis en raison de problèmes de communication avec le contrôle du trafic aérien",
-    "de": "Aufgrund von Kommunikationsproblemen der Flugsicherung wurden Flüge an Flughäfen in den gesamten USA gestoppt",
-    "zh": "由于空中交通管制通信问题，美国各地机场的航班暂停",
-    "ru": "Полеты остановлены в аэропортах США из-за проблем со связью авиадиспетчеров"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Enbridge completes $1.1 billion subordinated notes offering due 2057",
-   "url": "https://www.investing.com/news/sec-filings/enbridge-completes-11-billion-subordinated-notes-offering-due-2057-93CH-5026754",
-   "ts": 1794612358,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Enbridge завершує розміщення субординованих облігацій на суму 1,1 мільярда доларів із погашенням у 2057 році",
-    "fr": "Enbridge réalise un placement de billets subordonnés de 1,1 milliard de dollars échéant en 2057",
-    "de": "Enbridge schließt die Emission von nachrangigen Schuldverschreibungen im Wert von 1,1 Milliarden US-Dollar mit Fälligkeit im Jahr 2057 ab",
-    "zh": "Enbridge 完成 2057 年到期的 11 亿美元次级票据发行",
-    "ru": "Enbridge завершает размещение субординированных облигаций на сумму $1,1 млрд со сроком погашения в 2057 году"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Kontoor Brands updates executive title for Jennifer H. Broyles after Lee sale",
-   "url": "https://www.investing.com/news/sec-filings/kontoor-brands-updates-executive-title-for-jennifer-h-broyles-after-lee-sale-93CH-5026753",
-   "ts": 1794612149,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Kontoor Brands оновлює виконавчу назву для Дженніфер Х. Бройлз після продажу Лі",
-    "fr": "Kontoor Brands met à jour le titre exécutif de Jennifer H. Broyles après la vente de Lee",
-    "de": "Kontoor Brands aktualisiert den Executive-Titel für Jennifer H. Broyles nach dem Lee-Verkauf",
-    "zh": "Lee 出售后，Kontoor Brands 更新了 Jennifer H. Broyles 的高管头衔",
-    "ru": "Kontoor Brands обновляет исполнительный титул Дженнифер Х. Бройлс после продажи Ли"
+    "uk": "У Києві з Дніпра витягли залишки російського безпілотника",
+    "fr": "Les restes d'un drone russe récupérés dans le fleuve Dnipro à Kyiv",
+    "de": "Überreste einer russischen Drohne aus dem Fluss Dnipro in Kiew geborgen",
+    "zh": "从基辅第聂伯河发现的俄罗斯无人机残骸",
+    "ru": "В Днепре в Киеве нашли останки российского беспилотника"
    },
    "lang": "en"
   },
@@ -486,38 +904,38 @@
    "lang": "en"
   },
   {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
-   "ts": 1794610440,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "У Новому Орлеані тривають рятувальні роботи після того, як танкер врізався в річковий круїзний катер на річці Міссісіпі",
-    "fr": "Des secours sont en cours à la Nouvelle-Orléans après qu'un pétrolier a heurté un bateau de croisière fluviale sur le fleuve Mississippi.",
-    "de": "In New Orleans sind Rettungsaktionen im Gange, nachdem ein Tanker ein Flusskreuzfahrtschiff auf dem Mississippi gerammt hat",
-    "zh": "一艘油轮在密西西比河上撞上一艘游船后，新奥尔良正在进行救援",
-    "ru": "В Новом Орлеане продолжаются спасательные работы после того, как танкер врезался в речной круизный катер на реке Миссисипи."
-   },
-   "lang": "en"
-  },
-  {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+   "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
    "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
    "ts": 1794610036,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Тривають рятувальні роботи після зіткнення танкера з річковим круїзним судном у США",
-    "fr": "Les efforts de sauvetage sont en cours après qu'un pétrolier a heurté un bateau de croisière fluviale aux États-Unis",
-    "de": "Rettungsmaßnahmen sind im Gange, nachdem ein Tanker in den USA ein Flusskreuzfahrtschiff angefahren hat",
-    "zh": "美国油轮撞上河游船后救援工作正在进行中",
-    "ru": "В США продолжаются спасательные работы после того, как танкер столкнулся с речным круизным судном"
+    "uk": "32 пасажири доставлені до лікарні після того, як танкер зіткнувся з річковим круїзним судном у США",
+    "fr": "32 passagers hospitalisés après qu'un pétrolier ait heurté un bateau de croisière fluviale aux États-Unis",
+    "de": "32 Passagiere ins Krankenhaus gebracht, nachdem Tanker in den USA ein Flusskreuzfahrtschiff gerammt hatte",
+    "zh": "美国油轮撞上河游船 32名乘客被送往医院",
+    "ru": "32 пассажира доставлены в больницу после того, как танкер врезался в речной круизный катер в США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "reuters_markets",
+   "source": "Reuters",
+   "title": "EXCLUSIVE: Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU19NSkVwM01HVEVUWTBqYzU4T0FKbUxJUlJJZmdKSDJUYk4taFJsREpuOThjVUh1T0taMGp0QTAyV3dmVDBoV0NXaEcwMUJGVlVwZUVvbXJFaUE1MzNSenNZQmJuOWVBZkFUSGVDRHktV2lQY0RCQ1RaZG1YTGxtNVRSbERVdUhiRlRYRl94OVhoeU5QcjdXVDRCbDR3Y3lCeXVmTTJXdWNONVdYSTNPTy1RU0VqX2ZSTHc?oc=5",
+   "ts": 1794609956,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "ЕКСКЛЮЗИВ: Брукфілд, консорціум CPPIB вступає в наступний раунд процесу продажу Uniper, кажуть джерела",
+    "fr": "EXCLUSIF : Le consortium Brookfield et CPPIB entame la prochaine étape du processus de vente d'Uniper, selon des sources",
+    "de": "EXKLUSIV: Das Brookfield-CPPIB-Konsortium geht laut Quellen in die nächste Runde im Uniper-Verkaufsprozess",
+    "zh": "独家报道：消息人士称，Brookfield 与 CPPIB 财团进入 Uniper 销售流程的下一轮",
+    "ru": "ЭКСКЛЮЗИВ: Консорциум Brookfield и CPPIB вступает в следующий раунд процесса продаж Uniper, сообщают источники"
    },
    "lang": "en"
   },
@@ -536,24 +954,6 @@
     "de": "4 Expertentipps für die Anmeldung bei Medicare",
     "zh": "注册 Medicare 的 4 个专家提示",
     "ru": "4 совета экспертов по подписке на Medicare"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-   "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "ts": 1794609840,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Федеральне авіаційне управління США (FAA) оголошує про рідкісні наземні зупинки по всій країні, наразі затримано понад 10 000 рейсів",
-    "fr": "La FAA déclare une rare escale nationale sur les vols, avec plus de 10 000 retardés jusqu'à présent",
-    "de": "Die FAA erklärt einen seltenen landesweiten Stopp von Flügen, wobei bisher mehr als 10.000 Flüge verspätet waren",
-    "zh": "美国联邦航空局宣布罕见的全国范围内航班地面停留，迄今已有超过 10,000 架次航班延误",
-    "ru": "ФАУ объявляет о редкой наземной остановке рейсов по всей стране: на данный момент задержано более 10 000 рейсов"
    },
    "lang": "en"
   },
@@ -631,6 +1031,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "US Air Force responds to suspected drone activity over UK airbase",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
+   "ts": 1794609282,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Військово-повітряні сили США реагують на ймовірну діяльність безпілотників над авіабазою Великобританії",
+    "fr": "L'US Air Force répond à une activité présumée de drones au-dessus d'une base aérienne britannique",
+    "de": "Die US-Luftwaffe reagiert auf mutmaßliche Drohnenaktivitäten über dem britischen Luftwaffenstützpunkt",
+    "zh": "美国空军对英国空军基地上空疑似无人机活动做出回应",
+    "ru": "ВВС США отреагировали на предполагаемую активность дронов над авиабазой Великобритании"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
@@ -663,24 +1081,6 @@
     "de": "Die US-Luftwaffe reagiert auf mutmaßliche Drohnenaktivitäten bei RAF Lakenheath",
     "zh": "美国空军对英国皇家空军拉肯希思基地疑似无人机活动做出回应",
     "ru": "ВВС США отреагировали на предполагаемую активность дронов на авиабазе ВВС Лейкенхит"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-   "ts": 1794608899,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nvidia закінчила працювати з Дженсеном Хуангом. Конфлікт у Вашингтоні тільки починається",
-    "fr": "Nvidia en a fini avec Jensen Huang. Les retombées à Washington ne font que commencer",
-    "de": "Nvidia ist mit Jensen Huang fertig. Die Auswirkungen in Washington beginnen gerade erst",
-    "zh": "Nvidia 与黄仁勋的关系结束了。华盛顿的余波才刚刚开始",
-    "ru": "Nvidia рассталась с Дженсеном Хуангом. Последствия в Вашингтоне только начинаются"
    },
    "lang": "en"
   },
@@ -761,7 +1161,7 @@
    "source": "Reuters",
    "title": "Freighter collides with cruise ship in New Orleans, passengers in the water",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5",
-   "ts": 1794608158,
+   "ts": 1794608100,
    "sec": [
     "world"
    ],
@@ -849,18 +1249,18 @@
   {
    "feed": "aljazeera",
    "source": "Al Jazeera",
-   "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+   "title": "LIVE: FAA issues US ground stop, some international flights to depart",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
    "ts": 1794607327,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "У прямому ефірі: Федеральне авіаційне управління США призупинило наземний зв’язок після збою зв’язку в США",
-    "fr": "EN DIRECT : La FAA effectue un contrôle au sol à l'échelle nationale après une panne de communication aux États-Unis",
-    "de": "LIVE: FAA erlässt landesweiten Bodenstopp nach Kommunikationsausfall in den USA",
-    "zh": "直播：美国通信中断后，美国联邦航空局 (FAA) 在全国范围内发出地面停车令",
-    "ru": "ПРЯМОЙ ЭФИР: ФАУ объявило остановку по всей стране после отключения связи в США"
+    "uk": "НАЖИВО: Федеральне авіаційне управління США забороняє наземну зупинку, деякі міжнародні рейси мають відправитися",
+    "fr": "EN DIRECT : la FAA émet un arrêt au sol aux États-Unis et certains vols internationaux doivent décoller",
+    "de": "LIVE: FAA erlässt US-Bodenstopp, einige internationale Flüge starten",
+    "zh": "直播：美国联邦航空管理局 (FAA) 发布美国地面停止令，部分国际航班起飞",
+    "ru": "В прямом эфире: ФАУ разрешило наземную остановку в США, некоторые международные рейсы отправляются"
    },
    "lang": "en"
   },
@@ -883,6 +1283,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Democrat Holscher wins Kansas governor's race amid data center backlash",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTZXTFM5V00xOEJZcWtJU21rRENBM2lkQ3JCQmJvbUVRSDNqeWplR0FWSk9qSWVVdDAxR295VWxLMmNKb1Z0RmZURlQ3TV9ReHVrTW1nak9IVHpCNjduUXZZTG5NQ3JhT2pTNUR1N3dtZTNoZDVwdjNKeGY1cGxvSFNsYTNMMjhyZmNENkl1SDR4cFBDNllZdWRRbHhQa3BFUS1xc2lLTkFrOXNkZDNVSnJrRi0?oc=5",
+   "ts": 1794607116,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Демократ Холшер перемагає на виборах губернатора Канзасу через негативну реакцію центрів обробки даних",
+    "fr": "Le démocrate Holscher remporte la course au poste de gouverneur du Kansas malgré les réactions négatives des centres de données",
+    "de": "Der Demokrat Holscher gewinnt das Rennen um den Gouverneur von Kansas trotz Gegenreaktionen im Rechenzentrum",
+    "zh": "在数据中心的强烈反对下，民主党人霍尔舍尔赢得了堪萨斯州州长竞选",
+    "ru": "Демократ Холшер побеждает на выборах губернатора Канзаса на фоне негативной реакции центров обработки данных"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "War update: 243 clashes on front line, fiercest fighting in Pokrovsk sector",
@@ -897,43 +1315,6 @@
     "de": "Kriegsaktualisierung: 243 Zusammenstöße an der Front, heftigste Kämpfe im Sektor Pokrowsk",
     "zh": "战争动态：前线发生243次冲突，波克罗夫斯克地区战斗最激烈",
     "ru": "Новости о войне: 243 столкновения на линии фронта, самые ожесточенные бои на Покровском направлении"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1794606675,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів у Сенат США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE0zT1RvMFJtc1k0LXVEa0Y4WUV1SjRBQUd0T1RSYzVJSjJ1MTlVZEdXUmVLZUgyWGdXMXZkTGdja3I1WG10QklEb2JaN1dYbFY3ZG5YenpZTTdXY29HbTByeEQzTWRpak1FdjRtVnpoY1VHMGVIZkVBSzU3QlhISDQ3UE1vR3Q4RFd4a0NfMmJmbEV6OVpuYWdpUExFOEJlT1d5LWtrTE9nQTNRdnZWRDQ1VnVlS3BIX0gw?oc=5",
-   "ts": 1794606431,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Верховний суд США розгляне позов щодо IPO Robinhood у 2021 році",
-    "fr": "La Cour suprême des États-Unis examinera un procès concernant l'introduction en bourse de Robinhood en 2021",
-    "de": "Oberster Gerichtshof der USA prüft Klage wegen Börsengang von Robinhood im Jahr 2021",
-    "zh": "美国最高法院考虑对 Robinhood 2021 年 IPO 提起诉讼",
-    "ru": "Верховный суд США рассмотрит иск по поводу IPO Robinhood в 2021 году"
    },
    "lang": "en"
   },
@@ -977,42 +1358,6 @@
   {
    "feed": "reuters_world",
    "source": "Reuters",
-   "title": "US Air Force responds to suspected drone activity over UK airbase",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
-   "ts": 1794606341,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Військово-повітряні сили США реагують на ймовірну діяльність безпілотників над авіабазою Великобританії",
-    "fr": "L'US Air Force répond à une activité présumée de drones au-dessus d'une base aérienne britannique",
-    "de": "Die US-Luftwaffe reagiert auf mutmaßliche Drohnenaktivitäten über dem britischen Luftwaffenstützpunkt",
-    "zh": "美国空军对英国空军基地上空疑似无人机活动做出回应",
-    "ru": "ВВС США отреагировали на предполагаемую активность дронов над авиабазой Великобритании"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
-   "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-   "ts": 1794606247,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Goldman Sachs намагається двічі заробити на великих IPO. Історична угода Anthropic — її наступний шанс",
-    "fr": "Goldman Sachs cherche à tirer profit de deux grandes introductions en bourse. L’accord historique d’Anthropic est sa prochaine chance",
-    "de": "Goldman Sachs möchte von großen Börsengängen doppelt profitieren. Der historische Deal von Anthropic ist seine nächste Chance",
-    "zh": "高盛希望通过两次大型IPO获利。 Anthropic 的历史性交易是其下一次机会",
-    "ru": "Goldman Sachs надеется дважды заработать на крупных IPO. Историческая сделка Anthropic — ее следующий шанс"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_world",
-   "source": "Reuters",
    "title": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHhKNS1YbHpLcldfQTByOFM5TzNFOC16QmlWZHRva3lhTkxSVldFaWVkZ2ZWdDFzODFGZk02MU56X0hkWWtDZzJUa3JOSkd4YUFVVEVNZmN0ZXZWN1QtR01SV1N4UW84SzJxTFJEcnFSdndlYnhHWlFDVGtibWVRTkF0aU1WejNKOVdHVVRGWkt3WlBGbDRFVXptYTBoVjhFUDlKV0lpU0JDSEJ5RWdneHZYMA?oc=5",
    "ts": 1794605939,
@@ -1048,6 +1393,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "Flights grounded across US after air traffic communications outage",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
+   "ts": 1794605880,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Рейси по всій території США припинено через збій повітряного зв'язку",
+    "fr": "Des vols bloqués aux États-Unis après une panne de communication aérienne",
+    "de": "Flüge in den USA wurden nach einem Ausfall der Flugkommunikation eingestellt",
+    "zh": "空中交通通信中断后美国各地航班停飞",
+    "ru": "Полеты в США приостановлены из-за сбоев в авиасообщении"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Le Pen ready to meet Zelensky to discuss financial support for Ukraine",
@@ -1062,60 +1425,6 @@
     "de": "Le Pen ist bereit, Selenskyj zu treffen, um finanzielle Unterstützung für die Ukraine zu besprechen",
     "zh": "勒庞准备会见泽伦斯基讨论对乌克兰的财政支持",
     "ru": "Ле Пен готова встретиться с Зеленским, чтобы обсудить финансовую поддержку Украины"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-   "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-   "ts": 1794605683,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Вирвіть потворний безлад, щоб допомогти відродити головні вулиці Великобританії, каже мозковий центр",
-    "fr": "Éliminez le désordre laid pour aider à redonner vie aux rues principales du Royaume-Uni, selon un groupe de réflexion",
-    "de": "Entfernen Sie hässliches Durcheinander, um die Hauptstraßen Großbritanniens wiederzubeleben, sagt Thinktank",
-    "zh": "智囊团表示，清理丑陋的杂物有助于重振英国商业街",
-    "ru": "Уничтожьте уродливый беспорядок, чтобы помочь оживить главные улицы Великобритании, говорит аналитический центр"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-   "ts": 1794605671,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "S&P 500, Nasdaq закінчуються зниженням, оскільки невизначеність Nvidia тисне на акції технологічних компаній",
-    "fr": "Le S&P 500 et le Nasdaq terminent en baisse alors que l'incertitude de Nvidia pèse sur les actions technologiques",
-    "de": "S&P 500 und Nasdaq enden im Minus, da die Nvidia-Unsicherheit die Technologieaktien belastet",
-    "zh": "由于英伟达的不确定性打压科技股，标普 500 指数和纳斯达克指数收低",
-    "ru": "S&P 500 и Nasdaq завершили снижение, поскольку неопределенность Nvidia оказывает давление на акции технологических компаний"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
-   "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "ts": 1794605668,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Nasdaq падає в п’ятницю, оскільки Nvidia розпродає, але індекс показує найкращий тиждень із серпня: оновлення в реальному часі",
-    "fr": "Le Nasdaq chute vendredi alors que Nvidia se vend, mais l'indice enregistre sa meilleure semaine depuis août : mises à jour en direct",
-    "de": "Nasdaq fällt am Freitag, da Nvidia abverkauft, aber der Index erzielt die beste Woche seit August: Live-Updates",
-    "zh": "由于英伟达抛售，纳斯达克指数周五下跌，但指数创八月以来最佳单周表现：实时更新",
-    "ru": "Nasdaq падает в пятницу из-за распродажи Nvidia, но индекс показывает лучшую неделю с августа: текущие обновления"
    },
    "lang": "en"
   },
@@ -1157,96 +1466,6 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-   "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "ts": 1794605520,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "«Вона має історію фінансових зловживань»: мій брат виключив нашу сестру зі свого заповіту. Я все отримаю. Я їй скажу?",
-    "fr": "« Elle a des antécédents de mauvaise gestion financière » : mon frère a exclu notre sœur de son testament. J'aurai tout. Est-ce que je lui dis ?",
-    "de": "„Sie hat eine Vorgeschichte finanzieller Misswirtschaft“: Mein Bruder hat unsere Schwester aus seinem Testament gestrichen. Ich werde alles bekommen. Soll ich es ihr sagen?",
-    "zh": "“她有财务管理不善的历史”：我哥哥将我们妹妹从他的遗嘱中剔除。我会得到一切。我告诉她吗？",
-    "ru": "«У нее есть история финансовых нарушений»: Мой брат исключил нашу сестру из своего завещания. Я получу все. Я ей скажу?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "dw_world",
-   "source": "DW",
-   "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
-   "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
-   "ts": 1794605460,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Танкер зіткнувся з круїзним лайнером на Міссісіпі в Новому Орлеані",
-    "fr": "Un pétrolier entre en collision avec un bateau de croisière sur le Mississippi à la Nouvelle-Orléans",
-    "de": "Tanker kollidiert mit Kreuzfahrtschiff auf dem Mississippi in New Orleans",
-    "zh": "新奥尔良密西西比州油轮与游轮相撞",
-    "ru": "Танкер столкнулся с круизным лайнером на Миссисипи в Новом Орлеане"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "france24",
-   "source": "France 24",
-   "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
-   "url": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
-   "ts": 1794605371,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "🔴 Управління польотів США наказує зупинити землю на національному рівні через «проблему зі зв’язком» управління повітряним рухом",
-    "fr": "🔴 L'autorité de vol américaine ordonne une escale au sol nationale en raison d'un « problème de communication » avec le contrôle du trafic aérien",
-    "de": "🔴 US-Flugbehörde ordnet landesweiten Bodenstopp wegen „Kommunikationsproblem“ der Flugsicherung an",
-    "zh": "🔴美国飞行当局因空中交通管制“通讯问题”下令全国地面停留",
-    "ru": "🔴 Управление полетами США распорядилось о национальной наземной остановке из-за «проблемы со связью» авиадиспетчерской службы"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-   "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-   "ts": 1794605160,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ціна біткойна зараз нижча за 69 000 доларів і може впасти ще більше, якщо інвестори переведуть готівку, щоб купити участь у IPO Anthropic",
-    "fr": "Le Bitcoin est désormais inférieur à 69 000 $ et pourrait chuter encore davantage si les investisseurs encaissaient pour participer à l'introduction en bourse d'Anthropic.",
-    "de": "Bitcoin liegt jetzt unter 69.000 US-Dollar und könnte noch weiter fallen, wenn Anleger Geld auszahlen, um sich am Börsengang von Anthropic zu beteiligen",
-    "zh": "比特币目前低于 69,000 美元，如果投资者套现购买 Anthropic IPO，比特币可能会进一步下跌",
-    "ru": "Биткоин сейчас стоит ниже 69 000 долларов и может упасть еще больше, если инвесторы выведут деньги на участие в Anthropic IPO."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-   "ts": 1794604744,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Що чекає на фінансування штучного інтелекту після відходу генерального директора Nvidia Йенсена Хуанга",
-    "fr": "Qu'est-ce qui nous attend pour le financement de l'IA après le départ du PDG de Nvidia, Jensen Huang ?",
-    "de": "Was steht der KI-Finanzierung nach dem Abgang von Nvidia-CEO Jensen Huang bevor?",
-    "zh": "英伟达首席执行官黄仁勋离职后，人工智能融资前景如何",
-    "ru": "Что ждет финансирование ИИ после ухода генерального директора Nvidia Дженсена Хуанга"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Ukraine’s Defense Forces eliminate nearly 24,000 Russian troops in October",
@@ -1261,24 +1480,6 @@
     "de": "Die ukrainischen Streitkräfte haben im Oktober fast 24.000 russische Soldaten eliminiert",
     "zh": "乌克兰国防军10月消灭近24,000名俄罗斯士兵",
     "ru": "Силы обороны Украины в октябре ликвидировали почти 24 000 российских военнослужащих"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794604524,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Дивіться: у Новому Орлеані круїзне судно тоне після зіткнення з вантажним судном",
-    "fr": "Regarder : Un bateau de croisière vu couler après une collision avec un cargo à la Nouvelle-Orléans",
-    "de": "Zu sehen: Kreuzfahrtschiff sinkt nach Kollision mit Frachtschiff in New Orleans",
-    "zh": "观看：游轮在新奥尔良与货船相撞后沉没",
-    "ru": "Смотрите: Круизный лайнер затонул после столкновения с грузовым судном в Новом Орлеане"
    },
    "lang": "en"
   },
@@ -1337,24 +1538,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-   "ts": 1794603151,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Папа Лев привітав повернення до міста Перу, де він служив єпископом",
-    "fr": "Le pape Léon applaudit son retour dans la ville du Pérou où il était évêque",
-    "de": "Papst Leo begrüßte die Rückkehr in die peruanische Stadt, wo er als Bischof diente",
-    "zh": "教皇利奥为回到他担任主教的秘鲁城市欢呼",
-    "ru": "Папа Лев поддержал возвращение в город Перу, где он служил епископом"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Probation officers in England and Wales vote to strike over pay and workloads",
@@ -1389,24 +1572,6 @@
     "de": "Der Oberste Gerichtshof stimmt der Anfechtung der Klage von Robinhood wegen Unterlassung von IPO-Informationen zu",
     "zh": "最高法院同意听取 Robinhood 对 IPO 信息遗漏诉讼的质疑",
     "ru": "Верховный суд согласился рассмотреть иск Robinhood об упущении информации при IPO"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-   "ts": 1794602882,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Катар і Туреччина надсилають повідомлення про стримування новим оборонним пактом",
-    "fr": "Le Qatar et la Turquie envoient un message de dissuasion avec un nouvel accord de défense",
-    "de": "Katar und die Türkei senden mit neuem Verteidigungspakt ein Signal der Abschreckung",
-    "zh": "卡塔尔和土耳其通过新防务协定发出威慑信息",
-    "ru": "Катар и Турция посылают сигнал сдерживания новым оборонным пактом"
    },
    "lang": "en"
   },
@@ -1466,42 +1631,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-   "ts": 1794601962,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Австралійський капітан Cummins заперечує причетність до \"Sandpapergate\"",
-    "fr": "Le capitaine australien Cummins nie toute implication dans le « Sandpapergate »",
-    "de": "Australiens Kapitän Cummins bestreitet Beteiligung an „Sandpapergate“",
-    "zh": "澳大利亚队长康明斯否认参与“砂纸门”事件",
-    "ru": "Капитан Австралии Камминс отрицает свою причастность к «Sandpapergate»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-   "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-   "ts": 1794601700,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Папа подякував натовпу за емоційне повернення до «другого дому» в перуанському Чіклайо",
-    "fr": "Le pape remercie la foule pour son retour émouvant dans sa « résidence secondaire » à Chiclayo au Pérou",
-    "de": "Papst dankt der Menge für die emotionale Rückkehr in die „zweite Heimat“ im peruanischen Chiclayo",
-    "zh": "教宗感谢民众重返秘鲁奇克拉约的“第二故乡”",
-    "ru": "Папа поблагодарил толпу за эмоциональное возвращение во «второй дом» в перуанском Чиклайо"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "cnbc_top",
    "source": "CNBC",
    "title": "Hassett denies report he's leaving White House: 'Not true'",
@@ -1554,24 +1683,6 @@
     "de": "Paraguays Ex-Präsident Pena wird wegen der Pleite der Ueno-Bank erneut angeklagt",
     "zh": "巴拉圭前总统佩纳因上野银行倒闭面临新指控",
     "ru": "Экс-президенту Парагвая Пене предъявлено новое обвинение в крахе банка Уэно"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "SpaceX to attempt double catch of huge Starship rocket",
-   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794600722,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "SpaceX намагається подвійно зловити величезну ракету Starship",
-    "fr": "SpaceX va tenter de doubler la capture d'une énorme fusée Starship",
-    "de": "SpaceX versucht, eine riesige Starship-Rakete doppelt einzufangen",
-    "zh": "SpaceX 尝试双重捕获巨型星舰火箭",
-    "ru": "SpaceX попытается дважды поймать огромную ракету Starship"
    },
    "lang": "en"
   },
@@ -1853,25 +1964,6 @@
    "lang": "en"
   },
   {
-   "feed": "reuters_world",
-   "source": "Reuters",
-   "title": "Supreme Court will weigh Trump's asylum restrictions at US-Mexico border",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHNWeFYxTlNOZElZQ1BSdDNZSXhJM3RtVWNhRXJ4SkcxVU5MU3ZIdW1Oc1gxa2Y3eXJ4NFc3b21Bb3lKT2pwZVNxMUtSa2NDS3JYSTI5ZzJzRkU4Z3ptRDlhVlBvWXNHdjh3MGNBLVg1bjRRV2poamg2eHo0Sl84ZGFPaS02RjhJMVo5RWtWMC1rc1pFNkE3UkUwS3VuUjJnejl2NHZIWGdrM3psTUZR?oc=5",
-   "ts": 1794596746,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Верховний суд зважить обмеження Трампа на надання притулку на кордоні США та Мексики",
-    "fr": "La Cour suprême examinera les restrictions d'asile imposées par Trump à la frontière entre les États-Unis et le Mexique",
-    "de": "Der Oberste Gerichtshof wird Trumps Asylbeschränkungen an der Grenze zwischen den USA und Mexiko abwägen",
-    "zh": "最高法院将权衡特朗普在美墨边境的庇护限制",
-    "ru": "Верховный суд рассмотрит ограничения Трампа на предоставление убежища на границе США и Мексики"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "france24",
    "source": "France 24",
    "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
@@ -2016,24 +2108,6 @@
     "de": "Der Präsident des Europäischen Rates erklärt, warum die EU für die Friedensgespräche in der Ukraine ein Team anstelle eines Einzelvertreters gewählt hat",
     "zh": "欧洲理事会主席解释为什么欧盟选择团队而不是单一代表进行乌克兰和谈",
     "ru": "Президент Евросовета объяснил, почему ЕС выбрал команду, а не одного представителя для мирных переговоров по Украине"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Ukraine at OSCE: Russia living in ‘parallel reality’ about its battlefield gains",
-   "url": "https://www.ukrinform.net/rubric-polytics/4184490-ukraine-at-osce-russia-living-in-parallel-reality-about-its-battlefield-gains.html",
-   "ts": 1794594600,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Україна в ОБСЄ: Росія живе в «паралельній реальності» про свої досягнення на полі бою",
-    "fr": "L’Ukraine à l’OSCE : la Russie vit dans une « réalité parallèle » quant à ses gains sur le champ de bataille",
-    "de": "Ukraine bei der OSZE: Russland lebt in der „Parallelrealität“ über seine Erfolge auf dem Schlachtfeld",
-    "zh": "乌克兰在欧安组织：俄罗斯生活在其战场成果的“平行现实”中",
-    "ru": "Украина в ОБСЕ: Россия живет в «параллельной реальности» в отношении своих завоеваний на поле боя"
    },
    "lang": "en"
   },
@@ -2183,24 +2257,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
-   "ts": 1794589823,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Боротися з кліматичною кризою чи розвиватися? Є спосіб, яким Бернем може зробити і те, і інше | Джонатан Фрідленд",
-    "fr": "Combattre la crise climatique ou miser sur la croissance ? Il existe un moyen pour Burnham de faire les deux | Jonathan Freedland",
-    "de": "Die Klimakrise bekämpfen oder auf Wachstum setzen? Es gibt eine Möglichkeit, dass Burnham beides tun kann | Jonathan Freedland",
-    "zh": "应对气候危机还是寻求增长？伯纳姆有一种方法可以做到这两点 |乔纳森·弗里德兰",
-    "ru": "Бороться с климатическим кризисом или стремиться к росту? Есть способ, которым Бёрнем может сделать и то, и другое | Джонатан Фридленд"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "france24",
    "source": "France 24",
    "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
@@ -2256,25 +2312,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-   "ts": 1794588296,
-   "sec": [
-    "world",
-    "ukraine"
-   ],
-   "t": {
-    "uk": "В результаті вибуху автомобіля в Росії загинув військовий, поранений екс-радник прем'єр-міністра України",
-    "fr": "Des attentats à la voiture piégée en Russie tuent un officier militaire et blessent un ancien conseiller du Premier ministre ukrainien",
-    "de": "Bei Autobombenanschlägen in Russland werden Militäroffizier getötet und ehemaliger Berater des ukrainischen Premierministers verletzt",
-    "zh": "俄罗斯汽车爆炸造成军官死亡、乌克兰前总理顾问受伤",
-    "ru": "В результате взрыва автомобиля в России погиб военный и ранен экс-советник премьер-министра Украины"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "pravda_en",
    "source": "Ukrainska Pravda",
    "title": "Russian attack on Zaporizhzhia on 13 November: number injured rises to 50, including 8 children – photos",
@@ -2289,25 +2326,6 @@
     "de": "Russischer Angriff auf Saporischschja am 13. November: Zahl der Verletzten steigt auf 50, darunter 8 Kinder – Fotos",
     "zh": "11 月 13 日俄罗斯对扎波罗热的袭击：受伤人数上升至 50 人，其中包括 8 名儿童 - 照片",
     "ru": "Нападение России на Запорожье 13 ноября: число раненых выросло до 50, в том числе 8 детей – фото"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-   "ts": 1794586953,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Міністерство фінансів США застерігає від підвищення ставок під час енергетичного «шоку» американо-іранської війни",
-    "fr": "Le Trésor américain met en garde contre une hausse des taux pendant le « choc » énergétique de la guerre américano-iranienne",
-    "de": "US-Finanzministerium warnt vor Zinserhöhungen während des Energieschocks zwischen den USA und dem Iran",
-    "zh": "美国财政部警告不要在美伊战争期间加息 能源“冲击”",
-    "ru": "Министерство финансов США предостерегает от повышения ставок во время энергетического шока войны между США и Ираном"
    },
    "lang": "en"
   },
@@ -2420,24 +2438,6 @@
    "lang": "en"
   },
   {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "Trump will never back Ukraine, O’Brien says",
-   "url": "https://kyivindependent.com/trump-will-never-back-ukraine-obrien-says/",
-   "ts": 1794582448,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Трамп ніколи не підтримає Україну, каже О’Браєн",
-    "fr": "Trump ne soutiendra jamais l’Ukraine, dit O’Brien",
-    "de": "Trump wird die Ukraine niemals unterstützen, sagt O’Brien",
-    "zh": "奥布莱恩表示，特朗普永远不会支持乌克兰",
-    "ru": "Трамп никогда не поддержит Украину, говорит О'Брайен"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_politics",
    "source": "The Guardian",
    "title": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
@@ -2511,24 +2511,6 @@
    "lang": "en"
   },
   {
-   "feed": "guardian_politics",
-   "source": "The Guardian",
-   "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
-   "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
-   "ts": 1794574456,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Темна сторона перепродажу програм: «Якщо ви додасте свої штани, я заплачу більше»",
-    "fr": "Le côté obscur de la revente d’applications : « Si vous incluez votre pantalon, je paierai plus »",
-    "de": "Die dunkle Seite des Weiterverkaufs von Apps: „Wenn Sie Ihre Hose mit einbeziehen, zahle ich mehr“",
-    "zh": "转售应用程序的阴暗面：“如果你包括你的裤子，我会付更多钱”",
-    "ru": "Темная сторона перепродажи приложений: «Если вы добавите штаны, я заплачу больше»"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Reform could try to remove Senedd presiding officer over member's speaking ban",
@@ -2543,6 +2525,24 @@
     "de": "Die Reform könnte versuchen, den Vorsitzenden von Senedd wegen Redeverbot des Mitglieds abzusetzen",
     "zh": "改革可能会尝试罢免参议员因议员发言禁令而主持会议的主席",
     "ru": "Реформа может попытаться отстранить председателя Сенедда из-за запрета члену выступать"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Digested week: Do we really have to see Liz Truss at the Cenotaph for the next 30 years? | John Crace",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph",
+   "ts": 1794569323,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Переварений тиждень: чи справді ми повинні бачити Ліз Трасс у Кенотафі наступні 30 років? | Джон Крейс",
+    "fr": "Semaine digérée : Devons-nous vraiment voir Liz Truss au Cénotaphe au cours des 30 prochaines années ? | John Crace",
+    "de": "Verdaute Woche: Müssen wir Liz Truss in den nächsten 30 Jahren wirklich im Cenotaph sehen? | John Crace",
+    "zh": "一周摘要：未来 30 年我们真的必须在和平纪念碑上见到莉兹·特拉斯吗？ |约翰·克雷斯",
+    "ru": "Дайджест недели: действительно ли нам нужно увидеть Лиз Трасс у Кенотафа в течение следующих 30 лет? | Джон Крэйс"
    },
    "lang": "en"
   },
@@ -2619,6 +2619,24 @@
    "lang": "en"
   },
   {
+   "feed": "guardian_politics",
+   "source": "The Guardian",
+   "title": "Ofsted’s menacing inspections are still disastrous. Schools should answer to the communities they serve | Simon Jenkins",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/ofsted-inspections-schools-communities-statistics-teachers-parents",
+   "ts": 1794556814,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Загрозливі перевірки Офстеда все ще є катастрофічними. Школи повинні відповідати громадам, яким вони служать | Саймон Дженкінс",
+    "fr": "Les inspections menaçantes de l’Ofsted sont toujours désastreuses. Les écoles doivent répondre aux communautés qu'elles servent | Simon Jenkins",
+    "de": "Die bedrohlichen Inspektionen von Ofsted sind immer noch katastrophal. Schulen sollten den Gemeinschaften, denen sie dienen, Rechenschaft ablegen | Simon Jenkins",
+    "zh": "Ofsted 的威胁性检查仍然是灾难性的。学校应该对他们所服务的社区负责|西蒙·詹金斯",
+    "ru": "Угрожающие проверки Ofsted по-прежнему имеют катастрофические последствия. Школы должны отвечать перед сообществами, которым они служат | Саймон Дженкинс"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
@@ -2691,25 +2709,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-   "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-   "ts": 1794538109,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Північнокорейські хакери використали фальшиві відеодзвінки для зламу криптовалюти на суму 400 мільйонів доларів, повідомляє ФБР",
-    "fr": "Des pirates nord-coréens ont utilisé de faux appels vidéo dans un piratage cryptographique de 400 millions de dollars, selon le FBI",
-    "de": "Laut FBI nutzten nordkoreanische Hacker gefälschte Videoanrufe bei einem 400-Millionen-Dollar-Krypto-Hack",
-    "zh": "FBI 称朝鲜黑客利用虚假视频通话实施价值 4 亿美元的加密货币黑客攻击",
-    "ru": "Северокорейские хакеры использовали фальшивые видеозвонки для взлома криптовалюты на 400 миллионов долларов, сообщает ФБР"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_politics",
    "source": "BBC",
    "title": "The school where white working-class pupils defy the odds",
@@ -2749,19 +2748,19 @@
   {
    "feed": "ap",
    "source": "AP News",
-   "title": "How major US stock indexes fared Thursday 11/12/2026",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEN0RHBHMWRCeFAxbmVMcjB1UkJVS1oyZjBkTDJ6LTVMQmVzY1IwczBrajM1Z0cwSmp2WUJMR01EOUlVVHNTbklzWTRuUDFOTTR5Y2hWRUs1cTgwYzM2UWtPV2pKVXdKLWt1SVJPZmh4VG5hMngxZ0UxYkdFV1hUVThrbkkxbFFEeXpVZW52VGdOY0E?oc=5",
-   "ts": 1794518220,
+   "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro’s ouster, report says",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZHJIZUg3NUxWX3hTM2otZzhUODZ5Y1UzRUtkOTN3UXNkOVJvanVaQTlCdzN0SGpWOXQwSkNwOHQ3TmkyT2d6SlNMNC1FM1JuNm1hSm1GNExoZWl3ajRZYVRrNmh6cWZLa3lFRTkydWlHY01wc1RyOTJtZUdhcUp4ZExZV1M3c3h5cEd2N2t3bVdsS1hxUVM4?oc=5",
+   "ts": 1794508500,
    "sec": [
     "world",
     "market"
    ],
    "t": {
-    "uk": "Як пройшли основні фондові індекси США у четвер, 12.11.2026",
-    "fr": "Comment les principaux indices boursiers américains se sont comportés jeudi 12/11/2026",
-    "de": "Wie sich die wichtigsten US-Aktienindizes am Donnerstag, den 12.11.2026 entwickelten",
-    "zh": "美国主要股指周四表现如何 11/12/2026",
-    "ru": "Как показали себя основные фондовые индексы США в четверг, 12.11.2026"
+    "uk": "США повернули Венесуелі понад 12 мільярдів доларів нафтових надходжень після повалення Мадуро, йдеться у звіті",
+    "fr": "Les États-Unis restituent plus de 12 milliards de dollars de recettes pétrolières au Venezuela depuis l’éviction de Maduro, selon un rapport",
+    "de": "Bericht besagt, dass die USA seit Maduros Sturz mehr als 12 Milliarden US-Dollar an Ölerlösen an Venezuela zurückgegeben haben",
+    "zh": "报告称，自马杜罗下台以来，美国向委内瑞拉返还了超过120亿美元的石油收益",
+    "ru": "США вернули Венесуэле более 12 миллиардов долларов нефтяных доходов после свержения Мадуро, говорится в докладе"
    },
    "lang": "en"
   },
@@ -2780,6 +2779,25 @@
     "de": "Kann Burnham einen weiteren Labour-Wohlfahrtsaufstand verhindern?",
     "zh": "伯纳姆能否避免另一场工党福利叛乱？",
     "ru": "Сможет ли Бёрнем избежать нового восстания Лейбористской партии за социальное обеспечение?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+   "ts": 1794413145,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Аргентинський адвокат висміює претензії Великобританії на суверенітет у справі про нафту Фолклендських островів",
+    "fr": "Un avocat argentin se moque de la revendication de souveraineté du Royaume-Uni dans l’affaire pétrolière des Malouines",
+    "de": "Argentinischer Anwalt verspottet den Souveränitätsanspruch Großbritanniens im Ölfall auf den Falklandinseln",
+    "zh": "阿根廷律师嘲笑英国在马岛石油案中的主权主张",
+    "ru": "Аргентинский адвокат высмеивает претензии Великобритании на суверенитет в деле о нефти Фолклендских островов"
    },
    "lang": "en"
   }
@@ -2813,7 +2831,7 @@
   {
    "source": "bbc_business",
    "ok": true,
-   "items": 16
+   "items": 15
   },
   {
    "source": "guardian_business",
@@ -2833,7 +2851,7 @@
   {
    "source": "reuters_markets",
    "ok": true,
-   "items": 25
+   "items": 34
   },
   {
    "source": "reuters_business",
@@ -2918,7 +2936,7 @@
   {
    "source": "x:syndication.twitter.com",
    "ok": false,
-   "error": "empty timeline"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "x:nitter.net",
@@ -2949,7 +2967,7 @@
    "source": "translate",
    "ok": true,
    "requests": 10,
-   "translated": 145,
+   "translated": 185,
    "method": {
     "dict": 10
    }
