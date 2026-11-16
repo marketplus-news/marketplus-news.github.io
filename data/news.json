@@ -1,6 +1,621 @@
 {
- "updated": 1794864301,
+ "updated": 1794867850,
  "items": [
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "United Airlines reports system outage affecting departing flights",
+   "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+   "ts": 1794867796,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "United Airlines повідомляє про збій системи, що впливає на рейси, що вилітають",
+    "fr": "United Airlines signale une panne du système affectant les vols au départ",
+    "de": "United Airlines meldet einen Systemausfall bei abfliegenden Flügen",
+    "zh": "美国联合航空公司报告系统中断影响出发航班",
+    "ru": "United Airlines сообщает о сбое в системе, затронувшем вылетающие рейсы"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_business",
+   "source": "BBC",
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "ts": 1794867687,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Nvidia відхиляє кампанію «Поверніть Дженсена», оскільки Трамп підтримує спроби поновити колишнього генерального директора",
+    "fr": "Nvidia rejette la campagne « Bring Jensen Back » alors que Trump soutient les efforts visant à réintégrer l'ancien PDG",
+    "de": "Nvidia lehnt die Kampagne „Bringt Jensen zurück“ ab, da Trump die Bemühungen zur Wiedereinstellung des ehemaligen CEO unterstützt",
+    "zh": "由于特朗普支持恢复前首席执行官的努力，英伟达驳回了“让詹森回来”的活动",
+    "ru": "Nvidia отвергает кампанию «Верните Дженсена», поскольку Трамп поддерживает попытку восстановить в должности бывшего генерального директора"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+   "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/",
+   "ts": 1794867630,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Під час масованого обстрілу балістичними ракетами Росії по Україні постраждали ключові мости в Києві",
+    "fr": "Des ponts clés de Kiev touchés lors d'une attaque massive de missiles balistiques russes à travers l'Ukraine",
+    "de": "Bei einem massiven russischen Raketenangriff in der gesamten Ukraine wurden wichtige Brücken in Kiew beschädigt",
+    "zh": "俄罗斯大规模弹道导弹袭击乌克兰境内基辅的主要桥梁",
+    "ru": "Ключевые мосты в Киеве пострадали в результате массированного ракетного обстрела территории Украины российскими баллистическими ракетами"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_markets",
+   "source": "CNBC",
+   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+   "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "ts": 1794867542,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Ціна нафти в США впала до 85 доларів за барель через відновлення експорту з Близького Сходу",
+    "fr": "Le pétrole brut américain tombe à 85 dollars le baril suite à la reprise des exportations du Moyen-Orient",
+    "de": "US-Rohöl fällt aufgrund der Erholung der Exporte aus dem Nahen Osten auf 85 US-Dollar pro Barrel",
+    "zh": "中东出口复苏 美国原油跌至每桶 85 美元",
+    "ru": "Нефть в США упала до $85 за баррель на фоне восстановления экспорта с Ближнего Востока"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_markets",
+   "source": "CNBC",
+   "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+   "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+   "ts": 1794867287,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "JPMorgan Chase каже, що тимчасова помилка програмного забезпечення впливає на обслуговування споживачів",
+    "fr": "JPMorgan Chase affirme qu'un bug logiciel temporaire affecte les services bancaires aux particuliers",
+    "de": "Laut JPMorgan Chase wirkt sich ein vorübergehender Softwarefehler auf das Verbraucherbanking aus",
+    "zh": "摩根大通表示临时软件错误正在影响消费者银行业务",
+    "ru": "JPMorgan Chase сообщает, что временная ошибка в программном обеспечении влияет на потребительский банкинг"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+   "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+   "ts": 1794867069,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Каліфорнія подає до суду на OpenAI через Hugging Face, іншу модель штучного інтелекту, яка втратила контроль",
+    "fr": "La Californie poursuit OpenAI pour Hugging Face et une autre perte de contrôle du modèle d'IA",
+    "de": "Kalifornien verklagt OpenAI wegen Kontrollverlusts bei Hugging Face, einem anderen KI-Modell",
+    "zh": "加州起诉 OpenAI 拥抱脸部，其他 AI 模型失去控制",
+    "ru": "Калифорния подает в суд на OpenAI из-за Hugging Face и потери контроля над другой моделью ИИ"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
+   "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794867026,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Великобританія втратила більше, ніж отримала від Brexit, каже Бернем перед самітом ЄС",
+    "fr": "Le Royaume-Uni a perdu plus que gagné du Brexit, déclare Burnham avant le sommet européen",
+    "de": "Großbritannien hat durch den Brexit mehr verloren als gewonnen, sagt Burnham vor dem EU-Gipfel",
+    "zh": "伯纳姆在欧盟峰会前表示，英国脱欧带来的损失大于收益",
+    "ru": "Великобритания потеряла больше, чем получила от Брексита, говорит Бёрнем перед саммитом ЕС"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_business",
+   "source": "NPR",
+   "title": "New rule aims to close loophole on chip exports",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
+   "ts": 1794866928,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Нове правило має на меті закрити лазівку в експорті мікросхем",
+    "fr": "Une nouvelle règle vise à combler une lacune sur les exportations de puces",
+    "de": "Neue Regelung soll Lücke bei Chip-Exporten schließen",
+    "zh": "新规定旨在堵住芯片出口漏洞",
+    "ru": "Новое правило призвано закрыть лазейку в экспорте чипов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Cass report author says she does not support draft conversion practices bill",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794866883,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Автор звіту Cass каже, що вона не підтримує законопроект про практику перетворення",
+    "fr": "L'auteur du rapport Cass déclare qu'elle ne soutient pas le projet de loi sur les pratiques de conversion",
+    "de": "Die Autorin des Cass-Berichts sagt, sie unterstütze den Gesetzentwurf zu Umwandlungspraktiken nicht",
+    "zh": "卡斯报告作者表示她不支持转换实践法案草案",
+    "ru": "Автор отчета Cass заявляет, что не поддерживает законопроект о практике конверсии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+   "ts": 1794866880,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "«У мене кислий присмак»: моя літня мати дала нашому двоюрідному братові 800 доларів на ремонт машини. Чи варто мені хвилюватися?",
+    "fr": "« Cela me laisse un goût amer » : ma mère âgée a donné 800 $ à notre cousin pour une réparation de voiture. Dois-je m'inquiéter ?",
+    "de": "„Es hinterlässt bei mir einen sauren Geschmack“: Meine ältere Mutter gab unserer Cousine 800 Dollar für eine Autoreparatur. Sollte ich mir Sorgen machen?",
+    "zh": "“这让我感到酸涩”：我年迈的母亲给了我们表弟 800 美元作为汽车修理费。我应该担心吗？",
+    "ru": "«У меня от этого неприятный привкус»: Моя пожилая мать дала нашему двоюродному брату 800 долларов на ремонт машины. Стоит ли мне волноваться?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "npr_politics",
+   "source": "NPR",
+   "title": "California sues OpenAI over hacking risks",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+   "ts": 1794866782,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Каліфорнія подала до суду на OpenAI через ризики злому",
+    "fr": "La Californie poursuit OpenAI pour risques de piratage",
+    "de": "Kalifornien verklagt OpenAI wegen Hackerrisiken",
+    "zh": "加州因黑客风险起诉 OpenAI",
+    "ru": "Калифорния подала в суд на OpenAI из-за рисков взлома"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "GoGo AI Network names Drew Zimmerman interim CEO, plans share consolidation",
+   "url": "https://www.investing.com/news/company-news/gogo-ai-network-names-drew-zimmerman-interim-ceo-plans-share-consolidation-93CH-5031109",
+   "ts": 1794866673,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "GoGo AI Network призначає Дрю Ціммермана тимчасовим генеральним директором, планує консолідацію акцій",
+    "fr": "GoGo AI Network nomme Drew Zimmerman PDG par intérim et prévoit une consolidation d'actions",
+    "de": "GoGo AI Network ernennt Drew Zimmerman zum Interims-CEO und plant Aktienkonsolidierung",
+    "zh": "GoGo AI Network 任命 Drew Zimmerman 为临时首席执行官，计划进行股份合并",
+    "ru": "GoGo AI Network назначает Дрю Циммермана временным генеральным директором и планирует консолидацию акций"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Russel Metals names Stephen Reitknecht as new CFO",
+   "url": "https://www.investing.com/news/company-news/russel-metals-names-stephen-reitknecht-as-new-cfo-93CH-5031108",
+   "ts": 1794866668,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Russel Metals призначає Стівена Райткнехта новим фінансовим директором",
+    "fr": "Russel Metals nomme Stephen Reitknecht au poste de directeur financier",
+    "de": "Russell Metals ernennt Stephen Reitknecht zum neuen CFO",
+    "zh": "罗素金属公司任命斯蒂芬·赖特克内西特为新任首席财务官",
+    "ru": "Russel Metals назначает Стивена Райткнехта новым финансовым директором"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "General Mills declares $0.61 quarterly dividend",
+   "url": "https://www.investing.com/news/company-news/general-mills-declares-061-quarterly-dividend-93CH-5031107",
+   "ts": 1794866666,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "General Mills оголошує щоквартальні дивіденди в розмірі 0,61 долара",
+    "fr": "General Mills déclare un dividende trimestriel de 0,61 $",
+    "de": "General Mills beschließt eine vierteljährliche Dividende von 0,61 US-Dollar",
+    "zh": "通用磨坊 (General Mills) 宣布季度股息 0.61 美元",
+    "ru": "General Mills объявила квартальные дивиденды в размере $0,61"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Origen Resources completes sale of Wishbone gold project",
+   "url": "https://www.investing.com/news/company-news/origen-resources-completes-sale-of-wishbone-gold-project-93CH-5031106",
+   "ts": 1794866665,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Origen Resources завершує продаж золотого проекту Wishbone",
+    "fr": "Origen Resources finalise la vente du projet aurifère Wishbone",
+    "de": "Origen Resources schließt Verkauf des Goldprojekts Wishbone ab",
+    "zh": "Origen Resources 完成 Wishbone 金矿项目的出售",
+    "ru": "Origen Resources завершила продажу золоторудного проекта Wishbone"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Visa, Mastercard urge approval of $38 billion swipe fee settlement",
+   "url": "https://www.investing.com/news/stock-market-news/visa-mastercard-urge-approval-of-38-billion-swipe-fee-settlement-5030740",
+   "ts": 1794866481,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Visa, Mastercard закликають схвалити врегулювання комісії за свайп у розмірі 38 мільярдів доларів",
+    "fr": "Visa et Mastercard demandent l'approbation d'un règlement de 38 milliards de dollars sur les frais de balayage",
+    "de": "Visa und Mastercard drängen auf Genehmigung eines Vergleichs über Swipe-Gebühren in Höhe von 38 Milliarden US-Dollar",
+    "zh": "Visa、万事达卡敦促批准 380 亿美元刷卡费用和解",
+    "ru": "Visa и Mastercard призывают одобрить выплату комиссии за считывание на сумму 38 миллиардов долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "EU’s Albuquerque calls for cross-border bank mergers to take on US, China",
+   "url": "https://www.investing.com/news/economy-news/eus-albuquerque-calls-for-crossborder-bank-mergers-to-take-on-us-china-5030565",
+   "ts": 1794866463,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Альбукерке ЄС закликає до транскордонного злиття банків, щоб протистояти США та Китаю",
+    "fr": "Albuquerque de l’UE appelle à des fusions bancaires transfrontalières pour affronter les États-Unis et la Chine",
+    "de": "Albuquerque aus der EU fordert grenzüberschreitende Bankenfusionen als Gegenstück zu den USA und China",
+    "zh": "欧盟阿尔伯克基呼吁跨境银行合并挑战美国和中国",
+    "ru": "Альбукерке ЕС призывает к трансграничным слияниям банков, чтобы противостоять США и Китаю"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "Emerson Electric svp Michael Train sells $2.94 million in shares",
+   "url": "https://www.investing.com/news/insider-trading-news/emerson-electric-svp-michael-train-sells-294-million-in-shares-93CH-5031096",
+   "ts": 1794866453,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Emerson Electric svp Michael Train продає акції на суму 2,94 мільйона доларів",
+    "fr": "Michael Train, directeur général d'Emerson Electric, vend 2,94 millions de dollars d'actions",
+    "de": "Emerson Electric SVP Michael Train verkauft Aktien im Wert von 2,94 Millionen US-Dollar",
+    "zh": "艾默生电气高级副总裁 Michael Train 出售价值 294 万美元的股票",
+    "ru": "Старший вице-президент Emerson Electric Майкл Трейн продает акции на сумму 2,94 миллиона долларов"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "investing",
+   "source": "Investing.com",
+   "title": "JPMorgan says software bug slows its transactions",
+   "url": "https://www.investing.com/news/stock-market-news/downdetector-reports-outages-at-major-us-banks-5030747",
+   "ts": 1794866428,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "JPMorgan каже, що помилка програмного забезпечення сповільнює транзакції",
+    "fr": "JPMorgan affirme qu'un bug logiciel ralentit ses transactions",
+    "de": "Laut JPMorgan verlangsamt ein Softwarefehler seine Transaktionen",
+    "zh": "摩根大通表示软件错误导致其交易速度减慢",
+    "ru": "JPMorgan заявляет, что ошибка в программном обеспечении замедляет транзакции"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "2026 U.S. Senate Election Results",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "ts": 1794866203,
+   "sec": [
+    "world",
+    "politics"
+   ],
+   "t": {
+    "uk": "Результати виборів у Сенат США 2026 року",
+    "fr": "Résultats des élections sénatoriales américaines de 2026",
+    "de": "Ergebnisse der US-Senatswahl 2026",
+    "zh": "2026 年美国参议院选举结果",
+    "ru": "Результаты выборов в Сенат США 2026 г."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+   "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+   "ts": 1794866058,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "OpenAI укладає угоди з чотирма незалежними оцінювачами, щоб підвищити рівень безпеки компанії",
+    "fr": "OpenAI signe des accords avec quatre évaluateurs indépendants pour renforcer le travail de sécurité de l'entreprise",
+    "de": "OpenAI unterzeichnet Vereinbarungen mit vier unabhängigen Gutachtern, um die Sicherheitsarbeit des Unternehmens zu verbessern",
+    "zh": "OpenAI 与四位独立评估机构签署协议，以促进公司的安全工作",
+    "ru": "OpenAI подписывает соглашения с четырьмя независимыми оценщиками для повышения эффективности работы компании по обеспечению безопасности"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+   "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+   "ts": 1794865980,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Акції Nvidia продовжують падати після різких слів уряду США",
+    "fr": "Les actions de Nvidia prolongent leur baisse suite aux propos durs du gouvernement américain",
+    "de": "Die Nvidia-Aktie setzt ihren Rückgang nach harten Worten der US-Regierung fort",
+    "zh": "美国政府严厉言论后，英伟达股价延续跌势",
+    "ru": "Акции Nvidia продолжают снижаться после резких слов правительства США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+   "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+   "ts": 1794865953,
+   "sec": [
+    "market",
+    "politics"
+   ],
+   "t": {
+    "uk": "Облікові записи Трампа досягли 97,5 мільйонів доларів у Nvidia, коли Хуан отримав доступ до Білого дому",
+    "fr": "Les comptes de Trump ont échangé jusqu'à 97,5 millions de dollars chez Nvidia alors que Huang accédait à la Maison Blanche",
+    "de": "Trumps Konten wurden bei Nvidia im Wert von bis zu 97,5 Millionen US-Dollar gehandelt, als Huang Zugang zum Weißen Haus erhielt",
+    "zh": "随着黄仁勋入主白宫，特朗普在 Nvidia 的账户交易额高达 9750 万美元",
+    "ru": "Счета Трампа в Nvidia были проданы на сумму до 97,5 миллионов долларов, когда Хуан получил доступ в Белый дом"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "cnbc_top",
+   "source": "CNBC",
+   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+   "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+   "ts": 1794865903,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Випадок Nvidia: комерція націлена на лазівку для використання центрів обробки даних у Китаї",
+    "fr": "Retombées de Nvidia : le commerce cible une faille dans l'utilisation des centres de données en Chine",
+    "de": "Nvidia-Fallout: Handel zielt auf Lücke für Chinas Rechenzentrumsnutzung",
+    "zh": "英伟达的后果：商务部瞄准中国数据中心使用的漏洞",
+    "ru": "Последствия Nvidia: коммерция нацелена на лазейку для использования центров обработки данных в Китае"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
+   "url": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+   "ts": 1794865740,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Чейз каже, що «помилка програмного забезпечення» може спричинити збої у великих банках США",
+    "fr": "Chase affirme qu’un « bug logiciel » pourrait provoquer des perturbations dans les grandes banques américaines",
+    "de": "Laut Chase könnte ein „Softwarefehler“ zu Störungen bei großen US-Banken führen",
+    "zh": "蔡斯表示“软件错误”可能会导致美国主要银行的混乱",
+    "ru": "Чейз говорит, что «программная ошибка» может вызвать сбои в работе крупных банков США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "ts": 1794865500,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Мій чоловік щасливий на пенсії в 64 роки і вважає, що я повинна продовжувати працювати. Він справедливий?",
+    "fr": "Mon mari est heureux à la retraite à 64 ans et pense que je devrais continuer à travailler. Est-il juste ?",
+    "de": "Mein Mann ist mit 64 Jahren glücklich im Ruhestand und meint, ich sollte weiterarbeiten. Ist er fair?",
+    "zh": "我丈夫 64 岁高龄退休，很高兴，他认为我应该继续工作。他公平吗？",
+    "ru": "Мой муж счастливо вышел на пенсию в 64 года и считает, что мне следует продолжать работать. Он честен?"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_world",
+   "source": "BBC",
+   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+   "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794865207,
+   "sec": [
+    "world",
+    "market"
+   ],
+   "t": {
+    "uk": "Просування повстанців Хуси в Ємені може ще більше дестабілізувати світову економіку",
+    "fr": "L’avancée des rebelles Houthis au Yémen pourrait déstabiliser davantage l’économie mondiale",
+    "de": "Der Vormarsch der Houthi-Rebellen im Jemen könnte die Weltwirtschaft weiter destabilisieren",
+    "zh": "也门胡塞武装的推进可能进一步破坏全球经济的稳定",
+    "ru": "Наступление повстанцев-хуситов в Йемене может еще больше дестабилизировать мировую экономику"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "mw_top",
+   "source": "MarketWatch",
+   "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+   "url": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+   "ts": 1794865200,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Зараз ідеальний час для спілкування. Ось як надіслати електронний лист без зморшок.",
+    "fr": "C’est le moment idéal pour réseauter. Voici comment envoyer un e-mail sans grincer des dents.",
+    "de": "Jetzt ist der perfekte Zeitpunkt zum Networking. Hier erfahren Sie, wie Sie eine unkomplizierte E-Mail versenden.",
+    "zh": "现在是建立网络的最佳时机。以下是如何发送一封轻松的电子邮件。",
+    "ru": "Сейчас идеальное время для нетворкинга. Вот как можно отправить электронное письмо без стеснения."
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+   "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+   "ts": 1794864951,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Каліфорнія подала позов проти OpenAI через відсутність належних гарантій",
+    "fr": "La Californie intente une action en justice contre OpenAI, alléguant le manque de garanties appropriées",
+    "de": "Kalifornien reicht Klage gegen OpenAI wegen fehlender angemessener Schutzmaßnahmen ein",
+    "zh": "加州对 OpenAI 提起诉讼，指控其缺乏适当的保障措施",
+    "ru": "Калифорния подала иск против OpenAI, заявив об отсутствии надлежащих гарантий"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ap",
+   "source": "AP News",
+   "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+   "ts": 1794864900,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Технічна проблема в JPMorgan Chase викликає затримки онлайн-банкінгу для великих банків США",
+    "fr": "Un problème technique chez JPMorgan Chase entraîne des retards dans les opérations bancaires en ligne pour les grandes banques américaines",
+    "de": "Ein technisches Problem bei JPMorgan Chase führt zu Verzögerungen beim Online-Banking bei großen US-Banken",
+    "zh": "摩根大通的技术问题导致美国主要银行的网上银行业务延迟",
+    "ru": "Техническая проблема в JPMorgan Chase приводит к задержкам онлайн-банкинга для крупных банков США"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "kyiv_independent",
+   "source": "The Kyiv Independent",
+   "title": "Zelensky warns of imminent Russian attacks, 'extremely dangerous' North Korean missile development",
+   "url": "https://kyivindependent.com/zelensky-warns-of-imminent-russian-attacks-extremely-dangerous-north-korean-missile-development/",
+   "ts": 1794864438,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Зеленський попереджає про неминучі російські атаки, «надзвичайно небезпечну» північнокорейську ракетну розробку",
+    "fr": "Zelensky met en garde contre des attaques russes imminentes et le développement « extrêmement dangereux » de missiles nord-coréens",
+    "de": "Selenskyj warnt vor bevorstehenden russischen Angriffen und der „extrem gefährlichen“ nordkoreanischen Raketenentwicklung",
+    "zh": "泽伦斯基警告俄罗斯即将发动袭击，朝鲜导弹开发“极其危险”",
+    "ru": "Зеленский предупреждает о неизбежных атаках России и «чрезвычайно опасных» разработках северокорейских ракет"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+   "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+   "ts": 1794864435,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Штучний інтелект-шахрай: Каліфорнія подає до суду на OpenAI через «Hugging Face» та інші кібератаки",
+    "fr": "Rogue AI : la Californie poursuit OpenAI pour \"Hugging Face\" et d'autres cyberattaques",
+    "de": "Schurken-KI: Kalifornien verklagt OpenAI wegen „Hugging Face“ und anderen Cyberangriffen",
+    "zh": "Rogue AI：加州因“抱脸”和其他网络攻击起诉 OpenAI",
+    "ru": "Rogue AI: Калифорния подает в суд на OpenAI из-за «Обнимающего лица» и других кибератак"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "Wilson apologises for not declaring Israel debate interest",
+   "url": "https://www.bbc.co.uk/news/articles/c68j49r4r10go?at_medium=RSS&at_campaign=rss",
+   "ts": 1794864348,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Вілсон вибачається за те, що не оголосив про зацікавленість Ізраїлю в дебатах",
+    "fr": "Wilson s'excuse de ne pas avoir déclaré l'intérêt d'Israël pour le débat",
+    "de": "Wilson entschuldigt sich dafür, dass er sein Interesse an der israelischen Debatte nicht bekundet hat",
+    "zh": "威尔逊为没有宣布以色列辩论兴趣而道歉",
+    "ru": "Уилсон извинился за то, что не заявил об интересе к дебатам с Израилем"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "ukrinform",
+   "source": "Ukrinform",
+   "title": "Russian drone strikes residential area in Sumy, two people injured",
+   "url": "https://www.ukrinform.net/rubric-ato/4185348-russian-drone-strikes-residential-area-in-sumy-two-people-injured.html",
+   "ts": 1794864240,
+   "sec": [
+    "ukraine"
+   ],
+   "t": {
+    "uk": "Російський безпілотник налетів на житловий квартал Сум, двоє постраждалих",
+    "fr": "Un drone russe frappe une zone résidentielle à Soumy, deux personnes blessées",
+    "de": "Russische Drohne greift Wohngebiet in Sumy an, zwei Menschen werden verletzt",
+    "zh": "俄罗斯无人机袭击苏梅居民区 两人受伤",
+    "ru": "Российский беспилотник нанес удар по жилому кварталу в Сумах, пострадали два человека"
+   },
+   "lang": "en"
+  },
   {
    "feed": "cnbc_top",
    "source": "CNBC",
@@ -16,6 +631,24 @@
     "de": "Kalshi plant, bald mit dem Aktienhandel zu beginnen",
     "zh": "Kalshi计划很快推出股票交易",
     "ru": "Калши планирует в ближайшее время начать биржевые торги"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "france24",
+   "source": "France 24",
+   "title": "Rwanda to host hub for rejected EU migrants",
+   "url": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
+   "ts": 1794864074,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Руанда стане центром для мігрантів із ЄС, яким відмовлено",
+    "fr": "Le Rwanda accueillera un centre pour les migrants rejetés de l’UE",
+    "de": "Ruanda wird Drehscheibe für abgelehnte EU-Migranten",
+    "zh": "卢旺达将设立被拒绝的欧盟移民中心",
+    "ru": "Руанда станет центром для отвергнутых мигрантов из ЕС"
    },
    "lang": "en"
   },
@@ -56,56 +689,56 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Customers of Chase, Bank of America and other U.S. banks report service outages",
-   "url": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-   "ts": 1794863760,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Клієнти Chase, Bank of America та інших банків США повідомляють про збої в роботі",
-    "fr": "Les clients de Chase, Bank of America et d'autres banques américaines signalent des pannes de service",
-    "de": "Kunden von Chase, Bank of America und anderen US-Banken melden Serviceausfälle",
-    "zh": "大通银行、美国银行和其他美国银行的客户报告服务中断",
-    "ru": "Клиенты Chase, Bank of America и других банков США сообщают о перебоях в обслуживании"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-   "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-   "ts": 1794863466,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Каліфорнія подає до суду на OpenAI через Hugging Face, іншу модель штучного інтелекту, яка втратила контроль",
-    "fr": "La Californie poursuit OpenAI pour Hugging Face et une autre perte de contrôle du modèle d'IA",
-    "de": "Kalifornien verklagt OpenAI wegen Kontrollverlusts bei Hugging Face, einem anderen KI-Modell",
-    "zh": "加州起诉 OpenAI 拥抱脸部，其他 AI 模型失去控制",
-    "ru": "Калифорния подает в суд на OpenAI из-за Hugging Face и потери контроля над другой моделью ИИ"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-   "ts": 1794863340,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+   "ts": 1794863762,
    "sec": [
     "world"
    ],
    "t": {
-    "uk": "Технічна проблема в JPMorgan Chase викликає затримки онлайн-банкінгу для великих банків США",
-    "fr": "Un problème technique chez JPMorgan Chase entraîne des retards dans les opérations bancaires en ligne pour les grandes banques américaines",
-    "de": "Ein technisches Problem bei JPMorgan Chase führt zu Verzögerungen beim Online-Banking bei großen US-Banken",
-    "zh": "摩根大通的技术问题导致美国主要银行的网上银行业务延迟",
-    "ru": "Техническая проблема в JPMorgan Chase приводит к задержкам онлайн-банкинга для крупных банков США"
+    "uk": "Мамдані розформує підрозділ поліції Нью-Йорка, задіяний під час протестів у Колумбії",
+    "fr": "Mamdani va dissoudre l'unité du NYPD déployée lors des manifestations en Colombie",
+    "de": "Mamdani will die bei Protesten in Columbia eingesetzte NYPD-Einheit auflösen",
+    "zh": "马姆达尼将解散部署在哥伦比亚抗议活动中的纽约警察局部队",
+    "ru": "Мамдани расформирует подразделение полиции Нью-Йорка, задействованное во время протестов в Колумбии"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "guardian_world",
+   "source": "The Guardian",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+   "ts": 1794863582,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Третій авіаносець США доставляє тисячі солдатів на Близький Схід",
+    "fr": "Le troisième porte-avions américain amène des milliers de soldats supplémentaires au Moyen-Orient",
+    "de": "Der dritte US-Flugzeugträger bringt Tausende weitere Truppen in den Nahen Osten",
+    "zh": "美国第三艘航母向中东增派数千名士兵",
+    "ru": "Третий авианосец США перебросил на Ближний Восток еще тысячи военнослужащих"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+   "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+   "ts": 1794863179,
+   "sec": [
+    "world"
+   ],
+   "t": {
+    "uk": "Повітряна атака суданської армії вбила 13 людей на заході Судану: Правозахисна група",
+    "fr": "Une attaque aérienne de l'armée soudanaise fait 13 morts dans l'ouest du Soudan (ONG)",
+    "de": "Luftangriff der sudanesischen Armee tötet 13 im Westsudan: Menschenrechtsgruppe",
+    "zh": "苏丹军队空袭在苏丹西部造成13人死亡：人权组织",
+    "ru": "В результате воздушной атаки суданской армии на западе Судана погибли 13 человек: правозащитная группа"
    },
    "lang": "en"
   },
@@ -128,164 +761,38 @@
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Wrap Technologies reports Q3 revenue of $1.5 million",
-   "url": "https://www.investing.com/news/company-news/wrap-technologies-reports-q3-revenue-of-15-million-93CH-5030863",
-   "ts": 1794863078,
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+   "ts": 1794862871,
    "sec": [
     "market"
    ],
    "t": {
-    "uk": "Wrap Technologies повідомляє про дохід у 3 кварталі 1,5 мільйона доларів",
-    "fr": "Wrap Technologies annonce un chiffre d'affaires de 1,5 million de dollars au troisième trimestre",
-    "de": "Wrap Technologies meldet im dritten Quartal einen Umsatz von 1,5 Millionen US-Dollar",
-    "zh": "Wrap Technologies 报告第三季度收入为 150 万美元",
-    "ru": "Wrap Technologies сообщает о выручке за третий квартал в размере $1,5 млн."
+    "uk": "Уолл-стріт закінчується різким падінням через хвилювання AI перед результатами Nvidia, Anthropic IPO",
+    "fr": "Wall Street termine en forte baisse en raison de la nervosité de l'IA avant les résultats de Nvidia et l'introduction en bourse d'Anthropic",
+    "de": "Die Wall Street endet deutlich im Minus aufgrund von KI-Störungen im Vorfeld der Nvidia-Ergebnisse und des Anthropic-Börsengangs",
+    "zh": "在英伟达公布业绩和 Anthropic IPO 之前，华尔街因人工智能恐慌而大幅收低",
+    "ru": "Уолл-стрит резко упала из-за колебаний ИИ в преддверии результатов Nvidia и Anthropic IPO"
    },
    "lang": "en"
   },
   {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Lattice FPGAs complete one year in TESAT space terminals",
-   "url": "https://www.investing.com/news/company-news/lattice-fpgas-complete-one-year-in-tesat-space-terminals-93CH-5030861",
-   "ts": 1794863074,
+   "feed": "aljazeera",
+   "source": "Al Jazeera",
+   "title": "Manchester United’s Endless Loop",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+   "ts": 1794862822,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "Гратчасті FPGA завершують один рік у космічних терміналах TESAT",
-    "fr": "Les FPGA en treillis complètent un an dans les terminaux spatiaux TESAT",
-    "de": "Lattice-FPGAs absolvieren ein Jahr in TESAT-Weltraumterminals",
-    "zh": "莱迪思 FPGA 在 TESAT 太空终端中使用了一年",
-    "ru": "Решетчатые FPGA отработали один год на космических терминалах TESAT"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Moody’s names Tim Bhatt as chief information officer",
-   "url": "https://www.investing.com/news/company-news/moodys-names-tim-bhatt-as-chief-information-officer-93CH-5030862",
-   "ts": 1794863074,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Moody’s призначає Тіма Бхатта на посаду директора з інформації",
-    "fr": "Moody's nomme Tim Bhatt au poste de directeur de l'information",
-    "de": "Moody’s ernennt Tim Bhatt zum Chief Information Officer",
-    "zh": "穆迪任命蒂姆·巴特为首席信息官",
-    "ru": "Moody's назначило Тима Бхатта директором по информационным технологиям"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Bahia Metals announces C$1.2M private placement with CEI",
-   "url": "https://www.investing.com/news/company-news/bahia-metals-announces-c12m-private-placement-with-cei-93CH-5030860",
-   "ts": 1794863073,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Bahia Metals оголошує про приватне розміщення CEI на суму 1,2 мільйона канадських доларів",
-    "fr": "Bahia Metals annonce un placement privé de 1,2 M$ CA auprès de CEI",
-    "de": "Bahia Metals kündigt Privatplatzierung in Höhe von 1,2 Mio. CAD bei CEI an",
-    "zh": "Bahia Metals 宣布与 CEI 私募 120 万加元",
-    "ru": "Bahia Metals объявляет о частном размещении CEI на сумму 1,2 млн канадских долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Windward Bio completes $251m IPO on Nasdaq",
-   "url": "https://www.investing.com/news/company-news/windward-bio-completes-251m-ipo-on-nasdaq-93CH-5030859",
-   "ts": 1794863072,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Windward Bio завершує IPO на Nasdaq на суму 251 млн доларів",
-    "fr": "Windward Bio finalise son introduction en bourse de 251 millions de dollars au Nasdaq",
-    "de": "Windward Bio schließt Börsengang an der Nasdaq im Wert von 251 Millionen US-Dollar ab",
-    "zh": "Windward Bio 在纳斯达克完成 2.51 亿美元的 IPO",
-    "ru": "Windward Bio завершила IPO на Nasdaq на сумму $251 млн."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Pacific Bay Minerals plans private placement for up to C$700,000",
-   "url": "https://www.investing.com/news/company-news/pacific-bay-minerals-plans-private-placement-for-up-to-c700000-93CH-5030858",
-   "ts": 1794863071,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Pacific Bay Minerals планує приватне розміщення на суму до 700 000 канадських доларів",
-    "fr": "Pacific Bay Minerals prévoit un placement privé pouvant atteindre 700 000 $ CA",
-    "de": "Pacific Bay Minerals plant Privatplatzierung im Wert von bis zu 700.000 CAD",
-    "zh": "Pacific Bay Minerals 计划私募高达 70 万加元",
-    "ru": "Pacific Bay Minerals планирует частное размещение на сумму до 700 000 канадских долларов."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Keros Therapeutics approves $5M share buyback program",
-   "url": "https://www.investing.com/news/company-news/keros-therapeutics-approves-5m-share-buyback-program-93CH-5030857",
-   "ts": 1794863070,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Keros Therapeutics схвалила програму викупу акцій на 5 мільйонів доларів",
-    "fr": "Keros Therapeutics approuve un programme de rachat d'actions de 5 millions de dollars",
-    "de": "Keros Therapeutics genehmigt Aktienrückkaufprogramm im Wert von 5 Millionen US-Dollar",
-    "zh": "Keros Therapeutics 批准 500 万美元股票回购计划",
-    "ru": "Keros Therapeutics одобрила программу обратного выкупа акций на сумму 5 миллионов долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Robert Pattinson cast as next James Bond",
-   "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-   "ts": 1794863016,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Роберт Паттінсон зібраний на роль наступного Джеймса Бонда",
-    "fr": "Robert Pattinson incarnera le prochain James Bond",
-    "de": "Robert Pattinson als nächster James Bond besetzt",
-    "zh": "罗伯特·帕丁森饰演下一任詹姆斯·邦德",
-    "ru": "Роберт Паттинсон сыграет следующего Джеймса Бонда"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "investing",
-   "source": "Investing.com",
-   "title": "Gilead Sciences director Kelly Kramer sells $1.76 million in stock",
-   "url": "https://www.investing.com/news/insider-trading-news/gilead-sciences-director-kelly-kramer-sells-176-million-in-stock-93CH-5030846",
-   "ts": 1794862880,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Директор Gilead Sciences Келлі Крамер продає акції за 1,76 мільйона доларів",
-    "fr": "Kelly Kramer, directrice de Gilead Sciences, vend 1,76 million de dollars d'actions",
-    "de": "Kelly Kramer, Direktorin von Gilead Sciences, verkauft Aktien im Wert von 1,76 Millionen US-Dollar",
-    "zh": "吉利德科学公司董事 Kelly Kramer 出售价值 176 万美元的股票",
-    "ru": "Директор Gilead Sciences Келли Крамер продает акции на сумму 1,76 миллиона долларов"
+    "uk": "Нескінченна петля Манчестер Юнайтед",
+    "fr": "La boucle sans fin de Manchester United",
+    "de": "Die Endlosschleife von Manchester United",
+    "zh": "曼联的无限循环",
+    "ru": "Бесконечный цикл «Манчестер Юнайтед»"
    },
    "lang": "en"
   },
@@ -362,6 +869,24 @@
    "lang": "en"
   },
   {
+   "feed": "reuters_business",
+   "source": "Reuters",
+   "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+   "ts": 1794862341,
+   "sec": [
+    "market"
+   ],
+   "t": {
+    "uk": "Tesla планує збільшити кібертаксі на 3,3 мільярда доларів для проблемного автомобільного сектора Німеччини",
+    "fr": "Tesla prévoit une augmentation de 3,3 milliards de dollars de Cybercab pour le secteur automobile allemand en difficulté",
+    "de": "Tesla plant Cybercab-Aufstockung in Höhe von 3,3 Milliarden US-Dollar für den angeschlagenen deutschen Automobilsektor",
+    "zh": "特斯拉计划斥资 33 亿美元为 Cyber​​cab 提振德国陷入困境的汽车行业",
+    "ru": "Tesla планирует увеличить объем киберкабин на 3,3 миллиарда долларов для проблемного автомобильного сектора Германии"
+   },
+   "lang": "en"
+  },
+  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry",
@@ -376,24 +901,6 @@
     "de": "Die USA und ihre Verbündeten schließen sich zusammen, um KI-Technologie und -Infrastruktur inmitten der Rivalität mit China zu schützen",
     "zh": "美国及其盟友联手保护人工智能技术和基础设施，应对中国竞争",
     "ru": "США и союзники объединяются для защиты технологий и инфраструктуры искусственного интеллекта в условиях соперничества с Китаем"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_markets",
-   "source": "CNBC",
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-   "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "ts": 1794862288,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Ціна нафти в США впала до 85 доларів за барель через відновлення експорту з Близького Сходу",
-    "fr": "Le pétrole brut américain tombe à 85 dollars le baril suite à la reprise des exportations du Moyen-Orient",
-    "de": "US-Rohöl fällt aufgrund der Erholung der Exporte aus dem Nahen Osten auf 85 US-Dollar pro Barrel",
-    "zh": "中东出口复苏 美国原油跌至每桶 85 美元",
-    "ru": "Нефть в США упала до $85 за баррель на фоне восстановления экспорта с Ближнего Востока"
    },
    "lang": "en"
   },
@@ -434,38 +941,20 @@
    "lang": "en"
   },
   {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-   "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-   "ts": 1794861960,
+   "feed": "reuters_world",
+   "source": "Reuters",
+   "title": "New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5",
+   "ts": 1794861952,
    "sec": [
-    "market"
+    "world"
    ],
    "t": {
-    "uk": "«Я почувався таким побаченим»: чому сім’ї по всій Америці сміються — і плачуть — над скетчем «Сестра» SNL",
-    "fr": "« Je me sentais tellement vu » : pourquoi les familles à travers l’Amérique rient – ​​et pleurent – ​​à cause du sketch « Sister » de SNL",
-    "de": "„Ich fühlte mich so gesehen“: Warum Familien in ganz Amerika über den „Sister“-Sketch von SNL lachen – und weinen",
-    "zh": "“我感觉自己被人看见了”：为什么美国各地的家庭会因为《周六夜现场》的《姐妹》小品而笑又哭",
-    "ru": "«Я чувствовал себя таким увиденным»: почему семьи по всей Америке смеются и плачут над скетчем SNL «Сестра»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-   "url": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-   "ts": 1794861864,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Шепотник Anthropic з Уолл-стріт: познайомтеся з фінансовим директором Крішною Рао",
-    "fr": "Le chuchoteur d’Anthropic à Wall Street : rencontrez le directeur financier Krishna Rao",
-    "de": "Anthropics Wall-Street-Flüsterer: Treffen Sie CFO Krishna Rao",
-    "zh": "Anthropic 的华尔街耳语者：来认识一下首席财务官 Krishna Rao",
-    "ru": "Представитель Anthropic на Уолл-стрит: познакомьтесь с финансовым директором Кришной Рао"
+    "uk": "Мер Нью-Йорка Мамдані розпустив «сумнозвісний» поліцейський підрозділ, який застосував надмірну силу до протестувальників",
+    "fr": "Le maire de New York, Mamdani, dissout une unité de police « notoire » qui a fait un usage excessif de la force contre les manifestants",
+    "de": "New Yorks Bürgermeister Mamdani löst die „berüchtigte“ Polizeieinheit auf, die exzessive Gewalt gegen Demonstranten anwendete",
+    "zh": "纽约市长马姆达尼解散了对抗议者过度使用武力的“臭名昭著”的警察部队",
+    "ru": "Мэр Нью-Йорка Мамдани расформировал «печально известное» полицейское подразделение, применившее чрезмерную силу к протестующим"
    },
    "lang": "en"
   },
@@ -484,24 +973,6 @@
     "de": "Fotos: Einwohner Kaliforniens versammeln sich, um die durch El Niño verursachten massiven Wellen zu beobachten",
     "zh": "照片：加州居民聚集在一起观看由厄尔尼诺现象引发的巨浪",
     "ru": "Фотографии: Жители Калифорнии собираются, чтобы посмотреть огромные волны, вызванные Эль-Ниньо."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-   "url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-   "ts": 1794861660,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "FDA відмовилося схвалити один із біотехнологічних ліків від раку, який найбільше контролюється. Акції компанії впали.",
-    "fr": "La FDA a refusé d’approuver l’un des médicaments anticancéreux les plus étroitement surveillés de la biotechnologie. Les actions de la société ont chuté.",
-    "de": "Die FDA lehnte die Zulassung eines der am meisten beobachteten Krebsmedikamente der Biotechnologie ab. Die Aktien des Unternehmens fielen.",
-    "zh": "FDA 拒绝批准生物技术领域最受关注的抗癌药物之一。该公司股价暴跌。",
-    "ru": "FDA отказалось одобрить одно из наиболее тщательно наблюдаемых биотехнологических лекарств от рака. Акции компании упали."
    },
    "lang": "en"
   },
@@ -563,7 +1034,7 @@
   {
    "feed": "bbc_world",
    "source": "BBC",
-   "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+   "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
    "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
    "ts": 1794861237,
    "sec": [
@@ -572,7 +1043,7 @@
    "t": {
     "uk": "Судово-медичний експерт каже, що його аналіз фотографій розтину показує, що Епштейна вбили",
     "fr": "Un expert médico-légal affirme que son analyse des photos d'autopsie suggère qu'Epstein a été tué",
-    "de": "Der forensische Experte sagt, seine Analyse der Autopsiefotos deute darauf hin, dass Epstein getötet wurde",
+    "de": "Der forensische Experte sagt, seine Analyse der Autopsiefotos lege den Schluss nahe, dass Epstein getötet wurde",
     "zh": "法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀",
     "ru": "Судебно-медицинский эксперт говорит, что его анализ фотографий вскрытия предполагает, что Эпштейн был убит"
    },
@@ -612,24 +1083,6 @@
     "de": "Sollte die Ukraine den Donbas gegen eine NATO-Mitgliedschaft eintauschen?",
     "zh": "乌克兰应该用顿巴斯换取北约成员资格吗？",
     "ru": "Должна ли Украина обменять Донбасс на членство в НАТО?"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-   "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-   "ts": 1794860640,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "SpaceX збирається спробувати «святий Грааль» ракетної техніки",
-    "fr": "SpaceX est sur le point de tenter le « Saint Graal » des fusées",
-    "de": "SpaceX steht kurz davor, den „heiligen Gral“ der Raketentechnik zu erforschen",
-    "zh": "SpaceX 即将尝试火箭技术的“圣杯”",
-    "ru": "SpaceX собирается попытаться заполучить «Святой Грааль» ракетной техники"
    },
    "lang": "en"
   },
@@ -684,24 +1137,6 @@
     "de": "Die Rettungsaktionen von Komyshuvakha werden zwei Wochen nach dem russischen Angriff eingestellt, 72 Tote, 4 werden noch vermisst",
     "zh": "俄罗斯空袭两周后，Komyshuvakha 救援行动停止，72 人死亡，4 人失踪",
     "ru": "Спасательные операции в Комышувахе прекращаются через две недели после российского удара: 72 человека погибли, 4 пропали без вести"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "mw_top",
-   "source": "MarketWatch",
-   "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-   "url": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-   "ts": 1794860220,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Шанувальники Дженсена Хуанга хочуть, щоб він повернувся на посаду генерального директора Nvidia. Ось чому це малоймовірно.",
-    "fr": "Les fans de Jensen Huang veulent qu’il revienne au poste de PDG de Nvidia. C’est pourquoi c’est peu probable.",
-    "de": "Die Fans von Jensen Huang wollen ihn zurück als Nvidia-CEO. Deshalb ist das unwahrscheinlich.",
-    "zh": "黄仁勋的粉丝希望他重新担任英伟达首席执行官。这就是为什么这不太可能。",
-    "ru": "Поклонники Дженсена Хуанга хотят, чтобы он вернулся на пост генерального директора Nvidia. Вот почему это маловероятно."
    },
    "lang": "en"
   },
@@ -763,42 +1198,6 @@
    "lang": "en"
   },
   {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-   "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
-   "ts": 1794859666,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Елі Ліллі укладає угоду поза межами ожиріння. Крім того, ще одне застереження щодо Nvidia",
-    "fr": "Eli Lilly conclut un accord en dehors de l'obésité. De plus, un autre mot d'avertissement sur Nvidia",
-    "de": "Eli Lilly macht einen Deal außerhalb der Fettleibigkeit. Und noch ein Wort der Vorsicht zu Nvidia",
-    "zh": "礼来公司在肥胖问题之外做了一笔交易。另外，关于 Nvidia 的另一条警告",
-    "ru": "Eli Lilly заключает сделку, не ограничиваясь ожирением. Плюс еще одно предостережение относительно Nvidia."
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "Stocks making the biggest moves Monday: Lumentum, Sandisk, Coinbase, Nvidia & more",
-   "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
-   "ts": 1794859596,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Акції, які роблять найбільші зміни в понеділок: Lumentum, Sandisk, Coinbase, Nvidia тощо",
-    "fr": "Les actions effectuant les plus gros mouvements lundi : Lumentum, Sandisk, Coinbase, Nvidia et plus",
-    "de": "Aktien, die am Montag die größten Bewegungen machen: Lumentum, Sandisk, Coinbase, Nvidia und mehr",
-    "zh": "周一涨幅最大的股票：Lumentum、Sandisk、Coinbase、Nvidia 等",
-    "ru": "Акции, делающие самые большие движения в понедельник: Lumentum, Sandisk, Coinbase, Nvidia и другие"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
@@ -813,43 +1212,6 @@
     "de": "Abgelehnte britische Asylbewerber verlieren die fünftägige Gnadenfrist und müssen mit der sofortigen Abschiebung rechnen",
     "zh": "被拒绝的英国寻求庇护者将失去五天宽限期并面临立即驱逐",
     "ru": "Отказавшиеся просители убежища в Великобритании потеряют пятидневный льготный период и будут немедленно выдворены"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Nationwide ground stop could cost US airlines hundreds of millions",
-   "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
-   "ts": 1794859506,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Зупинка на землі може коштувати американським авіакомпаніям сотні мільйонів",
-    "fr": "Une escale nationale pourrait coûter des centaines de millions aux compagnies aériennes américaines",
-    "de": "Ein landesweiter Bodenstopp könnte US-Fluggesellschaften Hunderte Millionen kosten",
-    "zh": "全国范围内的地面停留可能会让美国航空公司损失数亿美元",
-    "ru": "Наземная остановка по всей стране может стоить авиакомпаниям США сотни миллионов долларов"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "2026 U.S. Senate Election Results",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "ts": 1794859377,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "Результати виборів у Сенат США 2026 року",
-    "fr": "Résultats des élections sénatoriales américaines de 2026",
-    "de": "Ergebnisse der US-Senatswahl 2026",
-    "zh": "2026 年美国参议院选举结果",
-    "ru": "Результаты выборов в Сенат США 2026 г."
    },
    "lang": "en"
   },
@@ -872,42 +1234,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-   "ts": 1794859207,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Ізраїльська опозиція звинувачує Нетаньяху в спробі державного перевороту",
-    "fr": "L’opposition israélienne accuse Netanyahu de tentative de « coup d’État »",
-    "de": "Israelische Opposition wirft Netanyahu einen „Putschversuch“ vor",
-    "zh": "以色列反对派指责内塔尼亚胡企图“政变”",
-    "ru": "Израильская оппозиция обвиняет Нетаньяху в попытке «государственного переворота»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-   "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-   "ts": 1794859171,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Міністри розірвуть контракт Palantir з NHS в Англії в 2029 році",
-    "fr": "Les ministres mettront fin au contrat de Palantir avec le NHS en Angleterre en 2029",
-    "de": "Die Minister wollen Palantirs Vertrag mit dem NHS in England im Jahr 2029 beenden",
-    "zh": "部长们将于 2029 年终止 Palantir 与英国 NHS 的合同",
-    "ru": "Министры расторгнут контракт Палантира с Национальной службой здравоохранения Англии в 2029 году"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "ukrinform",
    "source": "Ukrinform",
    "title": "Search and rescue operations completed in Komyshuvakha, death toll rises to 72",
@@ -922,24 +1248,6 @@
     "de": "Such- und Rettungsaktionen in Komyshuvakha abgeschlossen, Zahl der Todesopfer steigt auf 72",
     "zh": "Komyshuvakha 搜救行动完成，死亡人数上升至 72 人",
     "ru": "В Комышувахе завершились поисково-спасательные работы, число погибших возросло до 72"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "cnbc_top",
-   "source": "CNBC",
-   "title": "If the AI bubble is popping, history shows these stocks could boom",
-   "url": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
-   "ts": 1794858813,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Якщо бульбашка ШІ лопне, історія показує, що ці акції можуть процвітати",
-    "fr": "Si la bulle de l’IA éclate, l’histoire montre que ces actions pourraient exploser",
-    "de": "Die Geschichte zeigt, dass diese Aktien boomen könnten, wenn die KI-Blase platzt",
-    "zh": "历史表明，如果人工智能泡沫破灭，这些股票可能会繁荣",
-    "ru": "Если пузырь искусственного интеллекта лопнет, история показывает, что эти акции могут вырасти."
    },
    "lang": "en"
   },
@@ -1073,60 +1381,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_world",
-   "source": "BBC",
-   "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-   "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-   "ts": 1794857430,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Наступного року Ліндсей Кленсі постане перед повторним судом за смерть трьох її дітей",
-    "fr": "Lindsay Clancy sera rejugée l'année prochaine pour la mort de ses trois enfants",
-    "de": "Lindsay Clancy muss nächstes Jahr mit einem Wiederaufnahmeverfahren wegen des Todes ihrer drei Kinder rechnen",
-    "zh": "林赛·克兰西因三个孩子的死亡将于明年面临重审",
-    "ru": "Линдси Клэнси предстанет перед повторным судом в следующем году за смерть троих ее детей"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-   "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-   "ts": 1794857200,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "П'ять країн ЄС оголосили про плани відправити до Руанди шукачів притулку, яким було відмовлено",
-    "fr": "Cinq pays de l’UE annoncent leur intention d’envoyer les demandeurs d’asile déboutés au Rwanda",
-    "de": "Fünf EU-Länder kündigen Plan an, abgelehnte Asylbewerber nach Ruanda zu schicken",
-    "zh": "五个欧盟国家宣布计划将被拒绝的寻求庇护者送往卢旺达",
-    "ru": "Пять стран ЕС объявили о планах отправить отказных просителей убежища в Руанду"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "ap",
-   "source": "AP News",
-   "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
-   "ts": 1794857160,
-   "sec": [
-    "world"
-   ],
-   "t": {
-    "uk": "Поїздка Трампа в Азію: угоди в Манілі та Шеньчжені, ядерний саміт із Сі та Путіним, можливо, зустріч з Кімом",
-    "fr": "Voyage de Trump en Asie : accords à Manille et Shenzhen, sommet nucléaire avec Xi et Poutine, peut-être une réunion avec Kim",
-    "de": "Trumps Asienreise: Deals in Manila und Shenzhen, Atomgipfel mit Xi und Putin, vielleicht Kim-Treffen",
-    "zh": "特朗普的亚洲之行：马尼拉和深圳的交易、与习近平和普京的核峰会，也许还有金正恩会面",
-    "ru": "Поездка Трампа в Азию: сделки в Маниле и Шэньчжэне, ядерный саммит с Си и Путиным, возможно, встреча с Кимом"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Zelenskiy says Ukraine held new talks with US, European officials on peace prospects",
@@ -1202,42 +1456,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_business",
-   "source": "BBC",
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "ts": 1794856612,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Трамп підтримує повернення колишнього боса Nvidia після запуску кампанії «Поверніть Дженсена».",
-    "fr": "Trump soutient le retour de l'ancien patron de Nvidia après le lancement de la campagne \"Bring Jensen Back\"",
-    "de": "Trump unterstützt die Rückkehr des ehemaligen Nvidia-Chefs nach dem Start der „Bring Jensen Back“-Kampagne",
-    "zh": "“让詹森回来”运动发起后，特朗普支持前英伟达老板回归",
-    "ru": "Трамп поддержал возвращение бывшего руководителя NVIDIA после запуска кампании «Верните Дженсена»"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "guardian_business",
-   "source": "The Guardian",
-   "title": "How Milburn won over Labour on tackling rising youth unemployment",
-   "url": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
-   "ts": 1794856579,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Як Мілберн переміг лейбористів у боротьбі зі зростанням безробіття серед молоді",
-    "fr": "Comment Milburn a convaincu les travaillistes de lutter contre la hausse du chômage des jeunes",
-    "de": "Wie Milburn Labour bei der Bekämpfung der steigenden Jugendarbeitslosigkeit überzeugte",
-    "zh": "米尔本如何在解决青年失业率上升问题上赢得工党的支持",
-    "ru": "Как Милберн победил лейбористов в борьбе с растущей безработицей среди молодежи"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "kyiv_independent",
    "source": "The Kyiv Independent",
    "title": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed",
@@ -1252,24 +1470,6 @@
     "de": "Neuester Krieg in der Ukraine: Berichten zufolge wurde die Krimbrücke bei einem Angriff getroffen und es wurden Verkehrsbeschränkungen verhängt",
     "zh": "乌克兰战争最新消息：克里米亚大桥遭到袭击，交通受到限制",
     "ru": "Последняя война в Украине: в результате нападения пострадал Крымский мост, введены ограничения на движение"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "reuters_business",
-   "source": "Reuters",
-   "title": "Honda faces new US investigation over stop-start failures",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxWNHZjdXJsR0pEaV9PY040S1lOSE1NV2x3Sm1YdTFMYXpFNEliT0taS1BRYmZDTE9NakEtcVNSUjJjTE9xbXJvZGNrSlRGMlRrTW5QMlBYM3NtbVNrSjFtdU5Qd3YtNXJRcUpnY21CaHBMZ21jci13VkI0UVBVdThVazJFdmI4cDAzSGFHMXdzM3BmWkZzcWVOb0o2MmVwSnNFZ3laZURteTR2WkZjZjY1a2RnQzNSYlM1dTVaZ25ud29WRlpZWVlBRXBadmc2MDVUSllDUGU?oc=5",
-   "ts": 1794855833,
-   "sec": [
-    "market"
-   ],
-   "t": {
-    "uk": "Honda стикається з новим розслідуванням у США через помилки зупинки та старту",
-    "fr": "Honda fait l'objet d'une nouvelle enquête américaine sur des échecs d'arrêt et de démarrage",
-    "de": "Honda steht vor neuen US-Ermittlungen wegen Start-Stopp-Fehlern",
-    "zh": "本田因启停故障面临美国新调查",
-    "ru": "Honda столкнулась с новым расследованием в США по поводу сбоев при старте и остановке"
    },
    "lang": "en"
   },
@@ -1450,6 +1650,24 @@
     "de": "Le Pen will im Falle seiner Wahl die Finanzhilfen für die Ukraine beenden",
     "zh": "勒庞希望如果当选就终止对乌克兰的财政援助",
     "ru": "Ле Пен хочет прекратить финансовую помощь Украине в случае своего избрания"
+   },
+   "lang": "en"
+  },
+  {
+   "feed": "bbc_politics",
+   "source": "BBC",
+   "title": "UK budget leaves NI underfunded, O'Dowd says",
+   "url": "https://www.bbc.co.uk/news/articles/cmqj5z71y7qeo?at_medium=RSS&at_campaign=rss",
+   "ts": 1794853766,
+   "sec": [
+    "politics"
+   ],
+   "t": {
+    "uk": "Бюджет Великобританії залишає NI недофінансованим, каже О'Дауд",
+    "fr": "Le budget britannique laisse NI sous-financé, dit O'Dowd",
+    "de": "Der britische Haushalt führt dazu, dass NI unterfinanziert ist, sagt O'Dowd",
+    "zh": "O'Dowd 表示，英国预算导致 NI 资金不足",
+    "ru": "Бюджет Великобритании оставляет NI недофинансированным, говорит О'Дауд"
    },
    "lang": "en"
   },
@@ -1708,22 +1926,6 @@
    "lang": "en"
   },
   {
-   "feed": "ukrinform",
-   "source": "Ukrinform",
-   "title": "Power outages most severe in Dnipro, Kharkiv, Poltava and Zaporizhzhia – Ukrenergo",
-   "url": "https://www.ukrinform.net/rubric-economy/4185282-power-outages-most-severe-in-dnipro-kharkiv-poltava-and-zaporizhzhia-ukrenergo.html",
-   "ts": 1794850200,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "fr": "Les pannes de courant sont les plus graves à Dnipro, Kharkiv, Poltava et Zaporizhzhia – Ukrenergo",
-    "de": "Am schwerwiegendsten sind die Stromausfälle in Dnipro, Charkiw, Poltawa und Saporischschja – Ukrenergo",
-    "zh": "第聂伯罗、哈尔科夫、波尔塔瓦和扎波罗热停电最严重 – Ukrenergo"
-   },
-   "lang": "uk"
-  },
-  {
    "feed": "reuters_world",
    "source": "Reuters",
    "title": "Fed's Barr warns on AI risks to financial system",
@@ -1762,42 +1964,6 @@
    "lang": "en"
   },
   {
-   "feed": "pravda_en",
-   "source": "Ukrainska Pravda",
-   "title": "Sixth blackout in two weeks: Russia leaves almost half of Dnipro without power",
-   "url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063149/",
-   "ts": 1794849480,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Шосте відключення за два тижні: Росія залишила без світла майже половину Дніпра",
-    "fr": "Sixième panne d'électricité en deux semaines : la Russie laisse près de la moitié du Dnipro sans électricité",
-    "de": "Sechster Stromausfall in zwei Wochen: Russland lässt fast die Hälfte von Dnipro ohne Strom",
-    "zh": "两周内第六次停电：俄罗斯第聂伯罗近一半地区断电",
-    "ru": "Шестое отключение за две недели: Россия оставила без света почти половину Днепра"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "kyiv_independent",
-   "source": "The Kyiv Independent",
-   "title": "For Putin, foreign troops in Ukraine are unacceptable — unless they're fighting for Russia",
-   "url": "https://kyivindependent.com/for-putin-foreign-troops-in-ukraine-are-unacceptable-unless-theyre-fighting-for-russia-2/",
-   "ts": 1794849193,
-   "sec": [
-    "ukraine"
-   ],
-   "t": {
-    "uk": "Для Путіна іноземні війська в Україні неприйнятні — якщо тільки вони не воюють за Росію",
-    "fr": "Pour Poutine, les troupes étrangères en Ukraine sont inacceptables – à moins qu'elles ne se battent pour la Russie",
-    "de": "Für Putin sind ausländische Truppen in der Ukraine inakzeptabel – es sei denn, sie kämpfen für Russland",
-    "zh": "对于普京来说，外国军队驻扎在乌克兰是不可接受的——除非他们是为俄罗斯而战",
-    "ru": "Для Путина иностранные войска в Украине неприемлемы — если только они не воюют на стороне России"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "guardian_world",
    "source": "The Guardian",
    "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
@@ -1813,25 +1979,6 @@
     "de": "Der Entwurf des Cop31-Textes sei ein Versuch, „Parteien herauszulocken“, um eine Einigung zu erzielen, sagt der Gesprächsleiter",
     "zh": "会议主席表示，第三十一届缔约方会议草案文本试图“吸引各方”达成协议",
     "ru": "Проект текста Cop31 является попыткой «привлечь стороны» к достижению соглашения, говорит председатель переговоров"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-   "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
-   "ts": 1794847565,
-   "sec": [
-    "world",
-    "politics"
-   ],
-   "t": {
-    "uk": "УЄФА підтримує Філіпа Діалло з Франції, щоб кинути виклик Інфантіно на виборах у ФІФА",
-    "fr": "L’UEFA soutient le Français Philippe Diallo pour défier Infantino aux élections de la FIFA",
-    "de": "Die UEFA unterstützt den Franzosen Philippe Diallo, der Infantino bei der FIFA-Wahl herausfordert",
-    "zh": "欧足联支持法国球员菲利普·迪亚洛在国际足联选举中挑战因凡蒂诺",
-    "ru": "УЕФА поддерживает француза Филиппа Диалло, который бросит вызов Инфантино на выборах ФИФА"
    },
    "lang": "en"
   },
@@ -2024,25 +2171,6 @@
    "lang": "en"
   },
   {
-   "feed": "aljazeera",
-   "source": "Al Jazeera",
-   "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-   "ts": 1794843469,
-   "sec": [
-    "world",
-    "market"
-   ],
-   "t": {
-    "uk": "Нафтові танкери наїхали на морські шахти в Ормузькій протоці",
-    "fr": "Des pétroliers ont heurté des mines marines dans le détroit d'Ormuz",
-    "de": "Öltanker stießen in der Straße von Hormus auf Seeminen",
-    "zh": "油轮在霍尔木兹海峡触雷",
-    "ru": "Нефтяные танкеры подорвались на морских минах в Ормузском проливе"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "bbc_world",
    "source": "BBC",
    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -2154,24 +2282,6 @@
    "lang": "en"
   },
   {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-   "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794828473,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Британія втратила більше, ніж отримала від Brexit, заявив Бернем перед самітом ЄС",
-    "fr": "Le Royaume-Uni a perdu plus que gagné du Brexit, déclare Burnham avant le sommet européen",
-    "de": "Großbritannien habe durch den Brexit mehr verloren als gewonnen, sagte Burnham vor dem EU-Gipfel",
-    "zh": "伯纳姆在欧盟峰会前表示，英国脱欧带来的损失大于收益",
-    "ru": "Великобритания потеряла больше, чем получила от Брексита, заявил Бёрнем перед саммитом ЕС"
-   },
-   "lang": "en"
-  },
-  {
    "feed": "npr_politics",
    "source": "NPR",
    "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
@@ -2186,24 +2296,6 @@
     "de": "Die Erschwinglichkeit war ein zentrales Thema für die Zwischenwähler. Es hat auch dazu beigetragen, die Kinderbetreuung zu einer solchen zu machen",
     "zh": "负担能力是中期选民的一个关键问题。它也有助于使儿童保育成为一项工作",
     "ru": "Доступность была ключевым вопросом для избирателей на промежуточных выборах. Это также помогло сделать уход за детьми"
-   },
-   "lang": "en"
-  },
-  {
-   "feed": "npr_politics",
-   "source": "NPR",
-   "title": "Democratic strategists think Montana House race could hold the secret to future wins",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6032798/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
-   "ts": 1794822270,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Стратеги від Демократичної партії вважають, що гонка в Монтані може містити секрет майбутніх перемог",
-    "fr": "Les stratèges démocrates pensent que la course à Montana House pourrait détenir le secret des victoires futures",
-    "de": "Demokratische Strategen glauben, dass das Rennen um das Repräsentantenhaus in Montana das Geheimnis zukünftiger Siege bergen könnte",
-    "zh": "民主党战略家认为蒙大拿州众议院竞选可能是未来获胜的秘密",
-    "ru": "Демократические стратеги считают, что гонка за Дом Монтаны может содержать секрет будущих побед"
    },
    "lang": "en"
   },
@@ -2350,36 +2442,18 @@
     "ru": "Глава британского надзорного органа по этике отказался от должности из-за обвинений в сексуальных домогательствах"
    },
    "lang": "en"
-  },
-  {
-   "feed": "bbc_politics",
-   "source": "BBC",
-   "title": "New campaign against EU membership launches ahead of UK-EU summit",
-   "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-   "ts": 1794605986,
-   "sec": [
-    "politics"
-   ],
-   "t": {
-    "uk": "Напередодні саміту Великобританія-ЄС розпочинається нова кампанія проти членства в ЄС",
-    "fr": "Une nouvelle campagne contre l’adhésion à l’UE est lancée avant le sommet Royaume-Uni-UE",
-    "de": "Vor dem UK-EU-Gipfel startet eine neue Kampagne gegen die EU-Mitgliedschaft",
-    "zh": "英国-欧盟峰会前发起反对加入欧盟的新运动",
-    "ru": "В преддверии саммита Великобритания-ЕС стартовала новая кампания против членства в ЕС"
-   },
-   "lang": "en"
   }
  ],
  "status": [
   {
    "source": "cnbc_markets",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "source": "cnbc_top",
    "ok": true,
-   "items": 29
+   "items": 30
   },
   {
    "source": "mw_top",
@@ -2414,13 +2488,12 @@
   {
    "source": "npr_business",
    "ok": true,
-   "items": 2
+   "items": 3
   },
   {
    "source": "reuters_markets",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "kept": 0
+   "ok": true,
+   "items": 12
   },
   {
    "source": "reuters_business",
@@ -2470,7 +2543,7 @@
   {
    "source": "bbc_politics",
    "ok": true,
-   "items": 10
+   "items": 12
   },
   {
    "source": "guardian_politics",
@@ -2505,10 +2578,10 @@
   {
    "source": "translate",
    "ok": true,
-   "requests": 15,
-   "translated": 210,
+   "requests": 10,
+   "translated": 200,
    "method": {
-    "dict": 15
+    "dict": 10
    }
   },
   {
