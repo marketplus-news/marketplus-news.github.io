@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "marketplus-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/posts.json
+          git add data/news.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
@@ -44,7 +44,7 @@ jobs:
           INDEXNOW_KEY: 37b5b832a649d26268bd94509bf13d87
           SITE_HOST: marketplus-news.github.io
         run: |
-          # Only data/news.json and data/posts.json change; they render on the homepage.
+          # Only data/news.json changes; it renders on the homepage.
           curl -sS -m 20 -o /dev/null -w "IndexNow HTTP %{http_code}\n" \
             -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \

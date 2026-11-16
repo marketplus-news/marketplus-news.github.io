@@ -108,7 +108,6 @@ if(c&&A[c]){{try{{location.replace(A[c]+"?lang="+c+location.hash)}}catch(e){{}}}
 document.documentElement.lang="{INFO[lang][0]}";}})();</script>'''
 idx=open(os.path.join(ROOT,"index.html")).read()
 GLOBE=re.search(r'<button type="button" class="lang-btn".*?</button>', idx, re.S).group(0)
-XSVG=re.search(r'(<a class="xbtn".*?</a>)', idx, re.S).group(1)
 def header(lang):
     l=L10N[lang]; up=l["up"]; n=l["nav"]; s=INFO[lang][3]
     g=GLOBE if lang=="en" else GLOBE.replace('<span id="langCur">EN</span>',f'<span id="langCur" lang="{"en" if re.search("[A-Za-z]",s) else INFO[lang][0]}" translate="no">{s}</span>')
@@ -124,18 +123,17 @@ def header(lang):
     <a class="hide-xs" href="{up}#news" data-i18n="nav.news">{n[0]}</a>
     <a class="hide-sm" href="{up}#products" data-i18n="nav.products">{n[1]}</a>
     <a href="./" data-i18n="nav.guides">{n[2]}</a>
-    {XSVG}
   </nav>
 </div></header>'''
 def foot(lang):
     l=L10N[lang]; up=l["up"]; f=l["foot"]
     return f'''<footer><div class="wrap">
   <p class="disc"><b data-i18n="foot.na">{f[0]}</b> <span data-i18n="foot.disc">{f[1]}</span></p>
-  <div class="flinks" lang="en" translate="no"><a href="https://x.com/MarketPulseGold" target="_blank" rel="noopener">X</a><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  <div class="flinks" lang="en" translate="no"><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">{f[2]}</span> · <a href="./" data-i18n="nav.guides">{l["nav"][2]}</a> · <a href="{up}terms.html" data-i18n="foot.terms">{f[3]}</a></div>
   <div class="fpriv" data-i18n="foot.priv">{f[4]}</div>
 </div></footer>
-<script src="{up}app.js?v=1792944444" defer></script>'''
+<script src="{up}app.js?v=1792949000" defer></script>'''
 def page(lang, title, desc, urls, img, body, jsonld, ogtype="article"):
     """urls: {lang: absolute URL} of this page in every language"""
     l=L10N[lang]; up=l["up"]; url=urls[lang]
@@ -172,8 +170,7 @@ def page(lang, title, desc, urls, img, body, jsonld, ogtype="article"):
 <meta name="twitter:title" content="{t}">
 <meta name="twitter:description" content="{d}">
 <meta name="twitter:image" content="{img}">
-<meta name="twitter:site" content="@MarketPulseGold">
-<link rel="stylesheet" href="{up}style.css?v=8">
+<link rel="stylesheet" href="{up}style.css?v=9">
 {head_script(lang, alt)}
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
 </head>

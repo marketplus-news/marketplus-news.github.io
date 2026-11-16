@@ -2,8 +2,6 @@
 (function () {
   "use strict";
 
-  var X_URL = "https://x.com/MarketPulseGold";
-
   // ---------- Translations ----------
   var LANGS = [
     { code: "uk", short: "UK", name: "Українська", html: "uk", og: "uk_UA" },
@@ -37,26 +35,26 @@
       "terms.s4h": "4. Products",
       "terms.s4p": "Paid and free products are sold and delivered via Patreon (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.",
       "terms.s5h": "5. Privacy",
-      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, X, Patreon, GitHub, Notion) are governed by those sites’ own policies.",
+      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Patreon, GitHub, Notion) are governed by those sites’ own policies.",
       "terms.s6h": "6. No warranty",
       "terms.s6p": "The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.",
       "terms.s7h": "7. Contact",
-      "terms.s7p": "Questions and requests (including from publishers who want a source removed): X @MarketPulseGold.",
+      "terms.s7p": "Questions and requests (including from publishers who want a source removed): Etsy Messages (MarketPulseStudio) or Patreon.",
       "terms.s8h": "8. Changes",
       "terms.s8p": "We may update these terms from time to time. The current version is always on this page with its last-updated date.",
       lang: "Language",
       "nav.news": "News", "nav.products": "Products", "nav.about": "About", "nav.guides": "Guides",
-      "hero.badge": "● Market Plus · live news from X",
+      "hero.badge": "● Market Plus · live market news",
       "hero.lead": "Market Plus covers the events that actually move markets — briefly and to the point: what happened and how it may affect gold, the dollar, oil and risk assets.",
-      "hero.cta": "Follow on X", "hero.cta2": "Latest news", "hero.cta3": "Products",
-      "stat.1": "gold & currencies", "stat.2b": "Macro", "stat.2": "Fed, inflation, oil", "stat.3b": "Live", "stat.3": "news feed from\u00a0X",
+      "hero.cta2": "Latest news", "hero.cta3": "Products",
+      "stat.1": "gold & currencies", "stat.2b": "Macro", "stat.2": "Fed, inflation, oil", "stat.3b": "Live", "stat.3": "news feed",
       "about.h": "About",
       "about.sub": "Market Plus is a markets news project for people who want the signal, not the noise.",
       "about.t1h": "Only what matters", "about.t1p": "Geopolitics, central bank decisions, inflation and jobs data — the things that move gold and currencies.",
       "about.t2h": "With context", "about.t2p": "Every headline comes with a short takeaway: how the event may affect the market and why.",
       "about.t3h": "Source included", "about.t3p": "Reuters, Bloomberg, official statements — the original is always one tap away.",
       "news.h": "Latest news",
-      "news.sub": "Headlines on markets, world, politics and Ukraine from open news sources, plus our posts on X. Updated automatically every 30 minutes.",
+      "news.sub": "Headlines on markets, world, politics and Ukraine from open news sources. Updated automatically every 30 minutes.",
       "news.live": "Live", "news.loading": "Loading news…",
       "news.empty": "No news in this section yet — check back soon.",
       "news.error": "Couldn't load the news feed. Please refresh the page.",
@@ -67,8 +65,6 @@
       "q.note": "Yahoo Finance data, delayed (up to ~30 min). As of",
       "q.closed": "market closed",
       "q.open": "Open on Yahoo Finance",
-      "news.xsrc": "Post on X",
-      "news.posts": "Latest posts",
       "news.tabs": "News sections",
       "tab.all": "All",
       "tab.market": "Markets",
@@ -133,26 +129,26 @@
       "terms.s4h": "4. Продукты",
       "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Patreon (часть бесплатных материалов — на GitHub и в Notion). Оплата, доступ, получение и возвраты обрабатываются Patreon и регулируются его условиями. Сам сайт платежи не обрабатывает.",
       "terms.s5h": "5. Конфиденциальность",
-      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, X, Patreon, GitHub, Notion) распространяются их собственные правила.",
+      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, Patreon, GitHub, Notion) распространяются их собственные правила.",
       "terms.s6h": "6. Отказ от гарантий",
       "terms.s6p": "Сайт предоставляется «как есть». Мы стараемся поддерживать точность и доступность, но не гарантируем полноту, точность и актуальность информации и не несём ответственности за убытки, возникшие в результате её использования.",
       "terms.s7h": "7. Контакты",
-      "terms.s7p": "Вопросы и запросы (в том числе от издателей, желающих убрать свой источник): X @MarketPulseGold.",
+      "terms.s7p": "Вопросы и запросы (в том числе от издателей, желающих убрать свой источник): сообщения Etsy (MarketPulseStudio) или Patreon.",
       "terms.s8h": "8. Изменения",
       "terms.s8p": "Мы можем время от времени обновлять эти условия. Актуальная версия всегда находится на этой странице с датой последнего обновления.",
       lang: "Язык",
       "nav.news": "Новости", "nav.products": "Продукты", "nav.about": "О проекте", "nav.guides": "Гайды",
-      "hero.badge": "● Market Plus · живая лента из X",
+      "hero.badge": "● Market Plus · живые новости рынка",
       "hero.lead": "Market Plus — о событиях, которые действительно двигают рынок, коротко и по делу: что произошло и как это может повлиять на золото, доллар, нефть и рисковые активы.",
-      "hero.cta": "Читать в X", "hero.cta2": "Последние новости", "hero.cta3": "Продукты",
-      "stat.1": "золото и валюты", "stat.2b": "Макро", "stat.2": "ФРС, инфляция, нефть", "stat.3b": "Онлайн", "stat.3": "лента новостей из\u00a0X",
+      "hero.cta2": "Последние новости", "hero.cta3": "Продукты",
+      "stat.1": "золото и валюты", "stat.2b": "Макро", "stat.2": "ФРС, инфляция, нефть", "stat.3b": "Онлайн", "stat.3": "лента новостей",
       "about.h": "О проекте",
       "about.sub": "Market Plus — новостной проект о рынках для тех, кому нужна суть, а не шум.",
       "about.t1h": "Только важное", "about.t1p": "Геополитика, решения центробанков, данные по инфляции и занятости — всё, что двигает золото и валюты.",
       "about.t2h": "С контекстом", "about.t2p": "К каждой новости — короткий вывод: как событие может отразиться на рынке и почему.",
       "about.t3h": "Со ссылкой на источник", "about.t3p": "Reuters, Bloomberg, официальные заявления — оригинал всегда в одно касание.",
       "news.h": "Последние новости",
-      "news.sub": "Заголовки о рынках, мире, политике и Украине из открытых новостных источников и наши посты в X. Обновляется автоматически каждые 30 минут.",
+      "news.sub": "Заголовки о рынках, мире, политике и Украине из открытых новостных источников. Обновляется автоматически каждые 30 минут.",
       "news.live": "Онлайн", "news.loading": "Загружаем новости…",
       "news.empty": "В этом разделе пока нет новостей — загляните позже.",
       "news.error": "Не удалось загрузить ленту. Обновите страницу.",
@@ -163,8 +159,6 @@
       "q.note": "Данные Yahoo Finance с задержкой (до ~30 мин). На",
       "q.closed": "рынок закрыт",
       "q.open": "Открыть на Yahoo Finance",
-      "news.xsrc": "Пост в X",
-      "news.posts": "Свежие посты",
       "news.tabs": "Разделы новостей",
       "tab.all": "Все",
       "tab.market": "Рынки",
@@ -229,26 +223,26 @@
       "terms.s4h": "4. Продукти",
       "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Patreon (частина безкоштовних матеріалів — на GitHub і в Notion). Оплата, доступ, отримання й повернення обробляються Patreon і регулюються його умовами. Сам сайт платежів не обробляє.",
       "terms.s5h": "5. Конфіденційність",
-      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, X, Patreon, GitHub, Notion) поширюються їхні власні правила.",
+      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, Patreon, GitHub, Notion) поширюються їхні власні правила.",
       "terms.s6h": "6. Відмова від гарантій",
       "terms.s6p": "Сайт надається «як є». Ми намагаємося підтримувати точність і доступність, але не гарантуємо повноту, точність і актуальність інформації та не несемо відповідальності за збитки, що виникли внаслідок її використання.",
       "terms.s7h": "7. Контакти",
-      "terms.s7p": "Питання й запити (зокрема від видавців, які бажають прибрати своє джерело): X @MarketPulseGold.",
+      "terms.s7p": "Питання й запити (зокрема від видавців, які бажають прибрати своє джерело): повідомлення Etsy (MarketPulseStudio) або Patreon.",
       "terms.s8h": "8. Зміни",
       "terms.s8p": "Ми можемо час від часу оновлювати ці умови. Актуальна версія завжди на цій сторінці з датою останнього оновлення.",
       lang: "Мова",
       "nav.news": "Новини", "nav.products": "Продукти", "nav.about": "Про проєкт", "nav.guides": "Гайди",
-      "hero.badge": "● Market Plus · жива стрічка з X",
+      "hero.badge": "● Market Plus · живі новини ринку",
       "hero.lead": "Market Plus — про події, які справді рухають ринок, коротко й по суті: що сталося і як це може вплинути на золото, долар, нафту та ризикові активи.",
-      "hero.cta": "Читати в X", "hero.cta2": "Останні новини", "hero.cta3": "Продукти",
-      "stat.1": "золото й валюти", "stat.2b": "Макро", "stat.2": "ФРС, інфляція, нафта", "stat.3b": "Онлайн", "stat.3": "стрічка новин з\u00a0X",
+      "hero.cta2": "Останні новини", "hero.cta3": "Продукти",
+      "stat.1": "золото й валюти", "stat.2b": "Макро", "stat.2": "ФРС, інфляція, нафта", "stat.3b": "Онлайн", "stat.3": "стрічка новин",
       "about.h": "Про проєкт",
       "about.sub": "Market Plus — новинний проєкт про ринки для тих, кому потрібна суть, а не шум.",
       "about.t1h": "Лише важливе", "about.t1p": "Геополітика, рішення центробанків, дані щодо інфляції та зайнятості — усе, що рухає золото й валюти.",
       "about.t2h": "З контекстом", "about.t2p": "До кожної новини — короткий висновок: як подія може позначитися на ринку і чому.",
       "about.t3h": "З посиланням на джерело", "about.t3p": "Reuters, Bloomberg, офіційні заяви — оригінал завжди в один дотик.",
       "news.h": "Останні новини",
-      "news.sub": "Заголовки про ринки, світ, політику та Україну з відкритих новинних джерел і наші пости в X. Оновлюється автоматично кожні 30 хвилин.",
+      "news.sub": "Заголовки про ринки, світ, політику та Україну з відкритих новинних джерел. Оновлюється автоматично кожні 30 хвилин.",
       "news.live": "Онлайн", "news.loading": "Завантажуємо новини…",
       "news.empty": "У цьому розділі поки немає новин — зазирніть пізніше.",
       "news.error": "Не вдалося завантажити стрічку. Оновіть сторінку.",
@@ -259,8 +253,6 @@
       "q.note": "Дані Yahoo Finance із затримкою (до ~30 хв). Станом на",
       "q.closed": "ринок закритий",
       "q.open": "Відкрити на Yahoo Finance",
-      "news.xsrc": "Пост в X",
-      "news.posts": "Свіжі пости",
       "news.tabs": "Розділи новин",
       "tab.all": "Усі",
       "tab.market": "Ринки",
@@ -325,26 +317,26 @@
       "terms.s4h": "4. Produits",
       "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Patreon (certains contenus gratuits sont sur GitHub ou Notion). Paiements, accès, livraison et remboursements sont gérés par Patreon selon ses propres conditions. Le site ne traite aucun paiement.",
       "terms.s5h": "5. Confidentialité",
-      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, X, Patreon, GitHub, Notion) ont leurs propres règles.",
+      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, Patreon, GitHub, Notion) ont leurs propres règles.",
       "terms.s6h": "6. Absence de garantie",
       "terms.s6p": "Le site est fourni « tel quel ». Nous faisons de notre mieux, mais ne garantissons pas l'exhaustivité, l'exactitude ou l'actualité des informations et déclinons toute responsabilité pour les pertes liées à leur utilisation.",
       "terms.s7h": "7. Contact",
-      "terms.s7p": "Questions et demandes (y compris des éditeurs souhaitant retirer une source) : X @MarketPulseGold.",
+      "terms.s7p": "Questions et demandes (y compris des éditeurs souhaitant retirer une source) : Etsy Messages (MarketPulseStudio) ou Patreon.",
       "terms.s8h": "8. Modifications",
       "terms.s8p": "Ces conditions peuvent être mises à jour. La version en vigueur se trouve toujours sur cette page, avec sa date de mise à jour.",
       lang: "Langue",
       "nav.news": "Actus", "nav.products": "Produits", "nav.about": "À propos", "nav.guides": "Guides",
-      "hero.badge": "● Market Plus · l'actu en direct depuis X",
+      "hero.badge": "● Market Plus · l'actu des marchés en direct",
       "hero.lead": "Market Plus suit les événements qui font vraiment bouger les marchés, en bref et sans détour : ce qui s'est passé et l'impact possible sur l'or, le dollar, le pétrole et les actifs risqués.",
-      "hero.cta": "Suivre sur X", "hero.cta2": "Dernières actus", "hero.cta3": "Produits",
-      "stat.1": "or et devises", "stat.2b": "Macro", "stat.2": "Fed, inflation, pétrole", "stat.3b": "Direct", "stat.3": "fil d'actu depuis\u00a0X",
+      "hero.cta2": "Dernières actus", "hero.cta3": "Produits",
+      "stat.1": "or et devises", "stat.2b": "Macro", "stat.2": "Fed, inflation, pétrole", "stat.3b": "Direct", "stat.3": "fil d'actu",
       "about.h": "À propos",
       "about.sub": "Market Plus est un projet d'actualité des marchés pour ceux qui veulent l'essentiel, pas le bruit.",
       "about.t1h": "L'essentiel uniquement", "about.t1p": "Géopolitique, décisions des banques centrales, chiffres de l'inflation et de l'emploi — ce qui fait bouger l'or et les devises.",
       "about.t2h": "Avec du contexte", "about.t2p": "Chaque info s'accompagne d'une courte analyse : l'impact possible sur le marché, et pourquoi.",
       "about.t3h": "Source à l'appui", "about.t3p": "Reuters, Bloomberg, communiqués officiels — l'original est toujours à portée de clic.",
       "news.h": "Dernières actus",
-      "news.sub": "Les titres marchés, monde, politique et Ukraine issus de sources d'information ouvertes, plus nos posts sur X. Mise à jour automatique toutes les 30 minutes.",
+      "news.sub": "Les titres marchés, monde, politique et Ukraine issus de sources d'information ouvertes. Mise à jour automatique toutes les 30 minutes.",
       "news.live": "Direct", "news.loading": "Chargement des actus…",
       "news.empty": "Pas encore d'actus dans cette rubrique — revenez bientôt.",
       "news.error": "Impossible de charger le fil. Actualisez la page.",
@@ -355,8 +347,6 @@
       "q.note": "Données Yahoo Finance, en différé (jusqu’à ~30 min). Au",
       "q.closed": "marché fermé",
       "q.open": "Ouvrir sur Yahoo Finance",
-      "news.xsrc": "Post sur X",
-      "news.posts": "Derniers posts",
       "news.tabs": "Rubriques",
       "tab.all": "Tout",
       "tab.market": "Marchés",
@@ -421,26 +411,26 @@
       "terms.s4h": "4. Produkte",
       "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Patreon verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub oder Notion). Zahlung, Zugang, Lieferung und Erstattungen wickelt Patreon gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
       "terms.s5h": "5. Datenschutz",
-      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, X, Patreon, GitHub, Notion) gelten deren eigene Richtlinien.",
+      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, Patreon, GitHub, Notion) gelten deren eigene Richtlinien.",
       "terms.s6h": "6. Keine Gewähr",
       "terms.s6p": "Die Website wird „wie besehen“ bereitgestellt. Wir geben unser Bestes, übernehmen aber keine Gewähr für Vollständigkeit, Richtigkeit oder Aktualität und haften nicht für Verluste aus der Nutzung der Informationen.",
       "terms.s7h": "7. Kontakt",
-      "terms.s7p": "Fragen und Anliegen (auch von Verlagen, die eine Quelle entfernen lassen möchten): X @MarketPulseGold.",
+      "terms.s7p": "Fragen und Anliegen (auch von Verlagen, die eine Quelle entfernen lassen möchten): Etsy Messages (MarketPulseStudio) oder Patreon.",
       "terms.s8h": "8. Änderungen",
       "terms.s8p": "Wir können diese Bedingungen gelegentlich aktualisieren. Die aktuelle Fassung steht immer mit Datum auf dieser Seite.",
       lang: "Sprache",
       "nav.news": "News", "nav.products": "Produkte", "nav.about": "Über uns", "nav.guides": "Ratgeber",
-      "hero.badge": "● Market Plus · Live-News von X",
+      "hero.badge": "● Market Plus · Live-Marktnachrichten",
       "hero.lead": "Market Plus berichtet über die Ereignisse, die die Märkte wirklich bewegen — kurz und auf den Punkt: was passiert ist und wie es sich auf Gold, Dollar, Öl und Risikoanlagen auswirken kann.",
-      "hero.cta": "Auf X folgen", "hero.cta2": "Aktuelle News", "hero.cta3": "Produkte",
-      "stat.1": "Gold & Währungen", "stat.2b": "Makro", "stat.2": "Fed, Inflation, Öl", "stat.3b": "Live", "stat.3": "News-Feed von\u00a0X",
+      "hero.cta2": "Aktuelle News", "hero.cta3": "Produkte",
+      "stat.1": "Gold & Währungen", "stat.2b": "Makro", "stat.2": "Fed, Inflation, Öl", "stat.3b": "Live", "stat.3": "News-Feed",
       "about.h": "Über uns",
       "about.sub": "Market Plus ist ein Marktnachrichten-Projekt für alle, die das Signal statt des Rauschens wollen.",
       "about.t1h": "Nur das Wichtige", "about.t1p": "Geopolitik, Zentralbankentscheidungen, Inflations- und Arbeitsmarktdaten — alles, was Gold und Währungen bewegt.",
       "about.t2h": "Mit Kontext", "about.t2p": "Zu jeder Meldung ein kurzes Fazit: wie das Ereignis den Markt beeinflussen kann und warum.",
       "about.t3h": "Mit Quelle", "about.t3p": "Reuters, Bloomberg, offizielle Mitteilungen — das Original ist immer nur einen Klick entfernt.",
       "news.h": "Aktuelle News",
-      "news.sub": "Schlagzeilen zu Märkten, Welt, Politik und Ukraine aus offenen Nachrichtenquellen sowie unsere Posts auf X. Automatische Aktualisierung alle 30 Minuten.",
+      "news.sub": "Schlagzeilen zu Märkten, Welt, Politik und Ukraine aus offenen Nachrichtenquellen. Automatische Aktualisierung alle 30 Minuten.",
       "news.live": "Live", "news.loading": "News werden geladen…",
       "news.empty": "In dieser Rubrik gibt es noch keine News — schau bald wieder vorbei.",
       "news.error": "Der News-Feed konnte nicht geladen werden. Bitte lade die Seite neu.",
@@ -451,8 +441,6 @@
       "q.note": "Daten von Yahoo Finance, verzögert (bis ~30 Min.). Stand",
       "q.closed": "Markt geschlossen",
       "q.open": "Auf Yahoo Finance öffnen",
-      "news.xsrc": "Post auf X",
-      "news.posts": "Neueste Posts",
       "news.tabs": "Rubriken",
       "tab.all": "Alle",
       "tab.market": "Märkte",
@@ -517,26 +505,26 @@
       "terms.s4h": "4. 产品",
       "terms.s4p": "付费和免费产品均通过 Patreon 销售和交付（部分免费资料位于 GitHub 或 Notion）。付款、访问、交付和退款由 Patreon 按其条款处理。本网站不处理任何付款。",
       "terms.s5h": "5. 隐私",
-      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、X、Patreon、GitHub、Notion）适用其各自的政策。",
+      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、Patreon、GitHub、Notion）适用其各自的政策。",
       "terms.s6h": "6. 免责声明",
       "terms.s6p": "本网站按“现状”提供。我们尽力保证信息准确和网站可用，但不保证信息的完整性、准确性或及时性，对因使用这些信息造成的任何损失不承担责任。",
       "terms.s7h": "7. 联系方式",
-      "terms.s7p": "问题和请求（包括希望移除其来源的出版方）：X @MarketPulseGold。",
+      "terms.s7p": "问题和请求（包括希望移除其来源的出版方）：Etsy Messages（MarketPulseStudio）或 Patreon。",
       "terms.s8h": "8. 条款变更",
       "terms.s8p": "我们可能会不时更新本条款。最新版本及其更新日期始终显示在本页面。",
       lang: "语言",
       "nav.news": "资讯", "nav.products": "产品", "nav.about": "关于", "nav.guides": "指南",
-      "hero.badge": "● Market Plus · 来自 X 的实时资讯",
+      "hero.badge": "● Market Plus · 实时市场资讯",
       "hero.lead": "Market Plus 聚焦真正推动市场的事件，简明扼要：发生了什么，以及它可能如何影响黄金、美元、原油和风险资产。",
-      "hero.cta": "在 X 上关注", "hero.cta2": "最新资讯", "hero.cta3": "产品",
-      "stat.1": "黄金与外汇", "stat.2b": "宏观", "stat.2": "美联储、通胀、原油", "stat.3b": "实时", "stat.3": "来自\u00a0X\u00a0的资讯流",
+      "hero.cta2": "最新资讯", "hero.cta3": "产品",
+      "stat.1": "黄金与外汇", "stat.2b": "宏观", "stat.2": "美联储、通胀、原油", "stat.3b": "实时", "stat.3": "资讯流",
       "about.h": "关于我们",
       "about.sub": "Market Plus 是一个市场资讯项目，为只想要关键信息、不要噪音的人而做。",
       "about.t1h": "只看重点", "about.t1p": "地缘政治、央行决议、通胀与就业数据——这些才是推动黄金和汇率的因素。",
       "about.t2h": "附带背景", "about.t2p": "每条资讯都配有简短解读：事件可能如何影响市场，以及原因。",
       "about.t3h": "注明来源", "about.t3p": "路透社、彭博社、官方声明——原文随时一键可查。",
       "news.h": "最新资讯",
-      "news.sub": "来自公开新闻源的市场、国际、政治和乌克兰新闻标题，以及我们在 X 上的帖子。每 30 分钟自动更新。",
+      "news.sub": "来自公开新闻源的市场、国际、政治和乌克兰新闻标题。每 30 分钟自动更新。",
       "news.live": "实时", "news.loading": "正在加载新闻…",
       "news.empty": "该栏目暂无新闻，请稍后再来。",
       "news.error": "无法加载新闻，请刷新页面。",
@@ -547,8 +535,6 @@
       "q.note": "数据来自 Yahoo Finance，有延迟（最多约30分钟）。截至",
       "q.closed": "休市",
       "q.open": "在 Yahoo Finance 上打开",
-      "news.xsrc": "X 上的帖子",
-      "news.posts": "最新帖子",
       "news.tabs": "新闻栏目",
       "tab.all": "全部",
       "tab.market": "市场",
@@ -594,7 +580,7 @@
   };
 
   // ---------- Products (edit here) ----------
-  /*TX-START*/ var TX = {"en":{"nav.analysis":"Analysis","nav.markets":"Markets","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Home","home.lat.h":"Latest articles","home.lat.sub":"Explainers and practical guides on markets, money and planning.","home.sec.h":"Sections","home.sec.sub":"Everything on Market Plus, in one place.","sec.news.d":"Live headlines on markets, world, politics and Ukraine, updated every 30 minutes.","sec.analysis.d":"Evergreen explainers: what moves gold, how forex quotes work, crypto and stock index basics.","sec.markets.d":"Gold (XAU/USD), forex, crypto and stocks: quotes strip, market headlines and explainers.","sec.planners.d":"Digital planners and templates on Etsy and Patreon: budgets, goals, savings and trading journals.","sec.open":"Open section →","pg.analysis.h":"Analysis & explainers","pg.analysis.sub":"Plain-language explainers on how markets work. Educational only, no signals or forecasts.","pg.markets.sub":"Gold, forex, crypto and stocks: live quotes strip, market headlines and explainers.","pg.planners.h":"Planners & templates","pg.planners.sub":"Digital planners for budgets, goals, savings and trading, made by MarketPulseStudio.","pg.about.h":"About & contact","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Real interest rates, the US dollar, central bank demand and safe-haven flows.","mk.fx.h":"Forex","mk.fx.p":"Currency pairs, pips and spreads, and the rate decisions that move them.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins and stablecoins, market cap and the risks of a 24/7 market.","mk.stocks.h":"Stocks","mk.stocks.p":"How the S&P 500, Nasdaq and Dow are built and what moves an index.","mk.read":"Read the explainer →","mk.news.h":"Market headlines","pl.etsy.h":"MarketPulseStudio on Etsy","pl.etsy.p":"Printable and digital planners from MarketPulseStudio are available in the Etsy shop.","pl.etsy.btn":"Visit the Etsy shop","pl.more.h":"Templates on Patreon","ab.contact.h":"Contact","ab.contact.p":"The easiest way to reach Market Plus is a message or a mention on X.","ab.contact.btn":"Write on X","art.all":"All articles →"},"ru":{"nav.analysis":"Аналитика","nav.markets":"Рынки","nav.planners":"Планеры","nav.menu":"Меню","nav.home":"Главная","home.lat.h":"Свежие статьи","home.lat.sub":"Объяснения и практические гайды о рынках, деньгах и планировании.","home.sec.h":"Разделы","home.sec.sub":"Всё на Market Plus в одном месте.","sec.news.d":"Живая лента заголовков о рынках, мире, политике и Украине, обновляется каждые 30 минут.","sec.analysis.d":"Базовые разборы: что двигает золото, как читать котировки форекс, основы крипто и фондовых индексов.","sec.markets.d":"Золото (XAU/USD), форекс, крипто и акции: котировки, рыночные новости и разборы.","sec.planners.d":"Цифровые планеры и шаблоны на Etsy и Patreon: бюджет, цели, накопления и журналы сделок.","sec.open":"Открыть раздел →","pg.analysis.h":"Аналитика и разборы","pg.analysis.sub":"Простые объяснения того, как устроены рынки. Только обучение, без сигналов и прогнозов.","pg.markets.sub":"Золото, форекс, крипто и акции: котировки, рыночные новости и разборы.","pg.planners.h":"Планеры и шаблоны","pg.planners.sub":"Цифровые планеры для бюджета, целей, накоплений и трейдинга от MarketPulseStudio.","pg.about.h":"О проекте и контакты","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальные ставки, доллар США, спрос центробанков и бегство в защитные активы.","mk.fx.h":"Форекс","mk.fx.p":"Валютные пары, пункты и спреды — и решения по ставкам, которые их двигают.","mk.crypto.h":"Крипто","mk.crypto.p":"Биткоин, альткоины и стейблкоины, капитализация и риски рынка 24/7.","mk.stocks.h":"Акции","mk.stocks.p":"Как устроены S&P 500, Nasdaq и Dow и что двигает индекс.","mk.read":"Читать разбор →","mk.news.h":"Рыночные новости","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Печатные и цифровые планеры MarketPulseStudio доступны в магазине на Etsy.","pl.etsy.btn":"Открыть магазин на Etsy","pl.more.h":"Шаблоны на Patreon","ab.contact.h":"Контакты","ab.contact.p":"Проще всего связаться с Market Plus через сообщение или упоминание в X.","ab.contact.btn":"Написать в X","art.all":"Все статьи →"},"uk":{"nav.analysis":"Аналітика","nav.markets":"Ринки","nav.planners":"Планери","nav.menu":"Меню","nav.home":"Головна","home.lat.h":"Свіжі статті","home.lat.sub":"Пояснення та практичні гайди про ринки, гроші та планування.","home.sec.h":"Розділи","home.sec.sub":"Усе на Market Plus в одному місці.","sec.news.d":"Жива стрічка заголовків про ринки, світ, політику та Україну, оновлюється кожні 30 хвилин.","sec.analysis.d":"Базові розбори: що рухає золото, як читати котирування форекс, основи крипто та фондових індексів.","sec.markets.d":"Золото (XAU/USD), форекс, крипто та акції: котирування, ринкові новини та розбори.","sec.planners.d":"Цифрові планери та шаблони на Etsy і Patreon: бюджет, цілі, заощадження та журнали угод.","sec.open":"Відкрити розділ →","pg.analysis.h":"Аналітика та розбори","pg.analysis.sub":"Прості пояснення того, як працюють ринки. Лише навчання, без сигналів і прогнозів.","pg.markets.sub":"Золото, форекс, крипто та акції: котирування, ринкові новини та розбори.","pg.planners.h":"Планери та шаблони","pg.planners.sub":"Цифрові планери для бюджету, цілей, заощаджень і трейдингу від MarketPulseStudio.","pg.about.h":"Про проєкт і контакти","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальні ставки, долар США, попит центробанків і втеча в захисні активи.","mk.fx.h":"Форекс","mk.fx.p":"Валютні пари, пункти та спреди — і рішення щодо ставок, які їх рухають.","mk.crypto.h":"Крипто","mk.crypto.p":"Біткоїн, альткоїни та стейблкоїни, капіталізація і ризики ринку 24/7.","mk.stocks.h":"Акції","mk.stocks.p":"Як побудовані S&P 500, Nasdaq і Dow та що рухає індекс.","mk.read":"Читати розбір →","mk.news.h":"Ринкові новини","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Друковані та цифрові планери MarketPulseStudio доступні в магазині на Etsy.","pl.etsy.btn":"Відкрити магазин на Etsy","pl.more.h":"Шаблони на Patreon","ab.contact.h":"Контакти","ab.contact.p":"Найпростіше зв'язатися з Market Plus через повідомлення або згадку в X.","ab.contact.btn":"Написати в X","art.all":"Усі статті →"},"fr":{"nav.analysis":"Analyses","nav.markets":"Marchés","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Accueil","home.lat.h":"Derniers articles","home.lat.sub":"Explications et guides pratiques sur les marchés, l'argent et la planification.","home.sec.h":"Rubriques","home.sec.sub":"Tout Market Plus, au même endroit.","sec.news.d":"Titres en direct sur les marchés, le monde, la politique et l'Ukraine, mis à jour toutes les 30 minutes.","sec.analysis.d":"Explications de fond : ce qui fait bouger l'or, lire une cotation forex, bases de la crypto et des indices boursiers.","sec.markets.d":"Or (XAU/USD), forex, crypto et actions : cotations, titres des marchés et explications.","sec.planners.d":"Planners numériques et modèles sur Etsy et Patreon : budget, objectifs, épargne et journaux de trading.","sec.open":"Ouvrir la rubrique →","pg.analysis.h":"Analyses et explications","pg.analysis.sub":"Des explications simples sur le fonctionnement des marchés. Contenu éducatif, sans signaux ni prévisions.","pg.markets.sub":"Or, forex, crypto et actions : cotations, titres des marchés et explications.","pg.planners.h":"Planners et modèles","pg.planners.sub":"Planners numériques pour le budget, les objectifs, l'épargne et le trading, par MarketPulseStudio.","pg.about.h":"À propos et contact","mk.gold.h":"Or · XAU/USD","mk.gold.p":"Taux réels, dollar américain, achats des banques centrales et flux refuges.","mk.fx.h":"Forex","mk.fx.p":"Paires de devises, pips et spreads, et les décisions de taux qui les font bouger.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins et stablecoins, capitalisation et risques d'un marché ouvert 24 h/24.","mk.stocks.h":"Actions","mk.stocks.p":"Comment sont construits le S&P 500, le Nasdaq et le Dow, et ce qui fait bouger un indice.","mk.read":"Lire l'explication →","mk.news.h":"Titres des marchés","pl.etsy.h":"MarketPulseStudio sur Etsy","pl.etsy.p":"Les planners imprimables et numériques de MarketPulseStudio sont disponibles dans la boutique Etsy.","pl.etsy.btn":"Voir la boutique Etsy","pl.more.h":"Modèles sur Patreon","ab.contact.h":"Contact","ab.contact.p":"Le plus simple pour joindre Market Plus : un message ou une mention sur X.","ab.contact.btn":"Écrire sur X","art.all":"Tous les articles →"},"de":{"nav.analysis":"Analysen","nav.markets":"Märkte","nav.planners":"Planer","nav.menu":"Menü","nav.home":"Startseite","home.lat.h":"Neueste Artikel","home.lat.sub":"Erklärstücke und praktische Ratgeber zu Märkten, Geld und Planung.","home.sec.h":"Rubriken","home.sec.sub":"Alles von Market Plus an einem Ort.","sec.news.d":"Live-Schlagzeilen zu Märkten, Welt, Politik und der Ukraine, alle 30 Minuten aktualisiert.","sec.analysis.d":"Grundlagen: was den Goldpreis bewegt, wie Devisenkurse funktionieren, Krypto- und Aktienindex-Basics.","sec.markets.d":"Gold (XAU/USD), Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","sec.planners.d":"Digitale Planer und Vorlagen auf Etsy und Patreon: Budget, Ziele, Sparen und Trading-Journale.","sec.open":"Rubrik öffnen →","pg.analysis.h":"Analysen und Erklärstücke","pg.analysis.sub":"Verständliche Erklärungen, wie Märkte funktionieren. Nur zur Bildung, keine Signale oder Prognosen.","pg.markets.sub":"Gold, Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","pg.planners.h":"Planer und Vorlagen","pg.planners.sub":"Digitale Planer für Budget, Ziele, Sparen und Trading von MarketPulseStudio.","pg.about.h":"Über uns und Kontakt","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Realzinsen, US-Dollar, Nachfrage der Zentralbanken und Flucht in sichere Häfen.","mk.fx.h":"Devisen","mk.fx.p":"Währungspaare, Pips und Spreads – und die Zinsentscheide, die sie bewegen.","mk.crypto.h":"Krypto","mk.crypto.p":"Bitcoin, Altcoins und Stablecoins, Marktkapitalisierung und Risiken eines 24/7-Markts.","mk.stocks.h":"Aktien","mk.stocks.p":"Wie S&P 500, Nasdaq und Dow aufgebaut sind und was einen Index bewegt.","mk.read":"Zum Erklärstück →","mk.news.h":"Marktschlagzeilen","pl.etsy.h":"MarketPulseStudio auf Etsy","pl.etsy.p":"Druckbare und digitale Planer von MarketPulseStudio gibt es im Etsy-Shop.","pl.etsy.btn":"Zum Etsy-Shop","pl.more.h":"Vorlagen auf Patreon","ab.contact.h":"Kontakt","ab.contact.p":"Am einfachsten erreichen Sie Market Plus per Nachricht oder Erwähnung auf X.","ab.contact.btn":"Auf X schreiben","art.all":"Alle Artikel →"},"zh":{"nav.analysis":"分析","nav.markets":"市场","nav.planners":"规划模板","nav.menu":"菜单","nav.home":"首页","home.lat.h":"最新文章","home.lat.sub":"关于市场、理财与规划的解读和实用指南。","home.sec.h":"栏目","home.sec.sub":"Market Plus 全部内容，一目了然。","sec.news.d":"市场、国际、政治和乌克兰实时头条，每 30 分钟更新。","sec.analysis.d":"常青解读：什么影响金价、外汇报价怎么看、加密货币与股指基础。","sec.markets.d":"黄金（XAU/USD）、外汇、加密货币和股票：行情条、市场头条与解读。","sec.planners.d":"Etsy 和 Patreon 上的数字规划模板：预算、目标、储蓄与交易日志。","sec.open":"进入栏目 →","pg.analysis.h":"分析与解读","pg.analysis.sub":"用通俗语言解释市场如何运作。仅供学习，不含信号或预测。","pg.markets.sub":"黄金、外汇、加密货币和股票：行情条、市场头条与解读。","pg.planners.h":"规划与模板","pg.planners.sub":"MarketPulseStudio 出品的预算、目标、储蓄与交易数字规划模板。","pg.about.h":"关于与联系","mk.gold.h":"黄金 · XAU/USD","mk.gold.p":"实际利率、美元、央行购金需求与避险资金流。","mk.fx.h":"外汇","mk.fx.p":"货币对、点值与点差，以及驱动它们的利率决议。","mk.crypto.h":"加密货币","mk.crypto.p":"比特币、山寨币与稳定币、市值以及全天候市场的风险。","mk.stocks.h":"股票","mk.stocks.p":"标普 500、纳斯达克和道琼斯如何构成，以及什么推动指数涨跌。","mk.read":"阅读解读 →","mk.news.h":"市场头条","pl.etsy.h":"Etsy 上的 MarketPulseStudio","pl.etsy.p":"MarketPulseStudio 的可打印和数字规划模板在 Etsy 店铺有售。","pl.etsy.btn":"访问 Etsy 店铺","pl.more.h":"Patreon 上的模板","ab.contact.h":"联系","ab.contact.p":"联系 Market Plus 最简单的方式是在 X 上发消息或提及我们。","ab.contact.btn":"在 X 上留言","art.all":"全部文章 →"}};
+  /*TX-START*/ var TX = {"en":{"nav.analysis":"Analysis","nav.markets":"Markets","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Home","home.lat.h":"Latest articles","home.lat.sub":"Explainers and practical guides on markets, money and planning.","home.sec.h":"Sections","home.sec.sub":"Everything on Market Plus, in one place.","sec.news.d":"Live headlines on markets, world, politics and Ukraine, updated every 30 minutes.","sec.analysis.d":"Evergreen explainers: what moves gold, how forex quotes work, crypto and stock index basics.","sec.markets.d":"Gold (XAU/USD), forex, crypto and stocks: quotes strip, market headlines and explainers.","sec.planners.d":"Digital planners and templates on Etsy and Patreon: budgets, goals, savings and trading journals.","sec.open":"Open section →","pg.analysis.h":"Analysis & explainers","pg.analysis.sub":"Plain-language explainers on how markets work. Educational only, no signals or forecasts.","pg.markets.sub":"Gold, forex, crypto and stocks: live quotes strip, market headlines and explainers.","pg.planners.h":"Planners & templates","pg.planners.sub":"Digital planners for budgets, goals, savings and trading, made by MarketPulseStudio.","pg.about.h":"About & contact","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Real interest rates, the US dollar, central bank demand and safe-haven flows.","mk.fx.h":"Forex","mk.fx.p":"Currency pairs, pips and spreads, and the rate decisions that move them.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins and stablecoins, market cap and the risks of a 24/7 market.","mk.stocks.h":"Stocks","mk.stocks.p":"How the S&P 500, Nasdaq and Dow are built and what moves an index.","mk.read":"Read the explainer →","mk.news.h":"Market headlines","pl.etsy.h":"MarketPulseStudio on Etsy","pl.etsy.p":"Printable and digital planners from MarketPulseStudio are available in the Etsy shop.","pl.etsy.btn":"Visit the Etsy shop","pl.more.h":"Templates on Patreon","ab.contact.h":"Contact","ab.contact.p":"The easiest way to reach Market Plus is a message in Etsy Messages or on Patreon.","ab.contact.btn":"Message on Etsy","art.all":"All articles →"},"ru":{"nav.analysis":"Аналитика","nav.markets":"Рынки","nav.planners":"Планеры","nav.menu":"Меню","nav.home":"Главная","home.lat.h":"Свежие статьи","home.lat.sub":"Объяснения и практические гайды о рынках, деньгах и планировании.","home.sec.h":"Разделы","home.sec.sub":"Всё на Market Plus в одном месте.","sec.news.d":"Живая лента заголовков о рынках, мире, политике и Украине, обновляется каждые 30 минут.","sec.analysis.d":"Базовые разборы: что двигает золото, как читать котировки форекс, основы крипто и фондовых индексов.","sec.markets.d":"Золото (XAU/USD), форекс, крипто и акции: котировки, рыночные новости и разборы.","sec.planners.d":"Цифровые планеры и шаблоны на Etsy и Patreon: бюджет, цели, накопления и журналы сделок.","sec.open":"Открыть раздел →","pg.analysis.h":"Аналитика и разборы","pg.analysis.sub":"Простые объяснения того, как устроены рынки. Только обучение, без сигналов и прогнозов.","pg.markets.sub":"Золото, форекс, крипто и акции: котировки, рыночные новости и разборы.","pg.planners.h":"Планеры и шаблоны","pg.planners.sub":"Цифровые планеры для бюджета, целей, накоплений и трейдинга от MarketPulseStudio.","pg.about.h":"О проекте и контакты","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальные ставки, доллар США, спрос центробанков и бегство в защитные активы.","mk.fx.h":"Форекс","mk.fx.p":"Валютные пары, пункты и спреды — и решения по ставкам, которые их двигают.","mk.crypto.h":"Крипто","mk.crypto.p":"Биткоин, альткоины и стейблкоины, капитализация и риски рынка 24/7.","mk.stocks.h":"Акции","mk.stocks.p":"Как устроены S&P 500, Nasdaq и Dow и что двигает индекс.","mk.read":"Читать разбор →","mk.news.h":"Рыночные новости","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Печатные и цифровые планеры MarketPulseStudio доступны в магазине на Etsy.","pl.etsy.btn":"Открыть магазин на Etsy","pl.more.h":"Шаблоны на Patreon","ab.contact.h":"Контакты","ab.contact.p":"Проще всего связаться с Market Plus через сообщения Etsy или Patreon.","ab.contact.btn":"Написать на Etsy","art.all":"Все статьи →"},"uk":{"nav.analysis":"Аналітика","nav.markets":"Ринки","nav.planners":"Планери","nav.menu":"Меню","nav.home":"Головна","home.lat.h":"Свіжі статті","home.lat.sub":"Пояснення та практичні гайди про ринки, гроші та планування.","home.sec.h":"Розділи","home.sec.sub":"Усе на Market Plus в одному місці.","sec.news.d":"Жива стрічка заголовків про ринки, світ, політику та Україну, оновлюється кожні 30 хвилин.","sec.analysis.d":"Базові розбори: що рухає золото, як читати котирування форекс, основи крипто та фондових індексів.","sec.markets.d":"Золото (XAU/USD), форекс, крипто та акції: котирування, ринкові новини та розбори.","sec.planners.d":"Цифрові планери та шаблони на Etsy і Patreon: бюджет, цілі, заощадження та журнали угод.","sec.open":"Відкрити розділ →","pg.analysis.h":"Аналітика та розбори","pg.analysis.sub":"Прості пояснення того, як працюють ринки. Лише навчання, без сигналів і прогнозів.","pg.markets.sub":"Золото, форекс, крипто та акції: котирування, ринкові новини та розбори.","pg.planners.h":"Планери та шаблони","pg.planners.sub":"Цифрові планери для бюджету, цілей, заощаджень і трейдингу від MarketPulseStudio.","pg.about.h":"Про проєкт і контакти","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальні ставки, долар США, попит центробанків і втеча в захисні активи.","mk.fx.h":"Форекс","mk.fx.p":"Валютні пари, пункти та спреди — і рішення щодо ставок, які їх рухають.","mk.crypto.h":"Крипто","mk.crypto.p":"Біткоїн, альткоїни та стейблкоїни, капіталізація і ризики ринку 24/7.","mk.stocks.h":"Акції","mk.stocks.p":"Як побудовані S&P 500, Nasdaq і Dow та що рухає індекс.","mk.read":"Читати розбір →","mk.news.h":"Ринкові новини","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Друковані та цифрові планери MarketPulseStudio доступні в магазині на Etsy.","pl.etsy.btn":"Відкрити магазин на Etsy","pl.more.h":"Шаблони на Patreon","ab.contact.h":"Контакти","ab.contact.p":"Найпростіше зв'язатися з Market Plus через повідомлення Etsy або Patreon.","ab.contact.btn":"Написати на Etsy","art.all":"Усі статті →"},"fr":{"nav.analysis":"Analyses","nav.markets":"Marchés","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Accueil","home.lat.h":"Derniers articles","home.lat.sub":"Explications et guides pratiques sur les marchés, l'argent et la planification.","home.sec.h":"Rubriques","home.sec.sub":"Tout Market Plus, au même endroit.","sec.news.d":"Titres en direct sur les marchés, le monde, la politique et l'Ukraine, mis à jour toutes les 30 minutes.","sec.analysis.d":"Explications de fond : ce qui fait bouger l'or, lire une cotation forex, bases de la crypto et des indices boursiers.","sec.markets.d":"Or (XAU/USD), forex, crypto et actions : cotations, titres des marchés et explications.","sec.planners.d":"Planners numériques et modèles sur Etsy et Patreon : budget, objectifs, épargne et journaux de trading.","sec.open":"Ouvrir la rubrique →","pg.analysis.h":"Analyses et explications","pg.analysis.sub":"Des explications simples sur le fonctionnement des marchés. Contenu éducatif, sans signaux ni prévisions.","pg.markets.sub":"Or, forex, crypto et actions : cotations, titres des marchés et explications.","pg.planners.h":"Planners et modèles","pg.planners.sub":"Planners numériques pour le budget, les objectifs, l'épargne et le trading, par MarketPulseStudio.","pg.about.h":"À propos et contact","mk.gold.h":"Or · XAU/USD","mk.gold.p":"Taux réels, dollar américain, achats des banques centrales et flux refuges.","mk.fx.h":"Forex","mk.fx.p":"Paires de devises, pips et spreads, et les décisions de taux qui les font bouger.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins et stablecoins, capitalisation et risques d'un marché ouvert 24 h/24.","mk.stocks.h":"Actions","mk.stocks.p":"Comment sont construits le S&P 500, le Nasdaq et le Dow, et ce qui fait bouger un indice.","mk.read":"Lire l'explication →","mk.news.h":"Titres des marchés","pl.etsy.h":"MarketPulseStudio sur Etsy","pl.etsy.p":"Les planners imprimables et numériques de MarketPulseStudio sont disponibles dans la boutique Etsy.","pl.etsy.btn":"Voir la boutique Etsy","pl.more.h":"Modèles sur Patreon","ab.contact.h":"Contact","ab.contact.p":"Le plus simple pour joindre Market Plus : un message via Etsy Messages ou sur Patreon.","ab.contact.btn":"Écrire sur Etsy","art.all":"Tous les articles →"},"de":{"nav.analysis":"Analysen","nav.markets":"Märkte","nav.planners":"Planer","nav.menu":"Menü","nav.home":"Startseite","home.lat.h":"Neueste Artikel","home.lat.sub":"Erklärstücke und praktische Ratgeber zu Märkten, Geld und Planung.","home.sec.h":"Rubriken","home.sec.sub":"Alles von Market Plus an einem Ort.","sec.news.d":"Live-Schlagzeilen zu Märkten, Welt, Politik und der Ukraine, alle 30 Minuten aktualisiert.","sec.analysis.d":"Grundlagen: was den Goldpreis bewegt, wie Devisenkurse funktionieren, Krypto- und Aktienindex-Basics.","sec.markets.d":"Gold (XAU/USD), Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","sec.planners.d":"Digitale Planer und Vorlagen auf Etsy und Patreon: Budget, Ziele, Sparen und Trading-Journale.","sec.open":"Rubrik öffnen →","pg.analysis.h":"Analysen und Erklärstücke","pg.analysis.sub":"Verständliche Erklärungen, wie Märkte funktionieren. Nur zur Bildung, keine Signale oder Prognosen.","pg.markets.sub":"Gold, Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","pg.planners.h":"Planer und Vorlagen","pg.planners.sub":"Digitale Planer für Budget, Ziele, Sparen und Trading von MarketPulseStudio.","pg.about.h":"Über uns und Kontakt","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Realzinsen, US-Dollar, Nachfrage der Zentralbanken und Flucht in sichere Häfen.","mk.fx.h":"Devisen","mk.fx.p":"Währungspaare, Pips und Spreads – und die Zinsentscheide, die sie bewegen.","mk.crypto.h":"Krypto","mk.crypto.p":"Bitcoin, Altcoins und Stablecoins, Marktkapitalisierung und Risiken eines 24/7-Markts.","mk.stocks.h":"Aktien","mk.stocks.p":"Wie S&P 500, Nasdaq und Dow aufgebaut sind und was einen Index bewegt.","mk.read":"Zum Erklärstück →","mk.news.h":"Marktschlagzeilen","pl.etsy.h":"MarketPulseStudio auf Etsy","pl.etsy.p":"Druckbare und digitale Planer von MarketPulseStudio gibt es im Etsy-Shop.","pl.etsy.btn":"Zum Etsy-Shop","pl.more.h":"Vorlagen auf Patreon","ab.contact.h":"Kontakt","ab.contact.p":"Am einfachsten erreichen Sie Market Plus per Nachricht über Etsy Messages oder auf Patreon.","ab.contact.btn":"Auf Etsy schreiben","art.all":"Alle Artikel →"},"zh":{"nav.analysis":"分析","nav.markets":"市场","nav.planners":"规划模板","nav.menu":"菜单","nav.home":"首页","home.lat.h":"最新文章","home.lat.sub":"关于市场、理财与规划的解读和实用指南。","home.sec.h":"栏目","home.sec.sub":"Market Plus 全部内容，一目了然。","sec.news.d":"市场、国际、政治和乌克兰实时头条，每 30 分钟更新。","sec.analysis.d":"常青解读：什么影响金价、外汇报价怎么看、加密货币与股指基础。","sec.markets.d":"黄金（XAU/USD）、外汇、加密货币和股票：行情条、市场头条与解读。","sec.planners.d":"Etsy 和 Patreon 上的数字规划模板：预算、目标、储蓄与交易日志。","sec.open":"进入栏目 →","pg.analysis.h":"分析与解读","pg.analysis.sub":"用通俗语言解释市场如何运作。仅供学习，不含信号或预测。","pg.markets.sub":"黄金、外汇、加密货币和股票：行情条、市场头条与解读。","pg.planners.h":"规划与模板","pg.planners.sub":"MarketPulseStudio 出品的预算、目标、储蓄与交易数字规划模板。","pg.about.h":"关于与联系","mk.gold.h":"黄金 · XAU/USD","mk.gold.p":"实际利率、美元、央行购金需求与避险资金流。","mk.fx.h":"外汇","mk.fx.p":"货币对、点值与点差，以及驱动它们的利率决议。","mk.crypto.h":"加密货币","mk.crypto.p":"比特币、山寨币与稳定币、市值以及全天候市场的风险。","mk.stocks.h":"股票","mk.stocks.p":"标普 500、纳斯达克和道琼斯如何构成，以及什么推动指数涨跌。","mk.read":"阅读解读 →","mk.news.h":"市场头条","pl.etsy.h":"Etsy 上的 MarketPulseStudio","pl.etsy.p":"MarketPulseStudio 的可打印和数字规划模板在 Etsy 店铺有售。","pl.etsy.btn":"访问 Etsy 店铺","pl.more.h":"Patreon 上的模板","ab.contact.h":"联系","ab.contact.p":"联系 Market Plus 最简单的方式是通过 Etsy Messages 或 Patreon 留言。","ab.contact.btn":"在 Etsy 上留言","art.all":"全部文章 →"}};
   Object.keys(TX).forEach(function (l) { if (T[l]) for (var k in TX[l]) T[l][k] = TX[l][k]; }); /*TX-END*/
   var PRODUCTS = [
     // seasonal first
@@ -649,7 +635,7 @@
   // Text is always tagged with the language it is actually written in:
   //  * <html lang> = current UI language;
   //  * in Cyrillic/Chinese UIs, Latin-script runs (brands, names, tickers: Market Plus, Patreon,
-  //    Starlink, AJB, @MarketPulseGold) get <span lang="en" translate="no">, otherwise a
+  //    Starlink, AJB) get <span lang="en" translate="no">, otherwise a
   //    Russian/Ukrainian voice spells them by Cyrillic rules;
   //  * headlines carry the lang of the text actually shown (translation or original).
   var LATIN_RUN = /[A-Za-z][A-Za-z0-9&@'’.+\-]*(?:[ \u00a0]+(?:[A-Za-z0-9][A-Za-z0-9&@'’.+\-]*))*/g;
@@ -829,7 +815,7 @@
   }
 
   // ---------- News feed (same-origin data/news.json, no third-party scripts) ----------
-  var SECS = ["all", "market", "world", "politics", "ukraine", "x"];
+  var SECS = ["all", "market", "world", "politics", "ukraine"];
   var MAX_PER_TAB = 30;
   var newsData = null, curTab = "all", loadState = "loading";
   var listEl = $("newsList"), tabsEl = $("newsTabs"), updEl = $("newsUpdated");
@@ -850,27 +836,20 @@
     try { return new Date(ts * 1000).toLocaleString(locale(), { dateStyle: "medium", timeStyle: "short" }); }
     catch (e) { return new Date(ts * 1000).toISOString(); }
   }
-  // X attaches t.co short links to posts; the card itself already opens the post
-  function noTco(s) { return String(s || "").replace(/[ \t]*https?:\/\/t\.co\/\S+/g, "").replace(/[ \t]+$/gm, "").replace(/^[ \t]+/gm, "").replace(/\n{3,}/g, "\n\n").trim(); }
-
   function itemsFor(tab) {
     if (!newsData) return [];
-    var x = (newsData.x || []).map(function (p) { return { kind: "x", title: p.text, t: p.t, lang: p.lang, url: p.url, ts: p.ts, source: "@" + (newsData.x_handle || "MarketPulseGold") }; });
     var rss = (newsData.items || []).map(function (i) { return { kind: "rss", title: i.title, t: i.t, lang: i.lang, url: i.url, ts: i.ts, source: i.source, sec: i.sec || [] }; });
-    var out;
-    if (tab === "x") out = x;
-    else if (tab === "all") out = x.concat(rss);
-    else out = rss.filter(function (i) { return i.sec.indexOf(tab) >= 0; });
+    var out = (tab === "all") ? rss : rss.filter(function (i) { return i.sec.indexOf(tab) >= 0; });
     out = out.filter(function (i) { return safeUrl(i.url) && i.title; });
     out.sort(function (a, b) { return (b.ts || 0) - (a.ts || 0); });
     return out.slice(0, tab === "all" ? 40 : MAX_PER_TAB);
   }
 
   function card(it) {
-    var a = el("a", "ni" + (it.kind === "x" ? " ni-x" : ""));
+    var a = el("a", "ni");
     a.href = safeUrl(it.url); a.target = "_blank"; a.rel = "noopener noreferrer";
     var meta = el("span", "ni-meta");
-    var src = el("b", "ni-src", it.kind === "x" ? it.source + " · X" : it.source);
+    var src = el("b", "ni-src", it.source);
     src.lang = "en"; src.setAttribute("translate", "no"); // publisher names: BBC, Reuters, The Guardian…
     meta.appendChild(src);
     if (it.ts) {
@@ -884,7 +863,7 @@
     // lang = language of the text actually shown (never inherit the UI language blindly)
     var shownLang = tt ? scriptLang(tt, locale()) : scriptLang(it.title, it.lang || "en");
     var span = el("span", "ni-t"); span.lang = shownLang;
-    setText(span, it.kind === "x" ? noTco(tt || it.title) : (tt || it.title), shownLang);
+    setText(span, tt || it.title, shownLang);
     a.appendChild(span);
     return a;
   }
@@ -912,7 +891,7 @@
   SECS.forEach(function (s) {
     var b = el("button", "tab"); b.type = "button"; b.setAttribute("role", "tab"); b.setAttribute("data-tab", s);
     b.setAttribute("aria-controls", "newsList");
-    if (s === "x") { b.textContent = "X @MarketPulseGold"; b.lang = "en"; b.setAttribute("translate", "no"); } else b.setAttribute("data-i18n", "tab." + s);
+    b.setAttribute("data-i18n", "tab." + s);
     b.addEventListener("click", function () {
       curTab = s; try { sessionStorage.setItem("mp_tab", s); } catch (e) {}
       render(); listEl.scrollTop = 0;

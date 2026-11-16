@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
 """Market Plus news builder (stdlib only).
 
-Fetches free, open RSS feeds (+ @MarketPulseGold posts from a keyless public
-source when one works), assigns sections, dedups and writes data/news.json.
-X posts are also kept in data/posts.json (last good copy is reused when every
-keyless X source fails, and tools/update_posts.py can refresh it manually).
+Fetches free, open RSS feeds, assigns sections, dedups and writes data/news.json.
 If a feed fails, its items from the previous news.json are kept.
 
-Headlines (and X posts) are machine-translated into the site languages at build
-time with free, keyless public endpoints (Google "dict-chrome-ex"/"gtx" web
-clients, MyMemory as last resort). Translations are stored per item as
-item["t"] = {"uk": ..., "ru": ...} and cached by url / post id, so each run only
+Headlines are machine-translated into the site languages at build time with
+free, keyless public endpoints (Google "dict-chrome-ex"/"gtx" web clients,
+MyMemory as last resort). Translations are stored per item as
+item["t"] = {"uk": ..., "ru": ...} and cached by url, so each run only
 translates new headlines. Failures never break the build: the frontend simply
 shows the original title.
 """
@@ -232,22 +229,8 @@ def write_if_changed(path, obj, ignore=("updated",)):
     return True
 
 def update_x(log):
-    posts_doc = load(POSTS, {"handle": X_HANDLE, "posts": []})
-    for name, fn in X_SOURCES:
-        try:
-            got = normalize_posts(fn())
-            log.append({"source": "x:" + name, "ok": True, "items": len(got)})
-            # merge with known posts (keeps posts the public source dropped), newest 15
-            merged = {p["id"]: p for p in posts_doc.get("posts", [])}
-            for p in got:
-                merged[p["id"]] = p
-            posts = normalize_posts(list(merged.values()))[:15]
-            write_if_changed(POSTS, {"handle": X_HANDLE, "source": name,
-                                     "updated": int(time.time()), "posts": posts})
-            return posts, name
-        except Exception as e:
-            log.append({"source": "x:" + name, "ok": False, "error": str(e)[:120]})
-    return posts_doc.get("posts", []), posts_doc.get("source", "cache")
+    # X/Twitter post updates are disabled; RSS headlines only.
+    return [], None
 
 # ---------- Translation (free, keyless, cached) ----------
 TR_LANGS = {"uk": "uk", "en": "en", "fr": "fr", "de": "de", "zh": "zh-CN", "ru": "ru"}
@@ -548,14 +531,11 @@ def main():
     final = [it for i, it in enumerate(uniq) if i in keep]
     for it in final:
         it["sec"] = [s for s in it["sec"] if s in ("market", "world", "politics", "ukraine")]
-    xposts, xsrc = update_x(log)
-    xout = [{"id": p["id"], "text": p["text"], "ts": p["ts"], "url": p["url"]} for p in xposts]
-    attach_translations(final, xout, prev, log)
-    doc = {"updated": now, "x_handle": X_HANDLE, "x_source": xsrc, "x": xout,
-           "items": final, "status": log}
+    attach_translations(final, [], prev, log)
+    doc = {"updated": now, "items": final, "status": log}
     changed = write_if_changed(NEWS, doc, ignore=("updated", "status"))
     ok = sum(1 for l in log if l["ok"])
-    print("feeds ok %d/%d, items %d, x posts %d (%s), changed=%s" % (ok, len(log), len(final), len(xposts), xsrc, changed))
+    print("feeds ok %d/%d, items %d, changed=%s" % (ok, len(log), len(final), changed))
     for l in log:
         print("  ", json.dumps(l, ensure_ascii=False))
     if not final and not prev.get("items"):

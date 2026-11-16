@@ -96,9 +96,8 @@ def shell(path, title, desc, body, active, ogtype="website", jsonld=None, img=SI
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{t}">
 <meta name="twitter:description" content="{d}">
-<meta name="twitter:image" content="{img}">
-<meta name="twitter:site" content="@MarketPulseGold">{extra}
-<link rel="stylesheet" href="/style.css?v=8">
+<meta name="twitter:image" content="{img}">{extra}
+<link rel="stylesheet" href="/style.css?v=9">
 {HEAD_LANG}{ld}
 </head>
 <body data-static-meta>
@@ -109,7 +108,7 @@ def shell(path, title, desc, body, active, ogtype="website", jsonld=None, img=SI
 </main>
 
 <footer></footer>
-<script src="/app.js?v=1792944444" defer></script>
+<script src="/app.js?v=1792949000" defer></script>
 </body>
 </html>
 '''
@@ -124,7 +123,7 @@ out = {}
 
 # news/
 out["news/index.html"] = shell("/news/", "Latest market and world news | Market Plus",
-  "Live headlines on markets, gold, forex, world, politics and Ukraine from open news sources and @MarketPulseGold, updated every 30 minutes.",
+  "Live headlines on markets, gold, forex, world, politics and Ukraine from open news sources, updated every 30 minutes.",
   page_head("news.h", "Latest news", "news.sub", "nav.news") + "\n" + QUOTES + f'\n<section class="pfeed"><div class="wrap">\n  {FEED}\n</div></section>', "news",
   jsonld={"@context": "https://schema.org", "@graph": [{"@type": "CollectionPage", "name": "News — Market Plus", "url": SITE + "/news/", "publisher": PUB}, crumbs_ld([("Market Plus", "/"), ("News", "/news/")])]})
 
@@ -194,12 +193,12 @@ out["planners/index.html"] = shell("/planners/", "Digital planners and templates
 # about/
 about_tiles = re.search(r'<div class="about">.*?</div>\s*</div>\s*</div>', rd("index.html"), re.S)
 out["about/index.html"] = shell("/about/", "About Market Plus and contact | Market Plus",
-  "About Market Plus: market and world news with context, explainers and planning templates. Contact Market Plus on X @MarketPulseGold.",
+  "About Market Plus: market and world news with context, explainers and planning templates. Contact Market Plus via Etsy Messages or Patreon.",
   page_head("pg.about.h", T_EN["pg.about.h"], "about.sub", "nav.about").replace('data-i18n="about.sub">', 'data-i18n="about.sub">Market Plus is a markets news project for people who want the signal, not the noise.', 1) +
   f'''\n<section class="psec"><div class="wrap">{about_tiles.group(0) if about_tiles else ""}</div></section>
 <section class="psec"><div class="wrap"><div class="etsy contact">
   <div><h2 data-i18n="ab.contact.h">{T_EN["ab.contact.h"]}</h2>{k("ab.contact.p", "p")}<p class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</p></div>
-  <a class="btn btn-gold" href="https://x.com/MarketPulseGold" target="_blank" rel="noopener"><span data-i18n="ab.contact.btn">{T_EN["ab.contact.btn"]}</span> <span lang="en" translate="no">@MarketPulseGold</span></a>
+  <a class="btn btn-gold" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener"><span data-i18n="ab.contact.btn">{T_EN["ab.contact.btn"]}</span></a>
 </div></div></section>''', "about",
   jsonld={"@context": "https://schema.org", "@graph": [{"@type": "AboutPage", "name": "About — Market Plus", "url": SITE + "/about/", "publisher": PUB}, crumbs_ld([("Market Plus", "/"), ("About", "/about/")])]})
 

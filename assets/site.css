@@ -38,7 +38,6 @@ nav.main a.pbtn{margin-left:8px}
   .js nav.main a[data-nav]{padding:13px 8px;font-size:17px;border-bottom:1px solid var(--line);border-radius:0}
   .js nav.main a[data-nav]:after{left:8px;right:auto;width:28px;bottom:6px}
   .js nav.main a.pbtn{margin:12px 0 0;justify-content:center;height:44px}
-  .js nav.main a.xbtn{align-self:flex-start;margin-top:10px;width:44px;height:44px}
   header.top .wrap{position:relative}
 }
 @keyframes navIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
