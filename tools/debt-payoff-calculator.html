@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Debt Snowball vs Avalanche Calculator: Debt-Free Date | Market Plus</title>
+<meta name="description" content="Free debt payoff calculator: list your debts, add an extra monthly payment and compare the snowball and avalanche methods side by side: debt-free date, total interest and payoff order.">
+<link rel="canonical" href="https://marketplus-news.github.io/tools/debt-payoff-calculator.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Debt Snowball vs Avalanche Calculator: Debt-Free Date | Market Plus">
+<meta property="og:description" content="Free debt payoff calculator: list your debts, add an extra monthly payment and compare the snowball and avalanche methods side by side: debt-free date, total interest and payoff order.">
+<meta property="og:url" content="https://marketplus-news.github.io/tools/debt-payoff-calculator.html">
+<meta property="og:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Debt Snowball vs Avalanche Calculator: Debt-Free Date | Market Plus">
+<meta name="twitter:description" content="Free debt payoff calculator: list your debts, add an extra monthly payment and compare the snowball and avalanche methods side by side: debt-free date, total interest and payoff order.">
+<meta name="twitter:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<link rel="stylesheet" href="/style.css?v=9">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
+<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
+<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
+(function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
+if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
+document.documentElement.lang=L[c]||"en";})();</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Debt Snowball vs Avalanche Calculator", "url": "https://marketplus-news.github.io/tools/debt-payoff-calculator.html", "description": "Free debt payoff calculator: list your debts, add an extra monthly payment and compare the snowball and avalanche methods side by side: debt-free date, total interest and payoff order.", "applicationCategory": "FinanceApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is the debt avalanche always cheaper than the snowball?", "acceptedAnswer": {"@type": "Answer", "text": "With the same total monthly payment, ordering by highest interest rate first minimises interest in almost every case. When rates are similar, the two methods give nearly identical results, and the snowball may even finish a debt or two earlier."}}, {"@type": "Question", "name": "What should I enter as the extra payment?", "acceptedAnswer": {"@type": "Answer", "text": "The amount you can reliably pay every month on top of all minimum payments. Even a small, steady extra amount shortens the payoff time, because it compounds through the rollover."}}, {"@type": "Question", "name": "Why does a debt say 'never'?", "acceptedAnswer": {"@type": "Answer", "text": "Its minimum payment is lower than the interest charged each month, so the balance grows or stays flat. Increase the payment or contact the lender about the rate."}}, {"@type": "Question", "name": "Does it handle 0% promotional balances?", "acceptedAnswer": {"@type": "Answer", "text": "Enter 0 as the APR. Keep in mind that when a promotion ends the rate changes, which this simple model does not track."}}, {"@type": "Question", "name": "Where are my debts stored?", "acceptedAnswer": {"@type": "Answer", "text": "Only in your browser's local storage on this device. Nothing is sent to us, and the Reset button clears it."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://marketplus-news.github.io/tools/"}, {"@type": "ListItem", "position": 3, "name": "Debt Snowball vs Avalanche Calculator", "item": "https://marketplus-news.github.io/tools/debt-payoff-calculator.html"}]}]}</script>
+</head>
+<body data-nav="tools" data-static-meta>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="/"><img src="/favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <div class="lang-dd" id="langDD">
+      <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
+      <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
+    </div>
+  </div>
+  <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">Menu</span></button>
+  <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
+    <a href="/news/" data-nav="news" data-i18n="nav.news">News</a>
+    <a href="/analysis/" data-nav="analysis" data-i18n="nav.analysis">Analysis</a>
+    <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
+    <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
+    <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools" aria-current="page">Tools</a>
+    <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
+    <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
+    <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
+  </nav>
+</div></header>
+
+<main id="top">
+<div class="read-progress" aria-hidden="true"><span></span></div>
+<section class="phead thead"><div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/" translate="no">Market Plus</a> › <a href="/tools/">Tools</a></nav>
+  <div class="thero"><div><span class="kicker">Debt payoff · free tool</span><h1>Debt Snowball vs Avalanche Calculator</h1><p class="lead">List your debts, add what you can pay on top of the minimums, and compare both methods side by side: months to debt-free, total interest and the order your debts disappear.</p>
+  <div class="tbadges"><span>Runs in your browser</span><span>No sign-up</span><span>Nothing is sent anywhere</span></div></div>
+  <div class="hart-wrap"><svg class="hart" viewBox="0 0 600 230" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Debt Snowball vs Avalanche Calculator">
+<defs><radialGradient id="hg5" cx="78%" cy="30%" r="65%"><stop offset="0" stop-color="#f2d77a" stop-opacity=".38"/><stop offset="1" stop-color="#f2d77a" stop-opacity="0"/></radialGradient>
+<linearGradient id="hl5" x1="0" x2="1"><stop offset="0" stop-color="#3fb8af"/><stop offset="1" stop-color="#f2d77a"/></linearGradient>
+<linearGradient id="hf5" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#d4af37" stop-opacity=".22"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+<pattern id="hp5" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="230" fill="#0f0f13"/><rect width="600" height="230" fill="url(#hp5)"/><rect width="600" height="230" fill="url(#hg5)"/>
+<polygon points="0,230 0,163 50,153 100,149 150,167 200,182 250,189 300,164 350,167 400,156 450,171 500,148 550,132 600,113 600,230" fill="url(#hf5)"/><polyline points="0,163 50,153 100,149 150,167 200,182 250,189 300,164 350,167 400,156 450,171 500,148 550,132 600,113" fill="none" stroke="url(#hl5)" stroke-width="3" class="hline"/>
+<g transform="translate(430 52) scale(4.6)" fill="none" stroke="#f2d77a" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><path d="M4 18 9 13l4 3 7-8M15 8h5v5"/></g>
+</svg></div></div>
+</div></section>
+<section class="psec" style="padding-top:6px"><div class="wrap"><div class="calc" id="calc">
+<div>
+ <h2>Your debts</h2>
+ <div class="rhead"><span>Name</span><span>Balance ($)</span><span>APR %</span><span>Min / mo ($)</span><span></span></div>
+ <div class="rows" id="rows"></div>
+ <button type="button" class="addb" id="add">+ Add a debt</button>
+ <div class="fgrid2" style="margin-top:16px">
+  <div class="fld"><label for="extra">Extra payment per month ($)</label><input id="extra" inputmode="decimal" value="200" autocomplete="off"><small>On top of all minimum payments.</small></div>
+ </div>
+ <p class="privacy">Example debts; replace them with yours. Saved only in this browser. <button type="button" class="addb" id="reset" style="margin:0 0 0 6px;min-height:30px">Reset</button></p>
+</div>
+<div>
+ <h2>Results</h2>
+ <div class="tscroll"><table class="ttable" id="cmp"><thead><tr><th></th><th>Snowball</th><th>Avalanche</th><th>Minimums only</th></tr></thead><tbody></tbody></table></div>
+ <div class="kpis" style="margin-top:14px"><div class="kpi hi"><b id="oSave">—</b><span id="oSaveL">Interest saved by avalanche vs snowball</span></div><div class="kpi"><b id="oFirst">—</b><span id="oFirstL">First debt cleared (snowball)</span></div></div>
+ <h2 style="margin-top:18px">Payoff order</h2>
+ <div class="tscroll"><table class="ttable" id="ord"><thead><tr><th>#</th><th>Snowball</th><th>Avalanche</th></tr></thead><tbody></tbody></table></div>
+ <p class="rnote" id="oWarn"></p>
+</div>
+</div></div></section>
+<article class="wrap guide article" lang="en">
+  <div class="art-body">
+<h2>Snowball and avalanche in one sentence each</h2>
+<p>Both methods start the same way: you keep paying the minimum on every debt and put every spare dollar on top of one target debt. When that debt is gone, its minimum payment rolls into the next target, so your payment to the target grows over time. The only difference is the order.</p>
+<ul>
+<li><strong>Debt snowball:</strong> target the <em>smallest balance</em> first. You clear whole debts sooner, which many people find motivating.</li>
+<li><strong>Debt avalanche:</strong> target the <em>highest interest rate</em> first. Mathematically this usually costs the least interest and is never slower.</li>
+</ul>
+<h2>How the calculator works</h2>
+<p>Each month it adds interest to every balance (APR ÷ 12), pays each minimum, and sends the rest of your total monthly budget (the sum of your minimums plus the extra amount) to the target debt. When a debt reaches zero, the money that paid it automatically flows to the next target. It repeats this until every balance is zero and records the month each debt disappears.</p>
+<p>The <strong>minimums only</strong> column shows what happens if you never pay more than the required minimum on each debt and do not roll freed-up payments forward. It is usually the slowest and most expensive path, and if a minimum does not even cover the monthly interest, that balance never goes down.</p>
+<h2>Which method should you choose?</h2>
+<p>If the interest difference shown above is small, pick the method you are more likely to stick with; consistency matters more than the last few dollars. If the difference is large (typically when one high-rate card also has a large balance), the avalanche is worth considering. Some people use a hybrid: clear one tiny balance first for a quick win, then switch to avalanche order. We compare both in detail in <a href="/guides/debt-snowball-vs-avalanche.html">Debt snowball vs avalanche, explained</a>.</p>
+<p class="note-box">The results are estimates for planning. Lenders may use daily interest, fees or promotional rates that change the numbers. This is not financial advice.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>Is the debt avalanche always cheaper than the snowball?</summary><p>With the same total monthly payment, ordering by highest interest rate first minimises interest in almost every case. When rates are similar, the two methods give nearly identical results, and the snowball may even finish a debt or two earlier.</p></details><details><summary>What should I enter as the extra payment?</summary><p>The amount you can reliably pay every month on top of all minimum payments. Even a small, steady extra amount shortens the payoff time, because it compounds through the rollover.</p></details><details><summary>Why does a debt say 'never'?</summary><p>Its minimum payment is lower than the interest charged each month, so the balance grows or stays flat. Increase the payment or contact the lender about the rate.</p></details><details><summary>Does it handle 0% promotional balances?</summary><p>Enter 0 as the APR. Keep in mind that when a promotion ends the rate changes, which this simple model does not track.</p></details><details><summary>Where are my debts stored?</summary><p>Only in your browser's local storage on this device. Nothing is sent to us, and the Reset button clears it.</p></details></div></div>
+  <aside class="pcta"><div class="pimg"><img src="/assets/debt-snowball-tracker.webp" alt="Debt Snowball & Avalanche Payoff Tracker" loading="lazy" width="480" height="320"></div><div class="pb"><span class="kicker">Want the full system?</span><p class="cta-h">Debt Snowball & Avalanche Payoff Tracker</p><span class="price">$4</span><p>Up to 15 debts, Snowball or Avalanche: a month-by-month payoff plan, your debt-free date and interest saved, plus a printable debt-free thermometer. Excel and Google Sheets, no macros.</p><div class="cta"><a class="btn btn-gold" href="https://www.etsy.com/shop/MarketPulseStudio?search_query=debt+snowball" target="_blank" rel="noopener">Get it on Etsy</a></div></div></aside>
+</article>
+<!--mp:next--><section class="next"><div class="wrap"><h2>What next?</h2><p class="sub">Free tools and guides that go with what you just read.</p><div class="ntiles"><a class="ntile" href="/tools/compound-interest-calculator.html"><span class="kicker">Free tool</span><b>Compound Interest & Savings Goal Calculator</b><span>See your savings grow year by year, or find the monthly amount to hit a goal.</span></a><a class="ntile" href="/tools/holiday-budget-planner.html"><span class="kicker">Free tool</span><b>Christmas & Holiday Budget Planner</b><span>Gift list, holiday costs and how much to set aside each week until the day.</span></a><a class="ntile" href="/guides/debt-snowball-vs-avalanche.html"><span class="kicker">Guide · 6 min</span><b>Debt Snowball vs Avalanche, Explained</b><span>Two ways to order the same payments. One usually saves more interest; the other gives quicker wins. Here is how to choose.</span></a></div></div></section><!--/mp:next-->
+</main>
+
+<footer><div class="wrap">
+  <div class="fgrid">
+    <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+      <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+</div></footer>
+<script src="/app.js?v=1792960000" defer></script>
+<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/calc.js?v=3"></script>
+<script>(function(){var M=MPCalc,root=M.$("calc"),box=M.$("rows");
+var DEF=[["Credit card A",3200,24.9,95],["Credit card B",1200,19.9,40],["Car loan",8500,7.5,260],["Personal loan",4000,12,130]];
+var st=M.loadJSON("debt")||{rows:DEF,extra:200};M.$("extra").value=st.extra;
+function rowHTML(r){return'<div class="drow"><input aria-label="Name" value="'+M.esc(r[0])+'"><input aria-label="Balance" inputmode="decimal" value="'+r[1]+'"><input aria-label="APR %" inputmode="decimal" value="'+r[2]+'"><input aria-label="Minimum payment" inputmode="decimal" value="'+r[3]+'"><button type="button" class="rmb" aria-label="Remove">×</button></div>'}
+function draw(rows){box.innerHTML=rows.map(rowHTML).join("")}draw(st.rows);
+function read(){return Array.prototype.map.call(box.querySelectorAll(".drow"),function(d){var i=d.querySelectorAll("input");return[i[0].value||"Debt",parseFloat(i[1].value)||0,parseFloat(i[2].value)||0,parseFloat(i[3].value)||0]})}
+function sim(debts,mode,extra){var d=debts.filter(function(x){return x[1]>0}).map(function(x){return{n:x[0],b:x[1],r:x[2]/1200,m:x[3]}});
+var budget=d.reduce(function(a,x){return a+x.m},0)+(mode==="min"?0:extra),month=0,interest=0,order=[];
+while(d.some(function(x){return x.b>0.005})&&month<1200){month++;
+ d.forEach(function(x){if(x.b>0){var i=x.b*x.r;x.b+=i;interest+=i}});
+ var left=mode==="min"?0:budget;
+ if(mode==="min"){d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p}})}
+ else{d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p;left-=p}});
+  var act=d.filter(function(x){return x.b>0.005});act.sort(mode==="snow"?function(a,b){return a.b-b.b||b.r-a.r}:function(a,b){return b.r-a.r||a.b-b.b});
+  for(var k=0;k<act.length&&left>0.005;k++){var p=Math.min(left,act[k].b);act[k].b-=p;left-=p}}
+ d.forEach(function(x){if(x.b<=0.005&&!x.done){x.done=1;x.b=0;order.push([x.n,month])}});}
+return{months:month,interest:interest,order:order,stuck:month>=1200}}
+function when(m){var d=new Date();d.setMonth(d.getMonth()+m);return d.toLocaleDateString("en-US",{month:"short",year:"numeric"})}
+function yrs(m){return Math.floor(m/12)+" y "+(m%12)+" m"}
+function run(){var rows=read(),extra=M.num("extra");M.saveJSON("debt",{rows:rows,extra:extra});
+var s=sim(rows,"snow",extra),a=sim(rows,"aval",extra),z=sim(rows,"min",extra);
+var c=function(r){return r.stuck?"never*":yrs(r.months)};
+var total=rows.reduce(function(t,x){return t+x[1]},0);
+M.$("cmp").tBodies[0].innerHTML="<tr><td>Time to debt-free</td><td>"+c(s)+"</td><td>"+c(a)+"</td><td>"+c(z)+"</td></tr><tr><td>Debt-free date</td><td>"+(s.stuck?"—":when(s.months))+"</td><td>"+(a.stuck?"—":when(a.months))+"</td><td>"+(z.stuck?"—":when(z.months))+"</td></tr><tr><td>Total interest</td><td>"+M.money(s.interest)+"</td><td>"+M.money(a.interest)+"</td><td>"+(z.stuck?"—":M.money(z.interest))+"</td></tr><tr><td>Total debt today</td><td colspan=3>"+M.money(total)+"</td></tr>";
+var sv=s.interest-a.interest;M.set("oSave",M.money(Math.abs(sv)));M.set("oSaveL",sv>=0?"Interest saved by avalanche vs snowball":"Snowball costs less here (equal APRs or rounding)");
+M.set("oFirst",s.order.length?"Month "+s.order[0][1]:"—");M.set("oFirstL",s.order.length?"First debt cleared with snowball: "+s.order[0][0]:"First debt cleared (snowball)");
+var n=Math.max(s.order.length,a.order.length),h="";for(var i=0;i<n;i++){h+="<tr><td>"+(i+1)+"</td><td>"+(s.order[i]?M.esc(s.order[i][0])+" (m "+s.order[i][1]+")":"")+"</td><td>"+(a.order[i]?M.esc(a.order[i][0])+" (m "+a.order[i][1]+")":"")+"</td></tr>"}
+M.$("ord").tBodies[0].innerHTML=h;
+M.set("oWarn",(z.stuck||s.stuck)?"* At least one balance never reaches zero: its minimum payment does not cover the monthly interest. Raise the payment.":"Interest is compounded monthly at APR ÷ 12. Real lenders may calculate it daily, so treat results as estimates.");}
+root.addEventListener("click",function(e){if(e.target.closest(".rmb")){e.target.closest(".drow").remove();run()}});
+M.$("add").addEventListener("click",function(){box.insertAdjacentHTML("beforeend",rowHTML(["New debt",1000,15,30]));run()});
+M.$("reset").addEventListener("click",function(){M.saveJSON("debt",null);M.$("extra").value=200;draw(DEF);run()});
+M.live(root,run);})();</script>
+</body>
+</html>

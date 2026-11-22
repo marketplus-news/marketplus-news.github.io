@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Airbnb Profit Calculator: STR Income, Occupancy &amp; Break-Even | Market Plus</title>
+<meta name="description" content="Free short-term rental calculator: nightly rate, occupancy, cleaning, platform fees and fixed costs in, monthly and yearly profit, break-even occupancy and break-even nightly rate out.">
+<link rel="canonical" href="https://marketplus-news.github.io/tools/airbnb-rental-profit-calculator.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Airbnb Profit Calculator: STR Income, Occupancy &amp; Break-Even | Market Plus">
+<meta property="og:description" content="Free short-term rental calculator: nightly rate, occupancy, cleaning, platform fees and fixed costs in, monthly and yearly profit, break-even occupancy and break-even nightly rate out.">
+<meta property="og:url" content="https://marketplus-news.github.io/tools/airbnb-rental-profit-calculator.html">
+<meta property="og:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Airbnb Profit Calculator: STR Income, Occupancy &amp; Break-Even | Market Plus">
+<meta name="twitter:description" content="Free short-term rental calculator: nightly rate, occupancy, cleaning, platform fees and fixed costs in, monthly and yearly profit, break-even occupancy and break-even nightly rate out.">
+<meta name="twitter:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<link rel="stylesheet" href="/style.css?v=9">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
+<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
+<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
+(function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
+if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
+document.documentElement.lang=L[c]||"en";})();</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Airbnb & Short-Term Rental Profit Calculator", "url": "https://marketplus-news.github.io/tools/airbnb-rental-profit-calculator.html", "description": "Free short-term rental calculator: nightly rate, occupancy, cleaning, platform fees and fixed costs in, monthly and yearly profit, break-even occupancy and break-even nightly rate out.", "applicationCategory": "FinanceApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a good occupancy rate for an Airbnb?", "acceptedAnswer": {"@type": "Answer", "text": "It depends heavily on the market, season and listing. Rather than aiming for a number from someone else's city, use this calculator to find your break-even occupancy and make sure your realistic occupancy sits comfortably above it."}}, {"@type": "Question", "name": "Should the cleaning fee cover the full cleaning cost?", "acceptedAnswer": {"@type": "Answer", "text": "Many hosts set it close to the real cost, but a high cleaning fee makes short stays look expensive in search results. The calculator lets you test both: change the fee and the average stay and watch the profit and the break-even rate."}}, {"@type": "Question", "name": "Does the calculator include taxes?", "acceptedAnswer": {"@type": "Answer", "text": "No. Income tax and local occupancy or tourist taxes vary by country and city, and occupancy taxes are often collected from guests. Add a monthly estimate to the 'other' cost field if you want a cautious figure."}}, {"@type": "Question", "name": "Why does a shorter stay reduce profit?", "acceptedAnswer": {"@type": "Answer", "text": "Every stay needs a cleaning and supplies. With the same number of booked nights, shorter stays mean more turnovers, so per-stay costs rise faster than the cleaning fees you collect."}}, {"@type": "Question", "name": "Is my data saved?", "acceptedAnswer": {"@type": "Answer", "text": "Only in your own browser, so your numbers are still there next time. Nothing is uploaded."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://marketplus-news.github.io/tools/"}, {"@type": "ListItem", "position": 3, "name": "Airbnb & Short-Term Rental Profit Calculator", "item": "https://marketplus-news.github.io/tools/airbnb-rental-profit-calculator.html"}]}]}</script>
+</head>
+<body data-nav="tools" data-static-meta>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="/"><img src="/favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <div class="lang-dd" id="langDD">
+      <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
+      <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
+    </div>
+  </div>
+  <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">Menu</span></button>
+  <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
+    <a href="/news/" data-nav="news" data-i18n="nav.news">News</a>
+    <a href="/analysis/" data-nav="analysis" data-i18n="nav.analysis">Analysis</a>
+    <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
+    <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
+    <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools" aria-current="page">Tools</a>
+    <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
+    <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
+    <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
+  </nav>
+</div></header>
+
+<main id="top">
+<div class="read-progress" aria-hidden="true"><span></span></div>
+<section class="phead thead"><div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/" translate="no">Market Plus</a> › <a href="/tools/">Tools</a></nav>
+  <div class="thero"><div><span class="kicker">Short-term rental · free tool</span><h1>Airbnb & Short-Term Rental Profit Calculator</h1><p class="lead">Model one Airbnb, VRBO or Booking.com listing: revenue, fees, cleaning and fixed costs, your monthly and yearly profit, and the occupancy you need just to break even.</p>
+  <div class="tbadges"><span>Runs in your browser</span><span>No sign-up</span><span>Nothing is sent anywhere</span></div></div>
+  <div class="hart-wrap"><svg class="hart" viewBox="0 0 600 230" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Airbnb & Short-Term Rental Profit Calculator">
+<defs><radialGradient id="hg4" cx="78%" cy="30%" r="65%"><stop offset="0" stop-color="#f2d77a" stop-opacity=".38"/><stop offset="1" stop-color="#f2d77a" stop-opacity="0"/></radialGradient>
+<linearGradient id="hl4" x1="0" x2="1"><stop offset="0" stop-color="#3fb8af"/><stop offset="1" stop-color="#f2d77a"/></linearGradient>
+<linearGradient id="hf4" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#d4af37" stop-opacity=".22"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+<pattern id="hp4" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="230" fill="#0f0f13"/><rect width="600" height="230" fill="url(#hp4)"/><rect width="600" height="230" fill="url(#hg4)"/>
+<polygon points="0,230 0,139 50,132 100,112 150,111 200,115 250,98 300,77 350,55 400,40 450,40 500,49 550,41 600,40 600,230" fill="url(#hf4)"/><polyline points="0,139 50,132 100,112 150,111 200,115 250,98 300,77 350,55 400,40 450,40 500,49 550,41 600,40" fill="none" stroke="url(#hl4)" stroke-width="3" class="hline"/>
+<g transform="translate(430 52) scale(4.6)" fill="none" stroke="#f2d77a" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><path d="M3 11 12 4l9 7M5 10v10h14V10M10 20v-6h4v6"/></g>
+</svg></div></div>
+</div></section>
+<section class="psec" style="padding-top:6px"><div class="wrap"><div class="calc" id="calc">
+<div>
+ <h2>Revenue</h2>
+ <div class="fgrid2">
+  <div class="fld"><label for="rate">Average nightly rate ($)</label><input id="rate" inputmode="decimal" value="140" autocomplete="off"></div>
+  <div class="fld"><label for="occ">Occupancy: <b id="occV">65%</b></label><input id="occ" type="range" min="5" max="100" step="1" value="65"></div>
+  <div class="fld"><label for="los">Average stay (nights)</label><input id="los" inputmode="decimal" value="3" autocomplete="off"></div>
+  <div class="fld"><label for="cfee">Cleaning fee charged per stay ($)</label><input id="cfee" inputmode="decimal" value="60" autocomplete="off"></div>
+ </div>
+ <h2 style="margin-top:18px">Costs</h2>
+ <div class="fgrid2">
+  <div class="fld"><label for="pfee">Platform / payment fees (% of booking)</label><input id="pfee" inputmode="decimal" value="15" autocomplete="off"><small>Depends on the platform and fee model you use.</small></div>
+  <div class="fld"><label for="ccost">Cleaning + laundry cost per stay ($)</label><input id="ccost" inputmode="decimal" value="55" autocomplete="off"></div>
+  <div class="fld"><label for="sup">Supplies per stay ($)</label><input id="sup" inputmode="decimal" value="8" autocomplete="off"><small>Toiletries, coffee, consumables.</small></div>
+  <div class="fld"><label for="rent">Rent or mortgage per month ($)</label><input id="rent" inputmode="decimal" value="1500" autocomplete="off"></div>
+  <div class="fld"><label for="util">Utilities + internet per month ($)</label><input id="util" inputmode="decimal" value="220" autocomplete="off"></div>
+  <div class="fld"><label for="other">Insurance, software, repairs per month ($)</label><input id="other" inputmode="decimal" value="150" autocomplete="off"></div>
+ </div>
+ <p class="privacy">Example values; replace them with your own. Saved only in this browser.</p>
+</div>
+<div>
+ <h2>Monthly result</h2>
+ <div class="kpis">
+  <div class="kpi hi" id="netBox"><b id="oNet">—</b><span>Net profit per month</span></div>
+  <div class="kpi"><b id="oYear">—</b><span>Net profit per year</span></div>
+  <div class="kpi"><b id="oGross">—</b><span>Gross bookings per month</span></div>
+  <div class="kpi"><b id="oMargin">—</b><span>Profit margin</span></div>
+  <div class="kpi"><b id="oBeOcc">—</b><span>Break-even occupancy</span></div>
+  <div class="kpi"><b id="oBeRate">—</b><span>Break-even nightly rate at this occupancy</span></div>
+ </div>
+ <div class="bars" id="bars"></div>
+ <h2 style="margin-top:20px">Profit at other occupancy levels</h2>
+ <div class="tscroll"><table class="ttable" id="sens"><thead><tr><th>Occupancy</th><th>Nights / mo</th><th>Gross</th><th>Net / mo</th></tr></thead><tbody></tbody></table></div>
+ <p class="rnote" id="oNights"></p>
+</div>
+</div></div></section>
+<article class="wrap guide article" lang="en">
+  <div class="art-body">
+<h2>What this calculator includes</h2>
+<p>A short-term rental makes money on two lines: the nightly rate and the cleaning fee you charge each guest. It loses money on three: platform and payment fees, per-stay costs (cleaning, laundry, supplies) and fixed monthly costs that you pay whether the calendar is full or empty, such as rent or mortgage, utilities, internet, insurance and software.</p>
+<p>The calculator turns occupancy into booked nights (occupancy × 30.4 days) and booked nights into stays (nights ÷ average length of stay). Every stay triggers one cleaning, so shorter stays mean more turnovers and more cleaning cost even at the same occupancy. That is why the average stay length matters as much as the nightly rate.</p>
+<h2>Break-even occupancy and break-even rate</h2>
+<p><strong>Break-even occupancy</strong> is the share of nights you need to sell just to cover fixed costs. It is calculated from the contribution of one booked night: the nightly rate after fees, plus the cleaning fee after fees minus cleaning and supply costs, spread across the nights of an average stay. Fixed costs divided by that contribution give the nights you need each month.</p>
+<p><strong>Break-even nightly rate</strong> answers the opposite question: at the occupancy you entered, what is the lowest average rate that still covers everything? It is a useful floor when you set seasonal or last-minute discounts.</p>
+<h2>How to use the results</h2>
+<ul>
+<li>Look at the <strong>occupancy table</strong>: a listing that only works at 85% occupancy is fragile, because one slow season wipes out the profit.</li>
+<li>Test a <strong>longer minimum stay</strong>: fewer turnovers often add more profit than a higher nightly rate.</li>
+<li>Check the <strong>fee setting</strong> against your platform's current fee structure; it differs between platforms and fee models.</li>
+<li>Remember what is <strong>not</strong> included: income tax, local occupancy taxes, furniture and setup costs, and your own time.</li>
+</ul>
+<p>For a step-by-step approach to setting the rate itself, read <a href="/guides/how-to-price-airbnb.html">how to price an Airbnb</a>.</p>
+<p class="note-box">This is a planning estimate, not tax, legal or investment advice. Check local short-term rental rules and taxes before you list.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>What is a good occupancy rate for an Airbnb?</summary><p>It depends heavily on the market, season and listing. Rather than aiming for a number from someone else's city, use this calculator to find your break-even occupancy and make sure your realistic occupancy sits comfortably above it.</p></details><details><summary>Should the cleaning fee cover the full cleaning cost?</summary><p>Many hosts set it close to the real cost, but a high cleaning fee makes short stays look expensive in search results. The calculator lets you test both: change the fee and the average stay and watch the profit and the break-even rate.</p></details><details><summary>Does the calculator include taxes?</summary><p>No. Income tax and local occupancy or tourist taxes vary by country and city, and occupancy taxes are often collected from guests. Add a monthly estimate to the 'other' cost field if you want a cautious figure.</p></details><details><summary>Why does a shorter stay reduce profit?</summary><p>Every stay needs a cleaning and supplies. With the same number of booked nights, shorter stays mean more turnovers, so per-stay costs rise faster than the cleaning fees you collect.</p></details><details><summary>Is my data saved?</summary><p>Only in your own browser, so your numbers are still there next time. Nothing is uploaded.</p></details></div></div>
+  <aside class="pcta"><div class="pimg"><img src="/assets/crypto/str-complete.webp" alt="STR Host System" loading="lazy" width="480" height="320"></div><div class="pb"><span class="kicker">Want the full system?</span><p class="cta-h">STR Host System</p><span class="price">from $49</span><p>Spreadsheets for Airbnb and VRBO hosts: bookings, cleaning schedule, pricing calendar and a monthly profit dashboard. BASIC ($49) or COMPLETE ($119) with every tool and template.</p><div class="cta"><a class="btn btn-gold" href="https://www.etsy.com/listing/4617676139" target="_blank" rel="noopener">BASIC on Etsy</a><a class="btn btn-ghost" href="https://www.etsy.com/listing/4617675743" target="_blank" rel="noopener">COMPLETE on Etsy</a><a class="btn btn-ghost" href="/shop-crypto.html">Pay with USDC</a></div></div></aside>
+</article>
+<!--mp:next--><section class="next"><div class="wrap"><h2>What next?</h2><p class="sub">Free tools and guides that go with what you just read.</p><div class="ntiles"><a class="ntile" href="/tools/compound-interest-calculator.html"><span class="kicker">Free tool</span><b>Compound Interest & Savings Goal Calculator</b><span>See your savings grow year by year, or find the monthly amount to hit a goal.</span></a><a class="ntile" href="/tools/debt-payoff-calculator.html"><span class="kicker">Free tool</span><b>Debt Snowball vs Avalanche Calculator</b><span>Compare snowball and avalanche: debt-free date, interest paid and payoff order.</span></a><a class="ntile" href="/guides/how-to-price-airbnb.html"><span class="kicker">Guide · 7 min</span><b>How to Price an Airbnb: A Step-by-Step Method</b><span>Start from your costs, check the market, then adjust for seasons, days of the week and how far ahead guests book.</span></a></div></div></section><!--/mp:next-->
+</main>
+
+<footer><div class="wrap">
+  <div class="fgrid">
+    <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+      <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+</div></footer>
+<script src="/app.js?v=1792960000" defer></script>
+<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/calc.js?v=3"></script>
+<script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("str",root),D=30.4;
+function model(o){var r=M.num("rate"),l=Math.max(1,M.num("los",1)),cf=M.num("cfee"),f=M.num("pfee")/100,cc=M.num("ccost"),su=M.num("sup"),fix=M.num("rent")+M.num("util")+M.num("other");
+var n=D*o,s=n/l,rent=n*r,clean=s*cf,gross=rent+clean,fees=gross*f,vari=s*(cc+su),net=gross-fees-vari-fix,per=r*(1-f)+(cf*(1-f)-cc-su)/l;
+return{n:n,s:s,gross:gross,fees:fees,vari:vari,fix:fix,net:net,per:per,f:f,l:l,cf:cf,cc:cc,su:su}}
+function run(){var o=M.num("occ")/100;M.set("occV",Math.round(o*100)+"%");var m=model(o);
+M.set("oNet",M.money(m.net));M.set("oYear",M.money(m.net*12));M.set("oGross",M.money(m.gross));M.set("oMargin",m.gross?M.pct(m.net/m.gross,0):"—");
+M.$("netBox").className="kpi hi "+(m.net<0?"neg":"");
+var be=m.per>0?m.fix/m.per/D:Infinity;M.set("oBeOcc",be>1?"over 100%":M.pct(be,0));
+var br=m.n>0?(m.fix+m.s*(m.cc+m.su)-m.s*m.cf*(1-m.f))/(m.n*(1-m.f)):Infinity;M.set("oBeRate",isFinite(br)&&br>0?M.money(br):"—");
+M.bars(M.$("bars"),[["Gross",m.gross,M.money(m.gross)],["Platform fees",m.fees,M.money(m.fees),"teal"],["Cleaning+supplies",m.vari,M.money(m.vari),"teal"],["Fixed costs",m.fix,M.money(m.fix),"teal"],["Net profit",Math.max(0,m.net),M.money(m.net)]]);
+var rows="";for(var p=40;p<=90;p+=10){var x=model(p/100);rows+="<tr"+(Math.abs(p/100-o)<.05?' class="best"':"")+"><td>"+p+"%</td><td>"+M.n(x.n,1)+"</td><td>"+M.money(x.gross)+"</td><td>"+M.money(x.net)+"</td></tr>"}
+M.$("sens").tBodies[0].innerHTML=rows;M.set("oNights","About "+M.n(m.n,1)+" booked nights and "+M.n(m.s,1)+" turnovers a month (a month is taken as 30.4 days).");save();}
+M.live(root,run);})();</script>
+</body>
+</html>

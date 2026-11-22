@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compound Interest &amp; Savings Goal Calculator | Market Plus</title>
+<meta name="description" content="Free compound interest calculator: see how a starting amount and monthly deposits grow over time, the share that comes from growth, the value after inflation, and the monthly saving needed to reach a goal.">
+<link rel="canonical" href="https://marketplus-news.github.io/tools/compound-interest-calculator.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Compound Interest &amp; Savings Goal Calculator | Market Plus">
+<meta property="og:description" content="Free compound interest calculator: see how a starting amount and monthly deposits grow over time, the share that comes from growth, the value after inflation, and the monthly saving needed to reach a goal.">
+<meta property="og:url" content="https://marketplus-news.github.io/tools/compound-interest-calculator.html">
+<meta property="og:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Compound Interest &amp; Savings Goal Calculator | Market Plus">
+<meta name="twitter:description" content="Free compound interest calculator: see how a starting amount and monthly deposits grow over time, the share that comes from growth, the value after inflation, and the monthly saving needed to reach a goal.">
+<meta name="twitter:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<link rel="stylesheet" href="/style.css?v=9">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
+<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
+<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
+(function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
+if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
+document.documentElement.lang=L[c]||"en";})();</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Compound Interest & Savings Goal Calculator", "url": "https://marketplus-news.github.io/tools/compound-interest-calculator.html", "description": "Free compound interest calculator: see how a starting amount and monthly deposits grow over time, the share that comes from growth, the value after inflation, and the monthly saving needed to reach a goal.", "applicationCategory": "FinanceApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How often does interest compound in this calculator?", "acceptedAnswer": {"@type": "Answer", "text": "Monthly, at the annual rate divided by 12, with deposits added at the end of each month. Accounts that compound daily give very slightly higher results."}}, {"@type": "Question", "name": "What return should I use?", "acceptedAnswer": {"@type": "Answer", "text": "For a savings account, its current interest rate. For investments there is no guaranteed rate, so compare a few scenarios and treat the results as a range, not a forecast."}}, {"@type": "Question", "name": "What does 'today's money' mean?", "acceptedAnswer": {"@type": "Answer", "text": "It is the ending balance adjusted for the inflation rate you entered, so you can see roughly what it would buy at today's prices."}}, {"@type": "Question", "name": "How is the monthly amount for a goal calculated?", "acceptedAnswer": {"@type": "Answer", "text": "With the standard future-value-of-an-annuity formula: the target minus the grown starting amount, divided by the growth factor of a series of monthly deposits."}}, {"@type": "Question", "name": "Does the calculator store my numbers?", "acceptedAnswer": {"@type": "Answer", "text": "Only in your own browser, so they are there next time. Nothing is sent anywhere."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://marketplus-news.github.io/tools/"}, {"@type": "ListItem", "position": 3, "name": "Compound Interest & Savings Goal Calculator", "item": "https://marketplus-news.github.io/tools/compound-interest-calculator.html"}]}]}</script>
+</head>
+<body data-nav="tools" data-static-meta>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="/"><img src="/favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <div class="lang-dd" id="langDD">
+      <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
+      <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
+    </div>
+  </div>
+  <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">Menu</span></button>
+  <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
+    <a href="/news/" data-nav="news" data-i18n="nav.news">News</a>
+    <a href="/analysis/" data-nav="analysis" data-i18n="nav.analysis">Analysis</a>
+    <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
+    <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
+    <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools" aria-current="page">Tools</a>
+    <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
+    <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
+    <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
+  </nav>
+</div></header>
+
+<main id="top">
+<div class="read-progress" aria-hidden="true"><span></span></div>
+<section class="phead thead"><div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/" translate="no">Market Plus</a> › <a href="/tools/">Tools</a></nav>
+  <div class="thero"><div><span class="kicker">Saving · Investing · free tool</span><h1>Compound Interest & Savings Goal Calculator</h1><p class="lead">Watch a starting amount and regular monthly deposits grow, see how much is your money and how much is growth, and find the monthly saving needed for a target.</p>
+  <div class="tbadges"><span>Runs in your browser</span><span>No sign-up</span><span>Nothing is sent anywhere</span></div></div>
+  <div class="hart-wrap"><svg class="hart" viewBox="0 0 600 230" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Compound Interest & Savings Goal Calculator">
+<defs><radialGradient id="hg6" cx="78%" cy="30%" r="65%"><stop offset="0" stop-color="#f2d77a" stop-opacity=".38"/><stop offset="1" stop-color="#f2d77a" stop-opacity="0"/></radialGradient>
+<linearGradient id="hl6" x1="0" x2="1"><stop offset="0" stop-color="#3fb8af"/><stop offset="1" stop-color="#f2d77a"/></linearGradient>
+<linearGradient id="hf6" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#d4af37" stop-opacity=".22"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+<pattern id="hp6" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="230" fill="#0f0f13"/><rect width="600" height="230" fill="url(#hp6)"/><rect width="600" height="230" fill="url(#hg6)"/>
+<polygon points="0,230 0,160 50,139 100,144 150,134 200,110 250,84 300,67 350,83 400,94 450,98 500,95 550,89 600,64 600,230" fill="url(#hf6)"/><polyline points="0,160 50,139 100,144 150,134 200,110 250,84 300,67 350,83 400,94 450,98 500,95 550,89 600,64" fill="none" stroke="url(#hl6)" stroke-width="3" class="hline"/>
+<g transform="translate(430 52) scale(4.6)" fill="none" stroke="#f2d77a" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><path d="M4 20V10M10 20V6M16 20v-8M22 20H2M16 8l3-4 3 4"/></g>
+</svg></div></div>
+</div></section>
+<section class="psec" style="padding-top:6px"><div class="wrap"><div class="calc" id="calc">
+<div>
+ <h2>Your plan</h2>
+ <div class="fgrid2">
+  <div class="fld"><label for="p0">Starting amount ($)</label><input id="p0" inputmode="decimal" value="1000" autocomplete="off"></div>
+  <div class="fld"><label for="pm">Monthly deposit ($)</label><input id="pm" inputmode="decimal" value="200" autocomplete="off"></div>
+  <div class="fld"><label for="rate">Annual return (%)</label><input id="rate" inputmode="decimal" value="5" autocomplete="off"><small>An assumption, not a promise. Try several.</small></div>
+  <div class="fld"><label for="yrs">Years</label><input id="yrs" inputmode="decimal" value="15" autocomplete="off"></div>
+  <div class="fld"><label for="inc">Raise deposits each year by (%)</label><input id="inc" inputmode="decimal" value="0" autocomplete="off"></div>
+  <div class="fld"><label for="inf">Inflation for 'today's money' (%)</label><input id="inf" inputmode="decimal" value="2.5" autocomplete="off"></div>
+ </div>
+ <h2 style="margin-top:18px">Savings goal</h2>
+ <div class="fgrid2"><div class="fld"><label for="goal">Target amount ($)</label><input id="goal" inputmode="decimal" value="50000" autocomplete="off"><small>Uses the starting amount, return and years above.</small></div></div>
+ <p class="privacy">Saved only in this browser.</p>
+</div>
+<div>
+ <h2>Result</h2>
+ <div class="kpis">
+  <div class="kpi hi"><b id="oFV">—</b><span id="oFVL">Balance at the end</span></div>
+  <div class="kpi"><b id="oIn">—</b><span>Total you deposited</span></div>
+  <div class="kpi pos"><b id="oGr">—</b><span>Growth (interest earned)</span></div>
+  <div class="kpi"><b id="oReal">—</b><span>Ending balance in today's money</span></div>
+  <div class="kpi hi" style="grid-column:1/-1"><b id="oNeed">—</b><span id="oNeedL">Monthly deposit needed for your goal</span></div>
+ </div>
+ <svg class="chart" id="chart" viewBox="0 0 520 220" role="img" aria-label="Balance by year"></svg>
+ <div class="legend"><span><i style="background:#d4af37"></i>Balance</span><span><i style="background:#3fb8af"></i>Your deposits</span></div>
+ <div class="tscroll"><table class="ttable" id="tab"><thead><tr><th>Year</th><th>Deposited</th><th>Growth</th><th>Balance</th></tr></thead><tbody></tbody></table></div>
+</div>
+</div></div></section>
+<article class="wrap guide article" lang="en">
+  <div class="art-body">
+<h2>What compound interest is</h2>
+<p>Compound interest means you earn a return not only on the money you put in, but also on the returns you have already earned. In the first years most of the balance is your own deposits; over longer periods the growth line pulls away from the deposits line in the chart above, because each year's growth is calculated on a larger base. Time and consistency usually matter more than the size of any single deposit.</p>
+<h2>How this calculator works</h2>
+<p>It assumes deposits at the end of each month and monthly compounding at the annual rate ÷ 12. Each year you can raise the deposit by a percentage, for example to match pay rises. The <strong>today's money</strong> figure divides the ending balance by the inflation you enter for every year, which shows what the balance would buy at today's prices. That number is often a useful reality check on large long-term totals.</p>
+<p>The <strong>savings goal</strong> box works backwards with the standard future-value formula: given your starting amount, the return and the number of years, it finds the flat monthly deposit that reaches the target.</p>
+<h2>Choosing a realistic return</h2>
+<ul>
+<li><strong>Savings accounts and deposits</strong> pay a stated rate that changes with central bank rates; use the rate your bank actually offers.</li>
+<li><strong>Investments</strong> such as stock funds do not have a fixed return. Results vary from year to year and can be negative. Run the calculator with a cautious, a middle and an optimistic rate rather than relying on one number.</li>
+<li><strong>Fees and taxes</strong> reduce your real return. Subtract them from the rate for a more honest picture.</li>
+</ul>
+<p>If you carry high-interest debt, paying it off is often the best guaranteed "return" available. Compare with our <a href="/tools/debt-payoff-calculator.html">debt payoff calculator</a>.</p>
+<p class="note-box">For education and planning only. Past or assumed returns do not guarantee future results; this is not investment advice.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How often does interest compound in this calculator?</summary><p>Monthly, at the annual rate divided by 12, with deposits added at the end of each month. Accounts that compound daily give very slightly higher results.</p></details><details><summary>What return should I use?</summary><p>For a savings account, its current interest rate. For investments there is no guaranteed rate, so compare a few scenarios and treat the results as a range, not a forecast.</p></details><details><summary>What does 'today's money' mean?</summary><p>It is the ending balance adjusted for the inflation rate you entered, so you can see roughly what it would buy at today's prices.</p></details><details><summary>How is the monthly amount for a goal calculated?</summary><p>With the standard future-value-of-an-annuity formula: the target minus the grown starting amount, divided by the growth factor of a series of monthly deposits.</p></details><details><summary>Does the calculator store my numbers?</summary><p>Only in your own browser, so they are there next time. Nothing is sent anywhere.</p></details></div></div>
+  <aside class="pcta"><div class="pimg"><img src="/assets/savings-challenge-2027.webp" alt="2027 Savings Challenge Pack" loading="lazy" width="480" height="320"></div><div class="pb"><span class="kicker">Want the full system?</span><p class="cta-h">2027 Savings Challenge Pack</p><span class="price">$4</span><p>16 printable savings challenges (52-week, 100-envelope, $10,000 and more) plus an Excel tracker with automatic totals.</p><div class="cta"><a class="btn btn-gold" href="https://www.etsy.com/shop/MarketPulseStudio?search_query=savings+challenge" target="_blank" rel="noopener">Get it on Etsy</a><a class="btn btn-ghost" href="https://www.etsy.com/shop/MarketPulseStudio?search_query=budget" target="_blank" rel="noopener">Budget tracker</a></div></div></aside>
+</article>
+<!--mp:next--><section class="next"><div class="wrap"><h2>What next?</h2><p class="sub">Free tools and guides that go with what you just read.</p><div class="ntiles"><a class="ntile" href="/tools/debt-payoff-calculator.html"><span class="kicker">Free tool</span><b>Debt Snowball vs Avalanche Calculator</b><span>Compare snowball and avalanche: debt-free date, interest paid and payoff order.</span></a><a class="ntile" href="/tools/holiday-budget-planner.html"><span class="kicker">Free tool</span><b>Christmas & Holiday Budget Planner</b><span>Gift list, holiday costs and how much to set aside each week until the day.</span></a><a class="ntile" href="/guides/debt-snowball-vs-avalanche.html"><span class="kicker">Guide · 6 min</span><b>Debt Snowball vs Avalanche, Explained</b><span>Two ways to order the same payments. One usually saves more interest; the other gives quicker wins. Here is how to choose.</span></a><a class="ntile" href="/guides/position-sizing-explained.html"><span class="kicker">Guide · 6 min</span><b>How Position Sizing Works in Forex and Gold</b><span>Risk a planned amount, let the stop-loss set the distance, and let the size follow. The maths behind every trade size.</span></a></div></div></section><!--/mp:next-->
+</main>
+
+<footer><div class="wrap">
+  <div class="fgrid">
+    <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+      <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+</div></footer>
+<script src="/app.js?v=1792960000" defer></script>
+<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/calc.js?v=3"></script>
+<script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("compound",root);
+function grow(p0,pm,r,y,inc){var b=p0,dep=p0,rows=[[0,dep,b]],m=r/1200;for(var k=1;k<=y;k++){for(var i=0;i<12;i++){b=b*(1+m)+pm;dep+=pm}rows.push([k,dep,b]);pm*=1+inc/100}return rows}
+function run(){var p0=M.num("p0"),pm=M.num("pm"),r=M.num("rate"),y=Math.max(1,Math.min(60,Math.round(M.num("yrs",1)))),inc=M.num("inc"),inf=M.num("inf"),g=M.num("goal");
+var rows=grow(p0,pm,r,y,inc),L=rows[y],fv=L[2];M.set("oFV",M.money(fv));M.set("oFVL","Balance after "+y+" years");M.set("oIn",M.money(L[1]));M.set("oGr",M.money(fv-L[1]));M.set("oReal",M.money(fv/Math.pow(1+inf/100,y)));
+var m=r/1200,n=y*12,need=m?(g-p0*Math.pow(1+m,n))*m/(Math.pow(1+m,n)-1):(g-p0)/n;
+if(need<=0){M.set("oNeed","$0");M.set("oNeedL","Your starting amount alone reaches the goal")}else{M.set("oNeed",M.money(need,2)+" / month");M.set("oNeedL","Monthly deposit needed for "+M.money(g)+" in "+y+" years (flat deposits)")}
+var W=520,H=220,P=34,max=Math.max(fv,1),sx=function(k){return P+(W-P-8)*k/y},sy=function(v){return H-22-(H-34)*v/max};
+var bal=rows.map(function(r){return sx(r[0]).toFixed(1)+","+sy(r[2]).toFixed(1)}).join(" "),dep=rows.map(function(r){return sx(r[0]).toFixed(1)+","+sy(r[1]).toFixed(1)}).join(" ");
+var grid="";for(var t=0;t<=4;t++){var v=max*t/4,yy=sy(v);grid+='<line x1="'+P+'" x2="'+W+'" y1="'+yy+'" y2="'+yy+'" stroke="#26262e"/><text x="2" y="'+(yy+4)+'">'+(v>=1e6?(v/1e6).toFixed(1)+"M":Math.round(v/1e3)+"k")+"</text>"}
+var step=Math.max(1,Math.ceil(y/6));for(var k=0;k<=y;k+=step)grid+='<text x="'+(sx(k)-4)+'" y="'+(H-6)+'">'+k+"</text>";
+M.$("chart").innerHTML=grid+'<polygon points="'+sx(0)+","+sy(0)+" "+bal+" "+sx(y)+","+sy(0)+'" fill="rgba(212,175,55,.16)"/><polyline points="'+bal+'" fill="none" stroke="#d4af37" stroke-width="2.5"/><polyline points="'+dep+'" fill="none" stroke="#3fb8af" stroke-width="2" stroke-dasharray="5 4"/>';
+M.$("tab").tBodies[0].innerHTML=rows.slice(1).map(function(r){return"<tr><td>"+r[0]+"</td><td>"+M.money(r[1])+"</td><td>"+M.money(r[2]-r[1])+"</td><td>"+M.money(r[2])+"</td></tr>"}).join("");save();}
+M.live(root,run);})();</script>
+</body>
+</html>

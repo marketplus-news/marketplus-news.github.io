@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Position Size &amp; Pip Value Calculator (Forex, XAU/USD) | Market Plus</title>
+<meta name="description" content="Free position size calculator for forex and gold: account balance, risk per trade and stop-loss distance in, lot size, units, pip value and money at risk out. Supports USD-quoted pairs, USD/JPY and XAU/USD.">
+<link rel="canonical" href="https://marketplus-news.github.io/tools/position-size-calculator.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b0b0d">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Plus">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Position Size &amp; Pip Value Calculator (Forex, XAU/USD) | Market Plus">
+<meta property="og:description" content="Free position size calculator for forex and gold: account balance, risk per trade and stop-loss distance in, lot size, units, pip value and money at risk out. Supports USD-quoted pairs, USD/JPY and XAU/USD.">
+<meta property="og:url" content="https://marketplus-news.github.io/tools/position-size-calculator.html">
+<meta property="og:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Position Size &amp; Pip Value Calculator (Forex, XAU/USD) | Market Plus">
+<meta name="twitter:description" content="Free position size calculator for forex and gold: account balance, risk per trade and stop-loss distance in, lot size, units, pip value and money at risk out. Supports USD-quoted pairs, USD/JPY and XAU/USD.">
+<meta name="twitter:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<link rel="stylesheet" href="/style.css?v=9">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
+<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
+<script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
+(function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
+try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
+if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
+if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
+document.documentElement.lang=L[c]||"en";})();</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Position Size & Pip Value Calculator", "url": "https://marketplus-news.github.io/tools/position-size-calculator.html", "description": "Free position size calculator for forex and gold: account balance, risk per trade and stop-loss distance in, lot size, units, pip value and money at risk out. Supports USD-quoted pairs, USD/JPY and XAU/USD.", "applicationCategory": "FinanceApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I calculate lot size from risk?", "acceptedAnswer": {"@type": "Answer", "text": "Divide the money you are willing to lose by the stop-loss distance in pips multiplied by the pip value of one lot. For example, $50 ÷ (25 pips × $10) = 0.20 lots."}}, {"@type": "Question", "name": "What is the pip value of EUR/USD?", "acceptedAnswer": {"@type": "Answer", "text": "For a standard lot of 100,000 euros, one pip (0.0001) is worth $10. A mini lot is $1 and a micro lot $0.10 per pip."}}, {"@type": "Question", "name": "How is a pip defined for gold?", "acceptedAnswer": {"@type": "Answer", "text": "It varies by broker. Many use $0.01 or $0.10 as a pip for XAU/USD. This calculator uses $0.10 and 100 oz per lot; if your broker differs, choose 'Other' and enter its pip value per lot."}}, {"@type": "Question", "name": "Why does the calculator round down?", "acceptedAnswer": {"@type": "Answer", "text": "Brokers usually accept sizes in steps of 0.01 lot. Rounding down keeps the loss at the stop at or below the amount you chose to risk."}}, {"@type": "Question", "name": "Are spreads and commissions included?", "acceptedAnswer": {"@type": "Answer", "text": "No. They add to the cost of every trade, so on tight stops your real loss can be a little larger than shown."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://marketplus-news.github.io/tools/"}, {"@type": "ListItem", "position": 3, "name": "Position Size & Pip Value Calculator", "item": "https://marketplus-news.github.io/tools/position-size-calculator.html"}]}]}</script>
+</head>
+<body data-nav="tools" data-static-meta>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="logo" href="/"><img src="/favicon.svg" alt="" width="30" height="30"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+    <div class="lang-dd" id="langDD">
+      <button type="button" class="lang-btn" id="langBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="langMenu"><svg class="globe" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4c.8 1.2 1.5 2.5 1.9 4h-3.8c.4-1.5 1.1-2.8 1.9-4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4H4.3Zm.8 2h3a15.7 15.7 0 0 0 1.3 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6C8.8 5.5 8.3 6.7 8 8Zm4 12c-.8-1.2-1.5-2.5-1.9-4h3.8c-.4 1.5-1.1 2.8-1.9 4Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6c.6-1.1 1-2.3 1.3-3.6h3a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4h-3.4Z"/></svg><span id="langCur">EN</span><svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg></button>
+      <ul class="lang-menu" id="langMenu" role="menu" hidden></ul>
+    </div>
+  </div>
+  <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">Menu</span></button>
+  <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
+    <a href="/news/" data-nav="news" data-i18n="nav.news">News</a>
+    <a href="/analysis/" data-nav="analysis" data-i18n="nav.analysis">Analysis</a>
+    <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
+    <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
+    <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools" aria-current="page">Tools</a>
+    <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
+    <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
+    <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
+  </nav>
+</div></header>
+
+<main id="top">
+<div class="read-progress" aria-hidden="true"><span></span></div>
+<section class="phead thead"><div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/" translate="no">Market Plus</a> › <a href="/tools/">Tools</a></nav>
+  <div class="thero"><div><span class="kicker">Forex · Gold · free tool</span><h1>Position Size & Pip Value Calculator</h1><p class="lead">Decide how big a trade should be before you place it: enter your account size, the percentage you are willing to risk and your stop-loss distance.</p>
+  <div class="tbadges"><span>Runs in your browser</span><span>No sign-up</span><span>Nothing is sent anywhere</span></div></div>
+  <div class="hart-wrap"><svg class="hart" viewBox="0 0 600 230" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Position Size & Pip Value Calculator">
+<defs><radialGradient id="hg7" cx="78%" cy="30%" r="65%"><stop offset="0" stop-color="#f2d77a" stop-opacity=".38"/><stop offset="1" stop-color="#f2d77a" stop-opacity="0"/></radialGradient>
+<linearGradient id="hl7" x1="0" x2="1"><stop offset="0" stop-color="#3fb8af"/><stop offset="1" stop-color="#f2d77a"/></linearGradient>
+<linearGradient id="hf7" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#d4af37" stop-opacity=".22"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+<pattern id="hp7" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="230" fill="#0f0f13"/><rect width="600" height="230" fill="url(#hp7)"/><rect width="600" height="230" fill="url(#hg7)"/>
+<polygon points="0,230 0,144 50,127 100,126 150,141 200,118 250,96 300,104 350,84 400,81 450,92 500,69 550,75 600,62 600,230" fill="url(#hf7)"/><polyline points="0,144 50,127 100,126 150,141 200,118 250,96 300,104 350,84 400,81 450,92 500,69 550,75 600,62" fill="none" stroke="url(#hl7)" stroke-width="3" class="hline"/>
+<g transform="translate(430 52) scale(4.6)" fill="none" stroke="#f2d77a" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" opacity=".92"><path d="M12 3 3 7v6c0 4 4 7 9 8 5-1 9-4 9-8V7Z M9 12l2 2 4-4"/></g>
+</svg></div></div>
+</div></section>
+<section class="psec" style="padding-top:6px"><div class="wrap"><div class="calc" id="calc">
+<div>
+ <h2>Trade setup</h2>
+ <div class="fgrid2">
+  <div class="fld full"><label for="sym">Instrument (USD account)</label><select id="sym">
+   <option value="xxxusd">EUR/USD, GBP/USD, AUD/USD, NZD/USD</option>
+   <option value="usdjpy">USD/JPY</option>
+   <option value="usdxxx">USD/CHF, USD/CAD</option>
+   <option value="xau">XAU/USD (gold, 100 oz per lot)</option>
+   <option value="custom">Other: I know the pip value per lot</option></select></div>
+  <div class="fld"><label for="bal" id="balL">Account balance ($)</label><input id="bal" inputmode="decimal" value="5000" autocomplete="off"></div>
+  <div class="fld"><label for="risk" id="riskL">Risk per trade (%)</label><input id="risk" inputmode="decimal" value="1" autocomplete="off"><small id="riskS">Many traders keep this small; it is your choice.</small></div>
+  <div class="fld"><label for="sl" id="slL">Stop-loss distance (pips)</label><input id="sl" inputmode="decimal" value="25" autocomplete="off"></div>
+  <div class="fld"><label for="tp" id="tpL">Take-profit distance (pips, optional)</label><input id="tp" inputmode="decimal" value="50" autocomplete="off"></div>
+  <div class="fld"><label for="px" id="pxL">Current price</label><input id="px" inputmode="decimal" value="150.00" autocomplete="off"><small id="pxS">Needed to convert the pip value to USD.</small></div>
+  <div class="fld"><label for="pv" id="pvL">Pip value per 1 standard lot ($)</label><input id="pv" inputmode="decimal" value="10" autocomplete="off"></div>
+ </div>
+ <p class="privacy">Standard lot = 100,000 units of the base currency (forex) or 100 oz (gold). Check your broker's contract size.</p>
+</div>
+<div>
+ <h2>Position size</h2>
+ <div class="kpis">
+  <div class="kpi hi"><b id="oLots">—</b><span>Standard lots (rounded down to 0.01)</span></div>
+  <div class="kpi"><b id="oRisk">—</b><span>Money at risk (your limit)</span></div>
+  <div class="kpi"><b id="oUnits">—</b><span id="oUnitsL">Units</span></div>
+  <div class="kpi"><b id="oPip">—</b><span>Value of 1 pip at this size</span></div>
+  <div class="kpi neg"><b id="oLoss">—</b><span>Loss if the stop is hit</span></div>
+  <div class="kpi pos"><b id="oWin">—</b><span id="oWinL">Gain at take-profit</span></div>
+ </div>
+ <div class="tscroll"><table class="ttable" id="alt"><thead><tr><th>Risk %</th><th>Lots</th><th>Loss at stop</th></tr></thead><tbody></tbody></table></div>
+ <p class="rnote" id="oNote"></p>
+</div>
+</div></div></section>
+<article class="wrap guide article" lang="en">
+  <div class="art-body">
+<h2>Why position size matters more than entry</h2>
+<p>Position sizing decides how much you lose when a trade goes wrong. The idea is simple: decide in advance the maximum amount of your account you are willing to lose on one trade, decide where your stop-loss goes based on the chart, and then let those two numbers set the trade size. The stop is placed where the trade idea is proven wrong; the size is adjusted so that being wrong costs only what you planned.</p>
+<p>The formula is: <strong>position size = money at risk ÷ (stop distance × value per pip per lot)</strong>. With a $5,000 account and 1% risk, the money at risk is $50. On EUR/USD a standard lot moves about $10 per pip, so a 25-pip stop costs $250 per lot, and $50 ÷ $250 = 0.20 lots.</p>
+<h2>Pip value for different instruments</h2>
+<ul>
+<li><strong>Pairs quoted in USD</strong> (EUR/USD, GBP/USD, AUD/USD, NZD/USD): one pip is 0.0001, and for a 100,000-unit lot that is $10 per pip.</li>
+<li><strong>USD/JPY:</strong> one pip is 0.01 yen, so a lot moves 1,000 yen per pip. Converted to dollars that is 1,000 ÷ the current USD/JPY price.</li>
+<li><strong>USD/CHF, USD/CAD:</strong> one pip is 0.0001 of the quote currency, so the USD value is 10 ÷ the current price.</li>
+<li><strong>XAU/USD:</strong> conventions differ between brokers. This calculator assumes 100 oz per lot and a pip of $0.10, so a lot moves $10 per pip ($100 per $1 move in gold). Check your platform's contract specification.</li>
+</ul>
+<p>Mini (0.10) and micro (0.01) lots scale the pip value by the same factor. The calculator rounds down to 0.01 lot so the real loss never exceeds your limit.</p>
+<h2>Using the table</h2>
+<p>The risk table shows the same trade at several risk levels. It makes the trade-off visible: doubling the risk percentage doubles both the size and the loss at the stop. A sequence of losses at a high risk percentage can take a large share of an account, which is why many traders choose a small fixed percentage. Read more in <a href="/guides/position-sizing-explained.html">How position sizing works</a>.</p>
+<p class="note-box">Educational tool, not investment advice. Leveraged trading in forex and gold carries a high risk of loss. Spreads, commissions, swaps and slippage are not included.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How do I calculate lot size from risk?</summary><p>Divide the money you are willing to lose by the stop-loss distance in pips multiplied by the pip value of one lot. For example, $50 ÷ (25 pips × $10) = 0.20 lots.</p></details><details><summary>What is the pip value of EUR/USD?</summary><p>For a standard lot of 100,000 euros, one pip (0.0001) is worth $10. A mini lot is $1 and a micro lot $0.10 per pip.</p></details><details><summary>How is a pip defined for gold?</summary><p>It varies by broker. Many use $0.01 or $0.10 as a pip for XAU/USD. This calculator uses $0.10 and 100 oz per lot; if your broker differs, choose 'Other' and enter its pip value per lot.</p></details><details><summary>Why does the calculator round down?</summary><p>Brokers usually accept sizes in steps of 0.01 lot. Rounding down keeps the loss at the stop at or below the amount you chose to risk.</p></details><details><summary>Are spreads and commissions included?</summary><p>No. They add to the cost of every trade, so on tight stops your real loss can be a little larger than shown.</p></details></div></div>
+  <aside class="pcta"><div class="pimg"><img src="/assets/trading-journal.webp" alt="Trading Journal Pro" loading="lazy" width="480" height="320"></div><div class="pb"><span class="kicker">Want the full system?</span><p class="cta-h">Trading Journal Pro</p><span class="price">$14</span><p>Log every trade with its risk and result: win rate, R-multiple, P&L dashboard and mistake analysis. Google Sheets and Excel.</p><div class="cta"><a class="btn btn-gold" href="https://www.etsy.com/shop/MarketPulseStudio?search_query=trading+journal" target="_blank" rel="noopener">Get it on Etsy</a></div></div></aside>
+</article>
+<!--mp:next--><section class="next"><div class="wrap"><h2>What next?</h2><p class="sub">Free tools and guides that go with what you just read.</p><div class="ntiles"><a class="ntile" href="/tools/compound-interest-calculator.html"><span class="kicker">Free tool</span><b>Compound Interest & Savings Goal Calculator</b><span>See your savings grow year by year, or find the monthly amount to hit a goal.</span></a><a class="ntile" href="/tools/debt-payoff-calculator.html"><span class="kicker">Free tool</span><b>Debt Snowball vs Avalanche Calculator</b><span>Compare snowball and avalanche: debt-free date, interest paid and payoff order.</span></a><a class="ntile" href="/guides/position-sizing-explained.html"><span class="kicker">Guide · 6 min</span><b>How Position Sizing Works in Forex and Gold</b><span>Risk a planned amount, let the stop-loss set the distance, and let the size follow. The maths behind every trade size.</span></a></div></div></section><!--/mp:next-->
+</main>
+
+<footer><div class="wrap">
+  <div class="fgrid">
+    <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
+      <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+  <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
+  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+</div></footer>
+<script src="/app.js?v=1792960000" defer></script>
+<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/calc.js?v=3"></script>
+<script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("position",root);
+function show(id,on){var f=M.$(id).closest(".fld");f.style.display=on?"":"none"}
+function pipLot(sym,px){if(sym==="xxxusd")return 10;if(sym==="usdjpy")return px>0?1000/px:NaN;if(sym==="usdxxx")return px>0?10/px:NaN;if(sym==="xau")return 10;return M.num("pv")}
+function run(){var sym=M.$("sym").value,px=M.num("px");show("px",sym==="usdjpy"||sym==="usdxxx");show("pv",sym==="custom");
+M.set("slL",sym==="xau"?"Stop-loss distance (pips of $0.10)":"Stop-loss distance (pips)");
+M.set("pxS",sym==="usdjpy"?"USD/JPY price, e.g. 150.00. 1 pip = 0.01.":"Pair price, e.g. 0.8800. 1 pip = 0.0001.");
+var bal=M.num("bal"),rp=M.num("risk"),sl=M.num("sl"),tp=M.num("tp"),pv=pipLot(sym,px),cash=bal*rp/100;
+function lotsFor(c){return sl>0&&pv>0?Math.floor(c/(sl*pv)*100+1e-9)/100:NaN}
+var lots=lotsFor(cash),units=lots*(sym==="xau"?100:100000);
+M.set("oLots",isFinite(lots)?lots.toFixed(2):"—");M.set("oRisk",M.money(cash,2));
+M.set("oUnits",isFinite(units)?M.n(units):"—");M.set("oUnitsL",sym==="xau"?"Ounces of gold":"Units of base currency");
+M.set("oPip",isFinite(lots)?M.money(lots*pv,2):"—");M.set("oLoss",isFinite(lots)?M.money(lots*pv*sl,2):"—");
+M.set("oWin",tp>0&&isFinite(lots)?M.money(lots*pv*tp,2):"—");M.set("oWinL",tp>0&&sl>0?"Gain at take-profit (reward:risk "+(tp/sl).toFixed(2)+")":"Gain at take-profit");
+M.$("alt").tBodies[0].innerHTML=[0.25,0.5,1,2,3].map(function(r){var l=lotsFor(bal*r/100);return"<tr"+(r===rp?' class="best"':"")+"><td>"+r+"%</td><td>"+(isFinite(l)?l.toFixed(2):"—")+"</td><td>"+(isFinite(l)?M.money(l*pv*sl,2):"—")+"</td></tr>"}).join("");
+M.set("oNote",lots===0?"Your risk budget is smaller than 0.01 lot at this stop. Use a smaller stop, a larger account or a broker that offers smaller sizes.":"Pip value per standard lot used: "+(isFinite(pv)?M.money(pv,2):"—")+". Rounding down keeps the real loss at or under your limit. Spreads, commissions and slippage are not included.");save();}
+M.live(root,run);})();</script>
+</body>
+</html>
