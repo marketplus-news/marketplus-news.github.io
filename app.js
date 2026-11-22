@@ -33,13 +33,13 @@
       "terms.s3h": "3. Not financial advice",
       "terms.s3p": "All information on the site is provided for informational purposes only and is not financial, investment, legal or tax advice, nor an offer or recommendation to buy or sell any asset. Trading in financial markets involves a risk of loss. Make your own decisions and, if needed, consult a licensed professional.",
       "terms.s4h": "4. Products",
-      "terms.s4p": "Paid and free products are sold and delivered via Patreon (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.",
+      "terms.s4p": "Paid and free products are sold and delivered via Etsy (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Etsy and are subject to Etsy’s terms. The site itself does not process payments.",
       "terms.s5h": "5. Privacy",
-      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Patreon, GitHub, Notion) are governed by those sites’ own policies.",
+      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Etsy, GitHub, Notion) are governed by those sites’ own policies.",
       "terms.s6h": "6. No warranty",
       "terms.s6p": "The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.",
       "terms.s7h": "7. Contact",
-      "terms.s7p": "Questions and requests (including from publishers who want a source removed): Etsy Messages (MarketPulseStudio) or Patreon.",
+      "terms.s7p": "Questions and requests (including from publishers who want a source removed): Etsy Messages (MarketPulseStudio) or Etsy.",
       "terms.s8h": "8. Changes",
       "terms.s8p": "We may update these terms from time to time. The current version is always on this page with its last-updated date.",
       lang: "Language",
@@ -72,9 +72,9 @@
       "tab.politics": "Politics",
       "tab.ukraine": "Ukraine",
       "prod.h": "Products",
-      "prod.sub": "Tools for trading, personal finance and business. Pay with USDC (crypto) or on Patreon.",
-      "prod.note": "Buttons open Patreon, GitHub or Notion pages. This site does not collect or store any data.",
-      "prod.buy": "Buy on Patreon", "prod.get": "Get it free", "prod.github": "Open on GitHub", "prod.free": "Free",
+      "prod.sub": "Tools for trading, personal finance and business. Pay with USDC (crypto) or buy on Etsy.",
+      "prod.note": "Buttons open Etsy, GitHub or Notion pages. This site does not collect or store any data.",
+      "prod.buy": "Buy on Etsy", "prod.get": "Get it free", "prod.github": "Open on GitHub", "prod.free": "Free",
       "p1.d": "10 ready-made AI skills for Claude & ChatGPT: marketing, sales, support, SEO, HR and a content calendar. PDF guide included.",
       "p2.d": "Trade journal with automatic stats: win rate, R-multiple, P&L, dashboard and mistake analysis. Google Sheets and Excel.",
       "p3.d": "Personal budget spreadsheet for 2026: income, expenses by category, savings goals and clear monthly charts.",
@@ -100,9 +100,9 @@
       "p14.d": "Log buys, sells and dividends: average cost, gain/loss, yield on cost, a dividend calendar and a dashboard. A personal record-keeping tool, no investment advice.",
       "p15.t": "FREE Habit Tracker 2027 for Notion",
       "p15.d": "Free Notion habit tracker: six daily habits with one tick each, a daily score and progress bar, week and month views, plus a monthly review page.",
-      "pall.t": "All products on Patreon",
-      "pall.d": "See all paid and free templates in one place on the Patreon page.",
-      "prod.all": "Open Patreon",
+      "pall.t": "All products on Etsy",
+      "pall.d": "See all paid and free templates in one place on the Etsy page.",
+      "prod.all": "Open Etsy",
       "foot.na": "Not investment advice.",
       "foot.disc": "All content is for informational purposes only. Trading in financial markets involves risk of loss.",
       "foot.priv": "No trackers, no forms, no data collection."
@@ -127,13 +127,13 @@
       "terms.s3h": "3. Не финансовая рекомендация",
       "terms.s3p": "Вся информация на сайте носит исключительно ознакомительный характер и не является финансовой, инвестиционной, юридической или налоговой рекомендацией, а также предложением купить или продать какой-либо актив. Торговля на финансовых рынках связана с риском потерь. Принимайте решения самостоятельно и при необходимости консультируйтесь с лицензированным специалистом.",
       "terms.s4h": "4. Продукты",
-      "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Patreon (часть бесплатных материалов — на GitHub и в Notion). Оплата, доступ, получение и возвраты обрабатываются Patreon и регулируются его условиями. Сам сайт платежи не обрабатывает.",
+      "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Etsy (часть бесплатных материалов — на GitHub и в Notion). Оплата, доступ, получение и возвраты обрабатываются Etsy и регулируются его условиями. Сам сайт платежи не обрабатывает.",
       "terms.s5h": "5. Конфиденциальность",
-      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, Patreon, GitHub, Notion) распространяются их собственные правила.",
+      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, Etsy, GitHub, Notion) распространяются их собственные правила.",
       "terms.s6h": "6. Отказ от гарантий",
       "terms.s6p": "Сайт предоставляется «как есть». Мы стараемся поддерживать точность и доступность, но не гарантируем полноту, точность и актуальность информации и не несём ответственности за убытки, возникшие в результате её использования.",
       "terms.s7h": "7. Контакты",
-      "terms.s7p": "Вопросы и запросы (в том числе от издателей, желающих убрать свой источник): сообщения Etsy (MarketPulseStudio) или Patreon.",
+      "terms.s7p": "Вопросы и запросы (в том числе от издателей, желающих убрать свой источник): сообщения Etsy (MarketPulseStudio) или Etsy.",
       "terms.s8h": "8. Изменения",
       "terms.s8p": "Мы можем время от времени обновлять эти условия. Актуальная версия всегда находится на этой странице с датой последнего обновления.",
       lang: "Язык",
@@ -166,9 +166,9 @@
       "tab.politics": "Политика",
       "tab.ukraine": "Украина",
       "prod.h": "Продукты",
-      "prod.sub": "Инструменты для трейдинга, личных финансов и бизнеса. Оплата и скачивание — на Patreon.",
-      "prod.note": "Кнопки открывают страницы Patreon, GitHub или Notion. Этот сайт не собирает и не хранит данные.",
-      "prod.buy": "Купить на Patreon", "prod.get": "Скачать бесплатно", "prod.github": "Открыть на GitHub", "prod.free": "Бесплатно",
+      "prod.sub": "Инструменты для трейдинга, личных финансов и бизнеса. Оплата и скачивание — на Etsy.",
+      "prod.note": "Кнопки открывают страницы Etsy, GitHub или Notion. Этот сайт не собирает и не хранит данные.",
+      "prod.buy": "Купить на Etsy", "prod.get": "Скачать бесплатно", "prod.github": "Открыть на GitHub", "prod.free": "Бесплатно",
       "p1.d": "10 готовых AI-навыков для Claude и ChatGPT: маркетинг, продажи, поддержка, SEO, HR и контент-календарь. PDF-гайд в комплекте.",
       "p2.d": "Журнал сделок с автоматической статистикой: доля прибыльных сделок, R-мультипликатор, P&L, дашборд и разбор ошибок. Google Sheets и Excel.",
       "p3.d": "Таблица личного бюджета на 2026 год: доходы, расходы по категориям, цели накоплений и наглядные графики по месяцам.",
@@ -194,9 +194,9 @@
       "p14.d": "Учёт покупок, продаж и дивидендов: средняя цена, прибыль/убыток, доходность на вложенное, календарь дивидендов и панель. Инструмент для личного учёта, не инвестиционная рекомендация.",
       "p15.t": "БЕСПЛАТНЫЙ трекер привычек 2027 для Notion",
       "p15.d": "Бесплатный трекер привычек в Notion: шесть ежедневных привычек с одной галочкой, дневной балл и индикатор прогресса, виды по неделям и месяцам и страница ежемесячного обзора.",
-      "pall.t": "Все продукты на Patreon",
-      "pall.d": "Смотрите все платные и бесплатные шаблоны в одном месте на странице Patreon.",
-      "prod.all": "Открыть Patreon",
+      "pall.t": "Все продукты на Etsy",
+      "pall.d": "Смотрите все платные и бесплатные шаблоны в одном месте на странице Etsy.",
+      "prod.all": "Открыть Etsy",
       "foot.na": "Не является инвестиционной рекомендацией.",
       "foot.disc": "Все материалы носят исключительно ознакомительный характер. Торговля на финансовых рынках связана с риском потери средств.",
       "foot.priv": "Без трекеров, без форм, без сбора данных."
@@ -221,13 +221,13 @@
       "terms.s3h": "3. Не фінансова порада",
       "terms.s3p": "Уся інформація на сайті має виключно ознайомчий характер і не є фінансовою, інвестиційною, юридичною чи податковою порадою, а також пропозицією купити або продати будь-який актив. Торгівля на фінансових ринках пов’язана з ризиком втрат. Ухвалюйте рішення самостійно й за потреби консультуйтеся з ліцензованим фахівцем.",
       "terms.s4h": "4. Продукти",
-      "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Patreon (частина безкоштовних матеріалів — на GitHub і в Notion). Оплата, доступ, отримання й повернення обробляються Patreon і регулюються його умовами. Сам сайт платежів не обробляє.",
+      "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Etsy (частина безкоштовних матеріалів — на GitHub і в Notion). Оплата, доступ, отримання й повернення обробляються Etsy і регулюються його умовами. Сам сайт платежів не обробляє.",
       "terms.s5h": "5. Конфіденційність",
-      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, Patreon, GitHub, Notion) поширюються їхні власні правила.",
+      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, Etsy, GitHub, Notion) поширюються їхні власні правила.",
       "terms.s6h": "6. Відмова від гарантій",
       "terms.s6p": "Сайт надається «як є». Ми намагаємося підтримувати точність і доступність, але не гарантуємо повноту, точність і актуальність інформації та не несемо відповідальності за збитки, що виникли внаслідок її використання.",
       "terms.s7h": "7. Контакти",
-      "terms.s7p": "Питання й запити (зокрема від видавців, які бажають прибрати своє джерело): повідомлення Etsy (MarketPulseStudio) або Patreon.",
+      "terms.s7p": "Питання й запити (зокрема від видавців, які бажають прибрати своє джерело): повідомлення Etsy (MarketPulseStudio) або Etsy.",
       "terms.s8h": "8. Зміни",
       "terms.s8p": "Ми можемо час від часу оновлювати ці умови. Актуальна версія завжди на цій сторінці з датою останнього оновлення.",
       lang: "Мова",
@@ -260,9 +260,9 @@
       "tab.politics": "Політика",
       "tab.ukraine": "Україна",
       "prod.h": "Продукти",
-      "prod.sub": "Інструменти для трейдингу, особистих фінансів і бізнесу. Оплата та завантаження — на Patreon.",
-      "prod.note": "Кнопки відкривають сторінки Patreon, GitHub або Notion. Цей сайт не збирає і не зберігає жодних даних.",
-      "prod.buy": "Купити на Patreon", "prod.get": "Завантажити безкоштовно", "prod.github": "Відкрити на GitHub", "prod.free": "Безкоштовно",
+      "prod.sub": "Інструменти для трейдингу, особистих фінансів і бізнесу. Оплата та завантаження — на Etsy.",
+      "prod.note": "Кнопки відкривають сторінки Etsy, GitHub або Notion. Цей сайт не збирає і не зберігає жодних даних.",
+      "prod.buy": "Купити на Etsy", "prod.get": "Завантажити безкоштовно", "prod.github": "Відкрити на GitHub", "prod.free": "Безкоштовно",
       "p1.d": "10 готових AI-навичок для Claude і ChatGPT: маркетинг, продажі, підтримка, SEO, HR і контент-календар. PDF-посібник у комплекті.",
       "p2.d": "Журнал угод з автоматичною статистикою: win rate, R-multiple, P&L, дашборд і розбір помилок. Google Sheets та Excel.",
       "p3.d": "Таблиця особистого бюджету на 2026 рік: доходи, витрати за категоріями, цілі заощаджень і наочні графіки по місяцях.",
@@ -288,9 +288,9 @@
       "p14.d": "Облік купівель, продажів і дивідендів: середня ціна, прибуток/збиток, дохідність на вкладене, календар дивідендів і панель. Інструмент для особистого обліку, не інвестиційна порада.",
       "p15.t": "БЕЗКОШТОВНИЙ трекер звичок 2027 для Notion",
       "p15.d": "Безкоштовний трекер звичок у Notion: шість щоденних звичок з однією позначкою, денний бал та індикатор прогресу, подання за тижнями й місяцями та сторінка щомісячного огляду.",
-      "pall.t": "Усі продукти на Patreon",
-      "pall.d": "Перегляньте всі платні та безкоштовні шаблони в одному місці на сторінці Patreon.",
-      "prod.all": "Відкрити Patreon",
+      "pall.t": "Усі продукти на Etsy",
+      "pall.d": "Перегляньте всі платні та безкоштовні шаблони в одному місці на сторінці Etsy.",
+      "prod.all": "Відкрити Etsy",
       "foot.na": "Не є інвестиційною порадою.",
       "foot.disc": "Усі матеріали мають виключно ознайомчий характер. Торгівля на фінансових ринках пов'язана з ризиком втрати коштів.",
       "foot.priv": "Без трекерів, без форм, без збору даних."
@@ -315,13 +315,13 @@
       "terms.s3h": "3. Pas un conseil financier",
       "terms.s3p": "Toutes les informations du site sont fournies à titre informatif uniquement et ne constituent pas un conseil financier, d'investissement, juridique ou fiscal, ni une offre ou recommandation d'acheter ou de vendre un actif. Le trading sur les marchés financiers comporte un risque de perte.",
       "terms.s4h": "4. Produits",
-      "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Patreon (certains contenus gratuits sont sur GitHub ou Notion). Paiements, accès, livraison et remboursements sont gérés par Patreon selon ses propres conditions. Le site ne traite aucun paiement.",
+      "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Etsy (certains contenus gratuits sont sur GitHub ou Notion). Paiements, accès, livraison et remboursements sont gérés par Etsy selon ses propres conditions. Le site ne traite aucun paiement.",
       "terms.s5h": "5. Confidentialité",
-      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, Patreon, GitHub, Notion) ont leurs propres règles.",
+      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, Etsy, GitHub, Notion) ont leurs propres règles.",
       "terms.s6h": "6. Absence de garantie",
       "terms.s6p": "Le site est fourni « tel quel ». Nous faisons de notre mieux, mais ne garantissons pas l'exhaustivité, l'exactitude ou l'actualité des informations et déclinons toute responsabilité pour les pertes liées à leur utilisation.",
       "terms.s7h": "7. Contact",
-      "terms.s7p": "Questions et demandes (y compris des éditeurs souhaitant retirer une source) : Etsy Messages (MarketPulseStudio) ou Patreon.",
+      "terms.s7p": "Questions et demandes (y compris des éditeurs souhaitant retirer une source) : Etsy Messages (MarketPulseStudio) ou Etsy.",
       "terms.s8h": "8. Modifications",
       "terms.s8p": "Ces conditions peuvent être mises à jour. La version en vigueur se trouve toujours sur cette page, avec sa date de mise à jour.",
       lang: "Langue",
@@ -354,9 +354,9 @@
       "tab.politics": "Politique",
       "tab.ukraine": "Ukraine",
       "prod.h": "Produits",
-      "prod.sub": "Des outils pour le trading, les finances personnelles et l'entreprise. Paiement et téléchargement sur Patreon.",
-      "prod.note": "Les boutons ouvrent les pages Patreon, GitHub ou Notion. Ce site ne collecte ni ne stocke aucune donnée.",
-      "prod.buy": "Acheter sur Patreon", "prod.get": "Obtenir gratuitement", "prod.github": "Ouvrir sur GitHub", "prod.free": "Gratuit",
+      "prod.sub": "Des outils pour le trading, les finances personnelles et l'entreprise. Paiement et téléchargement sur Etsy.",
+      "prod.note": "Les boutons ouvrent les pages Etsy, GitHub ou Notion. Ce site ne collecte ni ne stocke aucune donnée.",
+      "prod.buy": "Acheter sur Etsy", "prod.get": "Obtenir gratuitement", "prod.github": "Ouvrir sur GitHub", "prod.free": "Gratuit",
       "p1.d": "10 compétences IA prêtes à l'emploi pour Claude et ChatGPT : marketing, ventes, support, SEO, RH et calendrier éditorial. Guide PDF inclus.",
       "p2.d": "Journal de trading avec statistiques automatiques : taux de réussite, R-multiple, P&L, tableau de bord et analyse des erreurs. Google Sheets et Excel.",
       "p3.d": "Tableur de budget personnel 2026 : revenus, dépenses par catégorie, objectifs d'épargne et graphiques mensuels clairs.",
@@ -382,9 +382,9 @@
       "p14.d": "Notez achats, ventes et dividendes : prix de revient moyen, plus/moins-values, rendement sur coût, calendrier des dividendes et tableau de bord. Outil de suivi personnel, sans conseil en investissement.",
       "p15.t": "Suivi d'habitudes 2027 GRATUIT pour Notion",
       "p15.d": "Suivi d'habitudes Notion gratuit : six habitudes quotidiennes à cocher, un score du jour et une barre de progression, des vues par semaine et par mois, et une page de bilan mensuel.",
-      "pall.t": "Tous les produits sur Patreon",
-      "pall.d": "Voir tous les modèles payants et gratuits en un seul endroit sur la page Patreon.",
-      "prod.all": "Ouvrir Patreon",
+      "pall.t": "Tous les produits sur Etsy",
+      "pall.d": "Voir tous les modèles payants et gratuits en un seul endroit sur la page Etsy.",
+      "prod.all": "Ouvrir Etsy",
       "foot.na": "Ceci n'est pas un conseil en investissement.",
       "foot.disc": "Tous les contenus sont fournis à titre informatif uniquement. Le trading sur les marchés financiers comporte un risque de perte.",
       "foot.priv": "Aucun traceur, aucun formulaire, aucune collecte de données."
@@ -409,13 +409,13 @@
       "terms.s3h": "3. Keine Finanzberatung",
       "terms.s3p": "Alle Informationen dienen ausschließlich Informationszwecken und stellen keine Finanz-, Anlage-, Rechts- oder Steuerberatung und kein Angebot oder keine Empfehlung zum Kauf oder Verkauf von Vermögenswerten dar. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
       "terms.s4h": "4. Produkte",
-      "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Patreon verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub oder Notion). Zahlung, Zugang, Lieferung und Erstattungen wickelt Patreon gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
+      "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Etsy verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub oder Notion). Zahlung, Zugang, Lieferung und Erstattungen wickelt Etsy gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
       "terms.s5h": "5. Datenschutz",
-      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, Patreon, GitHub, Notion) gelten deren eigene Richtlinien.",
+      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, Etsy, GitHub, Notion) gelten deren eigene Richtlinien.",
       "terms.s6h": "6. Keine Gewähr",
       "terms.s6p": "Die Website wird „wie besehen“ bereitgestellt. Wir geben unser Bestes, übernehmen aber keine Gewähr für Vollständigkeit, Richtigkeit oder Aktualität und haften nicht für Verluste aus der Nutzung der Informationen.",
       "terms.s7h": "7. Kontakt",
-      "terms.s7p": "Fragen und Anliegen (auch von Verlagen, die eine Quelle entfernen lassen möchten): Etsy Messages (MarketPulseStudio) oder Patreon.",
+      "terms.s7p": "Fragen und Anliegen (auch von Verlagen, die eine Quelle entfernen lassen möchten): Etsy Messages (MarketPulseStudio) oder Etsy.",
       "terms.s8h": "8. Änderungen",
       "terms.s8p": "Wir können diese Bedingungen gelegentlich aktualisieren. Die aktuelle Fassung steht immer mit Datum auf dieser Seite.",
       lang: "Sprache",
@@ -448,9 +448,9 @@
       "tab.politics": "Politik",
       "tab.ukraine": "Ukraine",
       "prod.h": "Produkte",
-      "prod.sub": "Tools für Trading, private Finanzen und Business. Bezahlung und Download über Patreon.",
-      "prod.note": "Buttons öffnen Patreon-, GitHub- oder Notion-Seiten. Diese Seite sammelt oder speichert keine Daten.",
-      "prod.buy": "Auf Patreon kaufen", "prod.get": "Kostenlos holen", "prod.github": "Auf GitHub öffnen", "prod.free": "Kostenlos",
+      "prod.sub": "Tools für Trading, private Finanzen und Business. Bezahlung und Download über Etsy.",
+      "prod.note": "Buttons öffnen Etsy-, GitHub- oder Notion-Seiten. Diese Seite sammelt oder speichert keine Daten.",
+      "prod.buy": "Auf Etsy kaufen", "prod.get": "Kostenlos holen", "prod.github": "Auf GitHub öffnen", "prod.free": "Kostenlos",
       "p1.d": "10 fertige KI-Skills für Claude & ChatGPT: Marketing, Vertrieb, Support, SEO, HR und Content-Kalender. Inklusive PDF-Anleitung.",
       "p2.d": "Trading-Journal mit automatischer Statistik: Trefferquote, R-Multiple, P&L, Dashboard und Fehleranalyse. Google Sheets und Excel.",
       "p3.d": "Tabelle fürs private Budget 2026: Einnahmen, Ausgaben nach Kategorien, Sparziele und übersichtliche Monatsdiagramme.",
@@ -476,9 +476,9 @@
       "p14.d": "Käufe, Verkäufe und Dividenden erfassen: Durchschnittskurs, Gewinn/Verlust, Yield on Cost, Dividendenkalender und Dashboard. Ein Werkzeug zur persönlichen Dokumentation, keine Anlageberatung.",
       "p15.t": "KOSTENLOSER Gewohnheitstracker 2027 für Notion",
       "p15.d": "Kostenloser Notion-Gewohnheitstracker: sechs tägliche Gewohnheiten zum Abhaken, Tagesscore und Fortschrittsbalken, Wochen- und Monatsansichten sowie eine Seite für den Monatsrückblick.",
-      "pall.t": "Alle Produkte auf Patreon",
-      "pall.d": "Sieh alle kostenpflichtigen und kostenlosen Vorlagen an einem Ort auf der Patreon-Seite.",
-      "prod.all": "Patreon öffnen",
+      "pall.t": "Alle Produkte auf Etsy",
+      "pall.d": "Sieh alle kostenpflichtigen und kostenlosen Vorlagen an einem Ort auf der Etsy-Seite.",
+      "prod.all": "Etsy öffnen",
       "foot.na": "Keine Anlageberatung.",
       "foot.disc": "Alle Inhalte dienen ausschließlich Informationszwecken. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
       "foot.priv": "Keine Tracker, keine Formulare, keine Datenerhebung."
@@ -503,13 +503,13 @@
       "terms.s3h": "3. 不构成投资建议",
       "terms.s3p": "本网站所有信息仅供参考，不构成任何财务、投资、法律或税务建议，也不构成买卖任何资产的要约或推荐。金融市场交易存在亏损风险。",
       "terms.s4h": "4. 产品",
-      "terms.s4p": "付费和免费产品均通过 Patreon 销售和交付（部分免费资料位于 GitHub 或 Notion）。付款、访问、交付和退款由 Patreon 按其条款处理。本网站不处理任何付款。",
+      "terms.s4p": "付费和免费产品均通过 Etsy 销售和交付（部分免费资料位于 GitHub 或 Notion）。付款、访问、交付和退款由 Etsy 按其条款处理。本网站不处理任何付款。",
       "terms.s5h": "5. 隐私",
-      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、Patreon、GitHub、Notion）适用其各自的政策。",
+      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、Etsy、GitHub、Notion）适用其各自的政策。",
       "terms.s6h": "6. 免责声明",
       "terms.s6p": "本网站按“现状”提供。我们尽力保证信息准确和网站可用，但不保证信息的完整性、准确性或及时性，对因使用这些信息造成的任何损失不承担责任。",
       "terms.s7h": "7. 联系方式",
-      "terms.s7p": "问题和请求（包括希望移除其来源的出版方）：Etsy Messages（MarketPulseStudio）或 Patreon。",
+      "terms.s7p": "问题和请求（包括希望移除其来源的出版方）：Etsy Messages（MarketPulseStudio）或 Etsy。",
       "terms.s8h": "8. 条款变更",
       "terms.s8p": "我们可能会不时更新本条款。最新版本及其更新日期始终显示在本页面。",
       lang: "语言",
@@ -542,9 +542,9 @@
       "tab.politics": "政治",
       "tab.ukraine": "乌克兰",
       "prod.h": "产品",
-      "prod.sub": "面向交易、个人理财和企业的实用工具。在 Patreon 上付款和下载。",
-      "prod.note": "按钮会打开 Patreon、GitHub 或 Notion 页面。本网站不收集或存储任何数据。",
-      "prod.buy": "在 Patreon 购买", "prod.get": "免费获取", "prod.github": "在 GitHub 打开", "prod.free": "免费",
+      "prod.sub": "面向交易、个人理财和企业的实用工具。在 Etsy 上付款和下载。",
+      "prod.note": "按钮会打开 Etsy、GitHub 或 Notion 页面。本网站不收集或存储任何数据。",
+      "prod.buy": "在 Etsy 购买", "prod.get": "免费获取", "prod.github": "在 GitHub 打开", "prod.free": "免费",
       "p1.d": "10 个适用于 Claude 和 ChatGPT 的现成 AI 技能：营销、销售、客服、SEO、人力资源和内容日历。附 PDF 指南。",
       "p2.d": "交易日志，自动统计胜率、R 倍数、盈亏，附仪表盘和错误分析。支持 Google Sheets 和 Excel。",
       "p3.d": "2026 年个人预算表：收入、分类支出、储蓄目标和清晰的月度图表。",
@@ -570,9 +570,9 @@
       "p14.d": "记录买入、卖出和股息：平均成本、盈亏、成本收益率、股息日历和仪表盘。个人记账工具，不提供投资建议。",
       "p15.t": "免费 2027 习惯追踪器（Notion）",
       "p15.d": "免费 Notion 习惯追踪器：六个每日习惯一键打勾，每日得分和进度条，按周和按月视图，另附月度复盘页面。",
-      "pall.t": "Patreon 上的所有产品",
-      "pall.d": "在 Patreon 页面一次性查看所有付费和免费模板。",
-      "prod.all": "打开 Patreon",
+      "pall.t": "Etsy 上的所有产品",
+      "pall.d": "在 Etsy 页面一次性查看所有付费和免费模板。",
+      "prod.all": "打开 Etsy",
       "foot.na": "不构成投资建议。",
       "foot.disc": "所有内容仅供参考。金融市场交易存在亏损风险。",
       "foot.priv": "无追踪器、无表单、不收集数据。"
@@ -580,7 +580,7 @@
   };
 
   // ---------- Products (edit here) ----------
-  /*TX-START*/ var TX = {"en":{"nav.analysis":"Analysis","nav.markets":"Markets","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Home","home.lat.h":"Latest articles","home.lat.sub":"Explainers and practical guides on markets, money and planning.","home.sec.h":"Sections","home.sec.sub":"Everything on Market Plus, in one place.","sec.news.d":"Live headlines on markets, world, politics and Ukraine, updated every 30 minutes.","sec.analysis.d":"Evergreen explainers: what moves gold, how forex quotes work, crypto and stock index basics.","sec.markets.d":"Gold (XAU/USD), forex, crypto and stocks: quotes strip, market headlines and explainers.","sec.planners.d":"Digital planners and templates on Etsy and Patreon: budgets, goals, savings and trading journals.","sec.open":"Open section →","pg.analysis.h":"Analysis & explainers","pg.analysis.sub":"Plain-language explainers on how markets work. Educational only, no signals or forecasts.","pg.markets.sub":"Gold, forex, crypto and stocks: live quotes strip, market headlines and explainers.","pg.planners.h":"Planners & templates","pg.planners.sub":"Digital planners for budgets, goals, savings and trading, made by MarketPulseStudio.","pg.about.h":"About & contact","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Real interest rates, the US dollar, central bank demand and safe-haven flows.","mk.fx.h":"Forex","mk.fx.p":"Currency pairs, pips and spreads, and the rate decisions that move them.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins and stablecoins, market cap and the risks of a 24/7 market.","mk.stocks.h":"Stocks","mk.stocks.p":"How the S&P 500, Nasdaq and Dow are built and what moves an index.","mk.read":"Read the explainer →","mk.news.h":"Market headlines","pl.etsy.h":"MarketPulseStudio on Etsy","pl.etsy.p":"Printable and digital planners from MarketPulseStudio are available in the Etsy shop.","pl.etsy.btn":"Visit the Etsy shop","pl.more.h":"Templates on Patreon","ab.contact.h":"Contact","ab.contact.p":"The easiest way to reach Market Plus is a message in Etsy Messages or on Patreon.","ab.contact.btn":"Message on Etsy","art.all":"All articles →"},"ru":{"nav.analysis":"Аналитика","nav.markets":"Рынки","nav.planners":"Планеры","nav.menu":"Меню","nav.home":"Главная","home.lat.h":"Свежие статьи","home.lat.sub":"Объяснения и практические гайды о рынках, деньгах и планировании.","home.sec.h":"Разделы","home.sec.sub":"Всё на Market Plus в одном месте.","sec.news.d":"Живая лента заголовков о рынках, мире, политике и Украине, обновляется каждые 30 минут.","sec.analysis.d":"Базовые разборы: что двигает золото, как читать котировки форекс, основы крипто и фондовых индексов.","sec.markets.d":"Золото (XAU/USD), форекс, крипто и акции: котировки, рыночные новости и разборы.","sec.planners.d":"Цифровые планеры и шаблоны на Etsy и Patreon: бюджет, цели, накопления и журналы сделок.","sec.open":"Открыть раздел →","pg.analysis.h":"Аналитика и разборы","pg.analysis.sub":"Простые объяснения того, как устроены рынки. Только обучение, без сигналов и прогнозов.","pg.markets.sub":"Золото, форекс, крипто и акции: котировки, рыночные новости и разборы.","pg.planners.h":"Планеры и шаблоны","pg.planners.sub":"Цифровые планеры для бюджета, целей, накоплений и трейдинга от MarketPulseStudio.","pg.about.h":"О проекте и контакты","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальные ставки, доллар США, спрос центробанков и бегство в защитные активы.","mk.fx.h":"Форекс","mk.fx.p":"Валютные пары, пункты и спреды — и решения по ставкам, которые их двигают.","mk.crypto.h":"Крипто","mk.crypto.p":"Биткоин, альткоины и стейблкоины, капитализация и риски рынка 24/7.","mk.stocks.h":"Акции","mk.stocks.p":"Как устроены S&P 500, Nasdaq и Dow и что двигает индекс.","mk.read":"Читать разбор →","mk.news.h":"Рыночные новости","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Печатные и цифровые планеры MarketPulseStudio доступны в магазине на Etsy.","pl.etsy.btn":"Открыть магазин на Etsy","pl.more.h":"Шаблоны на Patreon","ab.contact.h":"Контакты","ab.contact.p":"Проще всего связаться с Market Plus через сообщения Etsy или Patreon.","ab.contact.btn":"Написать на Etsy","art.all":"Все статьи →"},"uk":{"nav.analysis":"Аналітика","nav.markets":"Ринки","nav.planners":"Планери","nav.menu":"Меню","nav.home":"Головна","home.lat.h":"Свіжі статті","home.lat.sub":"Пояснення та практичні гайди про ринки, гроші та планування.","home.sec.h":"Розділи","home.sec.sub":"Усе на Market Plus в одному місці.","sec.news.d":"Жива стрічка заголовків про ринки, світ, політику та Україну, оновлюється кожні 30 хвилин.","sec.analysis.d":"Базові розбори: що рухає золото, як читати котирування форекс, основи крипто та фондових індексів.","sec.markets.d":"Золото (XAU/USD), форекс, крипто та акції: котирування, ринкові новини та розбори.","sec.planners.d":"Цифрові планери та шаблони на Etsy і Patreon: бюджет, цілі, заощадження та журнали угод.","sec.open":"Відкрити розділ →","pg.analysis.h":"Аналітика та розбори","pg.analysis.sub":"Прості пояснення того, як працюють ринки. Лише навчання, без сигналів і прогнозів.","pg.markets.sub":"Золото, форекс, крипто та акції: котирування, ринкові новини та розбори.","pg.planners.h":"Планери та шаблони","pg.planners.sub":"Цифрові планери для бюджету, цілей, заощаджень і трейдингу від MarketPulseStudio.","pg.about.h":"Про проєкт і контакти","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальні ставки, долар США, попит центробанків і втеча в захисні активи.","mk.fx.h":"Форекс","mk.fx.p":"Валютні пари, пункти та спреди — і рішення щодо ставок, які їх рухають.","mk.crypto.h":"Крипто","mk.crypto.p":"Біткоїн, альткоїни та стейблкоїни, капіталізація і ризики ринку 24/7.","mk.stocks.h":"Акції","mk.stocks.p":"Як побудовані S&P 500, Nasdaq і Dow та що рухає індекс.","mk.read":"Читати розбір →","mk.news.h":"Ринкові новини","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Друковані та цифрові планери MarketPulseStudio доступні в магазині на Etsy.","pl.etsy.btn":"Відкрити магазин на Etsy","pl.more.h":"Шаблони на Patreon","ab.contact.h":"Контакти","ab.contact.p":"Найпростіше зв'язатися з Market Plus через повідомлення Etsy або Patreon.","ab.contact.btn":"Написати на Etsy","art.all":"Усі статті →"},"fr":{"nav.analysis":"Analyses","nav.markets":"Marchés","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Accueil","home.lat.h":"Derniers articles","home.lat.sub":"Explications et guides pratiques sur les marchés, l'argent et la planification.","home.sec.h":"Rubriques","home.sec.sub":"Tout Market Plus, au même endroit.","sec.news.d":"Titres en direct sur les marchés, le monde, la politique et l'Ukraine, mis à jour toutes les 30 minutes.","sec.analysis.d":"Explications de fond : ce qui fait bouger l'or, lire une cotation forex, bases de la crypto et des indices boursiers.","sec.markets.d":"Or (XAU/USD), forex, crypto et actions : cotations, titres des marchés et explications.","sec.planners.d":"Planners numériques et modèles sur Etsy et Patreon : budget, objectifs, épargne et journaux de trading.","sec.open":"Ouvrir la rubrique →","pg.analysis.h":"Analyses et explications","pg.analysis.sub":"Des explications simples sur le fonctionnement des marchés. Contenu éducatif, sans signaux ni prévisions.","pg.markets.sub":"Or, forex, crypto et actions : cotations, titres des marchés et explications.","pg.planners.h":"Planners et modèles","pg.planners.sub":"Planners numériques pour le budget, les objectifs, l'épargne et le trading, par MarketPulseStudio.","pg.about.h":"À propos et contact","mk.gold.h":"Or · XAU/USD","mk.gold.p":"Taux réels, dollar américain, achats des banques centrales et flux refuges.","mk.fx.h":"Forex","mk.fx.p":"Paires de devises, pips et spreads, et les décisions de taux qui les font bouger.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins et stablecoins, capitalisation et risques d'un marché ouvert 24 h/24.","mk.stocks.h":"Actions","mk.stocks.p":"Comment sont construits le S&P 500, le Nasdaq et le Dow, et ce qui fait bouger un indice.","mk.read":"Lire l'explication →","mk.news.h":"Titres des marchés","pl.etsy.h":"MarketPulseStudio sur Etsy","pl.etsy.p":"Les planners imprimables et numériques de MarketPulseStudio sont disponibles dans la boutique Etsy.","pl.etsy.btn":"Voir la boutique Etsy","pl.more.h":"Modèles sur Patreon","ab.contact.h":"Contact","ab.contact.p":"Le plus simple pour joindre Market Plus : un message via Etsy Messages ou sur Patreon.","ab.contact.btn":"Écrire sur Etsy","art.all":"Tous les articles →"},"de":{"nav.analysis":"Analysen","nav.markets":"Märkte","nav.planners":"Planer","nav.menu":"Menü","nav.home":"Startseite","home.lat.h":"Neueste Artikel","home.lat.sub":"Erklärstücke und praktische Ratgeber zu Märkten, Geld und Planung.","home.sec.h":"Rubriken","home.sec.sub":"Alles von Market Plus an einem Ort.","sec.news.d":"Live-Schlagzeilen zu Märkten, Welt, Politik und der Ukraine, alle 30 Minuten aktualisiert.","sec.analysis.d":"Grundlagen: was den Goldpreis bewegt, wie Devisenkurse funktionieren, Krypto- und Aktienindex-Basics.","sec.markets.d":"Gold (XAU/USD), Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","sec.planners.d":"Digitale Planer und Vorlagen auf Etsy und Patreon: Budget, Ziele, Sparen und Trading-Journale.","sec.open":"Rubrik öffnen →","pg.analysis.h":"Analysen und Erklärstücke","pg.analysis.sub":"Verständliche Erklärungen, wie Märkte funktionieren. Nur zur Bildung, keine Signale oder Prognosen.","pg.markets.sub":"Gold, Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","pg.planners.h":"Planer und Vorlagen","pg.planners.sub":"Digitale Planer für Budget, Ziele, Sparen und Trading von MarketPulseStudio.","pg.about.h":"Über uns und Kontakt","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Realzinsen, US-Dollar, Nachfrage der Zentralbanken und Flucht in sichere Häfen.","mk.fx.h":"Devisen","mk.fx.p":"Währungspaare, Pips und Spreads – und die Zinsentscheide, die sie bewegen.","mk.crypto.h":"Krypto","mk.crypto.p":"Bitcoin, Altcoins und Stablecoins, Marktkapitalisierung und Risiken eines 24/7-Markts.","mk.stocks.h":"Aktien","mk.stocks.p":"Wie S&P 500, Nasdaq und Dow aufgebaut sind und was einen Index bewegt.","mk.read":"Zum Erklärstück →","mk.news.h":"Marktschlagzeilen","pl.etsy.h":"MarketPulseStudio auf Etsy","pl.etsy.p":"Druckbare und digitale Planer von MarketPulseStudio gibt es im Etsy-Shop.","pl.etsy.btn":"Zum Etsy-Shop","pl.more.h":"Vorlagen auf Patreon","ab.contact.h":"Kontakt","ab.contact.p":"Am einfachsten erreichen Sie Market Plus per Nachricht über Etsy Messages oder auf Patreon.","ab.contact.btn":"Auf Etsy schreiben","art.all":"Alle Artikel →"},"zh":{"nav.analysis":"分析","nav.markets":"市场","nav.planners":"规划模板","nav.menu":"菜单","nav.home":"首页","home.lat.h":"最新文章","home.lat.sub":"关于市场、理财与规划的解读和实用指南。","home.sec.h":"栏目","home.sec.sub":"Market Plus 全部内容，一目了然。","sec.news.d":"市场、国际、政治和乌克兰实时头条，每 30 分钟更新。","sec.analysis.d":"常青解读：什么影响金价、外汇报价怎么看、加密货币与股指基础。","sec.markets.d":"黄金（XAU/USD）、外汇、加密货币和股票：行情条、市场头条与解读。","sec.planners.d":"Etsy 和 Patreon 上的数字规划模板：预算、目标、储蓄与交易日志。","sec.open":"进入栏目 →","pg.analysis.h":"分析与解读","pg.analysis.sub":"用通俗语言解释市场如何运作。仅供学习，不含信号或预测。","pg.markets.sub":"黄金、外汇、加密货币和股票：行情条、市场头条与解读。","pg.planners.h":"规划与模板","pg.planners.sub":"MarketPulseStudio 出品的预算、目标、储蓄与交易数字规划模板。","pg.about.h":"关于与联系","mk.gold.h":"黄金 · XAU/USD","mk.gold.p":"实际利率、美元、央行购金需求与避险资金流。","mk.fx.h":"外汇","mk.fx.p":"货币对、点值与点差，以及驱动它们的利率决议。","mk.crypto.h":"加密货币","mk.crypto.p":"比特币、山寨币与稳定币、市值以及全天候市场的风险。","mk.stocks.h":"股票","mk.stocks.p":"标普 500、纳斯达克和道琼斯如何构成，以及什么推动指数涨跌。","mk.read":"阅读解读 →","mk.news.h":"市场头条","pl.etsy.h":"Etsy 上的 MarketPulseStudio","pl.etsy.p":"MarketPulseStudio 的可打印和数字规划模板在 Etsy 店铺有售。","pl.etsy.btn":"访问 Etsy 店铺","pl.more.h":"Patreon 上的模板","ab.contact.h":"联系","ab.contact.p":"联系 Market Plus 最简单的方式是通过 Etsy Messages 或 Patreon 留言。","ab.contact.btn":"在 Etsy 上留言","art.all":"全部文章 →"}};
+  /*TX-START*/ var TX = {"en":{"nav.analysis":"Analysis","nav.markets":"Markets","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Home","home.lat.h":"Latest articles","home.lat.sub":"Explainers and practical guides on markets, money and planning.","home.sec.h":"Sections","home.sec.sub":"Everything on Market Plus, in one place.","sec.news.d":"Live headlines on markets, world, politics and Ukraine, updated every 30 minutes.","sec.analysis.d":"Evergreen explainers: what moves gold, how forex quotes work, crypto and stock index basics.","sec.markets.d":"Gold (XAU/USD), forex, crypto and stocks: quotes strip, market headlines and explainers.","sec.planners.d":"Digital planners and templates on Etsy and Etsy: budgets, goals, savings and trading journals.","sec.open":"Open section →","pg.analysis.h":"Analysis & explainers","pg.analysis.sub":"Plain-language explainers on how markets work. Educational only, no signals or forecasts.","pg.markets.sub":"Gold, forex, crypto and stocks: live quotes strip, market headlines and explainers.","pg.planners.h":"Planners & templates","pg.planners.sub":"Digital planners for budgets, goals, savings and trading, made by MarketPulseStudio.","pg.about.h":"About & contact","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Real interest rates, the US dollar, central bank demand and safe-haven flows.","mk.fx.h":"Forex","mk.fx.p":"Currency pairs, pips and spreads, and the rate decisions that move them.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins and stablecoins, market cap and the risks of a 24/7 market.","mk.stocks.h":"Stocks","mk.stocks.p":"How the S&P 500, Nasdaq and Dow are built and what moves an index.","mk.read":"Read the explainer →","mk.news.h":"Market headlines","pl.etsy.h":"MarketPulseStudio on Etsy","pl.etsy.p":"Printable and digital planners from MarketPulseStudio are available in the Etsy shop.","pl.etsy.btn":"Visit the Etsy shop","pl.more.h":"Templates on Etsy","ab.contact.h":"Contact","ab.contact.p":"The easiest way to reach Market Plus is a message in Etsy Messages or on Etsy.","ab.contact.btn":"Message on Etsy","art.all":"All articles →"},"ru":{"nav.analysis":"Аналитика","nav.markets":"Рынки","nav.planners":"Планеры","nav.menu":"Меню","nav.home":"Главная","home.lat.h":"Свежие статьи","home.lat.sub":"Объяснения и практические гайды о рынках, деньгах и планировании.","home.sec.h":"Разделы","home.sec.sub":"Всё на Market Plus в одном месте.","sec.news.d":"Живая лента заголовков о рынках, мире, политике и Украине, обновляется каждые 30 минут.","sec.analysis.d":"Базовые разборы: что двигает золото, как читать котировки форекс, основы крипто и фондовых индексов.","sec.markets.d":"Золото (XAU/USD), форекс, крипто и акции: котировки, рыночные новости и разборы.","sec.planners.d":"Цифровые планеры и шаблоны на Etsy и Etsy: бюджет, цели, накопления и журналы сделок.","sec.open":"Открыть раздел →","pg.analysis.h":"Аналитика и разборы","pg.analysis.sub":"Простые объяснения того, как устроены рынки. Только обучение, без сигналов и прогнозов.","pg.markets.sub":"Золото, форекс, крипто и акции: котировки, рыночные новости и разборы.","pg.planners.h":"Планеры и шаблоны","pg.planners.sub":"Цифровые планеры для бюджета, целей, накоплений и трейдинга от MarketPulseStudio.","pg.about.h":"О проекте и контакты","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальные ставки, доллар США, спрос центробанков и бегство в защитные активы.","mk.fx.h":"Форекс","mk.fx.p":"Валютные пары, пункты и спреды — и решения по ставкам, которые их двигают.","mk.crypto.h":"Крипто","mk.crypto.p":"Биткоин, альткоины и стейблкоины, капитализация и риски рынка 24/7.","mk.stocks.h":"Акции","mk.stocks.p":"Как устроены S&P 500, Nasdaq и Dow и что двигает индекс.","mk.read":"Читать разбор →","mk.news.h":"Рыночные новости","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Печатные и цифровые планеры MarketPulseStudio доступны в магазине на Etsy.","pl.etsy.btn":"Открыть магазин на Etsy","pl.more.h":"Шаблоны на Etsy","ab.contact.h":"Контакты","ab.contact.p":"Проще всего связаться с Market Plus через сообщения Etsy или Etsy.","ab.contact.btn":"Написать на Etsy","art.all":"Все статьи →"},"uk":{"nav.analysis":"Аналітика","nav.markets":"Ринки","nav.planners":"Планери","nav.menu":"Меню","nav.home":"Головна","home.lat.h":"Свіжі статті","home.lat.sub":"Пояснення та практичні гайди про ринки, гроші та планування.","home.sec.h":"Розділи","home.sec.sub":"Усе на Market Plus в одному місці.","sec.news.d":"Жива стрічка заголовків про ринки, світ, політику та Україну, оновлюється кожні 30 хвилин.","sec.analysis.d":"Базові розбори: що рухає золото, як читати котирування форекс, основи крипто та фондових індексів.","sec.markets.d":"Золото (XAU/USD), форекс, крипто та акції: котирування, ринкові новини та розбори.","sec.planners.d":"Цифрові планери та шаблони на Etsy і Etsy: бюджет, цілі, заощадження та журнали угод.","sec.open":"Відкрити розділ →","pg.analysis.h":"Аналітика та розбори","pg.analysis.sub":"Прості пояснення того, як працюють ринки. Лише навчання, без сигналів і прогнозів.","pg.markets.sub":"Золото, форекс, крипто та акції: котирування, ринкові новини та розбори.","pg.planners.h":"Планери та шаблони","pg.planners.sub":"Цифрові планери для бюджету, цілей, заощаджень і трейдингу від MarketPulseStudio.","pg.about.h":"Про проєкт і контакти","mk.gold.h":"Золото · XAU/USD","mk.gold.p":"Реальні ставки, долар США, попит центробанків і втеча в захисні активи.","mk.fx.h":"Форекс","mk.fx.p":"Валютні пари, пункти та спреди — і рішення щодо ставок, які їх рухають.","mk.crypto.h":"Крипто","mk.crypto.p":"Біткоїн, альткоїни та стейблкоїни, капіталізація і ризики ринку 24/7.","mk.stocks.h":"Акції","mk.stocks.p":"Як побудовані S&P 500, Nasdaq і Dow та що рухає індекс.","mk.read":"Читати розбір →","mk.news.h":"Ринкові новини","pl.etsy.h":"MarketPulseStudio на Etsy","pl.etsy.p":"Друковані та цифрові планери MarketPulseStudio доступні в магазині на Etsy.","pl.etsy.btn":"Відкрити магазин на Etsy","pl.more.h":"Шаблони на Etsy","ab.contact.h":"Контакти","ab.contact.p":"Найпростіше зв'язатися з Market Plus через повідомлення Etsy або Etsy.","ab.contact.btn":"Написати на Etsy","art.all":"Усі статті →"},"fr":{"nav.analysis":"Analyses","nav.markets":"Marchés","nav.planners":"Planners","nav.menu":"Menu","nav.home":"Accueil","home.lat.h":"Derniers articles","home.lat.sub":"Explications et guides pratiques sur les marchés, l'argent et la planification.","home.sec.h":"Rubriques","home.sec.sub":"Tout Market Plus, au même endroit.","sec.news.d":"Titres en direct sur les marchés, le monde, la politique et l'Ukraine, mis à jour toutes les 30 minutes.","sec.analysis.d":"Explications de fond : ce qui fait bouger l'or, lire une cotation forex, bases de la crypto et des indices boursiers.","sec.markets.d":"Or (XAU/USD), forex, crypto et actions : cotations, titres des marchés et explications.","sec.planners.d":"Planners numériques et modèles sur Etsy et Etsy : budget, objectifs, épargne et journaux de trading.","sec.open":"Ouvrir la rubrique →","pg.analysis.h":"Analyses et explications","pg.analysis.sub":"Des explications simples sur le fonctionnement des marchés. Contenu éducatif, sans signaux ni prévisions.","pg.markets.sub":"Or, forex, crypto et actions : cotations, titres des marchés et explications.","pg.planners.h":"Planners et modèles","pg.planners.sub":"Planners numériques pour le budget, les objectifs, l'épargne et le trading, par MarketPulseStudio.","pg.about.h":"À propos et contact","mk.gold.h":"Or · XAU/USD","mk.gold.p":"Taux réels, dollar américain, achats des banques centrales et flux refuges.","mk.fx.h":"Forex","mk.fx.p":"Paires de devises, pips et spreads, et les décisions de taux qui les font bouger.","mk.crypto.h":"Crypto","mk.crypto.p":"Bitcoin, altcoins et stablecoins, capitalisation et risques d'un marché ouvert 24 h/24.","mk.stocks.h":"Actions","mk.stocks.p":"Comment sont construits le S&P 500, le Nasdaq et le Dow, et ce qui fait bouger un indice.","mk.read":"Lire l'explication →","mk.news.h":"Titres des marchés","pl.etsy.h":"MarketPulseStudio sur Etsy","pl.etsy.p":"Les planners imprimables et numériques de MarketPulseStudio sont disponibles dans la boutique Etsy.","pl.etsy.btn":"Voir la boutique Etsy","pl.more.h":"Modèles sur Etsy","ab.contact.h":"Contact","ab.contact.p":"Le plus simple pour joindre Market Plus : un message via Etsy Messages ou sur Etsy.","ab.contact.btn":"Écrire sur Etsy","art.all":"Tous les articles →"},"de":{"nav.analysis":"Analysen","nav.markets":"Märkte","nav.planners":"Planer","nav.menu":"Menü","nav.home":"Startseite","home.lat.h":"Neueste Artikel","home.lat.sub":"Erklärstücke und praktische Ratgeber zu Märkten, Geld und Planung.","home.sec.h":"Rubriken","home.sec.sub":"Alles von Market Plus an einem Ort.","sec.news.d":"Live-Schlagzeilen zu Märkten, Welt, Politik und der Ukraine, alle 30 Minuten aktualisiert.","sec.analysis.d":"Grundlagen: was den Goldpreis bewegt, wie Devisenkurse funktionieren, Krypto- und Aktienindex-Basics.","sec.markets.d":"Gold (XAU/USD), Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","sec.planners.d":"Digitale Planer und Vorlagen auf Etsy und Etsy: Budget, Ziele, Sparen und Trading-Journale.","sec.open":"Rubrik öffnen →","pg.analysis.h":"Analysen und Erklärstücke","pg.analysis.sub":"Verständliche Erklärungen, wie Märkte funktionieren. Nur zur Bildung, keine Signale oder Prognosen.","pg.markets.sub":"Gold, Devisen, Krypto und Aktien: Kurse, Marktschlagzeilen und Erklärstücke.","pg.planners.h":"Planer und Vorlagen","pg.planners.sub":"Digitale Planer für Budget, Ziele, Sparen und Trading von MarketPulseStudio.","pg.about.h":"Über uns und Kontakt","mk.gold.h":"Gold · XAU/USD","mk.gold.p":"Realzinsen, US-Dollar, Nachfrage der Zentralbanken und Flucht in sichere Häfen.","mk.fx.h":"Devisen","mk.fx.p":"Währungspaare, Pips und Spreads – und die Zinsentscheide, die sie bewegen.","mk.crypto.h":"Krypto","mk.crypto.p":"Bitcoin, Altcoins und Stablecoins, Marktkapitalisierung und Risiken eines 24/7-Markts.","mk.stocks.h":"Aktien","mk.stocks.p":"Wie S&P 500, Nasdaq und Dow aufgebaut sind und was einen Index bewegt.","mk.read":"Zum Erklärstück →","mk.news.h":"Marktschlagzeilen","pl.etsy.h":"MarketPulseStudio auf Etsy","pl.etsy.p":"Druckbare und digitale Planer von MarketPulseStudio gibt es im Etsy-Shop.","pl.etsy.btn":"Zum Etsy-Shop","pl.more.h":"Vorlagen auf Etsy","ab.contact.h":"Kontakt","ab.contact.p":"Am einfachsten erreichen Sie Market Plus per Nachricht über Etsy Messages oder auf Etsy.","ab.contact.btn":"Auf Etsy schreiben","art.all":"Alle Artikel →"},"zh":{"nav.analysis":"分析","nav.markets":"市场","nav.planners":"规划模板","nav.menu":"菜单","nav.home":"首页","home.lat.h":"最新文章","home.lat.sub":"关于市场、理财与规划的解读和实用指南。","home.sec.h":"栏目","home.sec.sub":"Market Plus 全部内容，一目了然。","sec.news.d":"市场、国际、政治和乌克兰实时头条，每 30 分钟更新。","sec.analysis.d":"常青解读：什么影响金价、外汇报价怎么看、加密货币与股指基础。","sec.markets.d":"黄金（XAU/USD）、外汇、加密货币和股票：行情条、市场头条与解读。","sec.planners.d":"Etsy 和 Etsy 上的数字规划模板：预算、目标、储蓄与交易日志。","sec.open":"进入栏目 →","pg.analysis.h":"分析与解读","pg.analysis.sub":"用通俗语言解释市场如何运作。仅供学习，不含信号或预测。","pg.markets.sub":"黄金、外汇、加密货币和股票：行情条、市场头条与解读。","pg.planners.h":"规划与模板","pg.planners.sub":"MarketPulseStudio 出品的预算、目标、储蓄与交易数字规划模板。","pg.about.h":"关于与联系","mk.gold.h":"黄金 · XAU/USD","mk.gold.p":"实际利率、美元、央行购金需求与避险资金流。","mk.fx.h":"外汇","mk.fx.p":"货币对、点值与点差，以及驱动它们的利率决议。","mk.crypto.h":"加密货币","mk.crypto.p":"比特币、山寨币与稳定币、市值以及全天候市场的风险。","mk.stocks.h":"股票","mk.stocks.p":"标普 500、纳斯达克和道琼斯如何构成，以及什么推动指数涨跌。","mk.read":"阅读解读 →","mk.news.h":"市场头条","pl.etsy.h":"Etsy 上的 MarketPulseStudio","pl.etsy.p":"MarketPulseStudio 的可打印和数字规划模板在 Etsy 店铺有售。","pl.etsy.btn":"访问 Etsy 店铺","pl.more.h":"Etsy 上的模板","ab.contact.h":"联系","ab.contact.p":"联系 Market Plus 最简单的方式是通过 Etsy Messages 或 Etsy 留言。","ab.contact.btn":"在 Etsy 上留言","art.all":"全部文章 →"}};
   Object.keys(TX).forEach(function (l) { if (T[l]) for (var k in TX[l]) T[l][k] = TX[l][k]; }); /*TX-END*/
   var PRODUCTS = [
     // crypto (USDC) products first
@@ -592,39 +592,39 @@
       url: "https://shieldz.cash/unlock/XzBTsw1X2X5DqlllbNny", etsy: "https://www.etsy.com/listing/4617675743" },
     // seasonal first
     { t: "p7.t", price: "$4", img: "assets/christmas-budget-2026.webp", d: "p7.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/christmas-budget-173352149" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p8.t", free: true, img: "assets/christmas-budget-2026.webp", d: "p8.d", cta: "prod.get",
-      url: "https://www.patreon.com/DmitryZhuk/posts/free-christmas-173352318" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p9.t", price: "$4", img: "assets/savings-challenge-2027.webp", d: "p9.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/2027-savings-16-173352268" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p10.t", price: "$9", img: "assets/goal-planner-2027-pro.webp", d: "p10.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/2027-goal-life-173353268" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p11.t", free: true, img: "assets/goal-planner-2027-lite.webp", d: "p11.d", cta: "prod.get",
       url: "https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6" },
     // debt payoff and investing
     { t: "p12.t", price: "$4", img: "assets/debt-snowball-tracker.webp", d: "p12.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/debt-snowball-173357853" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p13.t", free: true, img: "assets/debt-snowball-tracker.webp", d: "p13.d", cta: "prod.get",
-      url: "https://www.patreon.com/DmitryZhuk/posts/free-debt-list-173358321" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p14.t", price: "$9", img: "assets/dividend-portfolio-tracker.webp", d: "p14.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/dividend-tracker-173358402" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p15.t", free: true, img: "assets/habit-tracker-2027-lite.webp", d: "p15.d", cta: "prod.get",
-      url: "https://www.patreon.com/DmitryZhuk/posts/free-habit-2027-173360383" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { title: "AI Skills Pack for Business", price: "$13", img: "assets/ai-skills.webp", d: "p1.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/ai-skills-pack-173304384" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { title: "Trading Journal Pro (Google Sheets & Excel)", price: "$14", img: "assets/trading-journal.webp", d: "p2.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/trading-journal-173290193" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { title: "Budget & Expense Tracker 2026", price: "$9", img: "assets/budget-tracker.webp", d: "p3.d",
-      url: "https://www.patreon.com/DmitryZhuk/posts/budget-expense-173290094" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { title: "Trading Journal Lite", free: true, img: "assets/trading-journal.webp", d: "p4.d", cta: "prod.get",
-      url: "https://www.patreon.com/DmitryZhuk/posts/free-trading-173292664" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { title: "Budget Lite", free: true, img: "assets/budget-tracker.webp", d: "p5.d", cta: "prod.get",
-      url: "https://www.patreon.com/DmitryZhuk/posts/free-budget-lite-173292612" },
+      url: "https://marketpulsestudio.etsy.com", patreon: true },
     { t: "p6.t", free: true, img: "assets/ai-skills.webp", d: "p6.d", cta: "prod.github",
       url: "https://github.com/aiskillsdrop/ai-skills-for-business" },
     // closing tile: last grid slot
     { t: "pall.t", more: true, d: "pall.d", cta: "prod.all",
-      url: "https://www.patreon.com/DmitryZhuk" }
+      url: "https://marketpulsestudio.etsy.com", patreon: true }
   ];
 
   var $ = function (id) { return document.getElementById(id); };
@@ -641,7 +641,7 @@
   // ---------- Language tagging for correct reading (screen readers / read-aloud / TTS) ----------
   // Text is always tagged with the language it is actually written in:
   //  * <html lang> = current UI language;
-  //  * in Cyrillic/Chinese UIs, Latin-script runs (brands, names, tickers: Market Plus, Patreon,
+  //  * in Cyrillic/Chinese UIs, Latin-script runs (brands, names, tickers: Market Plus, Etsy,
   //    Starlink, AJB) get <span lang="en" translate="no">, otherwise a
   //    Russian/Ukrainian voice spells them by Cyrillic rules;
   //  * headlines carry the lang of the text actually shown (translation or original).
@@ -672,7 +672,7 @@
 
   var yr = $("yr"); if (yr) yr.textContent = new Date().getFullYear();
 
-  // ---------- Products render (whole card links to Patreon / GitHub) ----------
+  // ---------- Products render (whole card links to Etsy / GitHub) ----------
   var pl = $("productList");
   if (pl) PRODUCTS.forEach(function (p) {
     var card = el("article", "prod");
@@ -681,7 +681,7 @@
     imgBox.setAttribute("aria-hidden", "true");
     if (p.more) {
       imgBox.className = "img more";
-      var mk = el("span", "mark", "Patreon"); mk.lang = "en"; mk.setAttribute("translate", "no");
+      var mk = el("span", "mark", "Etsy"); mk.lang = "en"; mk.setAttribute("translate", "no");
       imgBox.appendChild(mk);
     } else {
       var im = new Image(); im.src = BASE + p.img; im.loading = "lazy"; im.decoding = "async"; im.width = 800; im.height = 450;
@@ -703,10 +703,10 @@
       row.appendChild(pr);
     }
     var a = el("a", "btn " + (p.free ? "btn-ghost" : "btn-gold"));
-    if (p.ctaText) { a.textContent = p.ctaText; a.lang = "en"; a.setAttribute("translate", "no"); } else a.setAttribute("data-i18n", p.cta || "prod.buy");
+    if (p.patreon && !p.free) { a.textContent = "Buy on Etsy"; a.lang="en"; } else if (p.patreon && p.free) { a.textContent = "Etsy"; a.lang="en"; } else if (p.ctaText) { a.textContent = p.ctaText; a.lang = "en"; a.setAttribute("translate", "no"); } else a.setAttribute("data-i18n", p.cta || "prod.buy");
     a.href = p.url; a.target = "_blank"; a.rel = "noopener noreferrer";
     row.appendChild(a);
-    if (!p.more) {
+    if (!p.more && !p.patreon) {
       var ea = el("a", "btn btn-ghost", "Etsy"); ea.lang = "en"; ea.setAttribute("translate", "no");
       ea.href = p.etsy || "https://marketpulsestudio.etsy.com"; ea.target = "_blank"; ea.rel = "noopener noreferrer";
       row.appendChild(ea);
