@@ -34,6 +34,7 @@
 <link rel="stylesheet" href="style.css?v=9">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
 <script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
 <script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
 (function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
@@ -58,6 +59,7 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
     <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
     <a href="/guides/" data-nav="guides" data-i18n="nav.guides">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools">Tools</a>
     <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
     <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
     <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
@@ -75,13 +77,13 @@ document.documentElement.lang=L[c]||"en";})();</script>
   <h2 data-i18n="terms.s3h">3. Not financial advice</h2>
   <p data-i18n="terms.s3p">All information on the site is provided for informational purposes only and is not financial, investment, legal or tax advice, nor an offer or recommendation to buy or sell any asset. Trading in financial markets involves a risk of loss. Make your own decisions and, if needed, consult a licensed professional.</p>
   <h2 data-i18n="terms.s4h">4. Products</h2>
-  <p data-i18n="terms.s4p">Paid and free products are sold and delivered via Patreon (some free materials are on GitHub). Payments, access, delivery and refunds are handled by Patreon and are subject to Patreon’s terms. The site itself does not process payments.</p>
+  <p data-i18n="terms.s4p">Paid and free products are sold and delivered via Etsy (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Etsy and are subject to Etsy’s terms. The site itself does not process payments.</p>
   <h2 data-i18n="terms.s5h">5. Privacy</h2>
-  <p data-i18n="terms.s5p">The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Patreon, GitHub) are governed by those sites’ own policies.</p>
+  <p data-i18n="terms.s5p">The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Etsy, GitHub, Notion) are governed by those sites’ own policies.</p>
   <h2 data-i18n="terms.s6h">6. No warranty</h2>
   <p data-i18n="terms.s6p">The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.</p>
   <h2 data-i18n="terms.s7h">7. Contact</h2>
-  <p data-i18n="terms.s7p">Questions and requests (including from publishers who want a source removed): Etsy Messages (MarketPulseStudio) or Patreon.</p>
+  <p data-i18n="terms.s7p">Questions and requests (including from publishers who want a source removed): Etsy Messages (MarketPulseStudio) or Etsy.</p>
   <h2 data-i18n="terms.s8h">8. Changes</h2>
   <p data-i18n="terms.s8p">We may update these terms from time to time. The current version is always on this page with its last-updated date.</p>
   <a class="btn btn-ghost back" href="./" data-i18n="terms.back">← Back to Market Plus</a>
@@ -92,13 +94,13 @@ document.documentElement.lang=L[c]||"en";})();</script>
   <div class="fgrid">
     <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
       <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
-    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
     <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
   <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
 </div></footer>
-<script src="app.js?v=1792951000" defer></script>
+<script src="app.js?v=1792960000" defer></script>
 <script src="/assets/site.js?v=1" defer></script>
 </body>
 </html>

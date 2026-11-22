@@ -175,7 +175,7 @@ out["markets/index.html"] = shell("/markets/", "Markets: gold (XAU/USD), forex, 
 # planners/
 plan_g = [g for g in GUIDES if g["slug"] != "how-to-keep-a-trading-journal"]
 out["planners/index.html"] = shell("/planners/", "Digital planners and templates by MarketPulseStudio | Market Plus",
-  "Digital planners and templates for budgets, goals, savings and trading journals: the MarketPulseStudio shop on Etsy and templates on Patreon.",
+  "Digital planners and templates for budgets, goals, savings and trading journals: the MarketPulseStudio shop on Etsy.",
   page_head("pg.planners.h", T_EN["pg.planners.h"], "pg.planners.sub", "nav.planners") +
   f'''\n<section class="psec"><div class="wrap"><div class="etsy">
   <div><span class="kicker" lang="en" translate="no">Etsy · MarketPulseStudio</span><h2 data-i18n="pl.etsy.h">{T_EN["pl.etsy.h"]}</h2>{k("pl.etsy.p", "p")}</div>
@@ -183,9 +183,9 @@ out["planners/index.html"] = shell("/planners/", "Digital planners and templates
 </div></div></section>
 <section id="products"><div class="wrap">
   <h2 data-i18n="pl.more.h">{T_EN["pl.more.h"]}</h2>
-  <p class="sub" data-i18n="prod.sub">Tools for trading, personal finance and business. Payment and download on Patreon.</p>
+  <p class="sub" data-i18n="prod.sub">Tools for trading, personal finance and business. Pay with USDC (crypto) or buy on Etsy.</p>
   <div class="products" id="productList"></div>
-  <p class="note" data-i18n="prod.note">Buttons open Patreon or GitHub pages. This site does not collect or store any data.</p>
+  <p class="note" data-i18n="prod.note">Buttons open the crypto checkout or Etsy. This site does not collect or store any data.</p>
 </div></section>
 <section class="psec"><div class="wrap"><h2 data-i18n="nav.guides">Guides</h2>{grid(plan_g)}</div></section>''', "planners",
   jsonld={"@context": "https://schema.org", "@graph": [{"@type": "CollectionPage", "name": "Planners — Market Plus", "url": SITE + "/planners/", "publisher": PUB}, crumbs_ld([("Market Plus", "/"), ("Planners", "/planners/")])]})
@@ -193,7 +193,7 @@ out["planners/index.html"] = shell("/planners/", "Digital planners and templates
 # about/
 about_tiles = re.search(r'<div class="about">.*?</div>\s*</div>\s*</div>', rd("index.html"), re.S)
 out["about/index.html"] = shell("/about/", "About Market Plus and contact | Market Plus",
-  "About Market Plus: market and world news with context, explainers and planning templates. Contact Market Plus via Etsy Messages or Patreon.",
+  "About Market Plus: market and world news with context, explainers and planning templates. Contact Market Plus via Etsy Messages.",
   page_head("pg.about.h", T_EN["pg.about.h"], "about.sub", "nav.about").replace('data-i18n="about.sub">', 'data-i18n="about.sub">Market Plus is a markets news project for people who want the signal, not the noise.', 1) +
   f'''\n<section class="psec"><div class="wrap">{about_tiles.group(0) if about_tiles else ""}</div></section>
 <section class="psec"><div class="wrap"><div class="etsy contact">
@@ -210,9 +210,11 @@ idx = rd("index.html")
 latest = (f'<!--mp:latest--><section id="latest" class="latest"><div class="wrap"><div class="shead"><div><h2 data-i18n="home.lat.h">{T_EN["home.lat.h"]}</h2>'
           f'{k("home.lat.sub", "p", "sub")}</div><a class="more" href="/analysis/" data-i18n="art.all">{T_EN["art.all"]}</a></div>'
           f'{grid(EXPL[:1] + GUIDES[:1], "feature2")}{grid(EXPL[1:] + GUIDES[1:4])}</div></section><!--/mp:latest-->')
+import sys as _s; _s.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "extras_src")); from icons import icon as _ic
+_ICON = lambda c: _ic({"N": "news", "A": "analysis", "M": "markets", "P": "planners"}[c], 24) if c in "NAMP" else c
 SEC = [("/news/", "nav.news", "News", "sec.news.d", "N"), ("/analysis/", "nav.analysis", "Analysis", "sec.analysis.d", "A"),
        ("/markets/", "nav.markets", "Markets", "sec.markets.d", "M"), ("/planners/", "nav.planners", "Planners", "sec.planners.d", "P")]
-secs = "".join(f'<a class="scard" href="{u}"><span class="sicon" aria-hidden="true">{ic}</span><h3 data-i18n="{h}">{T_EN.get(h, he)}</h3>{k(d, "p")}<span class="mlink" data-i18n="sec.open">{T_EN["sec.open"]}</span></a>' for u, h, he, d, ic in SEC)
+secs = "".join(f'<a class="scard" href="{u}"><span class="sicon" aria-hidden="true">{_ICON(ic)}</span><h3 data-i18n="{h}">{T_EN.get(h, he)}</h3>{k(d, "p")}<span class="mlink" data-i18n="sec.open">{T_EN["sec.open"]}</span></a>' for u, h, he, d, ic in SEC)
 sections = (f'<!--mp:sections--><section id="sections" class="sections"><div class="wrap"><h2 data-i18n="home.sec.h">{T_EN["home.sec.h"]}</h2>'
             f'{k("home.sec.sub", "p", "sub")}<div class="sgrid">{secs}</div></div></section><!--/mp:sections-->')
 idx = re.sub(r'<!--mp:latest-->.*?<!--/mp:latest-->\n*', '', idx, flags=re.S)

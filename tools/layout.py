@@ -15,8 +15,8 @@ HEAD_JS = ('<script>/* js flag + mobile menu (works even if site.js fails) */(fu
   'else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});'
   'd.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>')
 NAV = [("news", "/news/", "nav.news"), ("analysis", "/analysis/", "nav.analysis"), ("markets", "/markets/", "nav.markets"),
-       ("planners", "/planners/", "nav.planners"), ("guides", "/guides/", "nav.guides"), ("about", "/about/", "nav.about")]
-BASE_LABELS = {"nav.news": "News", "nav.guides": "Guides", "nav.about": "About", "nav.products": "Products",
+       ("planners", "/planners/", "nav.planners"), ("guides", "/guides/", "nav.guides"), ("tools", "/tools/", "nav.tools"), ("about", "/about/", "nav.about")]
+BASE_LABELS = {"nav.news": "News", "nav.tools": "Tools", "nav.guides": "Guides", "nav.about": "About", "nav.products": "Products",
                "foot.na": "Not investment advice.", "foot.disc": "All content is for informational purposes only. Trading in financial markets involves risk of loss.",
                "foot.rights": "All rights reserved.", "foot.terms": "Terms of Use", "foot.priv": "No trackers, no forms, no data collection."}
 
@@ -54,7 +54,7 @@ def header(html, lang, active):
   <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
 {links}
     <a href="/shop-crypto.html" data-nav="shop"{' aria-current="page"' if active == 'shop' else ''}>Crypto Shop</a>
-    <a class="pbtn" href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener" lang="en" translate="no">Patreon</a>
+    <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
   </nav>
 </div></header>'''
 
@@ -66,8 +66,8 @@ def footer(html, lang):
   <div class="fgrid">
     <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
       <p class="disc"><b data-i18n="foot.na">{g("foot.na")}</b> <span data-i18n="foot.disc">{g("foot.disc")}</span></p></div>
-    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">{lab("nav.news")}</a><a href="/analysis/" data-i18n="nav.analysis">{t("nav.analysis")}</a><a href="/markets/" data-i18n="nav.markets">{t("nav.markets")}</a><a href="/planners/" data-i18n="nav.planners">{t("nav.planners")}</a><a href="{guides_href}" data-i18n="nav.guides">{lab("nav.guides")}</a><a href="/about/" data-i18n="nav.about">{lab("nav.about")}</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
-    <div class="flinks" lang="en" translate="no"><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">{lab("nav.news")}</a><a href="/analysis/" data-i18n="nav.analysis">{t("nav.analysis")}</a><a href="/markets/" data-i18n="nav.markets">{t("nav.markets")}</a><a href="/planners/" data-i18n="nav.planners">{t("nav.planners")}</a><a href="{guides_href}" data-i18n="nav.guides">{lab("nav.guides")}</a><a href="/tools/" data-i18n="nav.tools">{t("nav.tools")}</a><a href="/about/" data-i18n="nav.about">{lab("nav.about")}</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">{g("foot.rights")}</span> · <a href="/terms.html" data-i18n="foot.terms">{g("foot.terms")}</a></div>
   <div class="fpriv" data-i18n="foot.priv">{g("foot.priv")}</div>
