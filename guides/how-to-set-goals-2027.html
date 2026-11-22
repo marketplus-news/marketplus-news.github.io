@@ -42,6 +42,7 @@
 <link rel="stylesheet" href="../style.css?v=9">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/tools.css?v=3">
 <script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
 <script>/* set <html lang> before first paint: ?lang= > saved choice > browser language; non-English visitors get the guide in their language */
 (function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},A={"ru":"/guides/ru/how-to-set-goals-2027.html","uk":"/guides/uk/how-to-set-goals-2027.html","fr":"/guides/fr/how-to-set-goals-2027.html","de":"/guides/de/how-to-set-goals-2027.html","zh":"/guides/zh/how-to-set-goals-2027.html"},c=null;
@@ -68,6 +69,7 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <a href="/markets/" data-nav="markets" data-i18n="nav.markets">Markets</a>
     <a href="/planners/" data-nav="planners" data-i18n="nav.planners">Planners</a>
     <a href="/guides/" data-nav="guides" data-i18n="nav.guides" aria-current="page">Guides</a>
+    <a href="/tools/" data-nav="tools" data-i18n="nav.tools">Tools</a>
     <a href="/about/" data-nav="about" data-i18n="nav.about">About</a>
     <a href="/shop-crypto.html" data-nav="shop">Crypto Shop</a>
     <a class="pbtn" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener" lang="en" translate="no">Etsy</a>
@@ -166,19 +168,20 @@ document.documentElement.lang=L[c]||"en";})();</script>
 
 <section class="related"><h2>More guides</h2><ul class="glist"><li><a class="gcard" href="how-to-plan-christmas-budget-2026.html"><b>How to Plan a Christmas Budget in 2026 (Step by Step)</b><span>Set a total, gift limits per person, cover hidden costs and track spending, with an example $800 budget.</span></a></li><li><a class="gcard" href="savings-challenges-2027.html"><b>16 Savings Challenges for 2027: How Each Works and the Real Totals</b><span>52-week, 100 envelope, 26-week, penny and 12 more challenges, with exact totals and a summary table.</span></a></li><li><a class="gcard" href="how-to-keep-a-trading-journal.html"><b>How to Keep a Trading Journal: What to Log and Why</b><span>The fields to log for every trade, how to calculate R, and the review metrics that matter. Educational only.</span></a></li><li><a class="gcard" href="simple-monthly-budget-for-beginners.html"><b>Simple Monthly Budget for Beginners: 50/30/20 and Zero-Based Budgeting</b><span>Take-home pay, fixed bills, the 50/30/20 rule and zero-based budgeting with worked $3,000 examples.</span></a></li></ul></section>
 </article>
+<!--mp:next--><section class="next"><div class="wrap"><h2>Try a free tool</h2><p class="sub">Free tools and guides that go with what you just read.</p><div class="ntiles"><a class="ntile" href="/tools/compound-interest-calculator.html"><span class="kicker">Free tool</span><b>Compound Interest & Savings Goal Calculator</b><span>See your savings grow year by year, or find the monthly amount to hit a goal.</span></a><a class="ntile" href="/tools/hyrox-finish-time-calculator.html"><span class="kicker">Free tool</span><b>Hyrox Finish Time Calculator</b><span>Predict your finish from run pace and station times, or find the pace for a goal time.</span></a><a class="ntile" href="/guides/hyrox-pacing-strategy.html"><span class="kicker">Guide · 6 min</span><b>Hyrox Pacing Strategy: Runs, Stations and Roxzone</b><span>Even pacing, controlled first kilometres and a plan for the sleds and wall balls: how to avoid the most common Hyrox mistake.</span></a></div></div></section><!--/mp:next-->
 </main>
 
 <footer><div class="wrap">
   <div class="fgrid">
     <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
       <p class="disc"><b data-i18n="foot.na">Not investment advice.</b> <span data-i18n="foot.disc">All content is for informational purposes only. Trading in financial markets involves risk of loss.</span></p></div>
-    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">News</a><a href="/analysis/" data-i18n="nav.analysis">Analysis</a><a href="/markets/" data-i18n="nav.markets">Markets</a><a href="/planners/" data-i18n="nav.planners">Planners</a><a href="/guides/" data-i18n="nav.guides">Guides</a><a href="/tools/" data-i18n="nav.tools">Tools</a><a href="/about/" data-i18n="nav.about">About</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
     <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
   <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
 </div></footer>
-<script src="../app.js?v=1792951000" defer></script>
+<script src="../app.js?v=1792960000" defer></script>
 <script src="/assets/site.js?v=1" defer></script>
 </body>
 </html>
