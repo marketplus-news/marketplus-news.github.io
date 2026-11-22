@@ -1,4 +1,3 @@
-ES = "https://www.etsy.com/shop/MarketPulseStudio?search_query="
 PRODUCTS = {
  "hyrox": dict(name="Hyrox Race-Prep System", price="$24.99", img="/assets/crypto/hyrox.webp",
    text="A 16-week Hyrox training plan with a split calculator, station drills and race-day pacing sheets. Excel and Google Sheets, instant download.",
@@ -6,18 +5,18 @@ PRODUCTS = {
  "str": dict(name="STR Host System", price="from $49", img="/assets/crypto/str-complete.webp",
    text="Spreadsheets for Airbnb and VRBO hosts: bookings, cleaning schedule, pricing calendar and a monthly profit dashboard. BASIC ($49) or COMPLETE ($119) with every tool and template.",
    buttons=[("BASIC on Etsy", "https://www.etsy.com/listing/4617676139", "gold"), ("COMPLETE on Etsy", "https://www.etsy.com/listing/4617675743", "ghost"), ("Pay with USDC", "/shop-crypto.html", "ghost")]),
- "debt": dict(name="Debt Snowball & Avalanche Payoff Tracker", price="$4", img="/assets/debt-snowball-tracker.webp",
-   text="Up to 15 debts, Snowball or Avalanche: a month-by-month payoff plan, your debt-free date and interest saved, plus a printable debt-free thermometer. Excel and Google Sheets, no macros.",
-   buttons=[("Get it on Etsy", ES + "debt+snowball", "gold")]),
- "savings": dict(name="2027 Savings Challenge Pack", price="$4", img="/assets/savings-challenge-2027.webp",
-   text="16 printable savings challenges (52-week, 100-envelope, $10,000 and more) plus an Excel tracker with automatic totals.",
-   buttons=[("Get it on Etsy", ES + "savings+challenge", "gold"), ("Budget tracker", ES + "budget", "ghost")]),
- "trading": dict(name="Trading Journal Pro", price="$14", img="/assets/trading-journal.webp",
-   text="Log every trade with its risk and result: win rate, R-multiple, P&L dashboard and mistake analysis. Google Sheets and Excel.",
-   buttons=[("Get it on Etsy", ES + "trading+journal", "gold")]),
- "xmas": dict(name="Christmas Budget & Gift Tracker 2026", price="$4", img="/assets/christmas-budget-2026.webp",
-   text="Gift list with budget vs actual, holiday spending by category, a chart dashboard, card and party lists and a countdown. Excel and Google Sheets, no macros.",
-   buttons=[("Get it on Etsy", ES + "christmas+budget", "gold")]),
+ "debt": dict(name="Debt Snowball & Sinking Funds Tracker", price="$7.49", img="/assets/products/4613052251.webp",
+   text="Snowball or avalanche: a month-by-month payoff plan, your debt-free date and interest saved, plus sinking funds for irregular costs. Google Sheets and Excel.",
+   buttons=[("Buy on Etsy", "https://www.etsy.com/listing/4613052251", "gold")]),
+ "savings": dict(name="2027 New Year Financial Reset", price="$8", img="/assets/products/4607126260.webp",
+   text="Net worth tracker, annual money goals and a 2027 budget planner, so your savings plan has numbers behind it. Google Sheets and Excel.",
+   buttons=[("Buy on Etsy", "https://www.etsy.com/listing/4607126260", "gold"), ("Couples budget", "https://www.etsy.com/listing/4606791663", "ghost")]),
+ "trading": dict(name="Trading Journal Pro", price="$14", img="/assets/products/4603971549.webp",
+   text="Day trading journal for forex, gold, stocks and crypto: log each trade with its planned risk, then review P&L, win rate and mistakes on a dashboard.",
+   buttons=[("Buy on Etsy", "https://www.etsy.com/listing/4603971549", "gold"), ("Kalshi journal", "https://www.etsy.com/listing/4607416314", "ghost")]),
+ "xmas": dict(name="Christmas Budget & Gift List 2026", price="$4", img="/assets/products/4603973045.webp",
+   text="Gift list with a budget per person, holiday spending by category and a dashboard. Want everything? The Christmas Planner Bundle adds dinner, Secret Santa and a New Year reset.",
+   buttons=[("Buy on Etsy", "https://www.etsy.com/listing/4603973045", "gold"), ("Bundle ($12)", "https://www.etsy.com/listing/4607125622", "ghost")]),
 }
 def pcta(key, lead="Want the full system?"):
     p = PRODUCTS[key]

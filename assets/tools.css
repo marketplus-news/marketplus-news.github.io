@@ -168,3 +168,16 @@ section>.wrap>h2:after,.shead h2:after{content:"";display:block;width:44px;heigh
   .js nav.main a.pbtn{margin:12px 0 0;justify-content:center;height:44px}
   header.top .wrap{position:relative}
 }@media (min-width:1181px) and (max-width:1420px){nav.main{gap:0}nav.main a[data-nav]{padding:8px 7px;font-size:14px}nav.main a.pbtn{margin-left:4px;padding:0 10px;font-size:14px}}
+/* product catalogue: category chips + group headings */
+.pchips{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 12px;margin:-6px 0 6px;scrollbar-width:none}
+.pchips::-webkit-scrollbar{display:none}
+.pchip{flex:none;min-height:38px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.03);color:#d9d5cb;font:600 14px var(--font);cursor:pointer;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);transition:border-color .2s,background .2s}
+.pchip span{color:var(--muted);font-weight:700;margin-left:2px}
+.pchip:hover{border-color:rgba(212,175,55,.6)}
+.pchip[aria-pressed=true]{background:linear-gradient(180deg,#e6c55a,var(--gold));color:#141008;border-color:transparent}
+.pchip[aria-pressed=true] span{color:rgba(20,16,8,.65)}
+.products .pcat{grid-column:1/-1;margin:14px 0 -4px;font:700 22px/1.2 var(--serif);color:var(--gold2);display:flex;align-items:center;gap:12px}
+.products .pcat:after{content:"";flex:1;height:1px;background:linear-gradient(90deg,rgba(212,175,55,.45),transparent)}
+.products .pcat:first-child{margin-top:0}
+.products [hidden]{display:none!important}
+.prod .img img{object-position:top center}

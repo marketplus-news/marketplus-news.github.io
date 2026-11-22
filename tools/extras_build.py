@@ -10,7 +10,7 @@ from guides_new import GUIDES
 import tool_hyrox, tool_str, tool_debt, tool_compound, tool_position, tool_holiday
 TOOLS = [m.T for m in (tool_hyrox, tool_str, tool_debt, tool_compound, tool_position, tool_holiday)]
 TBY = {t["slug"]: t for t in TOOLS}; GBY = {g["slug"]: g for g in GUIDES}
-SITE = "https://marketplus-news.github.io"; DATE = "2026-11-22"; APPV = "1792960000"; CSSV = "3"
+SITE = "https://marketplus-news.github.io"; DATE = "2026-11-22"; APPV = "1792970000"; CSSV = "4"
 PUB = {"@type": "Organization", "name": "Market Plus", "url": SITE + "/"}
 def rd(p): return open(os.path.join(ROOT, p), encoding="utf-8").read()
 def wr(p, s):
@@ -194,7 +194,7 @@ start = ('<!--mp:start--><section id="start" class="start-home"><div class="wrap
     '<p class="sub">Our best-selling systems and the free tools that go with them.</p><div class="start">'
     '<a class="spick" href="/tools/hyrox-finish-time-calculator.html"><div class="pimg"><img src="/assets/crypto/hyrox.webp" alt="Hyrox Race-Prep System" loading="lazy" width="900" height="900"></div><div class="pb"><span class="rank">#1 · Fitness</span><h3>Hyrox Race-Prep System</h3><p>16-week plan and split calculator. Predict your finish time free, then get the full system.</p><span class="mlink">Predict my time →</span></div></a>'
     '<a class="spick" href="/tools/airbnb-rental-profit-calculator.html"><div class="pimg"><img src="/assets/crypto/str-complete.webp" alt="STR Host System" loading="lazy" width="900" height="720"></div><div class="pb"><span class="rank">#2 · Short-term rental</span><h3>STR Host System</h3><p>Is your Airbnb profitable? Check break-even occupancy free, then run it with the host system.</p><span class="mlink">Check my numbers →</span></div></a>'
-    '<a class="spick" href="/tools/debt-payoff-calculator.html"><div class="pimg"><img src="/assets/debt-snowball-tracker.webp" alt="Debt snowball tracker" loading="lazy" width="900" height="600"></div><div class="pb"><span class="rank">#3 · Money</span><h3>Debt-free date planner</h3><p>Snowball or avalanche? Compare both with your own debts in under a minute.</p><span class="mlink">Find my date →</span></div></a>'
+    '<a class="spick" href="/tools/debt-payoff-calculator.html"><div class="pimg"><img src="/assets/products/4613052251.webp" alt="Debt Snowball & Sinking Funds Tracker" loading="lazy" width="900" height="600"></div><div class="pb"><span class="rank">#3 · Money</span><h3>Debt-free date planner</h3><p>Snowball or avalanche? Compare both with your own debts in under a minute.</p><span class="mlink">Find my date →</span></div></a>'
     '</div></div></section><!--/mp:start-->\n\n')
 keep = ('<!--mp:keep--><section id="keep" class="next"><div class="wrap"><h2 data-i18n="home.next.h">Keep reading</h2><p class="sub">New practical guides, each paired with a free tool.</p><div class="ntiles">'
     + "".join(ntile_guide(g) for g in GUIDES) + '</div></div></section><!--/mp:keep-->\n\n')
