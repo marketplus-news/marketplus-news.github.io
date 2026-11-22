@@ -53,6 +53,7 @@ def header(html, lang, active):
   <button type="button" class="menu-btn" id="menuBtn" aria-controls="mainNav" aria-expanded="false"><span class="bars" aria-hidden="true"></span><span class="sr-only" data-i18n="nav.menu">{t("nav.menu")}</span></button>
   <nav class="main" id="mainNav" aria-label="Main" data-i18n-aria="nav.aria">
 {links}
+    <a href="/shop-crypto.html" data-nav="shop"{' aria-current="page"' if active == 'shop' else ''}>Crypto Shop</a>
     <a class="pbtn" href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener" lang="en" translate="no">Patreon</a>
   </nav>
 </div></header>'''
@@ -65,7 +66,7 @@ def footer(html, lang):
   <div class="fgrid">
     <div class="fbrand"><a class="logo" href="/"><img src="/favicon.svg" alt="" width="26" height="26"><span lang="en" translate="no">Market <b>Plus</b></span></a>
       <p class="disc"><b data-i18n="foot.na">{g("foot.na")}</b> <span data-i18n="foot.disc">{g("foot.disc")}</span></p></div>
-    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">{lab("nav.news")}</a><a href="/analysis/" data-i18n="nav.analysis">{t("nav.analysis")}</a><a href="/markets/" data-i18n="nav.markets">{t("nav.markets")}</a><a href="/planners/" data-i18n="nav.planners">{t("nav.planners")}</a><a href="{guides_href}" data-i18n="nav.guides">{lab("nav.guides")}</a><a href="/about/" data-i18n="nav.about">{lab("nav.about")}</a></nav>
+    <nav class="fcol" aria-label="Sections"><a href="/news/" data-i18n="nav.news">{lab("nav.news")}</a><a href="/analysis/" data-i18n="nav.analysis">{t("nav.analysis")}</a><a href="/markets/" data-i18n="nav.markets">{t("nav.markets")}</a><a href="/planners/" data-i18n="nav.planners">{t("nav.planners")}</a><a href="{guides_href}" data-i18n="nav.guides">{lab("nav.guides")}</a><a href="/about/" data-i18n="nav.about">{lab("nav.about")}</a><a href="/shop-crypto.html">Crypto Shop</a></nav>
     <div class="flinks" lang="en" translate="no"><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">{g("foot.rights")}</span> · <a href="/terms.html" data-i18n="foot.terms">{g("foot.terms")}</a></div>
