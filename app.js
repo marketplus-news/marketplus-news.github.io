@@ -35,7 +35,7 @@
       "terms.s4h": "4. Products",
       "terms.s4p": "Paid and free products are sold and delivered via Etsy (some free materials are on GitHub or Notion). Payments, access, delivery and refunds are handled by Etsy and are subject to Etsy’s terms. The site itself does not process payments.",
       "terms.s5h": "5. Privacy",
-      "terms.s5p": "The site has no trackers, analytics, forms or accounts and does not collect personal data. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Etsy, GitHub, Notion) are governed by those sites’ own policies.",
+      "terms.s5p": "The site uses anonymous, cookie-free visit stats (GoatCounter) only. There are no forms or accounts, and no personal data is collected. Your chosen language is stored only in your own browser (localStorage). External links (news sources, Etsy, GitHub, Notion) are governed by those sites’ own policies.",
       "terms.s6h": "6. No warranty",
       "terms.s6p": "The site is provided “as is”. We do our best to keep it accurate and available, but we do not guarantee the completeness, accuracy or timeliness of the information and are not liable for any losses resulting from its use.",
       "terms.s7h": "7. Contact",
@@ -105,7 +105,7 @@
       "prod.all": "Open Etsy",
       "foot.na": "Not investment advice.",
       "foot.disc": "All content is for informational purposes only. Trading in financial markets involves risk of loss.",
-      "foot.priv": "No trackers, no forms, no data collection."
+      "foot.priv": "Anonymous, cookie-free visit stats only."
     },
     ru: {
       "nav.aria": "Главное меню", "nf.title": "Страница не найдена — Market Plus", "nf.h": "Страница не найдена", "nf.p": "Такой страницы нет или она переехала. Откройте главную страницу или гайды.", "nf.guides": "Открыть гайды",
@@ -129,7 +129,7 @@
       "terms.s4h": "4. Продукты",
       "terms.s4p": "Платные и бесплатные продукты продаются и выдаются через Etsy (часть бесплатных материалов — на GitHub и в Notion). Оплата, доступ, получение и возвраты обрабатываются Etsy и регулируются его условиями. Сам сайт платежи не обрабатывает.",
       "terms.s5h": "5. Конфиденциальность",
-      "terms.s5p": "На сайте нет трекеров, аналитики, форм и аккаунтов; персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, Etsy, GitHub, Notion) распространяются их собственные правила.",
+      "terms.s5p": "На сайте используется только обезличенная статистика посещений без cookie (GoatCounter). Форм и аккаунтов нет, персональные данные не собираются. Выбранный язык хранится только в вашем браузере (localStorage). На внешние сайты (источники новостей, Etsy, GitHub, Notion) распространяются их собственные правила.",
       "terms.s6h": "6. Отказ от гарантий",
       "terms.s6p": "Сайт предоставляется «как есть». Мы стараемся поддерживать точность и доступность, но не гарантируем полноту, точность и актуальность информации и не несём ответственности за убытки, возникшие в результате её использования.",
       "terms.s7h": "7. Контакты",
@@ -199,7 +199,7 @@
       "prod.all": "Открыть Etsy",
       "foot.na": "Не является инвестиционной рекомендацией.",
       "foot.disc": "Все материалы носят исключительно ознакомительный характер. Торговля на финансовых рынках связана с риском потери средств.",
-      "foot.priv": "Без трекеров, без форм, без сбора данных."
+      "foot.priv": "Только обезличенная статистика посещений без cookie."
     },
     uk: {
       "nav.aria": "Головне меню", "nf.title": "Сторінку не знайдено — Market Plus", "nf.h": "Сторінку не знайдено", "nf.p": "Такої сторінки немає або її перенесено. Відкрийте головну сторінку або гайди.", "nf.guides": "Відкрити гайди",
@@ -223,7 +223,7 @@
       "terms.s4h": "4. Продукти",
       "terms.s4p": "Платні й безкоштовні продукти продаються та видаються через Etsy (частина безкоштовних матеріалів — на GitHub і в Notion). Оплата, доступ, отримання й повернення обробляються Etsy і регулюються його умовами. Сам сайт платежів не обробляє.",
       "terms.s5h": "5. Конфіденційність",
-      "terms.s5p": "На сайті немає трекерів, аналітики, форм і акаунтів; персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, Etsy, GitHub, Notion) поширюються їхні власні правила.",
+      "terms.s5p": "На сайті використовується лише знеособлена статистика відвідувань без cookie (GoatCounter). Форм і акаунтів немає, персональні дані не збираються. Обрана мова зберігається лише у вашому браузері (localStorage). На зовнішні сайти (джерела новин, Etsy, GitHub, Notion) поширюються їхні власні правила.",
       "terms.s6h": "6. Відмова від гарантій",
       "terms.s6p": "Сайт надається «як є». Ми намагаємося підтримувати точність і доступність, але не гарантуємо повноту, точність і актуальність інформації та не несемо відповідальності за збитки, що виникли внаслідок її використання.",
       "terms.s7h": "7. Контакти",
@@ -293,7 +293,7 @@
       "prod.all": "Відкрити Etsy",
       "foot.na": "Не є інвестиційною порадою.",
       "foot.disc": "Усі матеріали мають виключно ознайомчий характер. Торгівля на фінансових ринках пов'язана з ризиком втрати коштів.",
-      "foot.priv": "Без трекерів, без форм, без збору даних."
+      "foot.priv": "Лише знеособлена статистика відвідувань без cookie."
     },
     fr: {
       "nav.aria": "Menu principal", "nf.title": "Page introuvable — Market Plus", "nf.h": "Page introuvable", "nf.p": "Cette page n'existe pas ou a été déplacée. Essayez la page d'accueil ou les guides.", "nf.guides": "Voir les guides",
@@ -317,7 +317,7 @@
       "terms.s4h": "4. Produits",
       "terms.s4p": "Les produits payants et gratuits sont vendus et livrés via Etsy (certains contenus gratuits sont sur GitHub ou Notion). Paiements, accès, livraison et remboursements sont gérés par Etsy selon ses propres conditions. Le site ne traite aucun paiement.",
       "terms.s5h": "5. Confidentialité",
-      "terms.s5p": "Le site n'utilise ni traceurs, ni statistiques, ni formulaires, ni comptes et ne collecte aucune donnée personnelle. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, Etsy, GitHub, Notion) ont leurs propres règles.",
+      "terms.s5p": "Le site utilise uniquement des statistiques de visites anonymes, sans cookies (GoatCounter). Il n'y a ni formulaires ni comptes, et aucune donnée personnelle n'est collectée. La langue choisie est enregistrée uniquement dans votre navigateur (localStorage). Les sites externes (sources, Etsy, GitHub, Notion) ont leurs propres règles.",
       "terms.s6h": "6. Absence de garantie",
       "terms.s6p": "Le site est fourni « tel quel ». Nous faisons de notre mieux, mais ne garantissons pas l'exhaustivité, l'exactitude ou l'actualité des informations et déclinons toute responsabilité pour les pertes liées à leur utilisation.",
       "terms.s7h": "7. Contact",
@@ -387,7 +387,7 @@
       "prod.all": "Ouvrir Etsy",
       "foot.na": "Ceci n'est pas un conseil en investissement.",
       "foot.disc": "Tous les contenus sont fournis à titre informatif uniquement. Le trading sur les marchés financiers comporte un risque de perte.",
-      "foot.priv": "Aucun traceur, aucun formulaire, aucune collecte de données."
+      "foot.priv": "Uniquement des statistiques de visites anonymes, sans cookies."
     },
     de: {
       "nav.aria": "Hauptmenü", "nf.title": "Seite nicht gefunden — Market Plus", "nf.h": "Seite nicht gefunden", "nf.p": "Diese Seite existiert nicht oder wurde verschoben. Versuchen Sie die Startseite oder die Ratgeber.", "nf.guides": "Zu den Ratgebern",
@@ -411,7 +411,7 @@
       "terms.s4h": "4. Produkte",
       "terms.s4p": "Kostenpflichtige und kostenlose Produkte werden über Etsy verkauft und bereitgestellt (einige kostenlose Materialien auf GitHub oder Notion). Zahlung, Zugang, Lieferung und Erstattungen wickelt Etsy gemäß seinen eigenen Bedingungen ab. Die Website selbst verarbeitet keine Zahlungen.",
       "terms.s5h": "5. Datenschutz",
-      "terms.s5p": "Die Website verwendet keine Tracker, Analysen, Formulare oder Konten und erhebt keine personenbezogenen Daten. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, Etsy, GitHub, Notion) gelten deren eigene Richtlinien.",
+      "terms.s5p": "Die Website verwendet nur anonyme, cookiefreie Besuchszahlen (GoatCounter). Es gibt keine Formulare oder Konten, und es werden keine personenbezogenen Daten erhoben. Die gewählte Sprache wird nur in deinem Browser gespeichert (localStorage). Für externe Seiten (Nachrichtenquellen, Etsy, GitHub, Notion) gelten deren eigene Richtlinien.",
       "terms.s6h": "6. Keine Gewähr",
       "terms.s6p": "Die Website wird „wie besehen“ bereitgestellt. Wir geben unser Bestes, übernehmen aber keine Gewähr für Vollständigkeit, Richtigkeit oder Aktualität und haften nicht für Verluste aus der Nutzung der Informationen.",
       "terms.s7h": "7. Kontakt",
@@ -481,7 +481,7 @@
       "prod.all": "Etsy öffnen",
       "foot.na": "Keine Anlageberatung.",
       "foot.disc": "Alle Inhalte dienen ausschließlich Informationszwecken. Der Handel an Finanzmärkten ist mit Verlustrisiken verbunden.",
-      "foot.priv": "Keine Tracker, keine Formulare, keine Datenerhebung."
+      "foot.priv": "Nur anonyme Besuchszahlen, ohne Cookies."
     },
     zh: {
       "nav.aria": "主导航", "nf.title": "页面未找到 — Market Plus", "nf.h": "页面未找到", "nf.p": "此页面不存在或已移动。请返回首页或查看指南。", "nf.guides": "查看指南",
@@ -505,7 +505,7 @@
       "terms.s4h": "4. 产品",
       "terms.s4p": "付费和免费产品均通过 Etsy 销售和交付（部分免费资料位于 GitHub 或 Notion）。付款、访问、交付和退款由 Etsy 按其条款处理。本网站不处理任何付款。",
       "terms.s5h": "5. 隐私",
-      "terms.s5p": "本网站没有追踪器、统计分析、表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、Etsy、GitHub、Notion）适用其各自的政策。",
+      "terms.s5p": "本网站仅使用匿名、无 Cookie 的访问统计（GoatCounter）。没有表单或账户，不收集任何个人数据。您选择的语言仅保存在您自己的浏览器中（localStorage）。外部网站（新闻来源、Etsy、GitHub、Notion）适用其各自的政策。",
       "terms.s6h": "6. 免责声明",
       "terms.s6p": "本网站按“现状”提供。我们尽力保证信息准确和网站可用，但不保证信息的完整性、准确性或及时性，对因使用这些信息造成的任何损失不承担责任。",
       "terms.s7h": "7. 联系方式",
@@ -575,7 +575,7 @@
       "prod.all": "打开 Etsy",
       "foot.na": "不构成投资建议。",
       "foot.disc": "所有内容仅供参考。金融市场交易存在亏损风险。",
-      "foot.priv": "无追踪器、无表单、不收集数据。"
+      "foot.priv": "仅匿名、无 Cookie 的访问统计。"
     }
   };
 

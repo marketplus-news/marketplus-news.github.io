@@ -2,7 +2,7 @@
 """Final SEO pass for Market Plus. Run LAST (extras_build.py calls it at the end).
 Idempotent: normalises asset versions and head tags, fixes canonical/hreflang on home and terms,
 adds JSON-LD (WebSite/Organization, Product offers, FAQPage), and rewrites robots.txt and sitemap.xml
-from the indexable HTML files. No trackers, no forms."""
+from the indexable HTML files. Anonymous, cookie-free visit stats only."""
 import glob, html as H, json, os, re, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 sys.path.insert(0, os.path.join(HERE, "extras_src"))

@@ -134,10 +134,10 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a><a href="/support.html">Tip jar (crypto)</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
-  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+  <div class="fpriv" data-i18n="foot.priv">Anonymous, cookie-free visit stats only.</div>
 </div></footer>
-<script src="/app.js?v=1792970000" defer></script>
-<script src="/assets/site.js?v=1" defer></script>
+<script src="/app.js?v=1795439238" defer></script>
+<script src="/assets/site.js?v=3" defer></script>
 <script src="/assets/calc.js?v=4"></script>
 <script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("compound",root);
 function grow(p0,pm,r,y,inc){var b=p0,dep=p0,rows=[[0,dep,b]],m=r/1200;for(var k=1;k<=y;k++){for(var i=0;i<12;i++){b=b*(1+m)+pm;dep+=pm}rows.push([k,dep,b]);pm*=1+inc/100}return rows}
@@ -152,5 +152,6 @@ var step=Math.max(1,Math.ceil(y/6));for(var k=0;k<=y;k+=step)grid+='<text x="'+(
 M.$("chart").innerHTML=grid+'<polygon points="'+sx(0)+","+sy(0)+" "+bal+" "+sx(y)+","+sy(0)+'" fill="rgba(212,175,55,.16)"/><polyline points="'+bal+'" fill="none" stroke="#d4af37" stroke-width="2.5"/><polyline points="'+dep+'" fill="none" stroke="#3fb8af" stroke-width="2" stroke-dasharray="5 4"/>';
 M.$("tab").tBodies[0].innerHTML=rows.slice(1).map(function(r){return"<tr><td>"+r[0]+"</td><td>"+M.money(r[1])+"</td><td>"+M.money(r[2]-r[1])+"</td><td>"+M.money(r[2])+"</td></tr>"}).join("");save();}
 M.live(root,run);})();</script>
+<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

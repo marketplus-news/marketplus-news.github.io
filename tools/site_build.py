@@ -197,7 +197,7 @@ out["about/index.html"] = shell("/about/", "About Market Plus and contact | Mark
   page_head("pg.about.h", T_EN["pg.about.h"], "about.sub", "nav.about").replace('data-i18n="about.sub">', 'data-i18n="about.sub">Market Plus is a markets news project for people who want the signal, not the noise.', 1) +
   f'''\n<section class="psec"><div class="wrap">{about_tiles.group(0) if about_tiles else ""}</div></section>
 <section class="psec"><div class="wrap"><div class="etsy contact">
-  <div><h2 data-i18n="ab.contact.h">{T_EN["ab.contact.h"]}</h2>{k("ab.contact.p", "p")}<p class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</p></div>
+  <div><h2 data-i18n="ab.contact.h">{T_EN["ab.contact.h"]}</h2>{k("ab.contact.p", "p")}<p class="fpriv" data-i18n="foot.priv">Anonymous, cookie-free visit stats only.</p></div>
   <a class="btn btn-gold" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener"><span data-i18n="ab.contact.btn">{T_EN["ab.contact.btn"]}</span></a>
 </div></div></section>''', "about",
   jsonld={"@context": "https://schema.org", "@graph": [{"@type": "AboutPage", "name": "About — Market Plus", "url": SITE + "/about/", "publisher": PUB}, crumbs_ld([("Market Plus", "/"), ("About", "/about/")])]})

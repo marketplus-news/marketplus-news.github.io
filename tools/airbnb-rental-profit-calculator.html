@@ -143,10 +143,10 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a><a href="/support.html">Tip jar (crypto)</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
-  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+  <div class="fpriv" data-i18n="foot.priv">Anonymous, cookie-free visit stats only.</div>
 </div></footer>
-<script src="/app.js?v=1792970000" defer></script>
-<script src="/assets/site.js?v=1" defer></script>
+<script src="/app.js?v=1795439238" defer></script>
+<script src="/assets/site.js?v=3" defer></script>
 <script src="/assets/calc.js?v=4"></script>
 <script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("str",root),D=30.4;
 function model(o){var r=M.num("rate"),l=Math.max(1,M.num("los",1)),cf=M.num("cfee"),f=M.num("pfee")/100,cc=M.num("ccost"),su=M.num("sup"),fix=M.num("rent")+M.num("util")+M.num("other");
@@ -161,5 +161,6 @@ M.bars(M.$("bars"),[["Gross",m.gross,M.money(m.gross)],["Platform fees",m.fees,M
 var rows="";for(var p=40;p<=90;p+=10){var x=model(p/100);rows+="<tr"+(Math.abs(p/100-o)<.05?' class="best"':"")+"><td>"+p+"%</td><td>"+M.n(x.n,1)+"</td><td>"+M.money(x.gross)+"</td><td>"+M.money(x.net)+"</td></tr>"}
 M.$("sens").tBodies[0].innerHTML=rows;M.set("oNights","About "+M.n(m.n,1)+" booked nights and "+M.n(m.s,1)+" turnovers a month (a month is taken as 30.4 days).");save();}
 M.live(root,run);})();</script>
+<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

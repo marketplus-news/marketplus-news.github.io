@@ -77,4 +77,13 @@
     }, { passive: true });
     go();
   }
+
+  // Anonymous, cookie-free visit stats (GoatCounter). Skip if the page already has the tag.
+  if (!d.querySelector("script[data-goatcounter]")) {
+    var gc = d.createElement("script");
+    gc.setAttribute("data-goatcounter", "https://marketplus.goatcounter.com/count");
+    gc.async = true;
+    gc.src = "https://gc.zgo.at/count.js";
+    (d.head || d.body || d.documentElement).appendChild(gc);
+  }
 })();

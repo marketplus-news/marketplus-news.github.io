@@ -139,10 +139,10 @@ document.documentElement.lang=L[c]||"en";})();</script>
     <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a><a href="/support.html">Tip jar (crypto)</a></div>
   </div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">All rights reserved.</span> · <a href="/terms.html" data-i18n="foot.terms">Terms of Use</a></div>
-  <div class="fpriv" data-i18n="foot.priv">No trackers, no forms, no data collection.</div>
+  <div class="fpriv" data-i18n="foot.priv">Anonymous, cookie-free visit stats only.</div>
 </div></footer>
-<script src="/app.js?v=1792970000" defer></script>
-<script src="/assets/site.js?v=1" defer></script>
+<script src="/app.js?v=1795439238" defer></script>
+<script src="/assets/site.js?v=3" defer></script>
 <script src="/assets/calc.js?v=4"></script>
 <script>(function(){var M=MPCalc,root=M.$("calc"),save=M.persist("position",root);
 function show(id,on){var f=M.$(id).closest(".fld");f.style.display=on?"":"none"}
@@ -160,5 +160,6 @@ M.set("oWin",tp>0&&isFinite(lots)?M.money(lots*pv*tp,2):"—");M.set("oWinL",tp>
 M.$("alt").tBodies[0].innerHTML=[0.25,0.5,1,2,3].map(function(r){var l=lotsFor(bal*r/100);return"<tr"+(r===rp?' class="best"':"")+"><td>"+r+"%</td><td>"+(isFinite(l)?l.toFixed(2):"—")+"</td><td>"+(isFinite(l)?M.money(l*pv*sl,2):"—")+"</td></tr>"}).join("");
 M.set("oNote",lots===0?"Your risk budget is smaller than 0.01 lot at this stop. Use a smaller stop, a larger account or a broker that offers smaller sizes.":"Pip value per standard lot used: "+(isFinite(pv)?M.money(pv,2):"—")+". Rounding down keeps the real loss at or under your limit. Spreads, commissions and slippage are not included.");save();}
 M.live(root,run);})();</script>
+<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

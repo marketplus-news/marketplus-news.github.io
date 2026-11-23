@@ -73,7 +73,7 @@ def FMT(lang, s):
         s=re.sub(r'(\d) (\$|%)', '\\1\u00a0\\2', s)
     return s
 EN_META=dict(glabel="Guides", more="More guides", upd="Updated {d} · {m} min read", date=DATE_H, nav=["News","Products","Guides"],
-  foot=["Not investment advice.","All content is for informational purposes only. Trading in financial markets involves risk of loss.","All rights reserved.","Terms of Use","No trackers, no forms, no data collection."],
+  foot=["Not investment advice.","All content is for informational purposes only. Trading in financial markets involves risk of loss.","All rights reserved.","Terms of Use","Anonymous, cookie-free visit stats only."],
   crumbs="Breadcrumb", cta_label="Template",
   index=dict(title="Guides: Budgeting, Saving & Goal Planning | Market Plus",
     desc="Free step-by-step guides: Christmas budget 2026, 16 savings challenges for 2027, goal setting with OKRs, a beginner budget and trading journals.",

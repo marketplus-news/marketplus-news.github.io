@@ -63,7 +63,8 @@ def page(path, title, desc, main, active, ld, otype="website", scripts=""):
 
 {layout.footer("", "en")}
 <script src="/app.js?v={APPV}" defer></script>
-<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/site.js?v=3" defer></script>
+<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 {scripts}
 </body>
 </html>

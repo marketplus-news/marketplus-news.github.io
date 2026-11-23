@@ -3,7 +3,8 @@
 import json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 TX = json.load(open(os.path.join(HERE, "site_src", "i18n_extra.json"), encoding="utf-8"))
-ASSET_V = "2"
+ASSET_V = "3"
+GOATCOUNTER_JS = '<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
 # extra/sections pages listed in sitemap.xml (path, changefreq, priority)
 EXTRA_URLS = [("/news/", "hourly", "0.9"), ("/analysis/", "weekly", "0.8"), ("/markets/", "daily", "0.8"),
               ("/planners/", "weekly", "0.8"), ("/about/", "yearly", "0.4"),
@@ -18,7 +19,7 @@ NAV = [("news", "/news/", "nav.news"), ("analysis", "/analysis/", "nav.analysis"
        ("planners", "/planners/", "nav.planners"), ("guides", "/guides/", "nav.guides"), ("tools", "/tools/", "nav.tools"), ("about", "/about/", "nav.about")]
 BASE_LABELS = {"nav.news": "News", "nav.tools": "Tools", "nav.guides": "Guides", "nav.about": "About", "nav.products": "Products",
                "foot.na": "Not investment advice.", "foot.disc": "All content is for informational purposes only. Trading in financial markets involves risk of loss.",
-               "foot.rights": "All rights reserved.", "foot.terms": "Terms of Use", "foot.priv": "No trackers, no forms, no data collection."}
+               "foot.rights": "All rights reserved.", "foot.terms": "Terms of Use", "foot.priv": "Anonymous, cookie-free visit stats only."}
 
 def _grab(html, key, default):
     m = re.search(r'data-i18n="%s"[^>]*>([^<]*)<' % re.escape(key), html)
@@ -82,6 +83,8 @@ def apply_layout(html, active=None):
                       lambda m: m.group(1) + f'\n<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n<link rel="stylesheet" href="/assets/site.css?v={ASSET_V}">\n' + HEAD_JS, html, count=1)
     if "/assets/site.js" not in html:
         html = re.sub(r'(<script src="[^"]*app\.js[^"]*" defer></script>)', lambda m: m.group(1) + f'\n<script src="/assets/site.js?v={ASSET_V}" defer></script>', html, count=1)
+    if 'data-goatcounter=' not in html:
+        html = re.sub(r'</body>', GOATCOUNTER_JS + '\n</body>', html, count=1, flags=re.I)
     if active:
         html = re.sub(r'<body(?![^>]*data-nav=)', f'<body data-nav="{active}"', html, count=1)
     return html
