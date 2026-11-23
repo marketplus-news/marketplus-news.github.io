@@ -134,3 +134,14 @@ footer{padding:44px 0 40px}
 .rv{opacity:0;transform:translate3d(0,22px,0)}
 .rv.in{opacity:1;transform:none;transition:opacity .8s cubic-bezier(.2,.7,.2,1) var(--d,0s),transform .8s cubic-bezier(.2,.7,.2,1) var(--d,0s)}
 @media (prefers-reduced-motion:reduce){.rv{opacity:1!important;transform:none!important}.hero:before{animation:none}.acard:hover,.scard:hover,.mcard:hover,.gcard:hover{transform:none}}
+
+/* Owner-only visit stats pill (shown from site.js when localStorage mp_owner is set) */
+.mp-owner{position:fixed;right:max(12px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:80;display:flex;align-items:center;gap:10px;max-width:calc(100vw - 24px);padding:8px 10px 8px 12px;border-radius:999px;border:1px solid rgba(212,175,55,.45);background:rgba(11,11,13,.92);color:var(--text);box-shadow:0 10px 28px -16px rgba(0,0,0,.8),0 0 0 1px rgba(212,175,55,.12);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);font:12px/1.2 var(--font);letter-spacing:.01em}
+.mp-owner b{color:var(--gold2);font-weight:700;font-variant-numeric:tabular-nums}
+.mp-owner-rows{display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+.mp-owner-rows span{color:var(--muted);font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.mp-owner-rows div{display:flex;align-items:baseline;gap:4px;white-space:nowrap}
+.mp-owner a{flex:none;color:var(--gold2);text-decoration:none;font-weight:700;font-size:11px;letter-spacing:.04em;text-transform:uppercase;padding:6px 8px;border-radius:999px;border:1px solid rgba(212,175,55,.35);background:rgba(212,175,55,.1)}
+.mp-owner a:hover{background:rgba(212,175,55,.2);border-color:var(--gold)}
+.mp-owner.mp-owner-na .mp-owner-rows span{letter-spacing:.04em;text-transform:none;font-weight:600;font-size:11px;color:var(--muted)}
+@media (max-width:420px){.mp-owner{padding:8px 8px 8px 10px;gap:8px}.mp-owner-rows{gap:7px}}

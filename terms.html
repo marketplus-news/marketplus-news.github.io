@@ -29,9 +29,9 @@
 <meta name="twitter:title" content="Terms of Use | Market Plus">
 <link rel="stylesheet" href="style.css?v=9">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/site.css?v=4">
 <link rel="stylesheet" href="/assets/tools.css?v=4">
-<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
+<script>/* skip counting the owner before count.js runs */(function(){try{var q=new URLSearchParams(location.search).get("owner"),k="mp_owner";if(q==="off"){localStorage.removeItem(k);localStorage.removeItem("skipgc");}else if((q&&q!=="off")||localStorage.getItem(k)){localStorage.setItem("skipgc","t");window.goatcounter={no_onload:true};}}catch(e){}})();</script><script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
 <script>/* set <html lang> before first paint: ?lang= > saved choice > browser language */
 (function(){var L={uk:"uk",en:"en",fr:"fr",de:"de",zh:"zh-CN",ru:"ru"},c=null;
 try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
@@ -98,7 +98,7 @@ document.documentElement.lang=L[c]||"en";})();</script>
   <div class="fpriv" data-i18n="foot.priv">Anonymous, cookie-free visit stats only.</div>
 </div></footer>
 <script src="app.js?v=1795439238" defer></script>
-<script src="/assets/site.js?v=3" defer></script>
+<script src="/assets/site.js?v=4" defer></script>
 <script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

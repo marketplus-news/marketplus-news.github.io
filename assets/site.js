@@ -78,12 +78,107 @@
     go();
   }
 
+  // ---- owner-only stats badge (?owner=<key> sets a localStorage flag; ?owner=off clears it) ----
+  var OWNER_KEY = "PJxFR2FoNufS";
+  var OWNER_FLAG = "mp_owner";
+  var GC_HOST = "https://marketplus.goatcounter.com";
+  var isOwner = false;
+  try {
+    var oq = new URLSearchParams(w.location.search).get("owner");
+    if (oq === "off") {
+      localStorage.removeItem(OWNER_FLAG);
+      localStorage.removeItem("skipgc");
+    } else if (oq === OWNER_KEY) {
+      localStorage.setItem(OWNER_FLAG, "1");
+      localStorage.setItem("skipgc", "t");
+    }
+    if (localStorage.getItem(OWNER_FLAG)) {
+      localStorage.setItem("skipgc", "t");
+      w.goatcounter = w.goatcounter || {};
+      w.goatcounter.no_onload = true;
+      isOwner = true;
+    }
+  } catch (err) {}
+
   // Anonymous, cookie-free visit stats (GoatCounter). Skip if the page already has the tag.
+  // Owner mode is applied first so count.js honors no_onload / skipgc.
   if (!d.querySelector("script[data-goatcounter]")) {
     var gc = d.createElement("script");
     gc.setAttribute("data-goatcounter", "https://marketplus.goatcounter.com/count");
     gc.async = true;
     gc.src = "https://gc.zgo.at/count.js";
     (d.head || d.body || d.documentElement).appendChild(gc);
+  }
+
+  if (isOwner) {
+    try {
+      var ou = new URL(w.location.href);
+      if (ou.searchParams.has("owner")) {
+        ou.searchParams.delete("owner");
+        w.history.replaceState(null, "", ou.pathname + (ou.search ? ou.search : "") + ou.hash);
+      }
+    } catch (err) {}
+    showOwnerBadge();
+  }
+
+  function ymdKiev(ts) {
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Kiev", year: "numeric", month: "2-digit", day: "2-digit" }).format(ts);
+  }
+  function addDaysYmd(ymd, days) {
+    var p = ymd.split("-");
+    var dt = new Date(Date.UTC(+p[0], +p[1] - 1, +p[2] + days));
+    return dt.toISOString().slice(0, 10);
+  }
+  function gcCount(data) {
+    if (!data || data.count == null || data.count === "") return null;
+    return String(data.count);
+  }
+  function gcPath() {
+    var p = (w.location && w.location.pathname) ? w.location.pathname : "/";
+    if (p.length > 11 && p.slice(-11) === "/index.html") p = p.slice(0, -10);
+    if (!p) p = "/";
+    return p;
+  }
+  function fetchCounter(path, query) {
+    var url = GC_HOST + "/counter/" + encodeURIComponent(path) + ".json" + (query || "");
+    return fetch(url, { credentials: "omit" }).then(function (res) {
+      if (!res.ok) return null;
+      return res.json().then(gcCount).catch(function () { return null; });
+    }).catch(function () { return null; });
+  }
+  function showOwnerBadge() {
+    if (d.getElementById("mp-owner-stats")) return;
+    var box = d.createElement("aside");
+    box.id = "mp-owner-stats";
+    box.className = "mp-owner";
+    box.setAttribute("aria-label", "Your visit stats");
+    box.innerHTML = '<div class="mp-owner-rows">' +
+      '<div><span>Page</span> <b data-k="page">…</b></div>' +
+      '<div><span>Today</span> <b data-k="today">…</b></div>' +
+      '<div><span>All</span> <b data-k="all">…</b></div>' +
+      '</div><a href="' + GC_HOST + '/" target="_blank" rel="noopener">Stats</a>';
+    (d.body || d.documentElement).appendChild(box);
+    var set = function (k, v) {
+      var el = box.querySelector('[data-k="' + k + '"]');
+      if (el) el.textContent = v == null ? "—" : v;
+    };
+    var today = ymdKiev(new Date());
+    var tmrw = addDaysYmd(today, 1);
+    var path = gcPath();
+    Promise.all([
+      fetchCounter(path),
+      fetchCounter("TOTAL", "?start=" + today + "&end=" + tmrw),
+      fetchCounter("TOTAL")
+    ]).then(function (vals) {
+      var page = vals[0], day = vals[1], all = vals[2];
+      if (page == null && day == null && all == null) {
+        box.classList.add("mp-owner-na");
+        box.querySelector(".mp-owner-rows").innerHTML = "<div><span>Counts unavailable — open the dashboard</span></div>";
+        return;
+      }
+      set("page", page);
+      set("today", day);
+      set("all", all);
+    });
   }
 })();

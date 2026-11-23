@@ -47,7 +47,7 @@ def page(path, title, desc, main, active, ld, otype="website", scripts=""):
 <meta name="twitter:image" content="{SITE}/assets/og-image.jpg">
 <link rel="stylesheet" href="/style.css?v=9">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="stylesheet" href="/assets/site.css?v=4">
 <link rel="stylesheet" href="/assets/tools.css?v={CSSV}">
 {layout.HEAD_JS}
 {LANGJS}
@@ -63,7 +63,7 @@ def page(path, title, desc, main, active, ld, otype="website", scripts=""):
 
 {layout.footer("", "en")}
 <script src="/app.js?v={APPV}" defer></script>
-<script src="/assets/site.js?v=3" defer></script>
+<script src="/assets/site.js?v=4" defer></script>
 <script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 {scripts}
 </body>

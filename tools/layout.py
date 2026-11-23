@@ -3,14 +3,15 @@
 import json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 TX = json.load(open(os.path.join(HERE, "site_src", "i18n_extra.json"), encoding="utf-8"))
-ASSET_V = "3"
+ASSET_V = "4"
 GOATCOUNTER_JS = '<script data-goatcounter="https://marketplus.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
 # extra/sections pages listed in sitemap.xml (path, changefreq, priority)
 EXTRA_URLS = [("/news/", "hourly", "0.9"), ("/analysis/", "weekly", "0.8"), ("/markets/", "daily", "0.8"),
               ("/planners/", "weekly", "0.8"), ("/about/", "yearly", "0.4"),
               ("/analysis/what-moves-gold-prices.html", "monthly", "0.7"), ("/analysis/how-forex-quotes-work.html", "monthly", "0.7"),
               ("/analysis/crypto-market-basics.html", "monthly", "0.7"), ("/analysis/how-stock-indices-work.html", "monthly", "0.7")]
-HEAD_JS = ('<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");'
+HEAD_JS = ('<script>/* skip counting the owner before count.js runs */(function(){try{var q=new URLSearchParams(location.search).get("owner"),k="mp_owner";if(q==="off"){localStorage.removeItem(k);localStorage.removeItem("skipgc");}else if((q&&q!=="off")||localStorage.getItem(k)){localStorage.setItem("skipgc","t");window.goatcounter={no_onload:true};}}catch(e){}})();</script>'
+  '<script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");'
   'function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}'
   'd.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}'
   'else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});'
