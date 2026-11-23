@@ -28,8 +28,13 @@
 .tip-card{padding:22px;border:1px solid rgba(212,175,55,.35);border-radius:var(--radius);background:var(--card);text-align:center}
 .tip-card h3{font-family:var(--serif);color:var(--gold2);margin:0 0 4px}
 .tip-card .net{color:#c9c6be;font-size:14px;margin:0 0 14px}
-.tip-card img{width:200px;height:200px;border-radius:12px;background:#fff;padding:6px}
+.tip-card img{display:block;margin:0 auto;width:200px;height:200px;border-radius:12px;background:#fff;padding:6px}
 .tip-addr{display:block;margin:14px auto 10px;padding:10px 12px;border-radius:10px;background:#0f0f12;border:1px solid var(--line);font:13px/1.4 ui-monospace,Menlo,Consolas,monospace;word-break:break-all;color:#eee;user-select:all}
+.cx-how{display:grid;gap:14px;grid-template-columns:1fr}
+@media (min-width:820px){.cx-how{grid-template-columns:repeat(3,1fr)}}
+.cx-step{padding:18px;border:1px solid var(--line);border-radius:var(--radius);background:var(--card)}
+.cx-step b{display:block;color:var(--gold2);font-family:var(--serif);font-size:20px;margin-bottom:4px}
+.cx-step p{margin:0;color:#c9c6be;font-size:14.5px}
 .tip-warn{color:#e3b341;font-size:13.5px;margin:8px 0 0}
 </style>
 <script>/* js flag + mobile menu (works even if site.js fails) */(function(d){var h=d.documentElement;h.classList.add("js");function s(o){h.classList.toggle("nav-open",o);var m=d.getElementById("menuBtn");if(m)m.setAttribute("aria-expanded",o?"true":"false")}d.addEventListener("click",function(e){var t=e.target;if(!t.closest)return;if(t.closest("#menuBtn")){s(!h.classList.contains("nav-open"))}else if(h.classList.contains("nav-open")&&(t.closest("#mainNav a")||!t.closest("header.top")))s(false)});d.addEventListener("keydown",function(e){if(e.key==="Escape"&&h.classList.contains("nav-open"))s(false)})})(document)</script>
