@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>How Position Sizing Works: Risk per Trade, Lots and Pips | Market Plus</title>
-<meta name="description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with step-by-step examples for EUR/USD, USD/JPY and XAU/USD and the most common mistakes.">
+<title>Position Sizing Explained: Risk per Trade, Lots, Pips</title>
+<meta name="description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with examples for EUR/USD, USD/JPY and XAU/USD.">
 <link rel="canonical" href="https://marketplus-news.github.io/guides/position-sizing-explained.html">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="#0b0b0d">
@@ -13,13 +13,16 @@
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Market Plus">
 <meta property="og:locale" content="en_US">
-<meta property="og:title" content="How Position Sizing Works: Risk per Trade, Lots and Pips | Market Plus">
-<meta property="og:description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with step-by-step examples for EUR/USD, USD/JPY and XAU/USD and the most common mistakes.">
+<meta property="og:title" content="Position Sizing Explained: Risk per Trade, Lots, Pips">
+<meta property="og:description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with examples for EUR/USD, USD/JPY and XAU/USD.">
 <meta property="og:url" content="https://marketplus-news.github.io/guides/position-sizing-explained.html">
 <meta property="og:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Market Plus">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="How Position Sizing Works: Risk per Trade, Lots and Pips | Market Plus">
-<meta name="twitter:description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with step-by-step examples for EUR/USD, USD/JPY and XAU/USD and the most common mistakes.">
+<meta name="twitter:title" content="Position Sizing Explained: Risk per Trade, Lots, Pips">
+<meta name="twitter:description" content="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with examples for EUR/USD, USD/JPY and XAU/USD.">
 <meta name="twitter:image" content="https://marketplus-news.github.io/assets/og-image.jpg">
 <link rel="stylesheet" href="/style.css?v=9">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -32,7 +35,7 @@ try{c=new URLSearchParams(location.search).get("lang")}catch(e){}
 if(!L[c]){try{c=localStorage.getItem("mp_lang")}catch(e){}}
 if(!L[c]){var n=(navigator.languages||[navigator.language||"en"]);for(var i=0;i<n.length;i++){var x=String(n[i]||"").toLowerCase().split("-")[0];if(x==="ua")x="uk";if(L[x]){c=x;break}}}
 document.documentElement.lang=L[c]||"en";})();</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "How Position Sizing Works in Forex and Gold", "description": "Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with step-by-step examples for EUR/USD, USD/JPY and XAU/USD and the most common mistakes.", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "inLanguage": "en", "mainEntityOfPage": "https://marketplus-news.github.io/guides/position-sizing-explained.html", "author": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}, "image": "https://marketplus-news.github.io/assets/og-image.jpg"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://marketplus-news.github.io/guides/"}, {"@type": "ListItem", "position": 3, "name": "How Position Sizing Works in Forex and Gold", "item": "https://marketplus-news.github.io/guides/position-sizing-explained.html"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "How Position Sizing Works in Forex and Gold", "description": "Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with examples for EUR/USD, USD/JPY and XAU/USD.", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "inLanguage": "en", "mainEntityOfPage": "https://marketplus-news.github.io/guides/position-sizing-explained.html", "author": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}, "publisher": {"@type": "Organization", "name": "Market Plus", "url": "https://marketplus-news.github.io/"}, "image": "https://marketplus-news.github.io/assets/og-image.jpg"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Market Plus", "item": "https://marketplus-news.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://marketplus-news.github.io/guides/"}, {"@type": "ListItem", "position": 3, "name": "How Position Sizing Works in Forex and Gold", "item": "https://marketplus-news.github.io/guides/position-sizing-explained.html"}]}]}</script>
 </head>
 <body data-nav="guides" data-static-meta>
 <header class="top"><div class="wrap">

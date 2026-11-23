@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /tools/guides_src/
+Disallow: /tools/site_src/
+Disallow: /tools/extras_src/
+Disallow: /tools/*.py$
 
 Sitemap: https://marketplus-news.github.io/sitemap.xml
