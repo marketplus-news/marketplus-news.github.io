@@ -1,7 +1,7 @@
 T = dict(slug="debt-payoff-calculator", icon="debt", product="debt", kicker="Debt payoff",
- title="Debt Snowball vs Avalanche Calculator: Debt-Free Date | Market Plus",
+ title="Debt Snowball vs Avalanche Calculator (Free)",
  h1="Debt Snowball vs Avalanche Calculator",
- desc="Free debt payoff calculator: list your debts, add an extra monthly payment and compare the snowball and avalanche methods side by side: debt-free date, total interest and payoff order.",
+ desc="Free debt payoff calculator: compare the snowball and avalanche methods side by side and see your debt-free date, total interest and payoff order.",
  card="Compare snowball and avalanche: debt-free date, interest paid and payoff order.",
  dek="List your debts, add what you can pay on top of the minimums, and compare both methods side by side: months to debt-free, total interest and the order your debts disappear.",
  related_guides=["debt-snowball-vs-avalanche"], related_tools=["compound-interest-calculator", "holiday-budget-planner"])

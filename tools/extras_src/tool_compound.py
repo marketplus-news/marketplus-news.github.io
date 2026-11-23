@@ -1,7 +1,7 @@
 T = dict(slug="compound-interest-calculator", icon="grow", product="savings", kicker="Saving · Investing",
- title="Compound Interest & Savings Goal Calculator | Market Plus",
+ title="Compound Interest & Savings Goal Calculator (Free)",
  h1="Compound Interest & Savings Goal Calculator",
- desc="Free compound interest calculator: see how a starting amount and monthly deposits grow over time, the share that comes from growth, the value after inflation, and the monthly saving needed to reach a goal.",
+ desc="Free compound interest calculator: see how savings and monthly deposits grow, the value after inflation and the monthly amount needed to reach a goal.",
  card="See your savings grow year by year, or find the monthly amount to hit a goal.",
  dek="Watch a starting amount and regular monthly deposits grow, see how much is your money and how much is growth, and find the monthly saving needed for a target.",
  related_guides=["debt-snowball-vs-avalanche", "position-sizing-explained"], related_tools=["debt-payoff-calculator", "holiday-budget-planner"])

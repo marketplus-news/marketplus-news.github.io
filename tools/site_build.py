@@ -29,7 +29,7 @@ EXPL = [
       desc="How to read a currency pair, what bid, ask, spread, pips and lots mean, and what moves exchange rates. A plain-English forex explainer.",
       card="Base and quote currencies, bid and ask, pips and lots, and what moves exchange rates."),
  dict(slug="crypto-market-basics", src="crypto.html", kicker="Crypto", cover="crypto", sym="BTC",
-      title="Crypto Market Basics: Bitcoin, Stablecoins and Market Cap",
+      title="Crypto Basics: Bitcoin, Stablecoins and Market Cap",
       h1="Crypto Market Basics: Bitcoin, Altcoins, Stablecoins and Market Cap",
       desc="A plain-English crypto explainer: Bitcoin, Ether, altcoins and stablecoins, what market cap measures, why prices swing and how custody works.",
       card="Bitcoin, altcoins and stablecoins, what market cap really measures and the main risks."),
@@ -108,7 +108,7 @@ def shell(path, title, desc, body, active, ogtype="website", jsonld=None, img=SI
 </main>
 
 <footer></footer>
-<script src="/app.js?v=1792949000" defer></script>
+<script src="/app.js?v=1792970000" defer></script>
 </body>
 </html>
 '''
@@ -129,7 +129,7 @@ out["news/index.html"] = shell("/news/", "Latest market and world news | Market 
 
 # analysis/
 rel_guide = [g for g in GUIDES if g["slug"] == "how-to-keep-a-trading-journal"]
-out["analysis/index.html"] = shell("/analysis/", "Market analysis and explainers: gold, forex, crypto, stocks | Market Plus",
+out["analysis/index.html"] = shell("/analysis/", "Market Analysis: Gold, Forex, Crypto & Stocks | Market Plus",
   "Plain-language explainers on what moves gold, how forex quotes work, crypto market basics and how stock indices are built. Educational only.",
   page_head("pg.analysis.h", T_EN["pg.analysis.h"], "pg.analysis.sub", "nav.analysis") +
   f'\n<section class="psec"><div class="wrap">{grid(EXPL[:1], "feature")}{grid(EXPL[1:] + rel_guide)}</div></section>', "analysis",
@@ -157,7 +157,7 @@ for e in EXPL:
           "inLanguage": "en", "wordCount": words(e["body"]), "mainEntityOfPage": {"@type": "WebPage", "@id": SITE + e["url"]},
           "author": {"@type": "Organization", "name": "Market Plus", "url": SITE + "/"}, "publisher": PUB},
           crumbs_ld([("Market Plus", "/"), ("Analysis", "/analysis/"), (e["h1"], e["url"])])]}
-    out[e["url"].lstrip("/")] = shell(e["url"], e["title"] + " | Market Plus", e["desc"], art, "analysis", "article", ld,
+    out[e["url"].lstrip("/")] = shell(e["url"], e["title"] + " | Market Plus" if len(e["title"]) <= 46 else e["title"], e["desc"], art, "analysis", "article", ld,
                                       extra=f'\n<meta property="article:published_time" content="{DATE}">')
 
 # markets/
@@ -165,7 +165,7 @@ MK = [("gold", "mk.gold.h", "mk.gold.p", EXPL[0]), ("forex", "mk.fx.h", "mk.fx.p
 mk = "".join(f'<article class="mcard" id="{i}"><span class="msym" lang="en" translate="no">{e["sym"]}</span><h2 data-i18n="{h}">{esc(T_EN[h])}</h2>{k(p, "p")}'
              f'<a class="mlink" href="{e["url"]}" data-i18n="mk.read">{esc(T_EN["mk.read"])}</a></article>' for i, h, p, e in MK)
 feed_m = FEED.replace('<div class="nlist" id="newsList"', '<div class="nlist" id="newsList" data-tab="market"')
-out["markets/index.html"] = shell("/markets/", "Markets: gold (XAU/USD), forex, crypto and stocks | Market Plus",
+out["markets/index.html"] = shell("/markets/", "Markets: Gold, Forex, Crypto and Stocks | Market Plus",
   "Gold (XAU/USD), forex, crypto and stocks on Market Plus: a quotes strip, market headlines from open sources and plain-English explainers.",
   page_head("nav.markets", "Markets", "pg.markets.sub", "nav.markets") + "\n" + QUOTES +
   f'\n<section class="psec"><div class="wrap"><div class="mgrid">{mk}</div></div></section>'
@@ -174,8 +174,8 @@ out["markets/index.html"] = shell("/markets/", "Markets: gold (XAU/USD), forex, 
 
 # planners/
 plan_g = [g for g in GUIDES if g["slug"] != "how-to-keep-a-trading-journal"]
-out["planners/index.html"] = shell("/planners/", "Digital planners and templates by MarketPulseStudio | Market Plus",
-  "Digital planners and templates for budgets, goals, savings and trading journals: the MarketPulseStudio shop on Etsy.",
+out["planners/index.html"] = shell("/planners/", "Budget, Planner & Business Templates | Market Plus",
+  "Google Sheets, Excel and Notion templates for budgets, debt payoff, trading, Airbnb hosting, family admin and Christmas from MarketPulseStudio on Etsy.",
   page_head("pg.planners.h", T_EN["pg.planners.h"], "pg.planners.sub", "nav.planners") +
   f'''\n<section class="psec"><div class="wrap"><div class="etsy">
   <div><span class="kicker" lang="en" translate="no">Etsy · MarketPulseStudio</span><h2 data-i18n="pl.etsy.h">{T_EN["pl.etsy.h"]}</h2>{k("pl.etsy.p", "p")}</div>

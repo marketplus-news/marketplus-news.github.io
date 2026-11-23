@@ -6,28 +6,28 @@ SITE="https://marketplus-news.github.io"
 ROOT=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT=os.path.join(ROOT,"guides")
 SRC=os.path.dirname(os.path.abspath(__file__))
-DATE="2026-10-25"; DATE_H="October 25, 2026"
+DATE="2026-10-25"; DATE_H="October 25, 2026"; DATE_MOD="2026-11-22"
 os.makedirs(OUT, exist_ok=True)
-P=lambda s:"https://www.patreon.com/DmitryZhuk/posts/"+s
+P=lambda s:"https://www.etsy.com/listing/"+s  # direct MarketPulseStudio listings
 G=[
  dict(slug="how-to-plan-christmas-budget-2026", src="christmas.html",
   title="How to Plan a Christmas Budget in 2026: Step by Step",
   h1="How to Plan a Christmas Budget in 2026 (Step by Step)",
-  desc="Plan a Christmas budget for 2026 step by step: set a total you can afford, per-person gift limits, hidden costs, an example table and tracking tips.",
+  desc="Plan a Christmas budget for 2026 step by step: a total you can afford, per-person gift limits, example budgets, hidden costs, FAQ and a free calculator.",
   card="Set a total, gift limits per person, cover hidden costs and track spending, with an example $800 budget.",
   img="christmas-budget-2026.webp",
   cta=("Track your Christmas budget in a ready-made sheet",
-       "The Christmas Budget &amp; Gift Tracker 2026 for Excel and Google Sheets has a gift list with budget vs actual, holiday spending by category and a dashboard with charts. Just need a gift list? The free version tracks budget, actual price and bought / wrapped status for each gift.",
-       [("Christmas Budget &amp; Gift Tracker 2026 ($4)",P("christmas-budget-173352149"),1),("Free Christmas Gift List",P("free-christmas-173352318"),0)])),
+       "The Christmas Budget &amp; Gift Tracker 2026 for Excel and Google Sheets has a gift list with budget vs actual, holiday spending by category and a dashboard with charts. Want to start free? The Christmas budget calculator on this site plans gifts and weekly savings right in your browser.",
+       [("Christmas Budget &amp; Gift Tracker 2026 ($4)",P("4603973045"),1),("Free Christmas budget calculator","/tools/holiday-budget-planner.html",0)])),
  dict(slug="savings-challenges-2027", src="savings.html",
   title="16 Savings Challenges for 2027 (With Real Totals)",
   h1="16 Savings Challenges for 2027: How Each Works and the Real Totals",
   desc="16 savings challenges for 2027 explained: 52-week ($1,378), 100 envelope ($5,050), 26-week, penny challenge and more, with exact yearly totals.",
   card="52-week, 100 envelope, 26-week, penny and 12 more challenges, with exact totals and a summary table.",
   img="savings-challenge-2027.webp",
-  cta=("Print your challenge and colour it in",
-       "The 2027 Savings Challenge Pack includes 16 printable savings challenges (52-week, 100-envelope, $10,000 and more) in A6, A4 and US Letter sizes, plus an Excel tracker with automatic totals.",
-       [("2027 Savings Challenge Pack ($4)",P("2027-savings-16-173352268"),1)])),
+  cta=("Turn your challenge into a full-year money plan",
+       "The 2027 New Year Financial Reset for Google Sheets and Excel adds a net worth tracker, annual money goals and a 2027 budget planner, so your savings challenge sits inside a complete plan.",
+       [("2027 New Year Financial Reset ($8)",P("4607126260"),1)])),
  dict(slug="how-to-set-goals-2027", src="goals.html",
   title="How to Set Goals for 2027 You Actually Keep",
   h1="How to Set Goals for 2027 That You Actually Keep",
@@ -36,7 +36,7 @@ G=[
   img="goal-planner-2027-pro.webp",
   cta=("Run this system in Notion",
        "The 2027 Goal &amp; Life Planner Pro for Notion connects goals to quarterly OKRs, projects and money goals so progress updates automatically, with habit stats and weekly, monthly and year-end reviews. Want to start free? The Lite version has a year vision, goals with progress bars, a weekly habit tracker and a monthly review.",
-       [("2027 Goal &amp; Life Planner Pro ($9)",P("2027-goal-life-173353268"),1),("Free Lite version for Notion","https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6",0)])),
+       [("2027 Goal &amp; Life Planner Pro ($13)",P("4603995270"),1),("Free Lite version for Notion","https://viridian-question-22d.notion.site/2027-Goal-Life-Planner-Lite-40418c614944812e8d68c49b3f754ff6",0)])),
  dict(slug="how-to-keep-a-trading-journal", src="trading.html",
   title="How to Keep a Trading Journal: What to Log and Why",
   h1="How to Keep a Trading Journal: What to Log and Why",
@@ -44,17 +44,17 @@ G=[
   card="The fields to log for every trade, how to calculate R, and the review metrics that matter. Educational only.",
   img="trading-journal.webp",
   cta=("Use a ready-made journal template",
-       "Trading Journal Pro for Google Sheets and Excel calculates win rate, R-multiple and P&amp;L automatically, with a dashboard and mistake analysis. The free Lite version is a lightweight way to start logging today. Templates are record-keeping tools, not trading advice.",
-       [("Trading Journal Pro",P("trading-journal-173290193"),1),("Free Trading Journal Lite",P("free-trading-173292664"),0)])),
+       "Trading Journal Pro for Google Sheets and Excel calculates win rate, R-multiple and P&amp;L automatically, with a dashboard and mistake analysis. Before each trade, the free position size calculator works out the lot size for your planned risk. Templates are record-keeping tools, not trading advice.",
+       [("Trading Journal Pro",P("4603971549"),1),("Free position size calculator","/tools/position-size-calculator.html",0)])),
  dict(slug="simple-monthly-budget-for-beginners", src="budget.html",
   title="Simple Monthly Budget for Beginners: 50/30/20 & Zero-Based",
   h1="Simple Monthly Budget for Beginners: 50/30/20 and Zero-Based Budgeting",
   desc="Build a simple monthly budget: work out take-home pay, try the 50/30/20 rule or zero-based budgeting with $3,000 examples, and plan sinking funds.",
   card="Take-home pay, fixed bills, the 50/30/20 rule and zero-based budgeting with worked $3,000 examples.",
   img="budget-tracker.webp",
-  cta=("Start with a budget template",
-       "The Budget &amp; Expense Tracker covers income, expenses by category, savings goals and clear monthly charts. If you prefer to start simple, Budget Lite is free: income, expenses and balance in one sheet.",
-       [("Budget &amp; Expense Tracker",P("budget-expense-173290094"),1),("Free Budget Lite",P("free-budget-lite-173292612"),0)])),
+  cta=("Turn your budget into a debt-free plan",
+       "The Debt Snowball &amp; Sinking Funds Tracker for Google Sheets and Excel builds a month-by-month payoff plan with your debt-free date, plus sinking funds for irregular costs. Want to test the numbers first? The free debt payoff calculator compares snowball and avalanche in your browser.",
+       [("Debt Snowball &amp; Sinking Funds Tracker ($7.49)",P("4613052251"),1),("Free debt payoff calculator","/tools/debt-payoff-calculator.html",0)])),
 ]
 
 
@@ -79,7 +79,7 @@ EN_META=dict(glabel="Guides", more="More guides", upd="Updated {d} · {m} min re
     desc="Free step-by-step guides: Christmas budget 2026, 16 savings challenges for 2027, goal setting with OKRs, a beginner budget and trading journals.",
     h1="Guides: budgeting, saving, goals and trading journals", upd=f"Practical, plain-English guides. Updated {DATE_H}.",
     intro="Step-by-step guides to planning your money and your year: a Christmas budget, savings challenges with real totals, a goal system for 2027, a beginner's monthly budget and how to keep a trading journal. Everything here is general education, not financial advice.",
-    outro='Looking for ready-made templates? See all <a href="../#products">products</a> or visit <a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a>.'))
+    outro='Looking for ready-made templates? See all <a href="../#products">products</a> or visit the <a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy shop</a>. Prefer numbers? Try the <a href="/tools/">free calculators</a>.'))
 def fmt_all(lang, o):
     if isinstance(o,str): return FMT(lang,o)
     if isinstance(o,list): return [fmt_all(lang,x) for x in o]
@@ -129,11 +129,11 @@ def foot(lang):
     l=L10N[lang]; up=l["up"]; f=l["foot"]
     return f'''<footer><div class="wrap">
   <p class="disc"><b data-i18n="foot.na">{f[0]}</b> <span data-i18n="foot.disc">{f[1]}</span></p>
-  <div class="flinks" lang="en" translate="no"><a href="https://www.patreon.com/DmitryZhuk" target="_blank" rel="noopener">Patreon</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
+  <div class="flinks" lang="en" translate="no"><a href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy</a><a href="https://github.com/aiskillsdrop/ai-skills-for-business" target="_blank" rel="noopener">GitHub</a></div>
   <div class="fcopy">© <span id="yr">2026</span> <span lang="en" translate="no">Market Plus</span>. <span data-i18n="foot.rights">{f[2]}</span> · <a href="./" data-i18n="nav.guides">{l["nav"][2]}</a> · <a href="{up}terms.html" data-i18n="foot.terms">{f[3]}</a></div>
   <div class="fpriv" data-i18n="foot.priv">{f[4]}</div>
 </div></footer>
-<script src="{up}app.js?v=1792949000" defer></script>'''
+<script src="{up}app.js?v=1792970000" defer></script>'''
 def page(lang, title, desc, urls, img, body, jsonld, ogtype="article"):
     """urls: {lang: absolute URL} of this page in every language"""
     l=L10N[lang]; up=l["up"]; url=urls[lang]
@@ -191,7 +191,7 @@ def crumbs(items):
     return {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":i+1,"name":n,"item":u} for i,(n,u) in enumerate(items)]}
 def ctabox(c, lang):
     h,p,links=c
-    btns="".join(f'<a class="btn {"btn-gold" if gold else "btn-ghost"}" href="{u}" target="_blank" rel="noopener">{n}</a>' for n,u,gold in links)
+    btns="".join(f'<a class="btn {"btn-gold" if gold else "btn-ghost"}" href="{u}"'+(' target="_blank" rel="noopener"' if u.startswith("http") else "")+f'>{n}</a>' for n,u,gold in links)
     return f'<aside class="cta-box" aria-label="{L10N[lang]["cta_label"]}"><p class="cta-h">{h}</p><p>{p}</p><div class="cta">{btns}</div></aside>'
 def wrap_tables(b):
     b=re.sub(r'<div class="tbl">\s*(<table>.*?</table>)\s*</div>', r'\1', b, flags=re.S)
@@ -228,7 +228,7 @@ for lang in LANGS:
 {related}
 </article>'''
         ld={"@context":"https://schema.org","@graph":[{"@type":"Article","headline":g['title'],"description":g['desc'],"image":[img],
-            "datePublished":DATE,"dateModified":DATE,"inLanguage":INFO[lang][0],"wordCount":wc,"mainEntityOfPage":{"@type":"WebPage","@id":url},
+            "datePublished":DATE,"dateModified":DATE_MOD,"inLanguage":INFO[lang][0],"wordCount":wc,"mainEntityOfPage":{"@type":"WebPage","@id":url},
             "author":{"@type":"Organization","name":"Market Plus","url":SITE+"/"},"publisher":PUB},
             crumbs([("Market Plus",SITE+"/"),(l["glabel"],gurl(lang)),(g['h1'],url)])]}
         open(os.path.join(OUT, l["dir"], g['slug']+".html"),"w").write(apply_layout(page(lang,g['title'],g['desc'],urls,img,art,ld), "guides"))

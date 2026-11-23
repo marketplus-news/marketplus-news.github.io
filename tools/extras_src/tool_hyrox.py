@@ -1,7 +1,7 @@
 T = dict(slug="hyrox-finish-time-calculator", icon="hyrox", product="hyrox", kicker="Fitness · Hyrox",
- title="Hyrox Finish Time Calculator: Predict Your Splits | Market Plus",
+ title="Hyrox Finish Time Calculator: Predict Your Splits",
  h1="Hyrox Finish Time Calculator",
- desc="Free Hyrox calculator: enter your run pace, eight station times and Roxzone to predict your finish time, see every split, or work out the run pace you need for a goal time.",
+ desc="Free Hyrox calculator: enter run pace, station times and Roxzone to predict your finish time and splits, or find the run pace for a goal time.",
  card="Predict your finish from run pace and station times, or find the pace for a goal time.",
  dek="Enter your 1 km run pace, how long each of the eight stations takes you and your transition time. Get a predicted finish, a split sheet and the pace you need for a goal time.",
  related_guides=["hyrox-pacing-strategy"], related_tools=["compound-interest-calculator", "holiday-budget-planner"])

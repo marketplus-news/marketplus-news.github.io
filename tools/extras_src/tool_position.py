@@ -1,7 +1,7 @@
 T = dict(slug="position-size-calculator", icon="risk", product="trading", kicker="Forex · Gold",
- title="Position Size & Pip Value Calculator (Forex, XAU/USD) | Market Plus",
+ title="Position Size Calculator for Forex & Gold (XAU/USD)",
  h1="Position Size & Pip Value Calculator",
- desc="Free position size calculator for forex and gold: account balance, risk per trade and stop-loss distance in, lot size, units, pip value and money at risk out. Supports USD-quoted pairs, USD/JPY and XAU/USD.",
+ desc="Free position size calculator for forex and gold: balance, risk % and stop-loss in; lot size, units, pip value and money at risk out.",
  card="Lot size from your risk % and stop loss, with pip value for forex and gold.",
  dek="Decide how big a trade should be before you place it: enter your account size, the percentage you are willing to risk and your stop-loss distance.",
  related_guides=["position-sizing-explained"], related_tools=["compound-interest-calculator", "debt-payoff-calculator"])

@@ -126,8 +126,8 @@ main = f'''<section class="phead thead"><div class="wrap">
 <div class="cta"><a class="btn btn-gold" href="https://marketpulsestudio.etsy.com" target="_blank" rel="noopener">Etsy shop</a><a class="btn btn-ghost" href="/shop-crypto.html">Pay with USDC</a></div></div></div></section>'''
 ld = {"@context": "https://schema.org", "@graph": [{"@type": "CollectionPage", "name": "Free calculators and planners — Market Plus", "url": SITE + "/tools/", "publisher": PUB,
       "hasPart": [{"@type": "WebApplication", "name": t["h1"], "url": f'{SITE}/tools/{t["slug"]}.html'} for t in TOOLS]}, crumbs([("Market Plus", "/"), ("Tools", "/tools/")])]}
-page("tools/index.html", "Free Calculators: Debt, Savings, Airbnb, Hyrox, Position Size | Market Plus",
-     "Free online calculators that run in your browser: debt snowball vs avalanche, compound interest, Airbnb profit, Hyrox finish time, forex and gold position size, and a holiday budget planner.", main, "tools", ld)
+page("tools/index.html", "Free Finance & Fitness Calculators | Market Plus",
+     "Free calculators that run in your browser: Christmas budget, debt snowball vs avalanche, compound interest, Airbnb profit, Hyrox time and position size.", main, "tools", ld)
 
 # ---------- new guides ----------
 for i, g in enumerate(GUIDES):
@@ -211,3 +211,7 @@ add = "".join(f"  <url><loc>{SITE}{u}</loc><lastmod>{DATE}</lastmod><changefreq>
 sm = sm.replace("</urlset>", add + "</urlset>")
 wr("sitemap.xml", sm)
 print("tools:", len(TOOLS), "guides:", len(GUIDES))
+
+# ---------- final SEO pass (titles, canonical/hreflang, JSON-LD, robots.txt, sitemap.xml) ----------
+import runpy
+runpy.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)), "seo_build.py"), run_name="__main__")

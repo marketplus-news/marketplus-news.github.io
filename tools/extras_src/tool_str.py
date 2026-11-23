@@ -1,7 +1,7 @@
 T = dict(slug="airbnb-rental-profit-calculator", icon="str", product="str", kicker="Short-term rental",
- title="Airbnb Profit Calculator: STR Income, Occupancy & Break-Even | Market Plus",
+ title="Airbnb Profit & Occupancy Rate Calculator (Free)",
  h1="Airbnb & Short-Term Rental Profit Calculator",
- desc="Free short-term rental calculator: nightly rate, occupancy, cleaning, platform fees and fixed costs in, monthly and yearly profit, break-even occupancy and break-even nightly rate out.",
+ desc="Free Airbnb profit calculator: enter nightly rate, occupancy, cleaning, fees and fixed costs to see monthly profit and break-even occupancy and rate.",
  card="Monthly profit, break-even occupancy and the lowest nightly rate that still pays.",
  dek="Model one Airbnb, VRBO or Booking.com listing: revenue, fees, cleaning and fixed costs, your monthly and yearly profit, and the occupancy you need just to break even.",
  related_guides=["how-to-price-airbnb"], related_tools=["compound-interest-calculator", "debt-payoff-calculator"])

@@ -1,7 +1,7 @@
 T = dict(slug="holiday-budget-planner", icon="gift", product="xmas", kicker="Christmas · Holidays",
- title="Christmas & Holiday Budget Planner (Free Calculator) | Market Plus",
+ title="Christmas Budget Calculator 2026: Gifts & Savings",
  h1="Christmas & Holiday Budget Planner",
- desc="Free holiday budget planner: set a total, list gifts per person, add food, decorations, travel and other costs, and see what is left and how much to save each week until the holiday.",
+ desc="Free Christmas budget calculator: list gifts per person, food, decor and travel, see what is left and how much to save each week until Christmas.",
  card="Gift list, holiday costs and how much to set aside each week until the day.",
  dek="Set one total, list who you are buying for, add the costs people forget, and see what is left and how much to put aside each week until the holiday.",
  related_guides=["debt-snowball-vs-avalanche"], related_tools=["compound-interest-calculator", "debt-payoff-calculator"])

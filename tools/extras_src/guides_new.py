@@ -1,8 +1,8 @@
 GUIDES = []
 GUIDES.append(dict(slug="how-to-price-airbnb", icon="str", product="str", tool="airbnb-rental-profit-calculator", kicker="Short-term rental", mins=7,
- title="How to Price an Airbnb: A Step-by-Step Method for Hosts | Market Plus",
+ title="How to Price an Airbnb: Step-by-Step Rate Guide",
  h1="How to Price an Airbnb: A Step-by-Step Method",
- desc="How to set nightly rates for an Airbnb or short-term rental: find your cost floor, research comparable listings, adjust for seasons, weekdays and lead time, and set minimum stays and fees.",
+ desc="How to set Airbnb nightly rates: find your cost floor, research comparable listings, adjust for seasons and lead time, and set minimum stays and fees.",
  dek="Start from your costs, check the market, then adjust for seasons, days of the week and how far ahead guests book.",
  body='''
 <p>Pricing a short-term rental is not about guessing the "right" number once. It is a system: a floor you never go below, a base rate grounded in what similar places charge, and adjustments for the times when demand is higher or lower. This guide walks through that system step by step.</p>
@@ -32,9 +32,9 @@ GUIDES.append(dict(slug="how-to-price-airbnb", icon="str", product="str", tool="
 <p class="note-box">This guide is general information. Local rules, licences and taxes for short-term rentals vary widely; check them before you list.</p>
 '''))
 GUIDES.append(dict(slug="hyrox-pacing-strategy", icon="hyrox", product="hyrox", tool="hyrox-finish-time-calculator", kicker="Fitness · Hyrox", mins=6,
- title="Hyrox Pacing Strategy: How to Pace the Runs and Stations | Market Plus",
+ title="Hyrox Pacing Strategy: How to Pace Runs and Stations",
  h1="Hyrox Pacing Strategy: Runs, Stations and Roxzone",
- desc="A practical Hyrox pacing strategy: why even pacing wins, how to run the first kilometres, how to handle the sleds, lunges and wall balls, and how to use a split sheet on race day.",
+ desc="A practical Hyrox pacing strategy: why even pacing wins, how to run the first kilometres, sleds, lunges and wall balls, and race-day split sheets.",
  dek="Even pacing, controlled first kilometres and a plan for the sleds and wall balls: how to avoid the most common Hyrox mistake.",
  body='''
 <p>Hyrox combines eight 1 km runs with eight workout stations, so it is closer to an endurance race than to a gym workout. The most common mistake is the same one runners make in a marathon: starting too fast. Because the stations fatigue the legs and grip, energy spent too early is paid back with interest later. A pacing plan helps you finish strong.</p>
@@ -62,9 +62,9 @@ GUIDES.append(dict(slug="hyrox-pacing-strategy", icon="hyrox", product="hyrox", 
 <p class="note-box">General training information, not individual coaching or medical advice. Increase training load gradually and check the current Hyrox rulebook for your division's standards.</p>
 '''))
 GUIDES.append(dict(slug="debt-snowball-vs-avalanche", icon="debt", product="debt", tool="debt-payoff-calculator", kicker="Debt payoff", mins=6,
- title="Debt Snowball vs Avalanche: Which Payoff Method Is Better? | Market Plus",
+ title="Debt Snowball vs Avalanche: Which Is Better?",
  h1="Debt Snowball vs Avalanche, Explained",
- desc="The debt snowball and debt avalanche explained with a worked example: how each method orders your debts, which saves more interest, which keeps you motivated, and how to pick.",
+ desc="Debt snowball vs avalanche with a worked example: how each orders your debts, which saves more interest, which keeps you motivated and how to pick.",
  dek="Two ways to order the same payments. One usually saves more interest; the other gives quicker wins. Here is how to choose.",
  body='''
 <p>If you have several debts, such as credit cards, a car loan and a personal loan, you need a plan for which one to attack first. The two best-known plans are the <strong>debt snowball</strong> and the <strong>debt avalanche</strong>. They share the same engine and differ only in the order.</p>
@@ -98,9 +98,9 @@ GUIDES.append(dict(slug="debt-snowball-vs-avalanche", icon="debt", product="debt
 <p class="note-box">Educational content, not personal financial advice. Lenders may calculate interest differently (for example daily) and apply fees, so treat any calculation as an estimate.</p>
 '''))
 GUIDES.append(dict(slug="position-sizing-explained", icon="risk", product="trading", tool="position-size-calculator", kicker="Forex · Gold", mins=6,
- title="How Position Sizing Works: Risk per Trade, Lots and Pips | Market Plus",
+ title="Position Sizing Explained: Risk per Trade, Lots, Pips",
  h1="How Position Sizing Works in Forex and Gold",
- desc="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with step-by-step examples for EUR/USD, USD/JPY and XAU/USD and the most common mistakes.",
+ desc="Position sizing explained: fixed-percentage risk, stop-loss distance, pip value and lot size, with examples for EUR/USD, USD/JPY and XAU/USD.",
  dek="Risk a planned amount, let the stop-loss set the distance, and let the size follow. The maths behind every trade size.",
  body='''
 <p class="note-box"><strong>Educational content only.</strong> Leveraged trading in forex and gold carries a high risk of loss. Nothing here is a recommendation to trade.</p>
@@ -128,4 +128,45 @@ GUIDES.append(dict(slug="position-sizing-explained", icon="risk", product="tradi
 <li><strong>Not recording trades.</strong> A journal with planned risk and actual result shows whether your sizing rules are being followed.</li>
 </ul>
 <p>The <a href="/tools/position-size-calculator.html">position size calculator</a> does this maths for EUR/USD-style pairs, USD/JPY, USD/CHF, USD/CAD and gold, and rounds down so you never risk more than planned.</p>
+'''))
+
+GUIDES.append(dict(slug="how-to-calculate-airbnb-occupancy-rate", icon="str", product="str", tool="airbnb-rental-profit-calculator", kicker="Short-term rental", mins=6,
+ title="Airbnb Occupancy Rate: How to Calculate It (+ ADR)",
+ h1="How to Calculate Airbnb Occupancy Rate, ADR and RevPAR",
+ desc="How to calculate Airbnb occupancy rate, average daily rate (ADR), RevPAR and break-even occupancy, with formulas and a worked example for hosts.",
+ dek="Four numbers tell you how a short-term rental is really doing. Here is how to calculate each one and what to do with them.",
+ body='''
+<p>Hosts often judge a listing by how full the calendar looks. A full calendar at a low price can earn less than a half-empty one at a good price, so it helps to track a few standard numbers instead. This guide shows the formulas, a worked example and how the numbers fit together.</p>
+<h2>Occupancy rate</h2>
+<p><strong>Occupancy rate = booked nights ÷ available nights × 100%.</strong></p>
+<p>Count only nights the place was actually available to guests. Nights you blocked for yourself, for repairs or because of a minimum-stay rule you chose are usually left out of "available". Use the same rule every month, otherwise the trend means nothing.</p>
+<p>Example: in a 30-night month you blocked 2 nights for maintenance, so 28 nights were available. Guests booked 19 of them. Occupancy is 19 ÷ 28 = <strong>67.9%</strong>.</p>
+<h2>Average daily rate (ADR)</h2>
+<p><strong>ADR = room revenue ÷ booked nights.</strong></p>
+<p>Room revenue here means what guests paid for the nights themselves. Many hosts keep cleaning fees out of ADR and track them separately, because they cover a cost rather than the stay. Decide once and stay consistent.</p>
+<p>Example: the 19 booked nights brought in $2,280 in nightly revenue. ADR is $2,280 ÷ 19 = <strong>$120</strong>.</p>
+<h2>RevPAR: revenue per available night</h2>
+<p><strong>RevPAR = room revenue ÷ available nights</strong>, which is the same as <strong>ADR × occupancy rate</strong>.</p>
+<p>Example: $2,280 ÷ 28 = <strong>$81.43</strong> (or $120 × 67.9%). RevPAR is the most useful single number for pricing decisions, because it rewards the balance between price and occupancy. Raising the rate is only a win if RevPAR goes up too.</p>
+<div class="tbl"><table>
+<thead><tr><th>Scenario</th><th>Booked nights</th><th>ADR</th><th>Occupancy</th><th>RevPAR</th></tr></thead>
+<tbody>
+<tr><td>Lower price</td><td>24 of 28</td><td>$100</td><td>85.7%</td><td>$85.71</td></tr>
+<tr><td>Example month</td><td>19 of 28</td><td>$120</td><td>67.9%</td><td>$81.43</td></tr>
+<tr><td>Higher price</td><td>15 of 28</td><td>$145</td><td>53.6%</td><td>$77.68</td></tr>
+</tbody></table></div>
+<p>In this illustration the cheaper month earns the most per available night, but it also means 24 turnovers' worth of guests, against 15 at the higher price. That is why profit, not only revenue, decides which option is better.</p>
+<h2>Break-even occupancy</h2>
+<p>Break-even occupancy is the share of nights you must book just to cover your costs. Roughly:</p>
+<p><strong>Break-even occupancy = fixed monthly costs ÷ (available nights × (ADR − variable cost per night))</strong></p>
+<p>Variable cost per night includes platform fees and your cleaning and supplies spread over the nights of an average stay. Example: fixed costs of $1,400 a month, ADR $120, platform fee 15% ($18) and $22 of cleaning and supplies per night gives $80 left per booked night. $1,400 ÷ (28 × $80) = <strong>62.5%</strong>. Below that occupancy the month loses money at this price.</p>
+<p>The <a href="/tools/airbnb-rental-profit-calculator.html">Airbnb profit and occupancy calculator</a> does this with your own numbers, including cleaning fees per stay and the break-even nightly rate.</p>
+<h2>How to use these numbers</h2>
+<ul>
+<li><strong>Track monthly and compare the same month year on year.</strong> Seasonality makes month-to-month comparisons misleading.</li>
+<li><strong>Watch RevPAR when you change prices.</strong> If occupancy drops but RevPAR rises, the change probably worked; check profit too.</li>
+<li><strong>Keep break-even occupancy well below your typical occupancy.</strong> The gap is your safety margin for quiet months.</li>
+<li><strong>Use your own data first.</strong> Market reports are useful context, but your listing's history is the best guide. See <a href="/guides/how-to-price-airbnb.html">how to price an Airbnb</a> for setting the rates themselves.</li>
+</ul>
+<p class="note-box">The figures above are a worked illustration, not market averages. Local rules, licences and taxes for short-term rentals vary; check them before you list.</p>
 '''))
